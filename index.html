@@ -112,7 +112,7 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
 
   <section id="holdings" class="panel active">
     <div class="filters" id="filters"></div>
-    <div class="notice" style="margin-bottom:9px">모바일에서는 각 종목을 카드형으로 표시해 오른쪽 스크롤 없이 수량·평가값·최근 1개월 추세를 한 화면에서 확인합니다. 그래프는 최근 1개월 종가 데이터를 기준으로 대시보드 안에서 직접 표시합니다.</div>
+    <div class="notice" style="margin-bottom:9px">모바일에서는 각 종목을 카드형으로 표시해 오른쪽 스크롤 없이 수량·평가값·최근 1개월 추세를 한 화면에서 확인합니다. 수량·평가금액·누적 수익률과 최근 1개월 추세를 함께 표시합니다. 그래프는 최근 1개월 종가 데이터를 기준으로 대시보드 안에서 직접 표시합니다.</div>
     <div class="holdings-grid" id="holdingsGrid"></div>
   </section>
 
@@ -180,42 +180,42 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
     </div>
   </section>
 
-  <footer>v4 · 2026-10-01 · 사용자 제공 보유내역 기반. 주가 추세는 최근 1개월 종가 데이터를 서버에서 미리 갱신해 대시보드 안에서 직접 표시합니다.</footer>
+  <footer>v5 · 2026-10-01 · 사용자 제공 보유내역 기반. 주가 추세는 최근 1개월 종가 데이터를 서버에서 미리 갱신해 대시보드 안에서 직접 표시합니다.</footer>
 </div>
 
 <script>
 const holdings = [
-{name:"005930 · 삼성전자",type:"국내 개별주",qty:"16주",value:"4,318,259원",note:"토스+메리츠",sym:"005930.KS",tv:"KRX:005930"},
-{name:"000660 · SK하이닉스",type:"국내 개별주",qty:"4주",value:"7,130,325원",note:"토스+메리츠",sym:"000660.KS",tv:"KRX:000660"},
-{name:"005380 · 현대자동차",type:"국내 개별주",qty:"30주",value:"10,410,000원",note:"메리츠",sym:"005380.KS",tv:"KRX:005380"},
-{name:"379780 · RISE 미국S&P500",type:"국내상장 ETF",qty:"884주",value:"19,904,940원",note:"나무+IRP+키움",sym:"379780.KS",tv:"KRX:379780"},
-{name:"368590 · RISE 미국나스닥100",type:"국내상장 ETF",qty:"552주",value:"16,710,000원",note:"나무+키움",sym:"368590.KS",tv:"KRX:368590"},
-{name:"458730 · TIGER 미국배당다우존스",type:"국내상장 ETF",qty:"1,081주",value:"15,333,985원",note:"나무+키움",sym:"458730.KS",tv:"KRX:458730"},
-{name:"0072R0 · TIGER KRX금현물",type:"국내상장 ETF",qty:"453주",value:"5,515,775원",note:"나무+키움",sym:"0072R0.KS",tv:"KRX:0072R0"},
-{name:"322410 · HANARO K고배당",type:"국내상장 ETF",qty:"238주",value:"5,349,050원",note:"나무",sym:"322410.KS",tv:"KRX:322410"},
-{name:"379800 · KODEX 미국S&P500",type:"국내상장 ETF",qty:"180주",value:"4,225,500원",note:"나무",sym:"379800.KS",tv:"KRX:379800"},
-{name:"379810 · KODEX 미국나스닥100",type:"국내상장 ETF",qty:"146주",value:"3,968,280원",note:"나무",sym:"379810.KS",tv:"KRX:379810"},
-{name:"487230 · KODEX 미국AI전력핵심인프라",type:"국내상장 ETF",qty:"55주",value:"1,084,325원",note:"키움 연금저축",sym:"487230.KS",tv:"KRX:487230"},
-{name:"489250 · KODEX 미국배당다우존스",type:"국내상장 ETF",qty:"80주",value:"978,800원",note:"나무",sym:"489250.KS",tv:"KRX:489250"},
-{name:"490490 · SOL 미국배당미국채혼합50",type:"국내상장 ETF",qty:"76주",value:"799,300원",note:"나무+IRP",sym:"490490.KS",tv:"KRX:490490"},
-{name:"AMD · Advanced Micro Devices, Inc.",type:"미국 개별주",qty:"5.722051주",value:"$3,510.97",note:"토스",sym:"AMD",tv:"NASDAQ:AMD"},
-{name:"ZETA · Zeta Global Holdings Corp. Class A",type:"미국 개별주",qty:"13.142337주",value:"$416.33",note:"토스",sym:"ZETA",tv:"NYSE:ZETA"},
-{name:"TSM · Taiwan Semiconductor Manufacturing Co. Ltd. ADR",type:"미국 개별주",qty:"0.459844주",value:"$210.25",note:"토스",sym:"TSM",tv:"NYSE:TSM"},
-{name:"NVDA · NVIDIA Corporation",type:"미국 개별주",qty:"0.971557주",value:"$223.04",note:"토스",sym:"NVDA",tv:"NASDAQ:NVDA"},
-{name:"GEV · GE Vernova Inc.",type:"미국 개별주",qty:"0.634065주",value:"$602.83",note:"토스",sym:"GEV",tv:"NYSE:GEV"},
-{name:"SNDK · Sandisk Corporation",type:"미국 개별주",qty:"0.109495주",value:"$190.12",note:"토스",sym:"SNDK",tv:"NASDAQ:SNDK"},
-{name:"QQQM · Invesco NASDAQ 100 ETF",type:"미국 ETF",qty:"1.093229주",value:"$334.26",note:"토스",sym:"QQQM",tv:"NASDAQ:QQQM"},
-{name:"CAT · Caterpillar Inc.",type:"미국 개별주",qty:"0.954479주",value:"$777.12",note:"토스",sym:"CAT",tv:"NYSE:CAT"},
-{name:"VOO · Vanguard S&P 500 ETF",type:"미국 ETF",qty:"0.441444주",value:"$310.31",note:"토스",sym:"VOO",tv:"AMEX:VOO"},
-{name:"INTC · Intel Corporation",type:"미국 개별주",qty:"1.368372주",value:"$165.28",note:"토스",sym:"INTC",tv:"NASDAQ:INTC"},
-{name:"COST · Costco Wholesale Corporation",type:"미국 개별주",qty:"0.160631주",value:"$146.43",note:"토스",sym:"COST",tv:"NASDAQ:COST"},
-{name:"GOOG · Alphabet Inc. Class C",type:"미국 개별주",qty:"2.248636주",value:"$780.95",note:"토스",sym:"GOOG",tv:"NASDAQ:GOOG"},
-{name:"SCHD · Schwab U.S. Dividend Equity ETF",type:"미국 ETF",qty:"6.445632주",value:"$209.98",note:"토스",sym:"SCHD",tv:"AMEX:SCHD"},
-{name:"AVGO · Broadcom Inc.",type:"미국 개별주",qty:"0.719168주",value:"$253.55",note:"토스",sym:"AVGO",tv:"NASDAQ:AVGO"},
-{name:"GLDM · SPDR Gold MiniShares Trust",type:"미국 ETF",qty:"3.946672주",value:"$324.41",note:"토스",sym:"GLDM",tv:"AMEX:GLDM"},
-{name:"TSLA · Tesla, Inc.",type:"미국 개별주",qty:"0.974065주",value:"$345.56",note:"토스",sym:"TSLA",tv:"NASDAQ:TSLA"},
-{name:"JEPI · JPMorgan Equity Premium Income ETF",type:"미국 ETF",qty:"88주",value:"별도 미국계좌",note:"",sym:"JEPI",tv:"AMEX:JEPI"},
-{name:"JEPQ · JPMorgan Nasdaq Equity Premium Income ETF",type:"미국 ETF",qty:"87주",value:"별도 미국계좌",note:"",sym:"JEPQ",tv:"NASDAQ:JEPQ"}
+{name:"005930 · 삼성전자",type:"국내 개별주",qty:"16주",value:"4,318,259원",note:"토스+메리츠",ret:"+2.5%",sym:"005930.KS",tv:"KRX:005930"},
+{name:"000660 · SK하이닉스",type:"국내 개별주",qty:"4주",value:"7,130,325원",note:"토스+메리츠",ret:"-32.6%",sym:"000660.KS",tv:"KRX:000660"},
+{name:"005380 · 현대자동차",type:"국내 개별주",qty:"30주",value:"10,410,000원",note:"메리츠",ret:"-41.2%",sym:"005380.KS",tv:"KRX:005380"},
+{name:"379780 · RISE 미국S&P500",type:"국내상장 ETF",qty:"884주",value:"19,904,940원",note:"나무+IRP+키움",ret:"-3.9%",sym:"379780.KS",tv:"KRX:379780"},
+{name:"368590 · RISE 미국나스닥100",type:"국내상장 ETF",qty:"552주",value:"16,710,000원",note:"나무+키움",ret:"-5.8%",sym:"368590.KS",tv:"KRX:368590"},
+{name:"458730 · TIGER 미국배당다우존스",type:"국내상장 ETF",qty:"1,081주",value:"15,333,985원",note:"나무+키움",ret:"-5.6%",sym:"458730.KS",tv:"KRX:458730"},
+{name:"0072R0 · TIGER KRX금현물",type:"국내상장 ETF",qty:"453주",value:"5,515,775원",note:"나무+키움",ret:"-16.7%",sym:"0072R0.KS",tv:"KRX:0072R0"},
+{name:"322410 · HANARO K고배당",type:"국내상장 ETF",qty:"238주",value:"5,349,050원",note:"나무",ret:"-4.4%",sym:"322410.KS",tv:"KRX:322410"},
+{name:"379800 · KODEX 미국S&P500",type:"국내상장 ETF",qty:"180주",value:"4,225,500원",note:"나무",ret:"+3.3%",sym:"379800.KS",tv:"KRX:379800"},
+{name:"379810 · KODEX 미국나스닥100",type:"국내상장 ETF",qty:"146주",value:"3,968,280원",note:"나무",ret:"+12.7%",sym:"379810.KS",tv:"KRX:379810"},
+{name:"487230 · KODEX 미국AI전력핵심인프라",type:"국내상장 ETF",qty:"55주",value:"1,084,325원",note:"키움 연금저축",ret:"-22.8%",sym:"487230.KS",tv:"KRX:487230"},
+{name:"489250 · KODEX 미국배당다우존스",type:"국내상장 ETF",qty:"80주",value:"978,800원",note:"나무",ret:"+16.0%",sym:"489250.KS",tv:"KRX:489250"},
+{name:"490490 · SOL 미국배당미국채혼합50",type:"국내상장 ETF",qty:"76주",value:"799,300원",note:"나무+IRP",ret:"+3.0%",sym:"490490.KS",tv:"KRX:490490"},
+{name:"AMD · Advanced Micro Devices, Inc.",type:"미국 개별주",qty:"5.722051주",value:"$3,510.97",note:"토스",ret:"+128.3%",sym:"AMD",tv:"NASDAQ:AMD"},
+{name:"ZETA · Zeta Global Holdings Corp. Class A",type:"미국 개별주",qty:"13.142337주",value:"$416.33",note:"토스",ret:"+61.8%",sym:"ZETA",tv:"NYSE:ZETA"},
+{name:"TSM · Taiwan Semiconductor Manufacturing Co. Ltd. ADR",type:"미국 개별주",qty:"0.459844주",value:"$210.25",note:"토스",ret:"+16.9%",sym:"TSM",tv:"NYSE:TSM"},
+{name:"NVDA · NVIDIA Corporation",type:"미국 개별주",qty:"0.971557주",value:"$223.04",note:"토스",ret:"+11.6%",sym:"NVDA",tv:"NASDAQ:NVDA"},
+{name:"GEV · GE Vernova Inc.",type:"미국 개별주",qty:"0.634065주",value:"$602.83",note:"토스",ret:"+5.3%",sym:"GEV",tv:"NYSE:GEV"},
+{name:"SNDK · Sandisk Corporation",type:"미국 개별주",qty:"0.109495주",value:"$190.12",note:"토스",ret:"+5.7%",sym:"SNDK",tv:"NASDAQ:SNDK"},
+{name:"QQQM · Invesco NASDAQ 100 ETF",type:"미국 ETF",qty:"1.093229주",value:"$334.26",note:"토스",ret:"+4.5%",sym:"QQQM",tv:"NASDAQ:QQQM"},
+{name:"CAT · Caterpillar Inc.",type:"미국 개별주",qty:"0.954479주",value:"$777.12",note:"토스",ret:"-1.2%",sym:"CAT",tv:"NYSE:CAT"},
+{name:"VOO · Vanguard S&P 500 ETF",type:"미국 ETF",qty:"0.441444주",value:"$310.31",note:"토스",ret:"+0.2%",sym:"VOO",tv:"AMEX:VOO"},
+{name:"INTC · Intel Corporation",type:"미국 개별주",qty:"1.368372주",value:"$165.28",note:"토스",ret:"+3.4%",sym:"INTC",tv:"NASDAQ:INTC"},
+{name:"COST · Costco Wholesale Corporation",type:"미국 개별주",qty:"0.160631주",value:"$146.43",note:"토스",ret:"-2.2%",sym:"COST",tv:"NASDAQ:COST"},
+{name:"GOOG · Alphabet Inc. Class C",type:"미국 개별주",qty:"2.248636주",value:"$780.95",note:"토스",ret:"+0.7%",sym:"GOOG",tv:"NASDAQ:GOOG"},
+{name:"SCHD · Schwab U.S. Dividend Equity ETF",type:"미국 ETF",qty:"6.445632주",value:"$209.98",note:"토스",ret:"-4.4%",sym:"SCHD",tv:"AMEX:SCHD"},
+{name:"AVGO · Broadcom Inc.",type:"미국 개별주",qty:"0.719168주",value:"$253.55",note:"토스",ret:"-8.0%",sym:"AVGO",tv:"NASDAQ:AVGO"},
+{name:"GLDM · SPDR Gold MiniShares Trust",type:"미국 ETF",qty:"3.946672주",value:"$324.41",note:"토스",ret:"-9.1%",sym:"GLDM",tv:"AMEX:GLDM"},
+{name:"TSLA · Tesla, Inc.",type:"미국 개별주",qty:"0.974065주",value:"$345.56",note:"토스",ret:"-12.5%",sym:"TSLA",tv:"NASDAQ:TSLA"},
+{name:"JEPI · JPMorgan Equity Premium Income ETF",type:"미국 ETF",qty:"88주",value:"별도 미국계좌",note:"",ret:"+0.7%",sym:"JEPI",tv:"AMEX:JEPI"},
+{name:"JEPQ · JPMorgan Nasdaq Equity Premium Income ETF",type:"미국 ETF",qty:"87주",value:"별도 미국계좌",note:"",ret:"+2.0%",sym:"JEPQ",tv:"NASDAQ:JEPQ"}
 ];
 
 
@@ -260,7 +260,7 @@ function holdingCard(h,i){
   return `<article class="holding" data-type="${h.type}">
     <div>
       <div class="h-top"><div><div class="h-name">${h.name}</div><div class="h-type">${h.type}</div></div></div>
-      <div class="h-meta"><span><b>${h.qty}</b></span><span><b>${h.value}</b></span></div>
+      <div class="h-meta"><span><b>${h.qty}</b></span><span><b>${h.value}</b></span><span class="${(h.ret||\"\").startsWith(\"+\")?\"pos\":(h.ret||\"\").startsWith(\"-\")?\"neg\":\"\"}"><b>${h.ret||\"수익률 확인 필요\"}</b></span></div>
       <div class="h-note">${h.note||"&nbsp;"}</div>
     </div>
     <button type="button" class="spark-wrap" data-focus="${i}" style="border:0;background:transparent;padding:0;text-align:initial;cursor:pointer">
