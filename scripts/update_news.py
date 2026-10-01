@@ -27,6 +27,21 @@ def fetch_rss(query, lang="ko", country="KR"):
     with urllib.request.urlopen(req,timeout=20) as r:
         return r.read()
 
+def fetch_prices(symbol):
+    url=f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(symbol)}?range=1mo&interval=1d&includePrePost=false&events=div%2Csplits"
+    req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0 DividendDashboard/1.0"})
+    with urllib.request.urlopen(req,timeout=20) as r:
+        raw=json.loads(r.read().decode("utf-8"))
+    res=raw.get("chart",{}).get("result",[{}])[0]
+    timestamps=res.get("timestamp",[]) or []
+    closes=((res.get("indicators",{}).get("quote",[{}])[0]).get("close",[]) or [])
+    prices=[]
+    for ts,cl in zip(timestamps,closes):
+        if cl is None: continue
+        dt=datetime.fromtimestamp(ts,tz=timezone.utc).astimezone(timezone(timedelta(hours=9)))
+        prices.append({"date":dt.strftime("%m/%d"),"close":round(float(cl),4)})
+    return {"prices":prices[-30:]}
+
 items=[]
 seen=set()
 cutoff=datetime.now(timezone.utc)-timedelta(days=7)
@@ -75,3 +90,23 @@ out={
 }
 (ROOT/"data/news.json").write_text(json.dumps(out,ensure_ascii=False,indent=2),encoding="utf-8")
 print("updated",len(out["items"]))
+
+# market data for dashboard sparklines
+market={}
+symbol_map={
+"005930":"005930.KS","000660":"000660.KS","005380":"005380.KS",
+"379780":"379780.KS","368590":"368590.KS","458730":"458730.KS","0072R0":"0072R0.KS",
+"322410":"322410.KS","379800":"379800.KS","379810":"379810.KS","487230":"487230.KS",
+"489250":"489250.KS","490490":"490490.KS",
+"AMD":"AMD","ZETA":"ZETA","TSM":"TSM","NVDA":"NVDA","GEV":"GEV","SNDK":"SNDK","QQQM":"QQQM",
+"CAT":"CAT","VOO":"VOO","INTC":"INTC","COST":"COST","GOOG":"GOOG","SCHD":"SCHD","AVGO":"AVGO",
+"GLDM":"GLDM","TSLA":"TSLA","JEPI":"JEPI","JEPQ":"JEPQ"}
+for h in HOLDINGS:
+    sym=symbol_map.get(h["ticker"],h["ticker"])
+    try:
+        market[sym]=fetch_prices(sym)
+        time.sleep(0.03)
+    except Exception:
+        market[sym]={"prices":[]}
+(ROOT/"data/market_data.json").write_text(json.dumps(market,ensure_ascii=False,indent=2),encoding="utf-8")
+print("market updated",len(market))
