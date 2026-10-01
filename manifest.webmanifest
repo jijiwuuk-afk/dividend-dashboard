@@ -1,0 +1,17 @@
+{
+  "name": "My Dividend Dashboard",
+  "short_name": "배당대시보드",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0f172a",
+  "description": "장기 투자 및 배당 현금흐름 관리 대시보드",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

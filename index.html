@@ -1,0 +1,346 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>My Dividend Dashboard</title>
+
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0f172a">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="배당대시보드">
+<link rel="apple-touch-icon" href="icon.svg">
+<link rel="icon" href="icon.svg">
+
+<style>
+:root{
+  --bg:#f4f7fb;--card:#fff;--text:#172033;--muted:#6b7280;--line:#e7ebf2;
+  --accent:#3b82f6;--accent2:#2563eb;--dark:#0f172a;--pos:#d84c5b;--neg:#3478c9;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;overflow-x:hidden}
+body{font-family:Arial,"Noto Sans KR","Apple SD Gothic Neo",sans-serif;background:var(--bg);color:var(--text)}
+.wrap{width:100%;max-width:1380px;margin:auto;padding:14px}
+.header{display:flex;align-items:flex-start;justify-content:space-between;gap:10px;margin:3px 0 14px}
+.title{font-size:24px;font-weight:850;letter-spacing:-.4px}.sub{font-size:12px;color:var(--muted);margin-top:5px}
+.badge{flex:0 0 auto;padding:7px 10px;border-radius:999px;background:#eef4ff;color:#2b5ab7;font-weight:700;font-size:11px}
+.kpis{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:15px;padding:14px}
+.kpi .label{font-size:11px;color:var(--muted);margin-bottom:7px}.kpi .value{font-size:21px;font-weight:850;letter-spacing:-.5px}.kpi .note{font-size:11px;color:var(--muted);margin-top:5px;line-height:1.4}
+.progress{height:8px;background:#edf1f7;border-radius:999px;overflow:hidden;margin-top:9px}.progress span{display:block;width:77.8%;height:100%;background:var(--accent)}
+.tabs{display:flex;gap:7px;overflow-x:auto;padding:13px 0 8px;scrollbar-width:none}.tabs::-webkit-scrollbar{display:none}
+.tab{flex:0 0 auto;border:1px solid var(--line);background:#fff;color:var(--text);border-radius:10px;padding:9px 12px;font-size:12px;font-weight:800;cursor:pointer}
+.tab.active{background:var(--dark);color:#fff;border-color:var(--dark)}
+.panel{display:none}.panel.active{display:block}.section-title{font-size:15px;font-weight:850;margin-bottom:10px}
+.small{font-size:11px;color:var(--muted);line-height:1.5}
+.notice{font-size:11px;line-height:1.5;background:#fff8e8;border:1px solid #f5e4b5;padding:10px 11px;border-radius:11px}
+.main{display:grid;grid-template-columns:1.2fr .8fr;gap:10px}
+.goalgrid{display:grid;grid-template-columns:1fr 1fr;gap:9px}.goal{border:1px solid #e6efff;background:#f8fbff;border-radius:12px;padding:12px}.goal strong{display:block;font-size:19px;margin-top:3px}
+.watch{padding:10px 0;border-bottom:1px solid var(--line)}.watch:last-child{border-bottom:0}.watch .name{font-size:13px;font-weight:800}.watch .reason{font-size:11px;color:var(--muted);line-height:1.5;margin-top:3px}
+.filters{display:flex;gap:6px;flex-wrap:wrap;margin:4px 0 11px}.filter{border:1px solid var(--line);background:#fff;border-radius:999px;padding:7px 10px;font-size:11px;font-weight:750;cursor:pointer}.filter.active{background:#eef4ff;color:#2757b6;border-color:#cfe0ff}
+.holdings-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
+.holding{min-width:0;background:#fff;border:1px solid var(--line);border-radius:14px;padding:12px;display:grid;grid-template-columns:minmax(0,1fr) 130px;gap:10px;align-items:center}
+.h-top{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}.h-name{font-weight:850;font-size:14px;line-height:1.25;min-width:0;overflow-wrap:anywhere}.h-type{font-size:10px;color:var(--muted);margin-top:3px}
+.h-meta{display:flex;gap:10px;flex-wrap:wrap;margin-top:9px;font-size:11px}.h-meta b{font-weight:800}.h-note{font-size:10px;color:var(--muted);margin-top:6px;white-space:normal;overflow-wrap:anywhere}
+.spark-wrap{min-width:0}.spark-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:3px;font-size:10px;color:var(--muted)}.ret{font-weight:850;font-size:11px}.pos{color:var(--pos)}.neg{color:var(--neg)}
+.spark{display:block;width:100%;height:54px}.tv-mini{width:100%;height:62px;overflow:hidden;border-radius:9px}.spark .gridline{stroke:#edf1f5;stroke-width:1}.spark .line{fill:none;stroke:var(--accent2);stroke-width:2}.spark .area{fill:rgba(59,130,246,.09)}.spark .dot{fill:var(--accent2)}
+.loading{font-size:10px;color:var(--muted);height:54px;display:flex;align-items:center;justify-content:center;border-radius:9px;background:#fafbfd}
+#focusChartHolder{width:100%;min-width:0}.chart-title-row{display:flex;justify-content:space-between;gap:10px;align-items:flex-start;margin-bottom:8px}.chart-selected{font-weight:850}.chart-stats{font-size:11px;color:var(--muted);text-align:right}
+.legend{display:flex;justify-content:space-between;font-size:10px;color:var(--muted);margin-top:4px}
+footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
+@media(max-width:900px){
+  .kpis{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .main{grid-template-columns:1fr}
+}
+@media(max-width:640px){
+  .wrap{padding:10px}.title{font-size:20px}.badge{font-size:10px;padding:6px 8px}
+  .kpis{grid-template-columns:1fr 1fr;gap:7px}.kpi{padding:11px}.kpi .value{font-size:17px}.kpi .label,.kpi .note{font-size:10px}
+  .holdings-grid{grid-template-columns:1fr}
+  .holding{grid-template-columns:minmax(0,1fr) 108px;padding:11px;gap:8px}
+  .h-name{font-size:13px}.spark{height:50px}.loading{height:50px}
+  .goalgrid{grid-template-columns:1fr 1fr}
+}
+@media(max-width:380px){
+  .kpis{grid-template-columns:1fr}
+  .holding{grid-template-columns:minmax(0,1fr) 96px}
+  .h-meta{gap:6px;font-size:10px}
+}
+
+.news-item{padding:12px 0;border-bottom:1px solid var(--line)}
+.news-item:last-child{border-bottom:0}
+.news-top{display:flex;gap:8px;justify-content:space-between;align-items:flex-start}
+.news-ticker{font-size:10px;font-weight:850;color:#2b5ab7;background:#eef4ff;border-radius:999px;padding:4px 7px;flex:0 0 auto}
+.news-title{font-size:13px;font-weight:800;line-height:1.45;margin-top:6px}
+.news-meta{font-size:10px;color:var(--muted);margin-top:5px;display:flex;gap:8px;flex-wrap:wrap}
+.news-link{color:inherit;text-decoration:none}
+.news-empty{padding:18px 4px;color:var(--muted);font-size:12px}
+
+</style>
+</head>
+<body>
+<div class="wrap" id="app">
+  <div class="header">
+    <div><div class="title">My Dividend Dashboard</div><div class="sub">장기투자 · 배당 전액 재투자 · 월 30만원 배당 목표</div></div>
+    <div class="badge">현금성 자산 제외</div>
+  </div>
+
+  <div class="kpis">
+    <div class="card kpi"><div class="label">원화표시 투자자산</div><div class="value">107,446,908원</div><div class="note">기존 캡처 기준</div></div>
+    <div class="card kpi"><div class="label">별도 미국계좌 주식</div><div class="value">$10,311.33</div><div class="note">JEPI · JEPQ</div></div>
+    <div class="card kpi"><div class="label">예상 월평균 배당</div><div class="value">약 23.3만원</div><div class="note">1차 추정치</div></div>
+    <div class="card kpi"><div class="label">월 배당 목표</div><div class="value">30만원</div><div class="progress"><span></span></div><div class="note">달성률 약 77.8%</div></div>
+    <div class="card kpi"><div class="label">월 신규 투자</div><div class="value">60만원</div><div class="note">정기 + 기회매수 병행</div></div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab active" data-tab="holdings">보유종목</button>
+    <button class="tab" data-tab="trend">한달 추세</button>
+    <button class="tab" data-tab="dividend">배당</button>
+    <button class="tab" data-tab="issues">종목 이슈</button>
+    <button class="tab" data-tab="news">최신 뉴스</button>
+    <button class="tab" data-tab="watch">추가매수 후보</button>
+  </div>
+
+  <section id="holdings" class="panel active">
+    <div class="filters" id="filters"></div>
+    <div class="notice" style="margin-bottom:9px">모바일에서는 각 종목을 카드형으로 표시해 오른쪽 스크롤 없이 수량·평가값·최근 1개월 추세를 한 화면에서 확인합니다. 그래프는 TradingView 임베드 차트를 사용해 최근 1개월 기준으로 표시합니다.</div>
+    <div class="holdings-grid" id="holdingsGrid"></div>
+  </section>
+
+  <section id="trend" class="panel">
+    <div class="card">
+      <div class="chart-title-row">
+        <div><div class="section-title" style="margin:0">종목별 최근 1개월 추세</div><div class="small">보유종목 카드 또는 아래 선택 메뉴에서 종목을 선택</div></div>
+        <select id="symbolSelect" style="max-width:170px;padding:8px;border:1px solid var(--line);border-radius:9px;background:#fff"></select>
+      </div>
+      <div class="chart-title-row"><div class="chart-selected" id="focusName">-</div><div class="chart-stats" id="focusStats">불러오는 중</div></div>
+      <div id="focusChartHolder" style="width:100%;min-height:320px;border-radius:12px;overflow:hidden;border:1px solid var(--line);background:#fff">
+        <div class="loading" style="height:320px">종목을 선택하면 최근 1개월 차트를 표시합니다.</div>
+      </div>
+      <div class="legend"><span id="focusStart">1개월 전</span><span id="focusEnd">최근 거래일</span></div>
+    </div>
+  </section>
+
+  <section id="dividend" class="panel">
+    <div class="main">
+      <div class="card"><div class="section-title">배당 목표</div><div class="goalgrid"><div class="goal"><div class="small">현재 월평균</div><strong>약 23.3만원</strong></div><div class="goal"><div class="small">목표까지</div><strong>약 6.7만원</strong></div></div></div>
+      <div class="card"><div class="section-title">운영 원칙</div><div class="watch"><div class="name">배당금</div><div class="reason">100% 재투자</div></div><div class="watch"><div class="name">추가매수</div><div class="reason">월 60만원 정기매수 + 가격매력 발생 시 기회매수</div></div><div class="watch"><div class="name">보유</div><div class="reason">단기 가격보다 펀더멘털·배당 지속성·장기 성장성 우선</div></div></div>
+    </div>
+  </section>
+
+
+  <section id="issues" class="panel">
+    <div class="main">
+      <div class="card">
+        <div class="section-title">보유종목 AI 이슈 모니터링</div>
+        <div class="notice">실적·가이던스·배당/분배금 정책·주요 공시·산업/규제 이슈·밸류에이션·최근 추세를 함께 점검하도록 운영 기준을 반영했습니다.</div>
+        <div class="watch"><div class="name">표시 기준</div><div class="reason">항상 ‘티커 · 정식 종목명’ 형식으로 표시</div></div>
+        <div class="watch"><div class="name">중요도 우선</div><div class="reason">장기 보유 논리 또는 배당흐름에 영향을 줄 수 있는 이슈를 우선 표시</div></div>
+        <div class="watch"><div class="name">단기 소음 제외</div><div class="reason">단순 등락·루머만으로 매수/매도 신호를 만들지 않음</div></div>
+      </div>
+      <div class="card">
+        <div class="section-title">오늘의 상태</div>
+        <div class="goalgrid">
+          <div class="goal"><div class="small">이슈 점검</div><strong>자동 감시</strong></div>
+          <div class="goal"><div class="small">추가매수 신호</div><strong>조건 충족 시만</strong></div>
+        </div>
+        <div class="small" style="margin-top:12px">이 정적 홈페이지 자체가 뉴스를 백그라운드에서 수집하는 것은 아닙니다. ChatGPT의 일일 점검 알림과 연동하는 운영 기준이 반영되어 있으며, 추후 Google Sheet/API 또는 서버를 연결하면 이 영역도 자동 갱신할 수 있습니다.</div>
+      </div>
+    </div>
+  </section>
+
+
+  <section id="news" class="panel">
+    <div class="card">
+      <div class="chart-title-row">
+        <div>
+          <div class="section-title" style="margin:0">보유종목 최신 뉴스</div>
+          <div class="small">매시간 자동 수집 · 중복 제목 제거 · 최신순</div>
+        </div>
+        <div class="small" id="newsUpdated">갱신시간 확인 중</div>
+      </div>
+      <div class="filters" id="newsFilters"></div>
+      <div id="newsList"><div class="loading" style="height:120px">뉴스 불러오는 중</div></div>
+    </div>
+  </section>
+
+  <section id="watch" class="panel">
+    <div class="main">
+      <div class="card"><div class="section-title">추가매수 후보 선정 기준</div><div class="watch"><div class="name">배당 지속성</div><div class="reason">배당 삭감 위험 및 현금흐름 확인</div></div><div class="watch"><div class="name">밸류에이션</div><div class="reason">장기 평균 대비 가격 매력 확인</div></div><div class="watch"><div class="name">실적·펀더멘털</div><div class="reason">일시적 가격조정과 구조적 훼손 구분</div></div><div class="watch"><div class="name">중복 노출</div><div class="reason">미국 지수·반도체·배당 ETF 중복 반영</div></div></div>
+      <div class="card"><div class="section-title">추천 방식</div><div class="notice">보유종목의 최근 이슈를 먼저 확인한 뒤, 장기 투자논리·배당 지속성·밸류에이션·포트폴리오 비중을 종합해 추가매수 검토가 명확한 종목만 제시합니다. 단순 급락 종목을 자동 추천하지 않습니다.</div></div>
+    </div>
+  </section>
+
+  <footer>v2 · 2026-09-30 · 사용자 제공 보유내역 기반. 주가 추세는 TradingView 임베드 차트를 사용합니다. 직접 시세 API 호출 방식보다 모바일 브라우저에서 안정적으로 표시되도록 변경했습니다.</footer>
+</div>
+
+<script>
+const holdings = [
+{name:"005930 · 삼성전자",type:"국내 개별주",qty:"16주",value:"4,318,259원",note:"토스+메리츠",sym:"005930.KS",tv:"KRX:005930"},
+{name:"000660 · SK하이닉스",type:"국내 개별주",qty:"4주",value:"7,130,325원",note:"토스+메리츠",sym:"000660.KS",tv:"KRX:000660"},
+{name:"005380 · 현대자동차",type:"국내 개별주",qty:"30주",value:"10,410,000원",note:"메리츠",sym:"005380.KS",tv:"KRX:005380"},
+{name:"379780 · RISE 미국S&P500",type:"국내상장 ETF",qty:"884주",value:"19,904,940원",note:"나무+IRP+키움",sym:"379780.KS",tv:"KRX:379780"},
+{name:"368590 · RISE 미국나스닥100",type:"국내상장 ETF",qty:"552주",value:"16,710,000원",note:"나무+키움",sym:"368590.KS",tv:"KRX:368590"},
+{name:"458730 · TIGER 미국배당다우존스",type:"국내상장 ETF",qty:"1,081주",value:"15,333,985원",note:"나무+키움",sym:"458730.KS",tv:"KRX:458730"},
+{name:"0072R0 · TIGER KRX금현물",type:"국내상장 ETF",qty:"453주",value:"5,515,775원",note:"나무+키움",sym:"0072R0.KS",tv:"KRX:0072R0"},
+{name:"322410 · HANARO K고배당",type:"국내상장 ETF",qty:"238주",value:"5,349,050원",note:"나무",sym:"322410.KS",tv:"KRX:322410"},
+{name:"379800 · KODEX 미국S&P500",type:"국내상장 ETF",qty:"180주",value:"4,225,500원",note:"나무",sym:"379800.KS",tv:"KRX:379800"},
+{name:"379810 · KODEX 미국나스닥100",type:"국내상장 ETF",qty:"146주",value:"3,968,280원",note:"나무",sym:"379810.KS",tv:"KRX:379810"},
+{name:"487230 · KODEX 미국AI전력핵심인프라",type:"국내상장 ETF",qty:"55주",value:"1,084,325원",note:"키움 연금저축",sym:"487230.KS",tv:"KRX:487230"},
+{name:"489250 · KODEX 미국배당다우존스",type:"국내상장 ETF",qty:"80주",value:"978,800원",note:"나무",sym:"489250.KS",tv:"KRX:489250"},
+{name:"490490 · SOL 미국배당미국채혼합50",type:"국내상장 ETF",qty:"76주",value:"799,300원",note:"나무+IRP",sym:"490490.KS",tv:"KRX:490490"},
+{name:"AMD · Advanced Micro Devices, Inc.",type:"미국 개별주",qty:"5.705512주",value:"$3,451.57",note:"토스",sym:"AMD",tv:"NASDAQ:AMD"},
+{name:"ZETA · Zeta Global Holdings Corp. Class A",type:"미국 개별주",qty:"13.142337주",value:"$382.19",note:"토스",sym:"ZETA",tv:"NYSE:ZETA"},
+{name:"TSM · Taiwan Semiconductor Manufacturing Co. Ltd. ADR",type:"미국 개별주",qty:"0.459844주",value:"$208.89",note:"토스",sym:"TSM",tv:"NYSE:TSM"},
+{name:"NVDA · NVIDIA Corporation",type:"미국 개별주",qty:"0.971557주",value:"$220.94",note:"토스",sym:"NVDA",tv:"NASDAQ:NVDA"},
+{name:"GEV · GE Vernova Inc.",type:"미국 개별주",qty:"0.623598주",value:"$600.14",note:"토스",sym:"GEV",tv:"NYSE:GEV"},
+{name:"SNDK · Sandisk Corporation",type:"미국 개별주",qty:"0.109495주",value:"$188.18",note:"토스",sym:"SNDK",tv:"NASDAQ:SNDK"},
+{name:"QQQM · Invesco NASDAQ 100 ETF",type:"미국 ETF",qty:"1.060582주",value:"$321.83",note:"토스",sym:"QQQM",tv:"NASDAQ:QQQM"},
+{name:"CAT · Caterpillar Inc.",type:"미국 개별주",qty:"0.942235주",value:"$779.95",note:"토스",sym:"CAT",tv:"NYSE:CAT"},
+{name:"VOO · Vanguard S&P 500 ETF",type:"미국 ETF",qty:"0.427298주",value:"$300.44",note:"토스",sym:"VOO",tv:"AMEX:VOO"},
+{name:"INTC · Intel Corporation",type:"미국 개별주",qty:"1.368372주",value:"$158.37",note:"토스",sym:"INTC",tv:"NASDAQ:INTC"},
+{name:"COST · Costco Wholesale Corporation",type:"미국 개별주",qty:"0.149776주",value:"$138.24",note:"토스",sym:"COST",tv:"NASDAQ:COST"},
+{name:"GOOG · Alphabet Inc. Class C",type:"미국 개별주",qty:"2.21964주",value:"$748.09",note:"토스",sym:"GOOG",tv:"NASDAQ:GOOG"},
+{name:"SCHD · Schwab U.S. Dividend Equity ETF",type:"미국 ETF",qty:"6.141417주",value:"$202.09",note:"토스",sym:"SCHD",tv:"AMEX:SCHD"},
+{name:"AVGO · Broadcom Inc.",type:"미국 개별주",qty:"0.719168주",value:"$255.27",note:"토스",sym:"AVGO",tv:"NASDAQ:AVGO"},
+{name:"GLDM · SPDR Gold MiniShares Trust",type:"미국 ETF",qty:"3.946672주",value:"$325.67",note:"토스",sym:"GLDM",tv:"AMEX:GLDM"},
+{name:"TSLA · Tesla, Inc.",type:"미국 개별주",qty:"0.974065주",value:"$344.04",note:"토스",sym:"TSLA",tv:"NASDAQ:TSLA"},
+{name:"JEPI · JPMorgan Equity Premium Income ETF",type:"미국 ETF",qty:"88주",value:"별도 미국계좌",note:"",sym:"JEPI",tv:"AMEX:JEPI"},
+{name:"JEPQ · JPMorgan Nasdaq Equity Premium Income ETF",type:"미국 ETF",qty:"87주",value:"별도 미국계좌",note:"",sym:"JEPQ",tv:"NASDAQ:JEPQ"}
+];
+
+
+let currentFilter = "전체";
+
+function tvMiniUrl(symbol){
+  const cfg={
+    symbol:symbol,width:"100%",height:"100%",locale:"kr",
+    dateRange:"1M",colorTheme:"light",isTransparent:true,autosize:true,
+    largeChartUrl:""
+  };
+  return "https://s.tradingview.com/embed-widget/mini-symbol-overview/?locale=kr#"+encodeURIComponent(JSON.stringify(cfg));
+}
+function tvAdvancedUrl(symbol){
+  const cfg={
+    autosize:true,symbol:symbol,interval:"D",timezone:"Asia/Seoul",
+    theme:"light",style:"2",locale:"kr",allow_symbol_change:false,
+    calendar:false,support_host:"https://www.tradingview.com"
+  };
+  return "https://s.tradingview.com/embed-widget/advanced-chart/?locale=kr#"+encodeURIComponent(JSON.stringify(cfg));
+}
+function holdingCard(h,i){
+  return `<article class="holding" data-type="${h.type}">
+    <div>
+      <div class="h-top"><div><div class="h-name">${h.name}</div><div class="h-type">${h.type}</div></div></div>
+      <div class="h-meta"><span><b>${h.qty}</b></span><span><b>${h.value}</b></span></div>
+      <div class="h-note">${h.note||"&nbsp;"}</div>
+    </div>
+    <button type="button" class="spark-wrap" data-focus="${i}" style="border:0;background:transparent;padding:0;text-align:initial;cursor:pointer">
+      <div class="spark-head"><span>최근 1개월</span><span class="ret">추세</span></div>
+      <div class="tv-mini" data-tv="${h.tv}" aria-label="${h.name} 최근 1개월 추세">
+        <div class="loading">차트 불러오는 중</div>
+      </div>
+    </button>
+  </article>`;
+}
+function loadVisibleCharts(){
+  const items=[...document.querySelectorAll(".tv-mini")];
+  const load = el=>{
+    if(el.dataset.loaded==="1") return;
+    const tv=el.dataset.tv;
+    el.innerHTML=`<iframe title="1개월 추세" src="${tvMiniUrl(tv)}" loading="lazy" referrerpolicy="origin" style="width:100%;height:62px;border:0;display:block;background:#fff"></iframe>`;
+    el.dataset.loaded="1";
+  };
+  if("IntersectionObserver" in window){
+    const io=new IntersectionObserver(entries=>{
+      entries.forEach(e=>{if(e.isIntersecting){load(e.target);io.unobserve(e.target)}})
+    },{rootMargin:"180px"});
+    items.forEach(el=>io.observe(el));
+  }else items.forEach(load);
+}
+function renderHoldings(){
+  const list=holdings.filter(h=>currentFilter==="전체" || h.type===currentFilter);
+  document.getElementById("holdingsGrid").innerHTML=list.map(h=>holdingCard(h,holdings.indexOf(h))).join("");
+  document.querySelectorAll("[data-focus]").forEach(b=>b.addEventListener("click",()=>{
+    const idx=+b.dataset.focus;
+    document.querySelector('[data-tab="trend"]').click();
+    document.getElementById("symbolSelect").value=idx;
+    renderFocus(idx);
+  }));
+  loadVisibleCharts();
+}
+function setupFilters(){
+  const types=["전체","국내 개별주","국내상장 ETF","미국 개별주","미국 ETF"];
+  const box=document.getElementById("filters");
+  box.innerHTML=types.map((t,i)=>`<button type="button" class="filter ${i===0?"active":""}" data-filter="${t}">${t}</button>`).join("");
+  box.querySelectorAll(".filter").forEach(b=>b.addEventListener("click",()=>{
+    box.querySelectorAll(".filter").forEach(x=>x.classList.remove("active"));
+    b.classList.add("active"); currentFilter=b.dataset.filter; renderHoldings();
+  }));
+}
+function renderFocus(i){
+  const h=holdings[i];
+  document.getElementById("focusName").textContent=h.name;
+  document.getElementById("focusStats").textContent="최근 1개월 일봉";
+  document.getElementById("focusStart").textContent="1개월 전";
+  document.getElementById("focusEnd").textContent="최근 거래일";
+  const holder=document.getElementById("focusChartHolder");
+  holder.innerHTML=`<iframe title="${h.name} 한달 추세 차트" src="${tvAdvancedUrl(h.tv)}" referrerpolicy="origin" style="width:100%;height:320px;border:0;display:block;background:#fff"></iframe>`;
+}
+function init(){
+  setupFilters(); renderHoldings();
+  const sel=document.getElementById("symbolSelect"); sel.innerHTML=holdings.map((h,i)=>`<option value="${i}">${h.name}</option>`).join(""); sel.addEventListener("change",()=>renderFocus(+sel.value));
+  document.querySelectorAll(".tab").forEach(btn=>btn.addEventListener("click",()=>{
+    document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active")); document.querySelectorAll(".panel").forEach(x=>x.classList.remove("active"));
+    btn.classList.add("active"); document.getElementById(btn.dataset.tab).classList.add("active");
+    if(btn.dataset.tab==="trend") renderFocus(+sel.value||0);
+  }));
+}
+init();
+
+
+let newsState={items:[],filter:"전체"};
+function renderNewsFilters(){
+  const box=document.getElementById("newsFilters"); if(!box) return;
+  const tickers=["전체",...Array.from(new Set(newsState.items.map(x=>x.ticker))).sort()];
+  box.innerHTML=tickers.map((t,i)=>`<button type="button" class="filter ${newsState.filter===t?"active":""}" data-nfilter="${t}">${t}</button>`).join("");
+  box.querySelectorAll("[data-nfilter]").forEach(b=>b.addEventListener("click",()=>{
+    newsState.filter=b.dataset.nfilter; renderNewsFilters(); renderNews();
+  }));
+}
+function renderNews(){
+  const list=document.getElementById("newsList"); if(!list) return;
+  const items=newsState.items.filter(x=>newsState.filter==="전체"||x.ticker===newsState.filter);
+  if(!items.length){list.innerHTML='<div class="news-empty">표시할 새 뉴스가 없습니다.</div>';return;}
+  list.innerHTML=items.slice(0,80).map(x=>`
+    <article class="news-item">
+      <div class="news-top"><span class="news-ticker">${x.ticker}</span><span class="small">${x.age||""}</span></div>
+      <a class="news-link" href="${x.link}" target="_blank" rel="noopener noreferrer">
+        <div class="news-title">${x.title}</div>
+      </a>
+      <div class="news-meta"><span>${x.name||""}</span><span>${x.source||""}</span><span>${x.published||""}</span></div>
+    </article>`).join("");
+}
+async function loadNews(){
+  try{
+    const r=await fetch("./data/news.json?ts="+Date.now(),{cache:"no-store"});
+    if(!r.ok) throw new Error("news file");
+    const j=await r.json();
+    newsState.items=Array.isArray(j.items)?j.items:[];
+    const u=document.getElementById("newsUpdated");
+    if(u) u.textContent=j.updated_at?("마지막 갱신 "+j.updated_at):"";
+    renderNewsFilters(); renderNews();
+  }catch(e){
+    const list=document.getElementById("newsList");
+    if(list) list.innerHTML='<div class="news-empty">뉴스 데이터가 아직 생성되지 않았습니다. 배포 후 첫 자동 수집이 끝나면 표시됩니다.</div>';
+  }
+}
+loadNews();
+
+if ("serviceWorker" in navigator && location.protocol.startsWith("http")) {
+  navigator.serviceWorker.register("./sw.js").catch(()=>{});
+}
+</script>
+</body>
+</html>

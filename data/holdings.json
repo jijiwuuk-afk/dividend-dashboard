@@ -1,0 +1,157 @@
+[
+  {
+    "ticker": "005930",
+    "name": "삼성전자",
+    "query": "삼성전자 OR Samsung Electronics"
+  },
+  {
+    "ticker": "000660",
+    "name": "SK하이닉스",
+    "query": "SK하이닉스 OR SK hynix"
+  },
+  {
+    "ticker": "005380",
+    "name": "현대자동차",
+    "query": "현대자동차 OR Hyundai Motor"
+  },
+  {
+    "ticker": "379780",
+    "name": "RISE 미국S&P500",
+    "query": "RISE 미국S&P500"
+  },
+  {
+    "ticker": "368590",
+    "name": "RISE 미국나스닥100",
+    "query": "RISE 미국나스닥100"
+  },
+  {
+    "ticker": "458730",
+    "name": "TIGER 미국배당다우존스",
+    "query": "TIGER 미국배당다우존스"
+  },
+  {
+    "ticker": "0072R0",
+    "name": "TIGER KRX금현물",
+    "query": "TIGER KRX금현물"
+  },
+  {
+    "ticker": "322410",
+    "name": "HANARO K고배당",
+    "query": "HANARO K고배당"
+  },
+  {
+    "ticker": "379800",
+    "name": "KODEX 미국S&P500",
+    "query": "KODEX 미국S&P500"
+  },
+  {
+    "ticker": "379810",
+    "name": "KODEX 미국나스닥100",
+    "query": "KODEX 미국나스닥100"
+  },
+  {
+    "ticker": "487230",
+    "name": "KODEX 미국AI전력핵심인프라",
+    "query": "KODEX 미국AI전력핵심인프라"
+  },
+  {
+    "ticker": "489250",
+    "name": "KODEX 미국배당다우존스",
+    "query": "KODEX 미국배당다우존스"
+  },
+  {
+    "ticker": "490490",
+    "name": "SOL 미국배당미국채혼합50",
+    "query": "SOL 미국배당미국채혼합50"
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "query": "AMD Advanced Micro Devices"
+  },
+  {
+    "ticker": "ZETA",
+    "name": "Zeta Global Holdings Corp. Class A",
+    "query": "Zeta Global ZETA"
+  },
+  {
+    "ticker": "TSM",
+    "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+    "query": "TSMC TSM Taiwan Semiconductor"
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "query": "NVIDIA NVDA"
+  },
+  {
+    "ticker": "GEV",
+    "name": "GE Vernova Inc.",
+    "query": "GE Vernova GEV"
+  },
+  {
+    "ticker": "SNDK",
+    "name": "Sandisk Corporation",
+    "query": "Sandisk SNDK"
+  },
+  {
+    "ticker": "QQQM",
+    "name": "Invesco NASDAQ 100 ETF",
+    "query": "QQQM Invesco NASDAQ 100 ETF"
+  },
+  {
+    "ticker": "CAT",
+    "name": "Caterpillar Inc.",
+    "query": "Caterpillar CAT"
+  },
+  {
+    "ticker": "VOO",
+    "name": "Vanguard S&P 500 ETF",
+    "query": "VOO Vanguard S&P 500 ETF"
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel Corporation",
+    "query": "Intel INTC"
+  },
+  {
+    "ticker": "COST",
+    "name": "Costco Wholesale Corporation",
+    "query": "Costco COST"
+  },
+  {
+    "ticker": "GOOG",
+    "name": "Alphabet Inc. Class C",
+    "query": "Alphabet Google GOOG"
+  },
+  {
+    "ticker": "SCHD",
+    "name": "Schwab U.S. Dividend Equity ETF",
+    "query": "SCHD Schwab U.S. Dividend Equity ETF"
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "query": "Broadcom AVGO"
+  },
+  {
+    "ticker": "GLDM",
+    "name": "SPDR Gold MiniShares Trust",
+    "query": "GLDM SPDR Gold MiniShares"
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla, Inc.",
+    "query": "Tesla TSLA"
+  },
+  {
+    "ticker": "JEPI",
+    "name": "JPMorgan Equity Premium Income ETF",
+    "query": "JEPI JPMorgan Equity Premium Income ETF"
+  },
+  {
+    "ticker": "JEPQ",
+    "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+    "query": "JEPQ JPMorgan Nasdaq Equity Premium Income ETF"
+  }
+]
