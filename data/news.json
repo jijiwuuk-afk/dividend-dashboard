@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-01 13:24 KST",
+  "updated_at": "2026-10-01 14:22 KST",
   "items": [
     {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
-      "title": "최우수 ETF(해외) ‘KODEX 미국나스닥100’ 순자산 10조…시장 리드[2026 헤럴드 투자대상 최우수 ETF(해외)-삼성자산운용] - 헤럴드경제",
+      "title": "최우수 ETF(해외) ‘KODEX 미국나스닥100’ 순자산 10조…시장 리드[2026 헤럴드 투자대상 최우수 ETF(해외)-삼성자산운용] - biz.heraldcorp.com",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BTFhXOWJ6OHBLajFoWFpWNUJvcWpBX084cXFTZEQxUTl4cW1BNC1JUFZyUDczYUtuOWxZM1hsNDhqcW02NllzMG5mbXlFVWt3QXRDcGl3?oc=5",
-      "source": "헤럴드경제",
+      "source": "biz.heraldcorp.com",
       "published": "10-01 11:46",
       "published_iso": "2026-10-01T02:46:33+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "TSLA",
@@ -19,7 +19,7 @@
       "source": "코인리더스",
       "published": "10-01 10:45",
       "published_iso": "2026-10-01T01:45:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "0072R0",
@@ -29,7 +29,17 @@
       "source": "v.daum.net",
       "published": "10-01 10:09",
       "published_iso": "2026-10-01T01:09:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "샌디스크(SNDK) 주가가 현금흐름 가치보다 높게 책정된 것으로 보인다 - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbDVKal9hQkZfTlIwSFQxTS1IeFgzM3ZWYm9MVnZwTzJTUjg0cUhObzBrVEhBa3Y4SkVZZExxSE1wRmdRTHZMNUxlbXBPeUJtWDVVMEFpLWFhNWlNYlplb0pzZ0VyeDUxcHNPcVJzV3hyUDM5U0NZdEpfV3V1QnF4NFhQV29YVXJs0gGOAUFVX3lxTE5Pa3JOYTdzQWxqNEVDaHlGNzNZaEZpa0ZIMlVrWTZ4ZEJhTEc5NER6X2E4d3hWbWcwbUVzNVgtb2hWTDhXbkFBYUc4RDcyX1Vqc3I1c3djdUVyUTR0Mmx2bFp5NXBUdUpVUnBpZXBEdjE0RkY2bGpCeG92R2NReExsRVpueGVxU1NyTTYyWWc?oc=5",
+      "source": "simplywall.st",
+      "published": "10-01 09:53",
+      "published_iso": "2026-10-01T00:53:33+00:00",
+      "age": "4시간 전"
     },
     {
       "ticker": "GOOG",
@@ -39,7 +49,17 @@
       "source": "LiteFinance",
       "published": "10-01 09:45",
       "published_iso": "2026-10-01T00:45:32+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "Hyundai Motor to Invest Additional $500 Million in Alabama Plant, Expand U.S. Hybrid and EREV Production - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xRXRVa0o1U2lJTXJuSXg4QnFQeVJmdHNkR05EQnA0dW9GVE5EWkFHOGh6R2VJSmFWQlEtYjRubmhsaktxNm9YTFdEUkpNR1RZTGJzUFhZcmZHTzJ3aXZreWVjZFdNenRUV2tUY053?oc=5",
+      "source": "알파경제",
+      "published": "10-01 06:00",
+      "published_iso": "2026-09-30T21:00:00+00:00",
+      "age": "8시간 전"
     },
     {
       "ticker": "GOOG",
@@ -49,7 +69,7 @@
       "source": "TradingKey",
       "published": "10-01 01:16",
       "published_iso": "2026-09-30T16:16:06+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "ZETA",
@@ -59,7 +79,7 @@
       "source": "ThinkPool",
       "published": "09-30 23:39",
       "published_iso": "2026-09-30T14:39:47+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "CAT",
@@ -69,7 +89,7 @@
       "source": "TIKR.com",
       "published": "09-30 23:26",
       "published_iso": "2026-09-30T14:26:15+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "GEV",
@@ -79,17 +99,17 @@
       "source": "TradingKey",
       "published": "09-30 22:47",
       "published_iso": "2026-09-30T13:47:51+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "SCHD",
       "name": "Schwab U.S. Dividend Equity ETF",
-      "title": "알림음과 배경 음악을 구분하는 스보벳 가입하기 사운드 안내 - calgaryroughnecks.com",
+      "title": "알림음과 배경 음악을 구분하는 스보벳 가입하기 사운드 안내 - Calgary Roughnecks",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVZPN2ZDdThzcGpWX2MwMVNCblhySlFpeGlnRzc4VW5IT3ZDT3ZocF8zREhXV29jenBxQ3dwRk5IYmUtUHBrWWN0d0FiaWl3OGRTbWNpZXFXRnRBWnVkUGE2NS04RC0ydUZ2SFpNWmI4R0tUVG9nNm5kM092VmRDTTNMaUR1eW1Ld3Jtd052WG9US0VlTVlqR2pjdkVQSzNDWnFKdDZnQlMwWXNCWGV1bEZ2RXd1djdlMVRCSV9rVEJCbkNFU19qYVdQLVpyTU9QbnE1bDdsREs?oc=5",
-      "source": "calgaryroughnecks.com",
+      "source": "Calgary Roughnecks",
       "published": "09-30 20:44",
       "published_iso": "2026-09-30T11:44:34+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "GEV",
@@ -99,7 +119,7 @@
       "source": "Investing.com 한국어",
       "published": "09-30 20:44",
       "published_iso": "2026-09-30T11:44:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "TSM",
@@ -109,7 +129,7 @@
       "source": "Investing.com 한국어",
       "published": "09-30 20:01",
       "published_iso": "2026-09-30T11:01:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "AMD",
@@ -119,16 +139,6 @@
       "source": "simplywall.st",
       "published": "09-30 12:54",
       "published_iso": "2026-09-30T03:54:27+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "샌디스크(SNDK) 포럼 기대감 커진다, 지금 주가는 아직 저평가 구간일까? - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTlUtZG9OT3RQZUlmbXZEaV9QeFZUQmVGNGcwQkY0a2RIbEV2dW5Jd3FZSkJwTGFhUkYtWnZwMTNQTWd3SG1tQ3dSNzZuOThGaHZEcGV0bUtIMTJydGY1N3NQR3REeUE2TGwyQ2E5eHhuUnVVZlZfcGhmR2tvQUU3VzYzUXZTWkFq0gGOAUFVX3lxTE1vVWV4X3ZRZEdqOTFKSm9sc2FvZ2FHTTRIcFZkMDFWXy1NZVdBdlViY0xaZEdBb3FIT3lGc01UT2RNX0xBWmwxM1RRSU1MQ0dYV3pETVVDMERCOGpRUVFLNWNyTUhtMjBTNmFNaU9qR0lkcldVa0hEckxFalhJUmlqdFpPa2hzR3FDYjFHNFE?oc=5",
-      "source": "simplywall.st",
-      "published": "09-30 12:54",
-      "published_iso": "2026-09-30T03:54:24+00:00",
       "age": "1일 전"
     },
     {
@@ -209,16 +219,6 @@
       "source": "알파경제",
       "published": "09-30 07:44",
       "published_iso": "2026-09-29T22:44:56+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "Hyundai Motor, Kia Suppliers Could Face Greater Cost Pressure as U.S. Tariffs Weigh on Automakers’ Cash Flow - 알파경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHVFZwTnVIUnVTblVCTkJ2NWFJUGJRcy1nNzlFR3VhQU9WWHItSGRpSGtZOW9XSjBlTUdSWDUxMGpaZ2RqbE41MWxITHFEV3VPRnc2QVBtTVlLbFprR2NqMnN1SnhIRTNCWWFKRlpR?oc=5",
-      "source": "알파경제",
-      "published": "09-30 06:00",
-      "published_iso": "2026-09-29T21:00:00+00:00",
       "age": "1일 전"
     },
     {
@@ -329,7 +329,7 @@
       "source": "PRESS9",
       "published": "09-29 13:41",
       "published_iso": "2026-09-29T04:41:54+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "005930",
@@ -584,9 +584,9 @@
     {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
-      "title": "미래에셋운용, '미국배당다우존스'로 변동성 장세 대응 주목 - 뉴스워치",
+      "title": "미래에셋운용, '미국배당다우존스'로 변동성 장세 대응 주목 - newswatch.kr",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ReFp3QjhVY3ZCV2ZiWkZFY1NDSXhMU29sQ2xiOWcwakg3cnJEdi1kNGpzS3ZJN1czall3UDNDTkE2aWNZeFNnWmhneWQwbk1lekZ1RXJreDQ2Z2FfN25BTUs1TGhKSEJF?oc=5",
-      "source": "뉴스워치",
+      "source": "newswatch.kr",
       "published": "09-28 16:17",
       "published_iso": "2026-09-28T07:17:28+00:00",
       "age": "2일 전"
@@ -594,9 +594,9 @@
     {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
-      "title": "스캐터랩, 캐릭터챗 '제타' 신규 기능 출시...\"대화 따라 표정·배경 바뀐다\" - AI타임스",
+      "title": "스캐터랩, 캐릭터챗 '제타' 신규 기능 출시...\"대화 따라 표정·배경 바뀐다\" - aitimes.com",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0MGF0alV2aG9zdHZ1eVZ5ZmV3NExNOGtMdTd6SzVoaHVObkNsSkZReUx0UVJtT1lkZ3VJX3lkYW9yR0pEVDRGSF9uUVYxbWFIQXc5T1B5RHhsdUxJQ2ZTWkRuaS1fbHJVZHc?oc=5",
-      "source": "AI타임스",
+      "source": "aitimes.com",
       "published": "09-28 12:57",
       "published_iso": "2026-09-28T03:57:36+00:00",
       "age": "3일 전"
@@ -614,9 +614,9 @@
     {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
-      "title": "스캐터랩 '제타', '비주얼 노벨 모드' 출시...AI가 캐릭터·배경 실시간 생성 - 디지털투데이",
+      "title": "스캐터랩 '제타', '비주얼 노벨 모드' 출시...AI가 캐릭터·배경 실시간 생성 - digitaltoday.co.kr",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuSkRzTG94TWl1QlhCc0JLVjhhX3FJUGQ2VXYxZlhSOXExbDc1VEM2NThxMVZDYTRYTmhSNm5CUXoyU2tzaXpBWmRfTEtKSjdpTHFDRGkxUnJwMHY1eWJWZTd0YUxMUjRkYUlDQy1VWTdTZ1U?oc=5",
-      "source": "디지털투데이",
+      "source": "digitaltoday.co.kr",
       "published": "09-28 09:00",
       "published_iso": "2026-09-28T00:00:27+00:00",
       "age": "3일 전"
@@ -734,9 +734,9 @@
     {
       "ticker": "VOO",
       "name": "Vanguard S&P 500 ETF",
-      "title": "S&P500 ETF 2026년 최신 비교: 나에게 맞는 선택은? : 해외증시 - news.jkn.co.kr",
+      "title": "S&P500 ETF 2026년 최신 비교: 나에게 맞는 선택은? : 해외증시 - 재경일보",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5zMDYyTHlzOWVROEdyMEM3a2FhdU5jNzVobVhMNHNQSnF0TVN6QXVTeE1Za2FfNldwTDhNZURXaDB6SmU3S2Q2aFNB?oc=5",
-      "source": "news.jkn.co.kr",
+      "source": "재경일보",
       "published": "09-26 11:17",
       "published_iso": "2026-09-26T02:17:00+00:00",
       "age": "5일 전"
@@ -774,9 +774,9 @@
     {
       "ticker": "SCHD",
       "name": "Schwab U.S. Dividend Equity ETF",
-      "title": "비트 카지노 의 미래: 새로운 트렌드와 발전 방향 - 스텝 바이 스텝 가이드 - calgaryroughnecks.com",
+      "title": "비트 카지노 의 미래: 새로운 트렌드와 발전 방향 - 스텝 바이 스텝 가이드 - Calgary Roughnecks",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZTZINnk1Y2xXYWo3ZnMzMlVheDY5UFp3TTZsUy11ZTQzNlN1Rm1xbDVVUlJ0b1pSaENaZEhEb2ZZZ19XU0NtS0twZHhmRzFNQ1pPVF85NlpQOWdOQTRNN3NBQTF1V0RsRUZKc0xYQW1jZkFjTEJXUjZJdGZqcEY1cWNR?oc=5",
-      "source": "calgaryroughnecks.com",
+      "source": "Calgary Roughnecks",
       "published": "09-26 05:34",
       "published_iso": "2026-09-25T20:34:17+00:00",
       "age": "5일 전"
@@ -834,9 +834,9 @@
     {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
-      "title": "CAT Stock Price Today - CoinDesk",
+      "title": "CAT Stock Price Today - coindesk.com",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QV3lock91M042SnJlVkhqcW80Yzh2UWJyUkpvcm50VkhhdjVTdjlVbEw0QkduQWJyM1RyM3RWTlJweEloVGt0ZU53MUZoMlktWDVjZ1VB?oc=5",
-      "source": "CoinDesk",
+      "source": "coindesk.com",
       "published": "09-25 17:38",
       "published_iso": "2026-09-25T08:38:00+00:00",
       "age": "5일 전"
@@ -859,7 +859,7 @@
       "source": "IT조선",
       "published": "09-25 13:30",
       "published_iso": "2026-09-25T04:30:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "368590",
@@ -869,7 +869,7 @@
       "source": "IT조선",
       "published": "09-25 13:30",
       "published_iso": "2026-09-25T04:30:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "487230",
@@ -879,7 +879,7 @@
       "source": "IT조선",
       "published": "09-25 13:30",
       "published_iso": "2026-09-25T04:30:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "INTC",
