@@ -117,7 +117,7 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
 
   <div class="tabs">
     <button class="tab active" data-tab="holdings">보유종목</button>
-    <button class="tab" data-tab="trend">한달 추세</button>
+    <button class="tab" data-tab="trend">추세</button>
     <button class="tab" data-tab="dividend">배당</button>
     <button class="tab" data-tab="allocation">자산비중</button>
     <button class="tab" data-tab="accounts">계좌별</button>
@@ -128,21 +128,21 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
 
   <section id="holdings" class="panel active">
     <div class="filters" id="filters"></div>
-    <div class="notice" style="margin-bottom:9px">모바일에서는 각 종목을 카드형으로 표시해 오른쪽 스크롤 없이 수량·평가값·최근 1개월 추세를 한 화면에서 확인합니다. 미국주식을 먼저 표시하고 한국주식을 다음에 표시하며, 각 시장 안에서 누적 수익률이 높은 순으로 정렬합니다. 수량·평가금액·누적 수익률과 최근 1개월 추세를 함께 표시합니다. 그래프는 최근 1개월 종가 데이터를 기준으로 대시보드 안에서 직접 표시합니다.</div>
+    <div class="notice" style="margin-bottom:9px">모바일에서는 각 종목을 카드형으로 표시해 오른쪽 스크롤 없이 수량·평가값·최근 1개월 추세를 한 화면에서 확인합니다. 미국주식을 먼저 표시하고 한국주식을 다음에 표시하며, 각 시장 안에서 누적 수익률이 높은 순으로 정렬합니다. 수량·평가금액·누적 수익률과 최근 3개월 추세를 함께 표시합니다. 종목 카드는 3개월을 기본으로 하며, 추세 탭에서는 1M·3M·6M·1Y를 선택할 수 있습니다.</div>
     <div class="holdings-grid" id="holdingsGrid"></div>
   </section>
 
   <section id="trend" class="panel">
     <div class="card">
       <div class="chart-title-row">
-        <div><div class="section-title" style="margin:0">종목별 최근 1개월 추세</div><div class="small">보유종목 카드 또는 아래 선택 메뉴에서 종목을 선택</div></div>
+        <div><div class="section-title" style="margin:0">종목별 가격 추세</div><div class="small">보유종목 카드 또는 아래 선택 메뉴에서 종목을 선택 · 기본 3개월</div><div class="filters" id="periodFilters" style="margin-top:8px"><button type="button" class="filter" data-period="1M">1M</button><button type="button" class="filter active" data-period="3M">3M</button><button type="button" class="filter" data-period="6M">6M</button><button type="button" class="filter" data-period="1Y">1Y</button></div></div>
         <select id="symbolSelect" style="max-width:170px;padding:8px;border:1px solid var(--line);border-radius:9px;background:#fff"></select>
       </div>
       <div class="chart-title-row"><div class="chart-selected" id="focusName">-</div><div class="chart-stats" id="focusStats">불러오는 중</div></div>
       <div id="focusChartHolder" style="width:100%;min-height:320px;border-radius:12px;overflow:hidden;border:1px solid var(--line);background:#fff">
         <div class="loading" style="height:320px">종목을 선택하면 최근 1개월 차트를 표시합니다.</div>
       </div>
-      <div class="legend"><span id="focusStart">1개월 전</span><span id="focusEnd">최근 거래일</span></div>
+      <div class="legend"><span id="focusStart">선택 기간 시작</span><span id="focusEnd">최근 거래일</span></div>
     </div>
   </section>
 
@@ -230,7 +230,7 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
     </div>
   </section>
 
-  <footer>v8 · 2026-10-01 · 사용자 제공 보유내역 기반. 종목별 평균매수가·현재가·평가손익·수익률·비중·예상배당을 표시하며, 최근 종가와 뉴스는 자동 갱신합니다. 배당 추정치는 공식 자료 확인 전 1차 추정값이 포함됩니다.</footer>
+  <footer>v9 · 2026-10-01 · 사용자 제공 보유내역 기반. 종목별 평균매수가·현재가·평가손익·수익률·비중·예상배당을 표시하며, 최근 종가와 뉴스는 자동 갱신합니다. 배당 추정치는 공식 자료 확인 전 1차 추정값이 포함됩니다.</footer>
 </div>
 
 <script>
@@ -271,6 +271,14 @@ const holdings = [
 
 let currentFilter = "전체";
 let marketData = {};
+let selectedPeriod = "3M";
+const periodPoints={ "1M":22, "3M":66, "6M":132, "1Y":270 };
+function pricesForPeriod(sym,period="3M"){
+  const d=marketData[sym];
+  if(!d || !d.prices) return [];
+  const n=periodPoints[period]||66;
+  return d.prices.slice(-n);
+}
 
 function pathFrom(vals,w=100,h=44,pad=3){
   if(!vals || vals.length<2) return "";
@@ -384,14 +392,14 @@ function updateSummary(){
   });
 }
 function sparkMarkup(sym){
-  const d=marketData[sym];
-  if(!d || !d.prices || d.prices.length<2){
-    return '<div class="spark-head"><span>최근 1개월</span><span class="ret">대기</span></div><div class="sparkbox"><div class="spark-empty">차트 준비중</div></div>';
+  const prices=pricesForPeriod(sym,"3M");
+  if(prices.length<2){
+    return '<div class="spark-head"><span>최근 3개월</span><span class="ret">대기</span></div><div class="sparkbox"><div class="spark-empty">차트 준비중</div></div>';
   }
-  const vals=d.prices.map(x=>x.close), first=vals[0], last=vals[vals.length-1];
+  const vals=prices.map(x=>x.close), first=vals[0], last=vals[vals.length-1];
   const min=Math.min(...vals), max=Math.max(...vals), span=(max-min)||1;
   const cy=(41-((last-min)/span)*38).toFixed(1);
-  return `<div class="spark-head"><span>최근 1개월</span><span class="ret ${last>=first?"pos":"neg"}">${pctText(first,last)}</span></div>
+  return `<div class="spark-head"><span>최근 3개월</span><span class="ret ${last>=first?"pos":"neg"}">${pctText(first,last)}</span></div>
   <div class="sparkbox"><svg class="spark" viewBox="0 0 100 44" preserveAspectRatio="none">
   <line class="sparkline-grid" x1="0" y1="41" x2="100" y2="41"/>
   <path class="sparkline-area" d="${areaFrom(vals)}"></path>
@@ -461,15 +469,15 @@ function renderFocus(i){
   const h=holdings[i];
   document.getElementById("focusName").textContent=h.name;
   const holder=document.getElementById("focusChartHolder");
-  const d=marketData[h.sym];
-  if(!d || !d.prices || d.prices.length<2){
+  const prices=pricesForPeriod(h.sym,selectedPeriod);
+  if(prices.length<2){
     document.getElementById("focusStats").textContent="차트 데이터 준비중";
-    holder.innerHTML='<div class="loading" style="height:320px">최근 1개월 데이터 준비중</div>';
-    document.getElementById("focusStart").textContent="1개월 전";
+    holder.innerHTML='<div class="loading" style="height:320px">선택 기간 데이터 준비중</div>';
+    document.getElementById("focusStart").textContent=selectedPeriod+" 시작";
     document.getElementById("focusEnd").textContent="최근 거래일";
     return;
   }
-  const vals=d.prices.map(x=>x.close), dates=d.prices.map(x=>x.date);
+  const vals=prices.map(x=>x.close), dates=prices.map(x=>x.date);
   const min=Math.min(...vals), max=Math.max(...vals), span=(max-min)||1;
   const W=720,H=240,p=18;
   const line=vals.map((v,j)=>{
@@ -484,9 +492,20 @@ function renderFocus(i){
     <path class="sparkline-path" d="${line}"></path>
   </svg>`;
   const first=vals[0], last=vals[vals.length-1];
-  document.getElementById("focusStats").innerHTML=`1개월 <span class="${last>=first?"pos":"neg"}" style="font-weight:850">${pctText(first,last)}</span><br>${first.toLocaleString(undefined,{maximumFractionDigits:2})} → ${last.toLocaleString(undefined,{maximumFractionDigits:2})}`;
-  document.getElementById("focusStart").textContent=dates[0]||"1개월 전";
+  document.getElementById("focusStats").innerHTML=`${selectedPeriod} <span class="${last>=first?"pos":"neg"}" style="font-weight:850">${pctText(first,last)}</span><br>${first.toLocaleString(undefined,{maximumFractionDigits:2})} → ${last.toLocaleString(undefined,{maximumFractionDigits:2})}`;
+  document.getElementById("focusStart").textContent=dates[0]||selectedPeriod+" 시작";
   document.getElementById("focusEnd").textContent=dates[dates.length-1]||"최근 거래일";
+}
+function setupPeriodFilters(){
+  const box=document.getElementById("periodFilters");
+  if(!box) return;
+  box.querySelectorAll("[data-period]").forEach(b=>b.addEventListener("click",()=>{
+    box.querySelectorAll("[data-period]").forEach(x=>x.classList.remove("active"));
+    b.classList.add("active");
+    selectedPeriod=b.dataset.period;
+    const sel=document.getElementById("symbolSelect");
+    renderFocus(+sel.value||0);
+  }));
 }
 async function loadMarketData(){
   try{
@@ -497,7 +516,7 @@ async function loadMarketData(){
 }
 async function init(){
   await loadMarketData();
-  setupFilters(); renderHoldings(); renderAllocation(); renderDividend(); updateSummary();
+  setupFilters(); setupPeriodFilters(); renderHoldings(); renderAllocation(); renderDividend(); updateSummary();
   const sel=document.getElementById("symbolSelect"); sel.innerHTML=holdings.map((h,i)=>`<option value="${i}">${h.name}</option>`).join(""); sel.addEventListener("change",()=>renderFocus(+sel.value));
   document.querySelectorAll(".tab").forEach(btn=>btn.addEventListener("click",()=>{
     document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active")); document.querySelectorAll(".panel").forEach(x=>x.classList.remove("active"));
