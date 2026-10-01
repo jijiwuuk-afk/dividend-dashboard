@@ -28,7 +28,7 @@ def fetch_rss(query, lang="ko", country="KR"):
         return r.read()
 
 def fetch_prices(symbol):
-    url=f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(symbol)}?range=1mo&interval=1d&includePrePost=false&events=div%2Csplits"
+    url=f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(symbol)}?range=1y&interval=1d&includePrePost=false&events=div%2Csplits"
     req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0 DividendDashboard/1.0"})
     with urllib.request.urlopen(req,timeout=20) as r:
         raw=json.loads(r.read().decode("utf-8"))
@@ -40,7 +40,7 @@ def fetch_prices(symbol):
         if cl is None: continue
         dt=datetime.fromtimestamp(ts,tz=timezone.utc).astimezone(timezone(timedelta(hours=9)))
         prices.append({"date":dt.strftime("%m/%d"),"close":round(float(cl),4)})
-    return {"prices":prices[-30:]}
+    return {"prices":prices[-270:]}
 
 items=[]
 seen=set()
