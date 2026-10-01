@@ -113,6 +113,7 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
     <div class="card kpi"><div class="label">전체 수익률</div><div class="value neg">약 -8.5%</div><div class="note">국내+해외 합산 추정 · 환율손익 제외</div></div>
     <div class="card kpi"><div class="label">국내 수익률</div><div class="value neg">약 -13.0%</div><div class="note">국내 상장 종목·ETF·연금계좌 합산</div></div>
     <div class="card kpi"><div class="label">해외 수익률</div><div class="value pos">약 +13.4%</div><div class="note">미국 직접보유 계좌 합산</div></div>
+    <div class="card kpi"><div class="label">원/달러 환율</div><div class="value" id="fxNow">불러오는 중</div><div class="note" id="fxKpiNote">USD/KRW 자동 갱신</div></div>
   </div>
 
   <div class="tabs">
@@ -121,6 +122,7 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
     <button class="tab" data-tab="dividend">배당</button>
     <button class="tab" data-tab="allocation">자산비중</button>
     <button class="tab" data-tab="accounts">계좌별</button>
+    <button class="tab" data-tab="fx">환율</button>
     <button class="tab" data-tab="issues">종목 이슈</button>
     <button class="tab" data-tab="news">최신 뉴스</button>
     <button class="tab" data-tab="watch">추가매수 후보</button>
@@ -188,6 +190,32 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
     </div>
   </section>
 
+  <section id="fx" class="panel">
+    <div class="main">
+      <div class="card">
+        <div class="section-title">원/달러 환율 현황</div>
+        <div class="goalgrid">
+          <div class="goal"><div class="small">현재 환율</div><strong id="fxCurrent">-</strong></div>
+          <div class="goal"><div class="small">전일 대비</div><strong id="fxDay">-</strong></div>
+          <div class="goal"><div class="small">최근 1개월</div><strong id="fx1m">-</strong></div>
+          <div class="goal"><div class="small">최근 3개월</div><strong id="fx3m">-</strong></div>
+        </div>
+        <div class="small" id="fxStatus" style="margin-top:10px">환율 데이터 불러오는 중</div>
+      </div>
+      <div class="card">
+        <div class="section-title">최근 3개월 환율 추세</div>
+        <div id="fxChartHolder" style="width:100%;min-height:250px;border:1px solid var(--line);border-radius:12px;background:#fff;overflow:hidden">
+          <div class="loading" style="height:250px">환율 차트 준비중</div>
+        </div>
+        <div class="legend"><span id="fxStart">3개월 전</span><span id="fxEnd">최근 거래일</span></div>
+      </div>
+    </div>
+    <div class="card" style="margin-top:10px">
+      <div class="section-title">미국주식 원화 환산</div>
+      <div class="small">미국주식 카드에는 달러 평가액과 함께 현재 환율 기준 원화 환산액을 표시합니다.</div>
+    </div>
+  </section>
+
   <section id="issues" class="panel">
     <div class="main">
       <div class="card">
@@ -230,7 +258,7 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
     </div>
   </section>
 
-  <footer>v9 · 2026-10-01 · 사용자 제공 보유내역 기반. 종목별 평균매수가·현재가·평가손익·수익률·비중·예상배당을 표시하며, 최근 종가와 뉴스는 자동 갱신합니다. 배당 추정치는 공식 자료 확인 전 1차 추정값이 포함됩니다.</footer>
+  <footer>v10 · 2026-10-01 · 사용자 제공 보유내역 기반. 종목별 평균매수가·현재가·평가손익·수익률·비중·예상배당을 표시하며, 최근 종가와 뉴스는 자동 갱신합니다. 배당 추정치는 공식 자료 확인 전 1차 추정값이 포함됩니다.</footer>
 </div>
 
 <script>
@@ -412,6 +440,7 @@ function holdingCard(h,i){
     <div>
       <div class="h-top"><div><div class="h-name">${h.name}</div><div class="h-type">${h.type}</div></div></div>
       <div class="h-meta"><span><b>${h.qty}</b></span><span><b>${fmt(liveValue(h),currencyOf(h))}</b></span><span class="${liveRet(h)>=0?'pos':'neg'}"><b>${fmtPct(liveRet(h))}</b></span></div>
+      ${currencyOf(h)==="USD"?`<div class="h-note" style="margin-top:4px">원화 환산 약 ${Math.round(liveValue(h)*usdkrw()).toLocaleString()}원 · 환율 ${Math.round(usdkrw()).toLocaleString()}원/$</div>`:""}
       <div class="detail-grid">
         <div class="detail-item"><div class="dl">평균매수가</div><div class="dv">${fmtPrice(costBasis(h)/Math.max(qtyNum(h),1),currencyOf(h))}</div></div>
         <div class="detail-item"><div class="dl">현재가</div><div class="dv">${fmtPrice(latestPrice(h),currencyOf(h))}</div></div>
@@ -507,6 +536,39 @@ function setupPeriodFilters(){
     renderFocus(+sel.value||0);
   }));
 }
+function renderFx(){
+  const d=marketData["_fx_usdkrw"];
+  const prices=d&&Array.isArray(d.prices)?d.prices:[];
+  if(!prices.length){
+    const now=usdkrw();
+    const text=Math.round(now).toLocaleString()+"원";
+    const k=document.getElementById("fxNow"); if(k) k.textContent=text;
+    const c=document.getElementById("fxCurrent"); if(c) c.textContent=text;
+    return;
+  }
+  const vals=prices.map(x=>x.close), last=vals[vals.length-1], prev=vals.length>1?vals[vals.length-2]:last;
+  const p1=prices.slice(-22), p3=prices.slice(-66);
+  const pct=(a,b)=>a?((b/a)-1):0;
+  const dday=pct(prev,last), d1=p1.length>1?pct(p1[0].close,last):0, d3=p3.length>1?pct(p3[0].close,last):0;
+  const avg3=p3.reduce((a,x)=>a+x.close,0)/Math.max(p3.length,1);
+  const status=last>avg3*1.02?"최근 3개월 평균보다 높은 편":last<avg3*0.98?"최근 3개월 평균보다 낮은 편":"최근 3개월 평균 부근";
+  const set=(id,txt,cls)=>{const e=document.getElementById(id);if(e){e.textContent=txt;if(cls)e.className=cls}};
+  set("fxNow",Math.round(last).toLocaleString()+"원");
+  const note=document.getElementById("fxKpiNote"); if(note) note.textContent=status;
+  set("fxCurrent",Math.round(last).toLocaleString()+"원");
+  set("fxDay",fmtPct(dday),dday>=0?"pos":"neg");
+  set("fx1m",fmtPct(d1),d1>=0?"pos":"neg");
+  set("fx3m",fmtPct(d3),d3>=0?"pos":"neg");
+  const st=document.getElementById("fxStatus"); if(st) st.textContent=status+" · 3개월 평균 약 "+Math.round(avg3).toLocaleString()+"원";
+  const holder=document.getElementById("fxChartHolder");
+  if(holder&&p3.length>1){
+    const v=p3.map(x=>x.close), min=Math.min(...v), max=Math.max(...v), span=(max-min)||1;
+    const W=720,H=210,p=18;
+    const line=v.map((x,i)=>{const xx=p+(i/(v.length-1))*(W-p*2);const yy=H-p-((x-min)/span)*(H-p*2);return `${i?"L":"M"}${xx.toFixed(1)},${yy.toFixed(1)}`}).join(" ");
+    holder.innerHTML=`<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" style="width:100%;height:250px;display:block"><line class="sparkline-grid" x1="${p}" y1="${H-p}" x2="${W-p}" y2="${H-p}"></line><path class="sparkline-path" d="${line}"></path></svg>`;
+    const a=document.getElementById("fxStart"),b=document.getElementById("fxEnd"); if(a)a.textContent=p3[0].date||"3개월 전"; if(b)b.textContent=p3[p3.length-1].date||"최근 거래일";
+  }
+}
 async function loadMarketData(){
   try{
     const r=await fetch("./data/market_data.json?ts="+Date.now(),{cache:"no-store"});
@@ -516,7 +578,7 @@ async function loadMarketData(){
 }
 async function init(){
   await loadMarketData();
-  setupFilters(); setupPeriodFilters(); renderHoldings(); renderAllocation(); renderDividend(); updateSummary();
+  setupFilters(); setupPeriodFilters(); renderHoldings(); renderAllocation(); renderDividend(); updateSummary(); renderFx();
   const sel=document.getElementById("symbolSelect"); sel.innerHTML=holdings.map((h,i)=>`<option value="${i}">${h.name}</option>`).join(""); sel.addEventListener("change",()=>renderFocus(+sel.value));
   document.querySelectorAll(".tab").forEach(btn=>btn.addEventListener("click",()=>{
     document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active")); document.querySelectorAll(".panel").forEach(x=>x.classList.remove("active"));
