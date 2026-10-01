@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01 10:12 KST",
+  "updated_at": "2026-10-01 10:23 KST",
   "items": [
     {
       "ticker": "0072R0",
@@ -9,17 +9,7 @@
       "source": "매일경제 마켓",
       "published": "10-01 10:07",
       "published_iso": "2026-10-01T01:07:34+00:00",
-      "age": "4분 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "Google Cloud, AI 성장 및 모멘텀에 힘입어 Alphabet 주가 2% 이상 상승 - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTZkQV8zb2ZqdjJ6SU1SaXRKT290WkN3c3N5U2ZGbzZfbU5OX0E5ZVVDVGNPMGRYdHB2aUJMNlM5SWhvb1dwUmp6cHdsSVdIaThLYzE0dm1Fc1RBQnBFbVoyaVVUbjRtSWM1MkhUTnFoZlJDXzV2UjJnY1QwWDFONzNpTmxsQW1MVkVWTWJWSUtsQkE?oc=5",
-      "source": "Traders Union",
-      "published": "10-01 03:48",
-      "published_iso": "2026-09-30T18:48:45+00:00",
-      "age": "6시간 전"
+      "age": "15분 전"
     },
     {
       "ticker": "GOOG",
@@ -29,7 +19,7 @@
       "source": "TradingKey",
       "published": "10-01 01:16",
       "published_iso": "2026-09-30T16:16:06+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "ZETA",
@@ -82,6 +72,16 @@
       "age": "14시간 전"
     },
     {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "AMD(AMD), 페이페이 리의 월드 랩스 인수로 AI 판을 더 키운다 - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBaQ1ZBOXpDV3ZOejJnYzNRYTdpbVJCS3FZaXIzLUsyM0NqS0x5bktQTDZIckhaai1PdDlEbS01WmFyYmtaRUFzUV85WEZTLXFDVmFyNnpaQ1RNdUpBbGtvdG5HTi1yekNwUjJPbHppNGRYbzBTRTlkb0xzTkpNN0piemkxXzFwbVVpcGYzT0tsUEFtRDhfYUpLem5ZX2JXaDdPN0NNekI0VEFqWWfSAa4BQVVfeXFMTzRQWkNWQTl6Q1d2TnoyZ2MzUWE3aW1SQktxWWlyMy1LMjNDaktMeW5LUEw2SHJIWmotT3Q5RG0tNVphcmJrWkVBc1FfOVhGUy1xQ1ZhcjZ6WkNUTXVKQWxrb3RuR04tcnpDcFIyT2x6aTRkWG8wU0U5ZG9Mc05KTTdKYnppMV8xcG1VaXBmM09LbFBBbUQ4X2FKS3puWV9iV2g3TzdDTXpCNFRBalln?oc=5",
+      "source": "simplywall.st",
+      "published": "09-30 12:54",
+      "published_iso": "2026-09-30T03:54:27+00:00",
+      "age": "21시간 전"
+    },
+    {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "왜 테슬라(TSLA)는 인도량 우려와 금리 부담 앞에서 시험대에 올랐나? - simplywall.st",
@@ -89,6 +89,16 @@
       "source": "simplywall.st",
       "published": "09-30 12:54",
       "published_iso": "2026-09-30T03:54:26+00:00",
+      "age": "21시간 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "샌디스크(SNDK) 포럼 기대감 커진다, 지금 주가는 아직 저평가 구간일까? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTlUtZG9OT3RQZUlmbXZEaV9QeFZUQmVGNGcwQkY0a2RIbEV2dW5Jd3FZSkJwTGFhUkYtWnZwMTNQTWd3SG1tQ3dSNzZuOThGaHZEcGV0bUtIMTJydGY1N3NQR3REeUE2TGwyQ2E5eHhuUnVVZlZfcGhmR2tvQUU3VzYzUXZTWkFq0gGOAUFVX3lxTE1vVWV4X3ZRZEdqOTFKSm9sc2FvZ2FHTTRIcFZkMDFWXy1NZVdBdlViY0xaZEdBb3FIT3lGc01UT2RNX0xBWmwxM1RRSU1MQ0dYV3pETVVDMERCOGpRUVFLNWNyTUhtMjBTNmFNaU9qR0lkcldVa0hEckxFalhJUmlqdFpPa2hzR3FDYjFHNFE?oc=5",
+      "source": "simplywall.st",
+      "published": "09-30 12:54",
+      "published_iso": "2026-09-30T03:54:24+00:00",
       "age": "21시간 전"
     },
     {
@@ -109,7 +119,7 @@
       "source": "아이투자",
       "published": "09-30 12:14",
       "published_iso": "2026-09-30T03:14:35+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "GEV",
@@ -199,16 +209,6 @@
       "source": "매일경제",
       "published": "09-29 18:54",
       "published_iso": "2026-09-29T09:54:50+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "Nvidia, AI 안전 입장에 교황 레오 14세 질책 직면 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fNWQ0VWJ3WW9fRkJjSDB4eTExT3FqUmcyVXgtOV8xV1BaOGtOdHdMbXdOVENRRmx1Q2tIY3FVM0FoSlJTdFRnVEdhNkNJSmtaY2YxeU9BOXJNZ3c4cjhNejNsNzFuUm9DbnFBS3R1WDlOWjdCSjI0?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "09-29 18:54",
-      "published_iso": "2026-09-29T09:54:00+00:00",
       "age": "1일 전"
     },
     {
@@ -462,13 +462,13 @@
       "age": "2일 전"
     },
     {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "Samsung Electronics, SK hynix fall after Chuseok break - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkblJQdmx6LU5JRENSSXJNeEJhSXBwTlhIckxSZGtmVWtLTWhldVhqam9hMDJYQXRTX3FmS3o2SFFZcXk5dFBaOTlLbGxJbDE2U1JZ?oc=5",
-      "source": "매일경제",
-      "published": "09-28 20:16",
-      "published_iso": "2026-09-28T11:16:56+00:00",
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "Nvidia, AI 지배력으로 1,500억 달러 역사적 자사주 매입 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94OVRGaV9EbU5qX2JweHU5c2k0TWI4RmIyZ2xPcm5ZaU9najRoT0YxeFJmOFphSG9teC1LajRRVm9ZQmw5cXd1VmhCcFQ0VF9oSUlfazVuMGYyV2xwZlhZUkRIa1FFcndYZUJrU2tqSXA?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "09-28 20:13",
+      "published_iso": "2026-09-28T11:13:00+00:00",
       "age": "2일 전"
     },
     {
@@ -534,9 +534,9 @@
     {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
-      "title": "미래에셋운용, '미국배당다우존스'로 변동성 장세 대응 주목 - newswatch.kr",
+      "title": "미래에셋운용, '미국배당다우존스'로 변동성 장세 대응 주목 - 뉴스워치",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ReFp3QjhVY3ZCV2ZiWkZFY1NDSXhMU29sQ2xiOWcwakg3cnJEdi1kNGpzS3ZJN1czall3UDNDTkE2aWNZeFNnWmhneWQwbk1lekZ1RXJreDQ2Z2FfN25BTUs1TGhKSEJF?oc=5",
-      "source": "newswatch.kr",
+      "source": "뉴스워치",
       "published": "09-28 16:17",
       "published_iso": "2026-09-28T07:17:28+00:00",
       "age": "2일 전"
@@ -559,7 +559,7 @@
       "source": "뉴시스",
       "published": "09-28 10:12",
       "published_iso": "2026-09-28T01:12:26+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "379810",
@@ -569,7 +569,17 @@
       "source": "뉴시스",
       "published": "09-28 10:12",
       "published_iso": "2026-09-28T01:12:26+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "SK Hynix, 구름대 지지선 갈림길 ₩1,777,000: 매시간 업데이트 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nWW9LTkZneUhwZDRDV1BuYldBRlB4OTAwUXVOUTFpeGxmQ2ZrcVRrNTRJWDdGem56RjBQOGhOemxfSXVMbE5PbWFGU2JNNTNhbVkyTWpIa1Bfek0xT0J4TTFwYmd4V0t2Y2hadEpTeURHdEh1N25j?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "09-28 10:11",
+      "published_iso": "2026-09-28T01:11:49+00:00",
+      "age": "3일 전"
     },
     {
       "ticker": "ZETA",
@@ -682,16 +692,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "이익 성장률 최대 65%를 겨냥한 Amylyx Pharmaceuticals Sandisk ASML 주식 3선 - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdmlIZXpvd0pqVk1rZ1pQOEE5bHh5NUhmSnlfQUk1SGQzVXBRTnRzdTlKVkUzWnZCandYMHBfV1VITm5zLWk0LXMyZHd4S3FlUW5YUktTTWVMM3NUbVd1dTJGMHlsd3FsNFhibURpNFBndy1rWUNoT3dSSUhLNTRiUDFBS2VRdnZsdFN1czRaNzlvNGFNOGh2UllwYWF5SWVaT1ZLeTJ4MWh4VUwzSkZFNlQ3QUEwT0hmbVVj0gG7AUFVX3lxTE52aUhlem93SmpWTWtnWlA4QTlseHk1SGZKeV9BSTVIZDNVcFFOdHN1OUpWRTNadkJqd1gwcF9XVUhObnMtaTQtczJkd3hLcWVRblhSS1NNZUwzc1RtV3V1MkYweWx3cWw0WGJtRGk0UGd3LWtZQ2hPd1JJSEs1NGJQMUFLZVF2dmx0U3VzNFo3OW80YU04aHZSWXBhYXlJZVpPVkt5MngxaHhVTDNKRkU2VDdBQTBPSGZtVWM?oc=5",
-      "source": "simplywall.st",
-      "published": "09-27 06:48",
-      "published_iso": "2026-09-26T21:48:48+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
       "title": "롤코장 이은 '박스피'…개미들은 美 ETF로 몰렸다 - v.daum.net",
@@ -704,9 +704,9 @@
     {
       "ticker": "VOO",
       "name": "Vanguard S&P 500 ETF",
-      "title": "S&P500 ETF 2026년 최신 비교: 나에게 맞는 선택은? : 해외증시 - news.jkn.co.kr",
+      "title": "S&P500 ETF 2026년 최신 비교: 나에게 맞는 선택은? : 해외증시 - 재경일보",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5zMDYyTHlzOWVROEdyMEM3a2FhdU5jNzVobVhMNHNQSnF0TVN6QXVTeE1Za2FfNldwTDhNZURXaDB6SmU3S2Q2aFNB?oc=5",
-      "source": "news.jkn.co.kr",
+      "source": "재경일보",
       "published": "09-26 11:17",
       "published_iso": "2026-09-26T02:17:00+00:00",
       "age": "4일 전"
@@ -744,9 +744,9 @@
     {
       "ticker": "SCHD",
       "name": "Schwab U.S. Dividend Equity ETF",
-      "title": "비트 카지노 의 미래: 새로운 트렌드와 발전 방향 - 스텝 바이 스텝 가이드 - Calgary Roughnecks",
+      "title": "비트 카지노 의 미래: 새로운 트렌드와 발전 방향 - 스텝 바이 스텝 가이드 - calgaryroughnecks.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZTZINnk1Y2xXYWo3ZnMzMlVheDY5UFp3TTZsUy11ZTQzNlN1Rm1xbDVVUlJ0b1pSaENaZEhEb2ZZZ19XU0NtS0twZHhmRzFNQ1pPVF85NlpQOWdOQTRNN3NBQTF1V0RsRUZKc0xYQW1jZkFjTEJXUjZJdGZqcEY1cWNR?oc=5",
-      "source": "Calgary Roughnecks",
+      "source": "calgaryroughnecks.com",
       "published": "09-26 05:34",
       "published_iso": "2026-09-25T20:34:17+00:00",
       "age": "5일 전"
@@ -809,16 +809,6 @@
       "source": "CoinDesk",
       "published": "09-25 17:38",
       "published_iso": "2026-09-25T08:38:00+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "왜 AMD(AMD)는 엣지 AI와 클라우드 추론 채택에서 새 진전을 보이고 있을까? - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaDA2ei1RS2hBcWczN3ZxR01DQ0k3WlVtb0ZpbGFaS3dpRnZtYWdfQk1HazJqQ3p0cTgwX2JvRE5MbzhnZkJBQ3NiTWcxbzlHaklTUlh4dEJVQUJGU1lBd2JUWm1pankwRWNCdlhTTUtRYU4xcGZHT0FCOGFqNThwVnFmTUFNOVJvNGdzTDJVUTFoTDFUejAzVGt6bDlLRE9VWW1HdGVucmLSAa4BQVVfeXFMUDFibk5PakpKck9wY2NaM0NPOWdUN05sMWZsZUJCRzhjclVwdldmQS13WHMtRWdibVNBMzNBYXJmN1k2dVZSQk04NWp2YkViM2pzMUcxS1REMkJMZGxodFlCcTVDcXZ0TEVsU3RNUWZCc1VrNWppU3VpOFh3azdxV3d0UE5mT0tsNVVZdURidXQta2ZLZi1oQXBKbW1Ya1Z3YkV6aUExWGZPT3ZkZ2ZB?oc=5",
-      "source": "simplywall.st",
-      "published": "09-25 16:00",
-      "published_iso": "2026-09-25T07:00:00+00:00",
       "age": "5일 전"
     },
     {
@@ -999,6 +989,16 @@
       "source": "simplywall.st",
       "published": "09-24 17:20",
       "published_iso": "2026-09-24T08:20:10+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "SanDisk Corporation (SNDK) 주식 움직였습니다 하락 3.62%에 9월24일: 변동을 뒷받침하는 사실 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZkM5MmZ4d05ZYTBJMV9ERVZzaXRDQ1FDek1iRmF4MVpQTDZSeWhlZ3p2TUFDUVlqVnVvRTFPUGF5RnJyWWNsa1d1OXotRnItejZjNGZyVDFWTzJaU3FhU1Z4Z3JjZnd0cnF3VWhRUXNNZVlDbWN4TlB0dGtKMDBBR2I1NXQ3WkJRRktPdTR5cw?oc=5",
+      "source": "TradingKey",
+      "published": "09-24 16:15",
+      "published_iso": "2026-09-24T07:15:00+00:00",
       "age": "6일 전"
     }
   ]
