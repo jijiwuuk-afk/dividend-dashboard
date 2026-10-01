@@ -80,6 +80,16 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
 .sparkline-grid{stroke:#e5eaf2;stroke-width:1}
 .sparkline-dot{fill:#2563eb}
 .spark-empty{height:54px;display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:10px}
+.detail-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:5px;margin-top:8px}
+.detail-item{background:#f8fafc;border-radius:8px;padding:6px 7px;min-width:0}
+.detail-item .dl{font-size:9px;color:var(--muted);margin-bottom:2px}.detail-item .dv{font-size:10px;font-weight:800;overflow-wrap:anywhere}
+.alloc-row{display:grid;grid-template-columns:120px minmax(0,1fr) 58px;gap:8px;align-items:center;margin:9px 0;font-size:11px}
+.alloc-bar{height:9px;background:#edf1f7;border-radius:999px;overflow:hidden}.alloc-bar span{display:block;height:100%;background:var(--accent)}
+.account-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px}
+.account-card{background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px}.account-card .an{font-size:12px;font-weight:850}.account-card .av{font-size:17px;font-weight:850;margin-top:5px}.account-card .as{font-size:10px;color:var(--muted);margin-top:4px;line-height:1.4}
+.div-row{display:grid;grid-template-columns:minmax(0,1.5fr) .8fr .8fr .7fr;gap:8px;padding:9px 0;border-bottom:1px solid var(--line);font-size:11px;align-items:center}.div-row:last-child{border-bottom:0}.div-head{font-size:10px;color:var(--muted);font-weight:700}
+.signal{display:inline-block;border-radius:999px;padding:4px 7px;font-size:10px;font-weight:800;background:#eef4ff;color:#2757b6}
+@media(max-width:640px){.detail-grid{grid-template-columns:1fr 1fr}.account-grid{grid-template-columns:1fr}.alloc-row{grid-template-columns:90px minmax(0,1fr) 50px}.div-row{grid-template-columns:minmax(0,1.3fr) .8fr .8fr}.div-row>*:nth-child(4){display:none}}
 
 </style>
 </head>
@@ -105,6 +115,8 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
     <button class="tab active" data-tab="holdings">보유종목</button>
     <button class="tab" data-tab="trend">한달 추세</button>
     <button class="tab" data-tab="dividend">배당</button>
+    <button class="tab" data-tab="allocation">자산비중</button>
+    <button class="tab" data-tab="accounts">계좌별</button>
     <button class="tab" data-tab="issues">종목 이슈</button>
     <button class="tab" data-tab="news">최신 뉴스</button>
     <button class="tab" data-tab="watch">추가매수 후보</button>
@@ -132,11 +144,45 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
 
   <section id="dividend" class="panel">
     <div class="main">
-      <div class="card"><div class="section-title">배당 목표</div><div class="goalgrid"><div class="goal"><div class="small">현재 월평균</div><strong>약 23.3만원</strong></div><div class="goal"><div class="small">목표까지</div><strong>약 6.7만원</strong></div></div></div>
-      <div class="card"><div class="section-title">운영 원칙</div><div class="watch"><div class="name">배당금</div><div class="reason">100% 재투자</div></div><div class="watch"><div class="name">추가매수</div><div class="reason">월 60만원 정기매수 + 가격매력 발생 시 기회매수</div></div><div class="watch"><div class="name">보유</div><div class="reason">단기 가격보다 펀더멘털·배당 지속성·장기 성장성 우선</div></div></div>
+      <div class="card"><div class="section-title">배당 목표</div><div class="goalgrid"><div class="goal"><div class="small">현재 월평균</div><strong>약 23.3만원</strong></div><div class="goal"><div class="small">목표까지</div><strong>약 6.7만원</strong></div></div><div class="small" style="margin-top:10px">현재 수치는 기존 1차 추정치입니다. 종목별 공식 분배금 데이터가 확인될 때마다 갱신합니다.</div></div>
+      <div class="card"><div class="section-title">운영 원칙</div><div class="watch"><div class="name">배당금</div><div class="reason">100% 재투자</div></div><div class="watch"><div class="name">추가매수</div><div class="reason">월 60만원 정기매수 + 조건 충족 시 기회매수</div></div><div class="watch"><div class="name">보유</div><div class="reason">단기 가격보다 펀더멘털·배당 지속성·장기 성장성 우선</div></div></div>
+    </div>
+    <div class="card" style="margin-top:10px">
+      <div class="chart-title-row"><div><div class="section-title" style="margin:0">종목별 예상 배당</div><div class="small">확인 가능한 기존 추정자료 기준 · 공식 분배금 확인 시 갱신</div></div></div>
+      <div id="dividendRows"></div>
+    </div>
+    <div class="card" style="margin-top:10px">
+      <div class="section-title">배당 캘린더</div>
+      <div class="goalgrid">
+        <div class="goal"><div class="small">월배당 중심</div><strong>JEPI · JEPQ · 배당 ETF</strong></div>
+        <div class="goal"><div class="small">분기배당 중심</div><strong>SCHD · VOO · 국내 대형주</strong></div>
+      </div>
+      <div class="small" style="margin-top:10px">정확한 지급월·금액은 각 운용사/기업의 최신 공시 확인 후 자동화 범위를 확장할 예정입니다.</div>
     </div>
   </section>
 
+
+  <section id="allocation" class="panel">
+    <div class="main">
+      <div class="card"><div class="section-title">자산유형 비중</div><div class="small">보유수량·최근 종가·USD/KRW 환산을 기준으로 계산</div><div id="allocationRows" style="margin-top:10px"></div></div>
+      <div class="card"><div class="section-title">집중도 점검</div><div id="topWeights"></div><div class="notice" style="margin-top:10px">미국 지수 ETF와 반도체·빅테크 개별주가 겹쳐 실제 기초자산 기준 노출은 단순 종목수보다 높을 수 있습니다. ETF 세부 편입비중까지 합산한 중복노출은 별도 정밀분석 대상입니다.</div></div>
+    </div>
+  </section>
+
+  <section id="accounts" class="panel">
+    <div class="card">
+      <div class="section-title">계좌별 현황</div>
+      <div class="small" style="margin-bottom:10px">마지막으로 제공된 각 증권사 캡처 기준입니다. 캡처 시점이 서로 달라 계좌 간 직접 비교는 참고용입니다.</div>
+      <div class="account-grid">
+        <div class="account-card"><div class="an">토스증권</div><div class="av">최근 보유현황 반영</div><div class="as">미국 종목 수량·평가금액·수익률 2026-10-01 반영<br>국내 보유분은 기존 캡처 기준</div></div>
+        <div class="account-card"><div class="an">메리츠</div><div class="av">17,488,000원</div><div class="as">수익률 -33.06% · 삼성전자·SK하이닉스·현대자동차</div></div>
+        <div class="account-card"><div class="an">나무 일반</div><div class="av">58,210,140원</div><div class="as">수익률 -3.84% · 국내상장 ETF 중심</div></div>
+        <div class="account-card"><div class="an">나무 DC/IRP</div><div class="av">1,746,670원</div><div class="as">현금성 자산 제외 투자금액 · 수익률 원자료 불일치로 확인 필요</div></div>
+        <div class="account-card"><div class="an">키움 연금저축</div><div class="av">13,913,875원</div><div class="as">수익률 -10.2% · 미국지수·배당·AI인프라·금</div></div>
+        <div class="account-card"><div class="an">별도 미국계좌</div><div class="av">$10,311.33</div><div class="as">수익률 +1.32% · JEPI 88주 · JEPQ 87주</div></div>
+      </div>
+    </div>
+  </section>
 
   <section id="issues" class="panel">
     <div class="main">
@@ -176,11 +222,11 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
   <section id="watch" class="panel">
     <div class="main">
       <div class="card"><div class="section-title">추가매수 후보 선정 기준</div><div class="watch"><div class="name">배당 지속성</div><div class="reason">배당 삭감 위험 및 현금흐름 확인</div></div><div class="watch"><div class="name">밸류에이션</div><div class="reason">장기 평균 대비 가격 매력 확인</div></div><div class="watch"><div class="name">실적·펀더멘털</div><div class="reason">일시적 가격조정과 구조적 훼손 구분</div></div><div class="watch"><div class="name">중복 노출</div><div class="reason">미국 지수·반도체·배당 ETF 중복 반영</div></div></div>
-      <div class="card"><div class="section-title">추천 방식</div><div class="notice">보유종목의 최근 이슈를 먼저 확인한 뒤, 장기 투자논리·배당 지속성·밸류에이션·포트폴리오 비중을 종합해 추가매수 검토가 명확한 종목만 제시합니다. 단순 급락 종목을 자동 추천하지 않습니다.</div></div>
+      <div class="card"><div class="section-title">현재 상태</div><div class="watch"><div class="name">추가매수 검토</div><div class="reason"><span class="signal">현재 없음</span> · 단순 가격하락만으로 후보를 지정하지 않음</div></div><div class="watch"><div class="name">집중도 관찰</div><div class="reason">미국 지수 ETF와 반도체·빅테크 개별주 중복노출을 함께 점검</div></div><div class="notice" style="margin-top:10px">실적·가이던스·배당 지속성·밸류에이션·포트폴리오 비중이 함께 유리해졌을 때만 ‘추가매수 검토’로 표시합니다.</div></div>
     </div>
   </section>
 
-  <footer>v5 · 2026-10-01 · 사용자 제공 보유내역 기반. 주가 추세는 최근 1개월 종가 데이터를 서버에서 미리 갱신해 대시보드 안에서 직접 표시합니다.</footer>
+  <footer>v6 · 2026-10-01 · 사용자 제공 보유내역 기반. 종목별 평균매수가·현재가·평가손익·수익률·비중·예상배당을 표시하며, 최근 종가와 뉴스는 자동 갱신합니다. 배당 추정치는 공식 자료 확인 전 1차 추정값이 포함됩니다.</footer>
 </div>
 
 <script>
@@ -214,8 +260,8 @@ const holdings = [
 {name:"AVGO · Broadcom Inc.",type:"미국 개별주",qty:"0.719168주",value:"$253.55",note:"토스",ret:"-8.0%",sym:"AVGO",tv:"NASDAQ:AVGO"},
 {name:"GLDM · SPDR Gold MiniShares Trust",type:"미국 ETF",qty:"3.946672주",value:"$324.41",note:"토스",ret:"-9.1%",sym:"GLDM",tv:"AMEX:GLDM"},
 {name:"TSLA · Tesla, Inc.",type:"미국 개별주",qty:"0.974065주",value:"$345.56",note:"토스",ret:"-12.5%",sym:"TSLA",tv:"NASDAQ:TSLA"},
-{name:"JEPI · JPMorgan Equity Premium Income ETF",type:"미국 ETF",qty:"88주",value:"별도 미국계좌",note:"",ret:"+0.7%",sym:"JEPI",tv:"AMEX:JEPI"},
-{name:"JEPQ · JPMorgan Nasdaq Equity Premium Income ETF",type:"미국 ETF",qty:"87주",value:"별도 미국계좌",note:"",ret:"+2.0%",sym:"JEPQ",tv:"NASDAQ:JEPQ"}
+{name:"JEPI · JPMorgan Equity Premium Income ETF",type:"미국 ETF",qty:"88주",value:"$4,984.32",note:"별도 미국계좌",ret:"+0.7%",sym:"JEPI",tv:"AMEX:JEPI"},
+{name:"JEPQ · JPMorgan Nasdaq Equity Premium Income ETF",type:"미국 ETF",qty:"87주",value:"$5,327.01",note:"별도 미국계좌",ret:"+2.0%",sym:"JEPQ",tv:"NASDAQ:JEPQ"}
 ];
 
 
@@ -240,6 +286,99 @@ function pctText(first,last){
   const p=((last/first)-1)*100;
   return (p>=0?"+":"")+p.toFixed(1)+"%";
 }
+const FALLBACK_USDKRW=1360.81;
+function numText(v){return parseFloat(String(v||"").replace(/[^0-9.\-]/g,""))||0}
+function qtyNum(h){return numText(h.qty)}
+function currencyOf(h){return String(h.value||"").includes("$")?"USD":"KRW"}
+function snapshotValue(h){return numText(h.value)}
+function savedRet(h){return numText(h.ret)/100}
+function costBasis(h){const r=savedRet(h); return snapshotValue(h)/(1+r)}
+function latestPrice(h){
+  const d=marketData[h.sym];
+  if(d&&d.prices&&d.prices.length) return d.prices[d.prices.length-1].close;
+  return snapshotValue(h)/Math.max(qtyNum(h),1);
+}
+function liveValue(h){return latestPrice(h)*qtyNum(h)}
+function livePnl(h){return liveValue(h)-costBasis(h)}
+function liveRet(h){const c=costBasis(h);return c?livePnl(h)/c:0}
+function usdkrw(){return (marketData._meta&&marketData._meta.usdkrw)||FALLBACK_USDKRW}
+function krwValue(h){return currencyOf(h)==="USD"?liveValue(h)*usdkrw():liveValue(h)}
+function fmt(n,curr){
+  if(curr==="USD") return "$"+Number(n).toLocaleString(undefined,{maximumFractionDigits:2});
+  return Math.round(n).toLocaleString()+"원";
+}
+function fmtPrice(n,curr){
+  if(curr==="USD") return "$"+Number(n).toLocaleString(undefined,{maximumFractionDigits:2});
+  return Math.round(n).toLocaleString()+"원";
+}
+function fmtPct(v){return (v>=0?"+":"")+(v*100).toFixed(1)+"%"}
+function categoryOf(h){
+  const n=h.name;
+  if(n.includes("금현물")||n.startsWith("GLDM")) return "금";
+  if(n.includes("AI전력")) return "테마";
+  if(n.includes("배당")||n.startsWith("SCHD")||n.startsWith("JEPI")||n.startsWith("JEPQ")||n.startsWith("HANARO")||n.startsWith("SOL")) return "배당·인컴";
+  if(n.includes("S&P500")||n.includes("나스닥100")||n.startsWith("VOO")||n.startsWith("QQQM")) return "미국 지수";
+  if(h.type==="국내 개별주") return "국내 개별주";
+  return "미국 개별주";
+}
+const dividendInfo={
+  "005930.KS":{ps:1492,c:"KRW",freq:"분기",basis:"1차 추정"},
+  "000660.KS":{ps:1500,c:"KRW",freq:"정책 기준",basis:"최소 기준"},
+  "005380.KS":{ps:10000,c:"KRW",freq:"분기",basis:"최소 기준"},
+  "379780.KS":{ps:258,c:"KRW",freq:"분기",basis:"최근 4회 기준"},
+  "368590.KS":{ps:175,c:"KRW",freq:"분기",basis:"최근 4회 기준"},
+  "458730.KS":{ps:480,c:"KRW",freq:"월",basis:"1차 추정"},
+  "489250.KS":{ps:368,c:"KRW",freq:"월",basis:"최근 1년 기준"},
+  "VOO":{ps:3,c:"USD",freq:"분기",basis:"1차 추정"},
+  "SCHD":{ps:1.048,c:"USD",freq:"분기",basis:"최근 4회 기준"},
+  "JEPQ":{ps:6.764,c:"USD",freq:"월",basis:"최근 12회 기준"},
+  "JEPI":{yield:0.084,c:"USD",freq:"월",basis:"수익률 기반 추정"}
+};
+function annualDividend(h){
+  const d=dividendInfo[h.sym]; if(!d) return null;
+  return d.ps!=null?d.ps*qtyNum(h):liveValue(h)*d.yield;
+}
+function dividendYield(h){
+  const a=annualDividend(h); return a==null?null:a/Math.max(liveValue(h),1);
+}
+function renderAllocation(){
+  const rows=document.getElementById("allocationRows"); if(!rows)return;
+  const sums={}; let total=0;
+  holdings.forEach(h=>{const v=krwValue(h),c=categoryOf(h);sums[c]=(sums[c]||0)+v;total+=v});
+  rows.innerHTML=Object.entries(sums).sort((a,b)=>b[1]-a[1]).map(([c,v])=>{
+    const p=total?v/total*100:0;
+    return `<div class="alloc-row"><div>${c}</div><div class="alloc-bar"><span style="width:${p.toFixed(1)}%"></span></div><div style="text-align:right;font-weight:800">${p.toFixed(1)}%</div></div>`;
+  }).join("");
+  const top=document.getElementById("topWeights");
+  top.innerHTML=holdings.map(h=>[h,krwValue(h)]).sort((a,b)=>b[1]-a[1]).slice(0,5).map(([h,v])=>{
+    const p=total?v/total*100:0;
+    return `<div class="watch"><div class="name">${h.name}</div><div class="reason">포트폴리오 약 ${p.toFixed(1)}%</div></div>`;
+  }).join("");
+}
+function renderDividend(){
+  const box=document.getElementById("dividendRows"); if(!box)return;
+  const list=holdings.filter(h=>dividendInfo[h.sym]);
+  box.innerHTML='<div class="div-row div-head"><div>종목</div><div>연간 예상</div><div>예상수익률</div><div>주기</div></div>'+list.map(h=>{
+    const d=dividendInfo[h.sym],a=annualDividend(h),y=dividendYield(h);
+    return `<div class="div-row"><div><b>${h.name}</b><div class="small">${d.basis}</div></div><div>${fmt(a,d.c)}</div><div>${y==null?"확인 필요":(y*100).toFixed(2)+"%"}</div><div>${d.freq}</div></div>`;
+  }).join("");
+}
+function updateSummary(){
+  let dc=0,dv=0,oc=0,ov=0;
+  holdings.forEach(h=>{
+    const c=costBasis(h),v=liveValue(h),fx=currencyOf(h)==="USD"?usdkrw():1;
+    if(h.type.startsWith("국내")){dc+=c*fx;dv+=v*fx}else{oc+=c*fx;ov+=v*fx}
+  });
+  const allC=dc+oc,allV=dv+ov;
+  const map=[["전체 수익률",allC?(allV-allC)/allC:0],["국내 수익률",dc?(dv-dc)/dc:0],["해외 수익률",oc?(ov-oc)/oc:0]];
+  document.querySelectorAll(".kpi").forEach(k=>{
+    const lab=k.querySelector(".label")?.textContent;
+    const found=map.find(x=>x[0]===lab);
+    if(found){
+      const el=k.querySelector(".value"),r=found[1]; el.textContent=fmtPct(r);el.className="value "+(r>=0?"pos":"neg");
+    }
+  });
+}
 function sparkMarkup(sym){
   const d=marketData[sym];
   if(!d || !d.prices || d.prices.length<2){
@@ -260,7 +399,15 @@ function holdingCard(h,i){
   return `<article class="holding" data-type="${h.type}">
     <div>
       <div class="h-top"><div><div class="h-name">${h.name}</div><div class="h-type">${h.type}</div></div></div>
-      <div class="h-meta"><span><b>${h.qty}</b></span><span><b>${h.value}</b></span><span class="${(h.ret||'').startsWith('+')?'pos':(h.ret||'').startsWith('-')?'neg':''}"><b>${h.ret||'수익률 확인 필요'}</b></span></div>
+      <div class="h-meta"><span><b>${h.qty}</b></span><span><b>${fmt(liveValue(h),currencyOf(h))}</b></span><span class="${liveRet(h)>=0?'pos':'neg'}"><b>${fmtPct(liveRet(h))}</b></span></div>
+      <div class="detail-grid">
+        <div class="detail-item"><div class="dl">평균매수가</div><div class="dv">${fmtPrice(costBasis(h)/Math.max(qtyNum(h),1),currencyOf(h))}</div></div>
+        <div class="detail-item"><div class="dl">현재가</div><div class="dv">${fmtPrice(latestPrice(h),currencyOf(h))}</div></div>
+        <div class="detail-item"><div class="dl">평가손익</div><div class="dv ${livePnl(h)>=0?'pos':'neg'}">${fmt(livePnl(h),currencyOf(h))}</div></div>
+        <div class="detail-item"><div class="dl">포트폴리오 비중</div><div class="dv" data-weight="${i}">계산중</div></div>
+        <div class="detail-item"><div class="dl">연간 예상배당</div><div class="dv">${annualDividend(h)==null?'확인 필요':fmt(annualDividend(h),dividendInfo[h.sym].c)}</div></div>
+        <div class="detail-item"><div class="dl">예상 배당수익률</div><div class="dv">${dividendYield(h)==null?'확인 필요':(dividendYield(h)*100).toFixed(2)+'%'}</div></div>
+      </div>
       <div class="h-note">${h.note||"&nbsp;"}</div>
     </div>
     <button type="button" class="spark-wrap" data-focus="${i}" style="border:0;background:transparent;padding:0;text-align:initial;cursor:pointer">
@@ -277,6 +424,10 @@ function renderHoldings(){
     document.getElementById("symbolSelect").value=idx;
     renderFocus(idx);
   }));
+  const total=holdings.reduce((a,h)=>a+krwValue(h),0);
+  document.querySelectorAll("[data-weight]").forEach(el=>{
+    const h=holdings[+el.dataset.weight]; el.textContent=total?(krwValue(h)/total*100).toFixed(1)+"%":"-";
+  });
 }
 function setupFilters(){
   const types=["전체","국내 개별주","국내상장 ETF","미국 개별주","미국 ETF"];
@@ -327,7 +478,7 @@ async function loadMarketData(){
 }
 async function init(){
   await loadMarketData();
-  setupFilters(); renderHoldings();
+  setupFilters(); renderHoldings(); renderAllocation(); renderDividend(); updateSummary();
   const sel=document.getElementById("symbolSelect"); sel.innerHTML=holdings.map((h,i)=>`<option value="${i}">${h.name}</option>`).join(""); sel.addEventListener("change",()=>renderFocus(+sel.value));
   document.querySelectorAll(".tab").forEach(btn=>btn.addEventListener("click",()=>{
     document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active")); document.querySelectorAll(".panel").forEach(x=>x.classList.remove("active"));
