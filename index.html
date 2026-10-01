@@ -260,7 +260,7 @@ function holdingCard(h,i){
   return `<article class="holding" data-type="${h.type}">
     <div>
       <div class="h-top"><div><div class="h-name">${h.name}</div><div class="h-type">${h.type}</div></div></div>
-      <div class="h-meta"><span><b>${h.qty}</b></span><span><b>${h.value}</b></span><span class="${(h.ret||\"\").startsWith(\"+\")?\"pos\":(h.ret||\"\").startsWith(\"-\")?\"neg\":\"\"}"><b>${h.ret||\"수익률 확인 필요\"}</b></span></div>
+      <div class="h-meta"><span><b>${h.qty}</b></span><span><b>${h.value}</b></span><span class="${(h.ret||'').startsWith('+')?'pos':(h.ret||'').startsWith('-')?'neg':''}"><b>${h.ret||'수익률 확인 필요'}</b></span></div>
       <div class="h-note">${h.note||"&nbsp;"}</div>
     </div>
     <button type="button" class="spark-wrap" data-focus="${i}" style="border:0;background:transparent;padding:0;text-align:initial;cursor:pointer">
