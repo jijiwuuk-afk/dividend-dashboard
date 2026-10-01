@@ -44,7 +44,7 @@ body{font-family:Arial,"Noto Sans KR","Apple SD Gothic Neo",sans-serif;backgroun
 .h-top{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}.h-name{font-weight:850;font-size:14px;line-height:1.25;min-width:0;overflow-wrap:anywhere}.h-type{font-size:10px;color:var(--muted);margin-top:3px}
 .h-meta{display:flex;gap:10px;flex-wrap:wrap;margin-top:9px;font-size:11px}.h-meta b{font-weight:800}.h-note{font-size:10px;color:var(--muted);margin-top:6px;white-space:normal;overflow-wrap:anywhere}
 .spark-wrap{min-width:0}.spark-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:3px;font-size:10px;color:var(--muted)}.ret{font-weight:850;font-size:11px}.pos{color:var(--pos)}.neg{color:var(--neg)}
-.spark{display:block;width:100%;height:54px}.tv-mini{width:100%;height:62px;overflow:hidden;border-radius:9px}.spark .gridline{stroke:#edf1f5;stroke-width:1}.spark .line{fill:none;stroke:var(--accent2);stroke-width:2}.spark .area{fill:rgba(59,130,246,.09)}.spark .dot{fill:var(--accent2)}
+.spark{display:block;width:100%;height:54px}.sparkbox{width:100%;height:62px;overflow:hidden;border-radius:9px;background:#fafbfd;border:1px solid var(--line);padding:4px}.spark .gridline{stroke:#edf1f5;stroke-width:1}.spark .line{fill:none;stroke:var(--accent2);stroke-width:2}.spark .area{fill:rgba(59,130,246,.09)}.spark .dot{fill:var(--accent2)}
 .loading{font-size:10px;color:var(--muted);height:54px;display:flex;align-items:center;justify-content:center;border-radius:9px;background:#fafbfd}
 #focusChartHolder{width:100%;min-width:0}.chart-title-row{display:flex;justify-content:space-between;gap:10px;align-items:flex-start;margin-bottom:8px}.chart-selected{font-weight:850}.chart-stats{font-size:11px;color:var(--muted);text-align:right}
 .legend{display:flex;justify-content:space-between;font-size:10px;color:var(--muted);margin-top:4px}
@@ -75,6 +75,11 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
 .news-meta{font-size:10px;color:var(--muted);margin-top:5px;display:flex;gap:8px;flex-wrap:wrap}
 .news-link{color:inherit;text-decoration:none}
 .news-empty{padding:18px 4px;color:var(--muted);font-size:12px}
+.sparkline-area{fill:rgba(59,130,246,.10)}
+.sparkline-path{fill:none;stroke:#2563eb;stroke-width:2.2}
+.sparkline-grid{stroke:#e5eaf2;stroke-width:1}
+.sparkline-dot{fill:#2563eb}
+.spark-empty{height:54px;display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:10px}
 
 </style>
 </head>
@@ -104,7 +109,7 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
 
   <section id="holdings" class="panel active">
     <div class="filters" id="filters"></div>
-    <div class="notice" style="margin-bottom:9px">모바일에서는 각 종목을 카드형으로 표시해 오른쪽 스크롤 없이 수량·평가값·최근 1개월 추세를 한 화면에서 확인합니다. 그래프는 TradingView 임베드 차트를 사용해 최근 1개월 기준으로 표시합니다.</div>
+    <div class="notice" style="margin-bottom:9px">모바일에서는 각 종목을 카드형으로 표시해 오른쪽 스크롤 없이 수량·평가값·최근 1개월 추세를 한 화면에서 확인합니다. 그래프는 최근 1개월 종가 데이터를 기준으로 대시보드 안에서 직접 표시합니다.</div>
     <div class="holdings-grid" id="holdingsGrid"></div>
   </section>
 
@@ -172,7 +177,7 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
     </div>
   </section>
 
-  <footer>v2 · 2026-09-30 · 사용자 제공 보유내역 기반. 주가 추세는 TradingView 임베드 차트를 사용합니다. 직접 시세 API 호출 방식보다 모바일 브라우저에서 안정적으로 표시되도록 변경했습니다.</footer>
+  <footer>v3 · 2026-10-01 · 사용자 제공 보유내역 기반. 주가 추세는 최근 1개월 종가 데이터를 서버에서 미리 갱신해 대시보드 안에서 직접 표시합니다.</footer>
 </div>
 
 <script>
@@ -212,22 +217,41 @@ const holdings = [
 
 
 let currentFilter = "전체";
+let marketData = {};
 
-function tvMiniUrl(symbol){
-  const cfg={
-    symbol:symbol,width:"100%",height:"100%",locale:"kr",
-    dateRange:"1M",colorTheme:"light",isTransparent:true,autosize:true,
-    largeChartUrl:""
-  };
-  return "https://s.tradingview.com/embed-widget/mini-symbol-overview/?locale=kr#"+encodeURIComponent(JSON.stringify(cfg));
+function pathFrom(vals,w=100,h=44,pad=3){
+  if(!vals || vals.length<2) return "";
+  const min=Math.min(...vals), max=Math.max(...vals), span=(max-min)||1;
+  return vals.map((v,i)=>{
+    const x=pad+(i/(vals.length-1))*(w-pad*2);
+    const y=h-pad-((v-min)/span)*(h-pad*2);
+    return `${i?"L":"M"}${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(" ");
 }
-function tvAdvancedUrl(symbol){
-  const cfg={
-    autosize:true,symbol:symbol,interval:"D",timezone:"Asia/Seoul",
-    theme:"light",style:"2",locale:"kr",allow_symbol_change:false,
-    calendar:false,support_host:"https://www.tradingview.com"
-  };
-  return "https://s.tradingview.com/embed-widget/advanced-chart/?locale=kr#"+encodeURIComponent(JSON.stringify(cfg));
+function areaFrom(vals,w=100,h=44,pad=3){
+  const p=pathFrom(vals,w,h,pad); if(!p) return "";
+  return `${p} L${w-pad},${h-pad} L${pad},${h-pad} Z`;
+}
+function pctText(first,last){
+  if(first==null || last==null || !isFinite(first) || !isFinite(last) || first===0) return "";
+  const p=((last/first)-1)*100;
+  return (p>=0?"+":"")+p.toFixed(1)+"%";
+}
+function sparkMarkup(sym){
+  const d=marketData[sym];
+  if(!d || !d.prices || d.prices.length<2){
+    return '<div class="spark-head"><span>최근 1개월</span><span class="ret">대기</span></div><div class="sparkbox"><div class="spark-empty">차트 준비중</div></div>';
+  }
+  const vals=d.prices.map(x=>x.close), first=vals[0], last=vals[vals.length-1];
+  const min=Math.min(...vals), max=Math.max(...vals), span=(max-min)||1;
+  const cy=(41-((last-min)/span)*38).toFixed(1);
+  return `<div class="spark-head"><span>최근 1개월</span><span class="ret ${last>=first?"pos":"neg"}">${pctText(first,last)}</span></div>
+  <div class="sparkbox"><svg class="spark" viewBox="0 0 100 44" preserveAspectRatio="none">
+  <line class="sparkline-grid" x1="0" y1="41" x2="100" y2="41"/>
+  <path class="sparkline-area" d="${areaFrom(vals)}"></path>
+  <path class="sparkline-path" d="${pathFrom(vals)}"></path>
+  <circle class="sparkline-dot" cx="97" cy="${cy}" r="2.4"></circle>
+  </svg></div>`;
 }
 function holdingCard(h,i){
   return `<article class="holding" data-type="${h.type}">
@@ -237,27 +261,9 @@ function holdingCard(h,i){
       <div class="h-note">${h.note||"&nbsp;"}</div>
     </div>
     <button type="button" class="spark-wrap" data-focus="${i}" style="border:0;background:transparent;padding:0;text-align:initial;cursor:pointer">
-      <div class="spark-head"><span>최근 1개월</span><span class="ret">추세</span></div>
-      <div class="tv-mini" data-tv="${h.tv}" aria-label="${h.name} 최근 1개월 추세">
-        <div class="loading">차트 불러오는 중</div>
-      </div>
+      <div id="spark-${i}">${sparkMarkup(h.sym)}</div>
     </button>
   </article>`;
-}
-function loadVisibleCharts(){
-  const items=[...document.querySelectorAll(".tv-mini")];
-  const load = el=>{
-    if(el.dataset.loaded==="1") return;
-    const tv=el.dataset.tv;
-    el.innerHTML=`<iframe title="1개월 추세" src="${tvMiniUrl(tv)}" loading="lazy" referrerpolicy="origin" style="width:100%;height:62px;border:0;display:block;background:#fff"></iframe>`;
-    el.dataset.loaded="1";
-  };
-  if("IntersectionObserver" in window){
-    const io=new IntersectionObserver(entries=>{
-      entries.forEach(e=>{if(e.isIntersecting){load(e.target);io.unobserve(e.target)}})
-    },{rootMargin:"180px"});
-    items.forEach(el=>io.observe(el));
-  }else items.forEach(load);
 }
 function renderHoldings(){
   const list=holdings.filter(h=>currentFilter==="전체" || h.type===currentFilter);
@@ -268,7 +274,6 @@ function renderHoldings(){
     document.getElementById("symbolSelect").value=idx;
     renderFocus(idx);
   }));
-  loadVisibleCharts();
 }
 function setupFilters(){
   const types=["전체","국내 개별주","국내상장 ETF","미국 개별주","미국 ETF"];
@@ -282,13 +287,43 @@ function setupFilters(){
 function renderFocus(i){
   const h=holdings[i];
   document.getElementById("focusName").textContent=h.name;
-  document.getElementById("focusStats").textContent="최근 1개월 일봉";
-  document.getElementById("focusStart").textContent="1개월 전";
-  document.getElementById("focusEnd").textContent="최근 거래일";
   const holder=document.getElementById("focusChartHolder");
-  holder.innerHTML=`<iframe title="${h.name} 한달 추세 차트" src="${tvAdvancedUrl(h.tv)}" referrerpolicy="origin" style="width:100%;height:320px;border:0;display:block;background:#fff"></iframe>`;
+  const d=marketData[h.sym];
+  if(!d || !d.prices || d.prices.length<2){
+    document.getElementById("focusStats").textContent="차트 데이터 준비중";
+    holder.innerHTML='<div class="loading" style="height:320px">최근 1개월 데이터 준비중</div>';
+    document.getElementById("focusStart").textContent="1개월 전";
+    document.getElementById("focusEnd").textContent="최근 거래일";
+    return;
+  }
+  const vals=d.prices.map(x=>x.close), dates=d.prices.map(x=>x.date);
+  const min=Math.min(...vals), max=Math.max(...vals), span=(max-min)||1;
+  const W=720,H=240,p=18;
+  const line=vals.map((v,j)=>{
+    const x=p+(j/(vals.length-1))*(W-p*2);
+    const y=H-p-((v-min)/span)*(H-p*2);
+    return `${j?"L":"M"}${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(" ");
+  const area=line+` L${(W-p).toFixed(1)},${H-p} L${p},${H-p} Z`;
+  holder.innerHTML=`<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" style="width:100%;height:320px;display:block">
+    <line class="sparkline-grid" x1="${p}" y1="${H-p}" x2="${W-p}" y2="${H-p}"></line>
+    <path class="sparkline-area" d="${area}"></path>
+    <path class="sparkline-path" d="${line}"></path>
+  </svg>`;
+  const first=vals[0], last=vals[vals.length-1];
+  document.getElementById("focusStats").innerHTML=`1개월 <span class="${last>=first?"pos":"neg"}" style="font-weight:850">${pctText(first,last)}</span><br>${first.toLocaleString(undefined,{maximumFractionDigits:2})} → ${last.toLocaleString(undefined,{maximumFractionDigits:2})}`;
+  document.getElementById("focusStart").textContent=dates[0]||"1개월 전";
+  document.getElementById("focusEnd").textContent=dates[dates.length-1]||"최근 거래일";
 }
-function init(){
+async function loadMarketData(){
+  try{
+    const r=await fetch("./data/market_data.json?ts="+Date.now(),{cache:"no-store"});
+    if(!r.ok) throw new Error("market");
+    marketData=await r.json();
+  }catch(e){ marketData={}; }
+}
+async function init(){
+  await loadMarketData();
   setupFilters(); renderHoldings();
   const sel=document.getElementById("symbolSelect"); sel.innerHTML=holdings.map((h,i)=>`<option value="${i}">${h.name}</option>`).join(""); sel.addEventListener("change",()=>renderFocus(+sel.value));
   document.querySelectorAll(".tab").forEach(btn=>btn.addEventListener("click",()=>{
