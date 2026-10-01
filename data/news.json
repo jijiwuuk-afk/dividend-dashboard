@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-02 03:27 KST",
+  "updated_at": "2026-10-02 04:23 KST",
   "items": [
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
-      "title": "NVDA|NVIDIA Corp|가격:230.730|Chg%:+2.350 - TradingKey",
+      "title": "NVDA|NVIDIA Corp|가격:232.100|Chg%:+3.720 - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXTkFCZkJobDNPc1Z3bG5WZVY2VlZjX2RqTGE3eTNBMEYzOHNVcUlBbWpNWmdLQ2pVdWJKam0zRnp1MWhPZjhjaVlXelN5RHdQWHFneVA5cHRzazJYU1E?oc=5",
       "source": "TradingKey",
-      "published": "10-02 01:53",
-      "published_iso": "2026-10-01T16:53:16+00:00",
+      "published": "10-02 03:15",
+      "published_iso": "2026-10-01T18:15:54+00:00",
       "age": "1시간 전"
     },
     {
@@ -19,7 +19,7 @@
       "source": "ThinkPool",
       "published": "10-02 01:11",
       "published_iso": "2026-10-01T16:11:05+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "GEV",
@@ -29,7 +29,7 @@
       "source": "Investing.com 한국어",
       "published": "10-02 00:58",
       "published_iso": "2026-10-01T15:58:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "ZETA",
@@ -39,7 +39,7 @@
       "source": "Investing.com 한국어",
       "published": "10-01 21:03",
       "published_iso": "2026-10-01T12:03:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "SNDK",
@@ -49,7 +49,7 @@
       "source": "아이투자",
       "published": "10-01 20:02",
       "published_iso": "2026-10-01T11:02:22+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "SNDK",
@@ -59,7 +59,27 @@
       "source": "Investing.com 한국어",
       "published": "10-01 19:03",
       "published_iso": "2026-10-01T10:03:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
+    },
+    {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "규칙 확인에 필요한 버튼은 어디에? 흔한남매 속담 카드 보드게임 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ2J6NXowczZtd0lQVkRYYU5QVGVoTEFLbVlrMmRXbTEzX2V0UXdhS2ZmM3ZYcXY3aWotNFpRUGUtSTdjeEVOZ0lfV1FRSVozMkJxdmFCTF9iRHZ0dmhYX3ZWdVk1ZlNyWThpVHFqTElHWHRmN1V6SXdiU1Z5a3ZxXzVmNA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-01 15:50",
+      "published_iso": "2026-10-01T06:50:36+00:00",
+      "age": "12시간 전"
+    },
+    {
+      "ticker": "368590",
+      "name": "RISE 미국나스닥100",
+      "title": "게임 설명의 그림이 궁금한 분을 위한 포커 맥시마이즈 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tV3pidHdoYm1UdzNTcWdRSXlOQnY5UnI0aXhWYTdYa3pVRm9lZnNYdEE1YlFRUjA2TVRWcWtlZUR1bjdDZi1GdkxOTjdBWTdqZ3ZOazA1TUdRMkc1TFpibk1FNTNKTHRTTFlmUHZ3WlFKc1lHUVV3?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-01 14:59",
+      "published_iso": "2026-10-01T05:59:01+00:00",
+      "age": "13시간 전"
     },
     {
       "ticker": "0072R0",
@@ -69,7 +89,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-01 14:11",
       "published_iso": "2026-10-01T05:11:53+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "379810",
@@ -79,7 +99,7 @@
       "source": "v.daum.net",
       "published": "10-01 11:47",
       "published_iso": "2026-10-01T02:47:45+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "379810",
@@ -89,17 +109,17 @@
       "source": "헤럴드경제",
       "published": "10-01 11:46",
       "published_iso": "2026-10-01T02:46:33+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "스페이스X·테슬라(TSLA), 합병하나...\"현실화되면 3.5조 달러 몸값 정조준\" - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA5bzV1emM0blczZk5rN043X1hLUWVXd2E5R0hna3Y5ejM3Y011N3IzVnZzdFMyZjZVbkVtMWhEaU9NRVlY?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RLXJsMzltU0NpNkNQYWZxOUMycExQSk1kVlhvNEhiakp4TmRZYlNqQzgtQlE0YTlKbmpLMDdSV2Z5NkhOVjBzWWl3?oc=5",
       "source": "코인리더스",
       "published": "10-01 10:45",
       "published_iso": "2026-10-01T01:45:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "0072R0",
@@ -109,17 +129,17 @@
       "source": "v.daum.net",
       "published": "10-01 10:09",
       "published_iso": "2026-10-01T01:09:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
-      "title": "샌디스크(SNDK) 주가가 현금흐름 가치보다 높게 책정된 것으로 보인다 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2tyTmE3c0FsajRFQ2h5RjczWWhGaWtGSDJVa1k2eGRCYUxHOTREel9hOHd4Vm1nMG1FczVYLW9oVkw4V25BQWFHOEQ3Ml9VanNyNXN3Y3VFclE0dDJsdmxaeTVwVHVKVVJwaWVwRHYxNEZGNmxqQnhvdkdjUXhMbEVabnhlcVNTck02Mlln0gGOAUFVX3lxTE5Pa3JOYTdzQWxqNEVDaHlGNzNZaEZpa0ZIMlVrWTZ4ZEJhTEc5NER6X2E4d3hWbWcwbUVzNVgtb2hWTDhXbkFBYUc4RDcyX1Vqc3I1c3djdUVyUTR0Mmx2bFp5NXBUdUpVUnBpZXBEdjE0RkY2bGpCeG92R2NReExsRVpueGVxU1NyTTYyWWc?oc=5",
-      "source": "Simply Wall Street",
+      "title": "샌디스크(SNDK) 주가가 현금흐름 가치보다 높게 책정된 것으로 보인다 - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbDVKal9hQkZfTlIwSFQxTS1IeFgzM3ZWYm9MVnZwTzJTUjg0cUhObzBrVEhBa3Y4SkVZZExxSE1wRmdRTHZMNUxlbXBPeUJtWDVVMEFpLWFhNWlNYlplb0pzZ0VyeDUxcHNPcVJzV3hyUDM5U0NZdEpfV3V1QnF4NFhQV29YVXJs0gGOAUFVX3lxTE5Pa3JOYTdzQWxqNEVDaHlGNzNZaEZpa0ZIMlVrWTZ4ZEJhTEc5NER6X2E4d3hWbWcwbUVzNVgtb2hWTDhXbkFBYUc4RDcyX1Vqc3I1c3djdUVyUTR0Mmx2bFp5NXBUdUpVUnBpZXBEdjE0RkY2bGpCeG92R2NReExsRVpueGVxU1NyTTYyWWc?oc=5",
+      "source": "simplywall.st",
       "published": "10-01 09:53",
-      "published_iso": "2026-10-01T00:53:40+00:00",
-      "age": "17시간 전"
+      "published_iso": "2026-10-01T00:53:33+00:00",
+      "age": "18시간 전"
     },
     {
       "ticker": "GOOG",
@@ -129,7 +149,17 @@
       "source": "LiteFinance",
       "published": "10-01 09:45",
       "published_iso": "2026-10-01T00:45:32+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova Inc.",
+      "title": "GE Vernova(GEV) 주가는 57% 급등했음에도 불구하고 이미 적정 가치를 반영했을 가능성이 있다 - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSDYzZUVtc1EwUlpTdHYzbkhseHVYdlkteE5TeDVsc2JXQkl2Q2RGcEFpTWtYNjJwNThVQ3MwMFVNNzhra3JsYjFET08tdUpUN00wMUxVMFRMWkpHQ2lRU0FaZExCLTZLdjhiQmRqWjBiWlp6N0EzbnlsanNHYnFleDgwZUxmV3l6bkNNNGVjUmNfemlIem94eXFB0gGaAUFVX3lxTE1INjNlRW1zUTBSWlN0djNuSGx4dVh2WS14TlN4NWxzYldCSXZDZEZwQWlNa1g2MnA1OFVDczAwVU03OGtrcmxiMURPTy11SlQ3TTAxTFUwVExaSkdDaVFTQVpkTEItNkt2OGJCZGpaMGJaWno3QTNueWxqc0dicWV4ODBlTGZXeXpuQ000ZWNSY196aUh6b3h5cUE?oc=5",
+      "source": "simplywall.st",
+      "published": "10-01 09:43",
+      "published_iso": "2026-10-01T00:43:22+00:00",
+      "age": "18시간 전"
     },
     {
       "ticker": "005380",
@@ -139,7 +169,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-01 08:30",
       "published_iso": "2026-09-30T23:30:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "005380",
@@ -149,14 +179,14 @@
       "source": "알파경제",
       "published": "10-01 06:00",
       "published_iso": "2026-09-30T21:00:00+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "INTC",
       "name": "Intel Corporation",
-      "title": "인텔(INTC), 엣지 AI 기대가 커진 지금도 정말 저평가일까? - Simply Wall Street",
+      "title": "인텔(INTC), 엣지 AI 기대가 커진 지금도 정말 저평가일까? - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX0draVFsYTJ4R3hkaGdZV0wwVUlreS13aEJwNVItd2NvUEZNVEpHTkg2SXIzdjVQNEZUMXlZUng0alFMcVlyakViUktTTndXMWptMTR3ZFl3MXdIb1ZFRWxVNU5TRkpjbkppSDMyakVNZzUyWk5ZRGtlWDBfTFQwTXE5VWE5YmQxNmsyOG9MRnA1Zkg1cmI4TThRSEpHTE1VaEE1TXBKYlk5dUlXZFNyT1JLRG5Yc0RTNlg0RmZ1azFJa19GdkI1aFRSY2p2d9IBmAFBVV95cUxPcmZxMWFSc3BFWWlPdm91QVB2d2owWjJtOTNQMU5rZEM3WDFvSjZvdTdFQjJyRktSODZDUS04UFRER2dxU3ZGRFQtbzhiVk9JVGVySGxwQUZyMmRmMmJadXFhcFphcVE3TVdoUE9rbGpCdWZqSm5tVTNVZlJQemxZX3pTdU91dkM0YjNSNkZRMkpYb0Vhcld1cA?oc=5",
-      "source": "Simply Wall Street",
+      "source": "simplywall.st",
       "published": "10-01 02:19",
       "published_iso": "2026-09-30T17:19:41+00:00",
       "age": "1일 전"
@@ -174,21 +204,11 @@
     {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
-      "title": "Why Caterpillar Stock Has Surged 75% Over the Past Year on AI Power Demand - TIKR.com",
+      "title": "Why Caterpillar Stock Has Surged 75% Over the Past Year on AI Power Demand - tikr.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWhOR0swUHR6VGFmREd5SllZNjVRZkVaT2RFWmk0b0tMSWRXRkQxdTA4VGxzRUk2SG5xdl9laDlpLURKZ0wwU0FuTEdvb1NKMTBjQjZaRHVudVRMYkFiVGVITWt0N3ZLSS1DNVAzamZ6Uy1aaGdhMHV1RFRKLVhUT0RYd1g4Mk1iY285dE0zVGpqQncwd3NDR0lkc2NQcnNTel9rYg?oc=5",
-      "source": "TIKR.com",
+      "source": "tikr.com",
       "published": "09-30 23:26",
       "published_iso": "2026-09-30T14:26:15+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "GEV",
-      "name": "GE Vernova Inc.",
-      "title": "Constellation Energy Corp (CEG) 주식 시작했습니다 하락 5.04%에 9월30일: 핵심 원인 공개 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ1VWNnhoMTlOQkZDM0dDWnJCT2lZUGlwZ29GcW92RFhDWHNDS3l2eHZZWnRLb3dLajBlNHZBZENUWGROV0h5U0FSVXhOa1hoS3FxNWsxbE5WNE81bHYtOUt2aS1lX3hteUNVc0pYcVdzX3hnWE00UWx1cGZzSGhoeVZPaUtNRjBSQ2ZqTWFR?oc=5",
-      "source": "TradingKey",
-      "published": "09-30 22:47",
-      "published_iso": "2026-09-30T13:47:51+00:00",
       "age": "1일 전"
     },
     {
@@ -214,9 +234,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
-      "title": "AMD(AMD), 페이페이 리의 월드 랩스 인수로 AI 판을 더 키운다 - Simply Wall Street",
+      "title": "AMD(AMD), 페이페이 리의 월드 랩스 인수로 AI 판을 더 키운다 - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBaQ1ZBOXpDV3ZOejJnYzNRYTdpbVJCS3FZaXIzLUsyM0NqS0x5bktQTDZIckhaai1PdDlEbS01WmFyYmtaRUFzUV85WEZTLXFDVmFyNnpaQ1RNdUpBbGtvdG5HTi1yekNwUjJPbHppNGRYbzBTRTlkb0xzTkpNN0piemkxXzFwbVVpcGYzT0tsUEFtRDhfYUpLem5ZX2JXaDdPN0NNekI0VEFqWWfSAa4BQVVfeXFMTzRQWkNWQTl6Q1d2TnoyZ2MzUWE3aW1SQktxWWlyMy1LMjNDaktMeW5LUEw2SHJIWmotT3Q5RG0tNVphcmJrWkVBc1FfOVhGUy1xQ1ZhcjZ6WkNUTXVKQWxrb3RuR04tcnpDcFIyT2x6aTRkWG8wU0U5ZG9Mc05KTTdKYnppMV8xcG1VaXBmM09LbFBBbUQ4X2FKS3puWV9iV2g3TzdDTXpCNFRBalln?oc=5",
-      "source": "Simply Wall Street",
+      "source": "simplywall.st",
       "published": "09-30 12:54",
       "published_iso": "2026-09-30T03:54:27+00:00",
       "age": "1일 전"
@@ -244,9 +264,9 @@
     {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
-      "title": "미래에셋운용, 미국배당다우존스 ETF 순자산 4조2842억원 - joongang.co.kr",
+      "title": "미래에셋운용, 미국배당다우존스 ETF 순자산 4조2842억원 - 중앙일보",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9USVp0UUVrQ20tQzJEcDBHSHZUZW5RZ2poWnpZUnZ4ZW9wOUFfVFNpZEl2UGtiaGctVDhxOXlmbHBvWVBPYWY3YmFsNDAtaVFqYlRCSFpB?oc=5",
-      "source": "joongang.co.kr",
+      "source": "중앙일보",
       "published": "09-30 10:50",
       "published_iso": "2026-09-30T01:50:00+00:00",
       "age": "1일 전"
@@ -284,9 +304,9 @@
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
-      "title": "브로드컴(AVGO)의 주가는 여전히 현금 흐름 기준 공정 가치보다 낮은가? - Simply Wall Street",
+      "title": "브로드컴(AVGO)의 주가는 여전히 현금 흐름 기준 공정 가치보다 낮은가? - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT1dMRGFoWVRNZ2hkcFJGUUNiTVdKM1c5VWhwZjNGQl9CdmM3c0ZGTVdtdlRDV0gwdndqdlhxVllVOVlHZmgwZW1MT2ZITUN1Q21lMUE1c0FqeTdvV2xWamZrbGllLXlhaWxOYmdCbjZWdlcwTzNUaUVxZWxHNFA2bHdxYktUSklCTUVQX003TDBHVllpdk54XzQ3d27SAZwBQVVfeXFMTk9XTERhaFlUTWdoZHBSRlFDYk1XSjNXOVVocGYzRkJfQnZjN3NGRk1XbXZUQ1dIMHZ3anZYcVZZVTlZR2ZoMGVtTE9mSE1DdUNtZTFBNXNBank3b1dsVmpma2xpZS15YWlsTmJnQm42VnZXME8zVGlFcWVsRzRQNmx3cWJLVEpJQk1FUF9NN0wwR1ZZaXZOeF80N3du?oc=5",
-      "source": "Simply Wall Street",
+      "source": "simplywall.st",
       "published": "09-30 05:28",
       "published_iso": "2026-09-29T20:28:47+00:00",
       "age": "1일 전"
@@ -349,16 +369,6 @@
       "source": "ebn.co.kr",
       "published": "09-29 17:38",
       "published_iso": "2026-09-29T08:38:48+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "368590",
-      "name": "RISE 미국나스닥100",
-      "title": "커버드콜 ETF의 진화 ― 변동성 클 땐 배당을 노려라 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpbExVNTVWZ0Z5ejBZa25hZVhiRzZ3Zzc4NDdFT1FJZzc5ZTRTRVAwZHRfdkR4VWxicFUyZ2NDZzhyb0ZIc3ZPcHhBc0twZw?oc=5",
-      "source": "매일경제",
-      "published": "09-29 15:50",
-      "published_iso": "2026-09-29T06:50:46+00:00",
       "age": "2일 전"
     },
     {
@@ -514,9 +524,9 @@
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
-      "title": "Musk: Space Will “Round up to 100%” of Compute as Google Reveals Imminent Orbital Data Center Launch - TIKR.com",
+      "title": "Musk: Space Will “Round up to 100%” of Compute as Google Reveals Imminent Orbital Data Center Launch - tikr.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUlF5WXUtMDRmTU9uZlhkckYxVnpXcEFxSDNCOFhKR1JVWUJyWjVRT3ZiYlN0bVNVV2h6dFQxNEZ6YlFWWjdyVlNvejFNcnlwQ0lsU2N4MWdydldsNzBRMW5PTUdUb1ZGSzIzZ2N2WmRPcGhBLXR5cWkwQnN1b2kyMFFMUzlLcFQ5S3lRRGFpNVNLVlI1ZDNvdll1bV9BRFZsSEhfdEtNem9FOWM1a3Q3R0FjZE1sZ1p1YmZUZnJDUjkwc2M?oc=5",
-      "source": "TIKR.com",
+      "source": "tikr.com",
       "published": "09-28 23:39",
       "published_iso": "2026-09-28T14:39:40+00:00",
       "age": "3일 전"
@@ -624,9 +634,9 @@
     {
       "ticker": "COST",
       "name": "Costco Wholesale Corporation",
-      "title": "코스트코, 4분기 실적 '안정적 10%대 성장'...목표가 낮추는 월가 - 인포스탁데일리",
+      "title": "코스트코, 4분기 실적 '안정적 10%대 성장'...목표가 낮추는 월가 - infostockdaily.co.kr",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XVUVmbERpV0xNREZ6Sl9KZXpzNWdWdVEtU0NXS3RxUWY5TjNUamJ2d2pYZ0ZFcUl0NTNRQmNPcXI2aTQtdEg5amRfYlJ1blJSTmJNNDBlMmp6QVcwdlcyczRDczg0NUJ6YmhYdWhRVS1PUGhibnc?oc=5",
-      "source": "인포스탁데일리",
+      "source": "infostockdaily.co.kr",
       "published": "09-28 16:19",
       "published_iso": "2026-09-28T07:19:03+00:00",
       "age": "3일 전"
@@ -744,9 +754,9 @@
     {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
-      "title": "롤코장 이은 박스피…개미들은 美 ETF로 몰렸다 - ajunews.com",
+      "title": "롤코장 이은 박스피…개미들은 美 ETF로 몰렸다 - 아주경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OcEljbExwRzJOT3QwajdJSkFfUWRSNzI4X3NIMFFDUF9OODhmcHNmRmNVQlBKd3BXeUZ1eWJoamNZckN0bzY5M3VGS2tWSGQyU2g4NEE2ZUlJUdIBWEFVX3lxTE5vSC1fYVVtMVUtUUpNeC0tMGgtbTI3Vnh6NEJLNGxsQXhpZXpUMFVPc2dRZmtHbHFURWM0SXVSUEtnLUhHZDZZUkxJZl9rWlZQUVQ5cEttMjI?oc=5",
-      "source": "ajunews.com",
+      "source": "아주경제",
       "published": "09-26 18:00",
       "published_iso": "2026-09-26T09:00:00+00:00",
       "age": "5일 전"
@@ -774,9 +784,9 @@
     {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
-      "title": "자율 채석장 확장이 캐터필러(CAT) 주가에 대한 시장 전망을 바꾼 것일까? - Simply Wall Street",
+      "title": "자율 채석장 확장이 캐터필러(CAT) 주가에 대한 시장 전망을 바꾼 것일까? - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRjN6LVYzdTMyRGN0TXJNTG9uTnBTcktsVHZPQ3EtSHlvZGlhWUNpSFpHR3BBdnV3TklaelN1TXU5SWhiemJpS1BUem8zQ2h4ajR1SVZCTmV0ZDV1eERiRGNNNTMyd0xUS2lSSl9qRzd4TzJNcDBWUG8zTTRaV05zZDQ3Q21tREpZOEM0NjJ5ZFBrYklMaGfSAZsBQVVfeXFMT1VnZkg0YWVKWVI4cF9rdF9MTDdrWW4wRDNCYjB2MUJZVWt0cEgtY3o1bkdQV1hjWHdla09zNkpaYzhuZnNlcDdubVRXcVJrOEs4TVNGWXBLX2xMT28wbmJQLVoxTG5rVGVZd01yOWxwaFZLVVBoNTM3eG5OT2djOFRVQzQxdWxKSkpGb2xvXzhhNkRFVHhUd3hEWkU?oc=5",
-      "source": "Simply Wall Street",
+      "source": "simplywall.st",
       "published": "09-26 11:04",
       "published_iso": "2026-09-26T02:04:19+00:00",
       "age": "5일 전"
@@ -844,9 +854,9 @@
     {
       "ticker": "COST",
       "name": "Costco Wholesale Corporation",
-      "title": "Costco Beats Quarterly Revenue and Earnings Expectations - TIKR.com",
+      "title": "Costco Beats Quarterly Revenue and Earnings Expectations - tikr.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbEp1NVhuUGpqV0doMzlUbzh2OFgxN3hLRnpkUWIyNDNRcU1iSWZTVWFNUnB0OTRUekpWVXo2QS13Rm5YN2FNV1RHTExlb2Izc0JZNjRpbkhsZTF4VmhHVmxrRnlwaEFOa3B1R2ZDVTRRbmZPRWZXWWY2ZXl0Rm41R1J2d19yVnhwdWhz?oc=5",
-      "source": "TIKR.com",
+      "source": "tikr.com",
       "published": "09-26 03:11",
       "published_iso": "2026-09-25T18:11:15+00:00",
       "age": "6일 전"
@@ -874,9 +884,9 @@
     {
       "ticker": "COST",
       "name": "Costco Wholesale Corporation",
-      "title": "코스트코 (COST) 주가 반등에도 44배 P/E 정당화될까 - Simply Wall Street",
+      "title": "코스트코 (COST) 주가 반등에도 44배 P/E 정당화될까 - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUnBUWWVHZFg5UHdEdC1HYnhrc3VUREt3UUxIVnB1UzZfOUl4QjJWQ2tlQm9hUXZSY092VE1zZ0o0MUdKUVdWUDRwYjJkTFc5eEtPMnZnMEZNUm54Y0pxUW1PUUdHdW5yNU1DTHVQZVloM2d0NmhFd1l1NmFyNnpLUGpmcFhCNnZKSW9BcFhQMXNzb25KSXdYTEtLSmVTRXlxMkxNOC1WNNIBrAFBVV95cUxNNzJqN1kyRXlVMndOZDE4V0pxNnJSaVdQWEo2azQwNzdQV1c0T2NvdzdLRmNUQkc5VGtjX0FuRWZsenozWThwVlZ3WVJmWC1Od0VHV2d1TlA1S3piR3pCRmtPZnRZVDdRMWMxeVdIcUZTeExCc0lVZkVvNVg1V1A1dGtKRUp3R1l3Z05JTGpldFY3X1RlT1lfRU9kUVpPZ215SG00SlBkdVZFcFgw?oc=5",
-      "source": "Simply Wall Street",
+      "source": "simplywall.st",
       "published": "09-25 16:00",
       "published_iso": "2026-09-25T07:00:00+00:00",
       "age": "6일 전"
@@ -915,7 +925,7 @@
       "ticker": "INTC",
       "name": "Intel Corporation",
       "title": "인텔(INTC), CPU 공급 부족 틈타 가격표 인상...주가 145달러 정조준 반격 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9RdW1YdzB2T2NaeUZCdmNwZDExZXNGUzFDYTJocjNybVFoT1pxUDl3RzhTY3BldEpQUGxKSkJfTmZpSl9K?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10cm1sUVQxNFB6bFdSVk9lREhRZHB0V2JjMWdUM1JsdEhYZTRsYTRPdmRwZGg5cm9BcVBEcW5GanFIMGR6MTJqT1BR?oc=5",
       "source": "코인리더스",
       "published": "09-25 13:00",
       "published_iso": "2026-09-25T04:00:00+00:00",
@@ -954,9 +964,9 @@
     {
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
-      "title": "GE Vernova(GEV) AI 전력 수요와 수주 호조에 25% 저평가 가능성 있을까 - Simply Wall Street",
+      "title": "GE Vernova(GEV) AI 전력 수요와 수주 호조에 25% 저평가 가능성 있을까 - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS3FOd0h2SDZpNzRkYWd1VzRwaDVqRUNKS1RlNkszdGloYU5sdUo3WlNRS3pvN1lEaVlyUGtzYVhrSEc0S2pqc1pvamhyRHlmVG9xS3RwVGVSOC1va0tkWWhtZklHOVpjcjZ4UTBkcUNHRE1yNGhHQXAwRHVFd1dSbHVxLWcxamhwT3FTSDhfcHl4ZDNv0gGaAUFVX3lxTE0xQTI4NkxOTHl3YU42RnBaamg4bDJTbUZJcEdIdUt2NG84cXJzMmdzTTZjWHlsWnlObVNMWkstOFN2Wi1HNk5udTNEejJ3b3poUnYwUm0wU0o2YUZwQ1VrZXVQLVhOUjNrMkM3UWdPNkFDUGJaWktFajQ1WGtpc19fVUdDbDNDOHpHN2dwNklwWnZYdUtqYXVmWGc?oc=5",
-      "source": "Simply Wall Street",
+      "source": "simplywall.st",
       "published": "09-25 07:41",
       "published_iso": "2026-09-24T22:41:58+00:00",
       "age": "6일 전"
@@ -964,9 +974,9 @@
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
-      "title": "엔비디아(NVDA), 다시 시선이 쏠리는 이유는 무엇일까? - Simply Wall Street",
+      "title": "엔비디아(NVDA), 다시 시선이 쏠리는 이유는 무엇일까? - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYmpFMGQ2U2Z0OG9RdkoxUGp5TG5CRmVUTklCNGpVZ2R1dFplaDJyeFF6YkJoYTVLdGJEeGN3RnlkdV82dC1HSURwNUEwZFdFQzhpd0dTRWVIZ3JPZTRjbVFiakt4Rmhmci03R1l3a2tFcUFzeWUxamlfQS0wZGlyLTludmFiQ2tydEppUG1TeVpjV3Fv0gGaAUFVX3lxTFBLNnZEcjEwUVRWYjFUem9DcG14X0gtS21VcnJ4bnVLZ1RCVnZPX0NQQTlrWFpoekoyTnpDZzRfUFdaNHRQSU5GN1lCWGJzb2FJRGVJZXZsR0xPYlRwRU9kaVl5TFh2ZUcwaTU2NmI4dVVTVVlyMWVBVU1XUDNWZTBJM1ZfbkVFRlU3NmY2TkZvRC1EdnUzZTRXR3c?oc=5",
-      "source": "Simply Wall Street",
+      "source": "simplywall.st",
       "published": "09-25 07:38",
       "published_iso": "2026-09-24T22:38:33+00:00",
       "age": "6일 전"
@@ -989,16 +999,6 @@
       "source": "TradingKey",
       "published": "09-25 06:51",
       "published_iso": "2026-09-24T21:51:11+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "주목할 ETF TOP: 실시간 시세와 수익률 비교 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aWU5wVktaUjNKUkljZ0NNNExXTkh1X3NHOU1VMWtfeW1INmczWTFYNU1KVHpPZ0Y0R1pOaENzd0h2ekNqWU1MY3BUUGpVYzg4bEp0T0EtOWs4UHkxRGE4aHJscF8?oc=5",
-      "source": "TradingKey",
-      "published": "09-25 04:12",
-      "published_iso": "2026-09-24T19:12:46+00:00",
       "age": "6일 전"
     }
   ]
