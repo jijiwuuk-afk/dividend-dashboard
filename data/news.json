@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-01 11:22 KST",
+  "updated_at": "2026-10-01 12:23 KST",
   "items": [
+    {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
+      "title": "최우수 ETF(해외) ‘KODEX 미국나스닥100’ 순자산 10조…시장 리드[2026 헤럴드 투자대상 최우수 ETF(해외)-삼성자산운용] - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BTFhXOWJ6OHBLajFoWFpWNUJvcWpBX084cXFTZEQxUTl4cW1BNC1JUFZyUDczYUtuOWxZM1hsNDhqcW02NllzMG5mbXlFVWt3QXRDcGl3?oc=5",
+      "source": "헤럴드경제",
+      "published": "10-01 11:46",
+      "published_iso": "2026-10-01T02:46:33+00:00",
+      "age": "37분 전"
+    },
     {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
@@ -9,7 +19,27 @@
       "source": "코인리더스",
       "published": "10-01 10:45",
       "published_iso": "2026-10-01T01:45:00+00:00",
-      "age": "37분 전"
+      "age": "1시간 전"
+    },
+    {
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "고금리에 추풍낙엽…다시 하락한 금, 은 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DTUxkYk5SWXNRaHh0UmxyWFo4anBXdXRiMWcyMHE1NXJwSHQ5OHh5MlNSeFBqeVFuUTg3a0IwdW1FcmQ4T3RSQnVoS0VOTEFtX3c?oc=5",
+      "source": "매일경제 마켓",
+      "published": "10-01 10:07",
+      "published_iso": "2026-10-01T01:07:34+00:00",
+      "age": "2시간 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "2026년, 2027년, 2028~2030년 및 향후 구글 주가 예측 및 전망 - LiteFinance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeTlyQUdiYVBHQVFvbXp3OUJlT21rUWdNYTd4dVBGVTBQUE0yQk01Q3A5WkdqMFYyRTRkN3E4SEJCQnhnazM0dVlRekNvQm1jYThVWEZPYXAwd0dXTExfUlEyT25TMjZid3lUTnBjWUhNTVVYcHp6c0pFVlROTVN2NGtfUy13Wi1aX3VkakoxNXY3aHRGUEU2QUJucWc1cEtTdTJCQw?oc=5",
+      "source": "LiteFinance",
+      "published": "10-01 09:45",
+      "published_iso": "2026-10-01T00:45:32+00:00",
+      "age": "2시간 전"
     },
     {
       "ticker": "0072R0",
@@ -19,17 +49,7 @@
       "source": "v.daum.net",
       "published": "10-01 07:21",
       "published_iso": "2026-09-30T22:21:20+00:00",
-      "age": "4시간 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "Google Cloud, AI 성장 및 모멘텀에 힘입어 Alphabet 주가 2% 이상 상승 - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTZkQV8zb2ZqdjJ6SU1SaXRKT290WkN3c3N5U2ZGbzZfbU5OX0E5ZVVDVGNPMGRYdHB2aUJMNlM5SWhvb1dwUmp6cHdsSVdIaThLYzE0dm1Fc1RBQnBFbVoyaVVUbjRtSWM1MkhUTnFoZlJDXzV2UjJnY1QwWDFONzNpTmxsQW1MVkVWTWJWSUtsQkE?oc=5",
-      "source": "Traders Union",
-      "published": "10-01 03:48",
-      "published_iso": "2026-09-30T18:48:45+00:00",
-      "age": "7시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "GOOG",
@@ -39,7 +59,7 @@
       "source": "TradingKey",
       "published": "10-01 01:16",
       "published_iso": "2026-09-30T16:16:06+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "ZETA",
@@ -49,7 +69,7 @@
       "source": "ThinkPool",
       "published": "09-30 23:39",
       "published_iso": "2026-09-30T14:39:47+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "CAT",
@@ -59,7 +79,7 @@
       "source": "TIKR.com",
       "published": "09-30 23:26",
       "published_iso": "2026-09-30T14:26:15+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "GEV",
@@ -69,27 +89,37 @@
       "source": "TradingKey",
       "published": "09-30 22:47",
       "published_iso": "2026-09-30T13:47:51+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
+    },
+    {
+      "ticker": "SCHD",
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "title": "알림음과 배경 음악을 구분하는 스보벳 가입하기 사운드 안내 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVZPN2ZDdThzcGpWX2MwMVNCblhySlFpeGlnRzc4VW5IT3ZDT3ZocF8zREhXV29jenBxQ3dwRk5IYmUtUHBrWWN0d0FiaWl3OGRTbWNpZXFXRnRBWnVkUGE2NS04RC0ydUZ2SFpNWmI4R0tUVG9nNm5kM092VmRDTTNMaUR1eW1Ld3Jtd052WG9US0VlTVlqR2pjdkVQSzNDWnFKdDZnQlMwWXNCWGV1bEZ2RXd1djdlMVRCSV9rVEJCbkNFU19qYVdQLVpyTU9QbnE1bDdsREs?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "09-30 20:44",
+      "published_iso": "2026-09-30T11:44:34+00:00",
+      "age": "15시간 전"
     },
     {
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
-      "title": "GE 버노바, 주당 0.50달러 분기 배당 선언 - Investing.com 한국어",
+      "title": "GE 버노바, 주당 0.50달러 분기 배당 선언 - kr.investing.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iYl9Xa09LRHpuT2RfY3AzT1lFbzhmUV9MVFZFWDZsUmZYRDlYRjJNQkV4Wlh5YjBub0FBbklWRWlWd2dYUFVLUmp1RDlTYzFxV0VHOWEzRlZ4LXgwSFFFMzdSSkVpczZzVUdOcDdkZkk?oc=5",
-      "source": "Investing.com 한국어",
+      "source": "kr.investing.com",
       "published": "09-30 20:44",
       "published_iso": "2026-09-30T11:44:00+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
-      "title": "파이퍼 \"TSMC, 강한 AI 수요로 2028년까지 생산 능력 매진\" - Investing.com 한국어",
+      "title": "파이퍼 \"TSMC, 강한 AI 수요로 2028년까지 생산 능력 매진\" - kr.investing.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfTzNLTmZzc256bjE0czl3VkVJczNkM01MTHRaWlJySHhiSlNEd3JSWWVMVFRodjItVEF4dTR3T2lqSzVZRm5xZ1ZqZi1LMmN1ZHJQNjRBVndnM0xDVGI2V0VlU3h2SjVQMDRfNlktSEtWNmdHNk1B?oc=5",
-      "source": "Investing.com 한국어",
+      "source": "kr.investing.com",
       "published": "09-30 20:01",
       "published_iso": "2026-09-30T11:01:00+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "AMD",
@@ -99,7 +129,7 @@
       "source": "simplywall.st",
       "published": "09-30 12:54",
       "published_iso": "2026-09-30T03:54:27+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "SNDK",
@@ -109,7 +139,7 @@
       "source": "simplywall.st",
       "published": "09-30 12:54",
       "published_iso": "2026-09-30T03:54:24+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "TSM",
@@ -119,7 +149,7 @@
       "source": "아이투자",
       "published": "09-30 12:34",
       "published_iso": "2026-09-30T03:34:08+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "SNDK",
@@ -129,7 +159,7 @@
       "source": "아이투자",
       "published": "09-30 12:14",
       "published_iso": "2026-09-30T03:14:35+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "GEV",
@@ -154,9 +184,9 @@
     {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
-      "title": "테슬라(TSLA.N) 유럽 FSD 전역 승인 표결 연기..\"연내 승인 가능성 낮아\" By 알파경제 alphabiz - Investing.com 한국어",
+      "title": "테슬라(TSLA.N) 유럽 FSD 전역 승인 표결 연기..\"연내 승인 가능성 낮아\" By 알파경제 alphabiz - kr.investing.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuVG5vbXFISE4zUkpJb3hfYjdqYXdoUnN0Um5QZkdmYW5EbnlWWnZ5ZGFBd2gyR0l2dkdVREhLMTV0ek9adW1ueENCaXhLODVSbFJUcmYyeEdyYkVKUEN3SEExS291QTJyeU1ua3c5NnI?oc=5",
-      "source": "Investing.com 한국어",
+      "source": "kr.investing.com",
       "published": "09-30 10:27",
       "published_iso": "2026-09-30T01:27:00+00:00",
       "age": "1일 전"
@@ -222,11 +252,21 @@
       "age": "1일 전"
     },
     {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "Nvidia, AI 안전 입장에 교황 레오 14세 질책 직면 - kr.investing.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fNWQ0VWJ3WW9fRkJjSDB4eTExT3FqUmcyVXgtOV8xV1BaOGtOdHdMbXdOVENRRmx1Q2tIY3FVM0FoSlJTdFRnVEdhNkNJSmtaY2YxeU9BOXJNZ3c4cjhNejNsNzFuUm9DbnFBS3R1WDlOWjdCSjI0?oc=5",
+      "source": "kr.investing.com",
+      "published": "09-29 18:54",
+      "published_iso": "2026-09-29T09:54:00+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
-      "title": "AMD, Fei-Fei Li의 AI 스타트업 82억 달러에 인수 - IDNFinancials",
+      "title": "AMD, Fei-Fei Li의 AI 스타트업 82억 달러에 인수 - idnfinancials.com",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVWNsRHRSTFppWGVjVDlYNzB2azl1Ty1hb2hRbTl5b1FocVdXWmVMZF9pWEdkUk9fZWRvUDBaS3cwTGpGQVRoX1hyVENoeFlwekxXN0tuWFRIV0ZfakhkUUQ1VVFVdGdXdHhHbUhRNm1id3drRmR5OW43MlhRV1U4U0xXS19PYy1Dek9kZnVSMTg1TGdDUU1ucDdSVWtmYlBLUFF1UEpqSGx4Q0syTDIzR0RpRFBKMkNVSkRqRVNfVWk1Tl9SeXpXSnZud0RtSWJ2eFFqX1FUWHlTUUx0a3FYTGNRT2tTVlpvOV9ZMk85c25QaEJYRDNtaGt3?oc=5",
-      "source": "IDNFinancials",
+      "source": "idnfinancials.com",
       "published": "09-29 18:20",
       "published_iso": "2026-09-29T09:20:00+00:00",
       "age": "1일 전"
@@ -299,14 +339,14 @@
       "source": "IT조선",
       "published": "09-29 12:00",
       "published_iso": "2026-09-29T03:00:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
-      "title": "같은 S&P500인데 개미는 TIGER로…미래에셋운용, 순매수 '1위' 독주 - shinailbo.co.kr",
+      "title": "같은 S&P500인데 개미는 TIGER로…미래에셋운용, 순매수 '1위' 독주 - 신아일보",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QbmdOYzVJcXFjYzZpZzY2R0JaM0FBUF80RzBFMHJseGl2UXdLa0g1QndEQ2V2VFhxM2Yyam4xeWpmckR5VzBPbFZDY1BfNVY2djY2bWpRSkJaUjRBd09uRFZ2d0JBendOTTV1ckcyLWs?oc=5",
-      "source": "shinailbo.co.kr",
+      "source": "신아일보",
       "published": "09-29 11:11",
       "published_iso": "2026-09-29T02:11:45+00:00",
       "age": "2일 전"
@@ -394,9 +434,9 @@
     {
       "ticker": "GLDM",
       "name": "SPDR Gold MiniShares Trust",
-      "title": "월드골드트러스트, 조안 A. 빈스톡 이사회 및 감사 위원회에 임명 - Investing.com 한국어",
+      "title": "월드골드트러스트, 조안 A. 빈스톡 이사회 및 감사 위원회에 임명 - kr.investing.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92OTF3azRRQ05GT01rUV9Qc1ktakU1ZVppSWVJTFQyTHQzREMtMkM0cWlON2F4bVpqT1BJdXAycjh3aHlweXRzT2tTMl84WW5ESnp6SkV4c25PRjlobFZCUWNNNTRwYVZqRTc1QV9WOA?oc=5",
-      "source": "Investing.com 한국어",
+      "source": "kr.investing.com",
       "published": "09-29 00:23",
       "published_iso": "2026-09-28T15:23:00+00:00",
       "age": "2일 전"
@@ -472,16 +512,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "Nvidia, AI 지배력으로 1,500억 달러 역사적 자사주 매입 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94OVRGaV9EbU5qX2JweHU5c2k0TWI4RmIyZ2xPcm5ZaU9najRoT0YxeFJmOFphSG9teC1LajRRVm9ZQmw5cXd1VmhCcFQ0VF9oSUlfazVuMGYyV2xwZlhZUkRIa1FFcndYZUJrU2tqSXA?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "09-28 20:13",
-      "published_iso": "2026-09-28T11:13:00+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
       "title": "국내 증시 ETF서 빠진 자금…미국 지수형 상품으로 투자 수요 이동 - 산경투데이",
@@ -509,6 +539,16 @@
       "source": "녹색경제신문",
       "published": "09-28 17:26",
       "published_iso": "2026-09-28T08:26:03+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
+      "title": "'하락 예감?' 코스피·반도체 추종 ETF서 한주간 뭉칫돈 이탈 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lQXVsekNFTXNsWUdYUDB0N2RSOXFrMXpJLTl5N0hxbHB2U2NBRmV2bVpRWHN5emdMME5lUkRFVnVMaWxPY19ZN3FHN0ZuT2V3M21uRURJcl85aHpCSno3R9IBYEFVX3lxTE1lQXVsekNFTXNsWUdYUDB0N2RSOXFrMXpJLTl5N0hxbHB2U2NBRmV2bVpRWHN5emdMME5lUkRFVnVMaWxPY19ZN3FHN0ZuT2V3M21uRURJcl85aHpCSno3Rw?oc=5",
+      "source": "연합뉴스",
+      "published": "09-28 16:44",
+      "published_iso": "2026-09-28T07:44:15+00:00",
       "age": "2일 전"
     },
     {
@@ -562,31 +602,11 @@
       "age": "2일 전"
     },
     {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
-      "title": "\"지루한 박스피 탈출\"…개미들 美 ETF 쏠림 심화 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1eVRJdm5lSUZvaTlZSWE2T3l0MjVRbFZPLW1Qdk1KbTBoTUNsSlJlV0RGZVowSGFSVS1QeHdwVi1aUnNNQndKT3RHSER3ZVYxU0tlczF5dk5zMmtsYW9YRXdXMFU5Q1lmUXVRQ1haNmo3REhYMWxTMNIBeEFVX3lxTFA1eVRJdm5lSUZvaTlZSWE2T3l0MjVRbFZPLW1Qdk1KbTBoTUNsSlJlV0RGZVowSGFSVS1QeHdwVi1aUnNNQndKT3RHSER3ZVYxU0tlczF5dk5zMmtsYW9YRXdXMFU5Q1lmUXVRQ1haNmo3REhYMWxTMA?oc=5",
-      "source": "뉴시스",
-      "published": "09-28 10:12",
-      "published_iso": "2026-09-28T01:12:26+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "\"지루한 박스피 탈출\"…개미들 美 ETF 쏠림 심화 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1eVRJdm5lSUZvaTlZSWE2T3l0MjVRbFZPLW1Qdk1KbTBoTUNsSlJlV0RGZVowSGFSVS1QeHdwVi1aUnNNQndKT3RHSER3ZVYxU0tlczF5dk5zMmtsYW9YRXdXMFU5Q1lmUXVRQ1haNmo3REhYMWxTMNIBeEFVX3lxTFA1eVRJdm5lSUZvaTlZSWE2T3l0MjVRbFZPLW1Qdk1KbTBoTUNsSlJlV0RGZVowSGFSVS1QeHdwVi1aUnNNQndKT3RHSER3ZVYxU0tlczF5dk5zMmtsYW9YRXdXMFU5Q1lmUXVRQ1haNmo3REhYMWxTMA?oc=5",
-      "source": "뉴시스",
-      "published": "09-28 10:12",
-      "published_iso": "2026-09-28T01:12:26+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "000660",
       "name": "SK하이닉스",
-      "title": "SK Hynix, 이평선 사이 갇혀 방향성 대기: 매시간 업데이트 - Investing.com 한국어",
+      "title": "SK Hynix, 이평선 사이 갇혀 방향성 대기: 매시간 업데이트 - kr.investing.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nWW9LTkZneUhwZDRDV1BuYldBRlB4OTAwUXVOUTFpeGxmQ2ZrcVRrNTRJWDdGem56RjBQOGhOemxfSXVMbE5PbWFGU2JNNTNhbVkyTWpIa1Bfek0xT0J4TTFwYmd4V0t2Y2hadEpTeURHdEh1N25j?oc=5",
-      "source": "Investing.com 한국어",
+      "source": "kr.investing.com",
       "published": "09-28 10:04",
       "published_iso": "2026-09-28T01:04:00+00:00",
       "age": "3일 전"
@@ -814,9 +834,9 @@
     {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
-      "title": "CAT Stock Price Today - CoinDesk",
+      "title": "CAT Stock Price Today - coindesk.com",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QV3lock91M042SnJlVkhqcW80Yzh2UWJyUkpvcm50VkhhdjVTdjlVbEw0QkduQWJyM1RyM3RWTlJweEloVGt0ZU53MUZoMlktWDVjZ1VB?oc=5",
-      "source": "CoinDesk",
+      "source": "coindesk.com",
       "published": "09-25 17:38",
       "published_iso": "2026-09-25T08:38:00+00:00",
       "age": "5일 전"
@@ -879,7 +899,7 @@
       "source": "simplywall.st",
       "published": "09-25 12:17",
       "published_iso": "2026-09-25T03:17:03+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "487230",
@@ -894,19 +914,9 @@
     {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
-      "title": "추석에 '금테크' 해볼까…180억달러 몰린 금 ETF, 유의할 점은 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SREhYb09aSjFLZ0F6Wi1FQUYxYTlqN1NCWWFBZkh4b2h6bVFla05XZDBtakZCUlg2a3AzWF9ETXR3OE5KbVE?oc=5",
-      "source": "v.daum.net",
-      "published": "09-25 08:07",
-      "published_iso": "2026-09-24T23:07:06+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
-      "title": "추석 용돈 10만원 ETF 투자했더니…'TIGER 반도체' 13만원 벌었고 'ACE 금현물' 1만원 날렸다 - shinailbo.co.kr",
+      "title": "추석 용돈 10만원 ETF 투자했더니…'TIGER 반도체' 13만원 벌었고 'ACE 금현물' 1만원 날렸다 - 신아일보",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBibXpUMXBXS2lQbEhwLWxsOFpwWlVTeXV4YzNWUU9kWG5ZM3NyTk1Nc1B2WnJrUkIteFdoaDU4MVpGUVgyUFlpQlBTZGRzUGplM2pFNjN0N2FndExPSGVSdTA1QU5iOWFGS2lUdmx2dHM?oc=5",
-      "source": "shinailbo.co.kr",
+      "source": "신아일보",
       "published": "09-25 08:00",
       "published_iso": "2026-09-24T23:00:00+00:00",
       "age": "6일 전"
@@ -939,6 +949,16 @@
       "source": "v.daum.net",
       "published": "09-25 07:08",
       "published_iso": "2026-09-24T22:08:00+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "GLDM",
+      "name": "SPDR Gold MiniShares Trust",
+      "title": "주목할 ETF TOP: 실시간 시세와 수익률 비교 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzVjVzR1JJdFJya2ZfUWJVV205RnBhM1RZVzZJWU9MRjFxTUIwbTQ5X2lGRVU3alR6Qnl2NmwtRHAxR1hEZUJJajFtdHdoSmR3Z3lBaWtPaTJDNDllejlhSlQ0Yw?oc=5",
+      "source": "TradingKey",
+      "published": "09-25 06:51",
+      "published_iso": "2026-09-24T21:51:11+00:00",
       "age": "6일 전"
     },
     {
@@ -979,26 +999,6 @@
       "source": "TradingKey",
       "published": "09-24 23:16",
       "published_iso": "2026-09-24T14:16:12+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "QQQM",
-      "name": "Invesco NASDAQ 100 ETF",
-      "title": "vic2 카지노 기본 배경과 특수 화면 비교 - Histoire pour tous",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbHh2R2tKUjdzeXJyYmlzSmppU2MxaXg0NVc5dnJ1M0pqUDRZQnFLOXp3b3lSYXZZaHM4REJLNTRmNnAtU05wS1FaQzMyOXY1bFlrNW9hQnJxR3IwWmJtWnp6NjdDd0pvdm5ONDBrRGZyQTJ0SlhXY0d3RV91OUFBSndQZEVPTGNCZndITk9hSDk1eWxhTGo1aWxsajIyZmNWLTRoaWZvb1l0WlVtd0dfcTVhRmd2cnluZkVXR3lqWk1jZw?oc=5",
-      "source": "Histoire pour tous",
-      "published": "09-24 22:00",
-      "published_iso": "2026-09-24T13:00:05+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "캐터필러(CAT), 데이터센터 수요 이후 16% 저평가 가능성 있나 - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWnBqRzdqY2E5SnBXUjRwVTVQS0N5N2pvQUd1TnZ4OVp5WUlTOU1VNzhDWDZVdExONDBOLVhVMkM3V1JKZ2tlZ094VkEyamFzc0VDcFZ1NGt6RkV2RTFxMDgxNmhQV1VpUnBpQkJ5TFF6U3dkU3IxNFNWenVXd0VNakd3Tmt2Rk5TR0hkcmdsaUpocHRVRHfSAZsBQVVfeXFMUDFLMFV4T2Npd2wxRmt1eE1DQnh6dDAwcUpibkJ6ZGR6dU14TTNibE0tOEhTN3VXaDNFdG1pOEdtdTR0RUpzZ2FjOHpiRWs0MG5lRDFfVjJ4UFdnOXpSZkd2YkVvS3BQOG1vb05FaUFwRG9ZYS1wbWZVWnh4cXlmdmdyMzgwbDAyWS1NVEFsQU5nNVowbk83NVFzTEk?oc=5",
-      "source": "simplywall.st",
-      "published": "09-24 17:20",
-      "published_iso": "2026-09-24T08:20:10+00:00",
       "age": "6일 전"
     }
   ]
