@@ -110,9 +110,13 @@ for h in HOLDINGS:
         market[sym]={"prices":[]}
 try:
     fx=fetch_prices("KRW=X")
+    market["_fx_usdkrw"]=fx
     if fx.get("prices"):
         market["_meta"]={"usdkrw":fx["prices"][-1]["close"]}
+    else:
+        market["_meta"]={"usdkrw":1360.81}
 except Exception:
+    market["_fx_usdkrw"]={"prices":[]}
     market["_meta"]={"usdkrw":1360.81}
 (ROOT/"data/market_data.json").write_text(json.dumps(market,ensure_ascii=False,indent=2),encoding="utf-8")
 print("market updated",len(market))
