@@ -154,6 +154,20 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
       <div class="card"><div class="section-title">운영 원칙</div><div class="watch"><div class="name">배당금</div><div class="reason">100% 재투자</div></div><div class="watch"><div class="name">추가매수</div><div class="reason">월 60만원 정기매수 + 조건 충족 시 기회매수</div></div><div class="watch"><div class="name">보유</div><div class="reason">단기 가격보다 펀더멘털·배당 지속성·장기 성장성 우선</div></div></div>
     </div>
     <div class="card" style="margin-top:10px">
+      <div class="section-title">실제 배당 입금</div>
+      <div class="goalgrid">
+        <div class="goal"><div class="small">2026년 10월 누적</div><strong>104,115원</strong></div>
+        <div class="goal"><div class="small">10/02 입금 종목</div><strong>4개</strong></div>
+      </div>
+      <div class="div-row div-head" style="margin-top:10px"><div>종목</div><div>세후 입금액</div><div>세금</div><div>입금일</div></div>
+      <div class="div-row"><div><b>322410 · HANARO K고배당</b></div><div>16,660원</div><div>0원</div><div>10/02</div></div>
+      <div class="div-row"><div><b>368590 · RISE 미국나스닥100</b></div><div>16,368원</div><div>0원</div><div>10/02</div></div>
+      <div class="div-row"><div><b>379780 · RISE 미국S&P500</b></div><div>35,168원</div><div>0원</div><div>10/02</div></div>
+      <div class="div-row"><div><b>458730 · TIGER 미국배당다우존스</b></div><div>35,919원</div><div>0원</div><div>10/02</div></div>
+      <div class="small" style="margin-top:8px">10/02 실수령 합계 104,115원 · 기준일 2026-09-30</div>
+    </div>
+
+    <div class="card" style="margin-top:10px">
       <div class="chart-title-row"><div><div class="section-title" style="margin:0">종목별 예상 배당</div><div class="small">확인 가능한 기존 추정자료 기준 · 공식 분배금 확인 시 갱신</div></div></div>
       <div id="dividendRows"></div>
     </div>
@@ -187,6 +201,10 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
         <div class="account-card"><div class="an">키움 연금저축</div><div class="av">13,913,875원</div><div class="as">수익률 -10.2% · 미국지수·배당·AI인프라·금</div></div>
         <div class="account-card"><div class="an">별도 미국계좌</div><div class="av">$10,311.33</div><div class="as">수익률 +1.32% · JEPI 88주 · JEPQ 87주</div></div>
       </div>
+    </div>
+    <div class="card" style="margin-top:10px">
+      <div class="section-title">최근 거래 내역</div>
+      <div class="watch"><div class="name">2026-10-02 · 379780 · RISE 미국S&P500</div><div class="reason">나무 · 매수 체결 2주 · 체결단가 22,565원 · 매수금액 45,130원 · 총 보유수량 886주</div></div>
     </div>
   </section>
 
@@ -258,7 +276,7 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
     </div>
   </section>
 
-  <footer>v10 · 2026-10-01 · 사용자 제공 보유내역 기반. 종목별 평균매수가·현재가·평가손익·수익률·비중·예상배당을 표시하며, 최근 종가와 뉴스는 자동 갱신합니다. 배당 추정치는 공식 자료 확인 전 1차 추정값이 포함됩니다.</footer>
+  <footer>v11 · 2026-10-02 · 사용자 제공 보유내역 기반. 종목별 평균매수가·현재가·평가손익·수익률·비중·예상배당을 표시하며, 최근 종가와 뉴스는 자동 갱신합니다. 배당 추정치는 공식 자료 확인 전 1차 추정값이 포함됩니다.</footer>
 </div>
 
 <script>
@@ -266,7 +284,7 @@ const holdings = [
 {name:"005930 · 삼성전자",type:"국내 개별주",qty:"16주",value:"4,318,259원",note:"토스+메리츠",ret:"+2.5%",sym:"005930.KS",tv:"KRX:005930"},
 {name:"000660 · SK하이닉스",type:"국내 개별주",qty:"4주",value:"7,130,325원",note:"토스+메리츠",ret:"-32.6%",sym:"000660.KS",tv:"KRX:000660"},
 {name:"005380 · 현대자동차",type:"국내 개별주",qty:"30주",value:"10,410,000원",note:"메리츠",ret:"-41.2%",sym:"005380.KS",tv:"KRX:005380"},
-{name:"379780 · RISE 미국S&P500",type:"국내상장 ETF",qty:"884주",value:"19,904,940원",note:"나무+IRP+키움",ret:"-3.9%",sym:"379780.KS",tv:"KRX:379780"},
+{name:"379780 · RISE 미국S&P500",type:"국내상장 ETF",qty:"886주",value:"19,904,940원",note:"나무+IRP+키움",ret:"-3.9%",sym:"379780.KS",tv:"KRX:379780"},
 {name:"368590 · RISE 미국나스닥100",type:"국내상장 ETF",qty:"552주",value:"16,710,000원",note:"나무+키움",ret:"-5.8%",sym:"368590.KS",tv:"KRX:368590"},
 {name:"458730 · TIGER 미국배당다우존스",type:"국내상장 ETF",qty:"1,081주",value:"15,333,985원",note:"나무+키움",ret:"-5.6%",sym:"458730.KS",tv:"KRX:458730"},
 {name:"0072R0 · TIGER KRX금현물",type:"국내상장 ETF",qty:"453주",value:"5,515,775원",note:"나무+키움",ret:"-16.7%",sym:"0072R0.KS",tv:"KRX:0072R0"},
