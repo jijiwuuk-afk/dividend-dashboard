@@ -207,7 +207,7 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
     </div>
     <div class="card" style="margin-top:10px">
       <div class="section-title">최근 거래 내역</div>
-      <div class="watch"><div class="name">2026-10-02 · 379780 · RISE 미국S&P500</div><div class="reason">나무 · 매수 체결 2주 · 체결단가 22,565원 · 매수금액 45,130원 · 총 보유수량 886주</div></div>
+      <div class="watch"><div class="name">2026-10-02 · 368590 · RISE 미국나스닥100</div><div class="reason">나무 · 매수 체결 2주 · 체결단가 30,650원 · 매수금액 61,300원 · 총 보유수량 554주</div></div><div class="watch"><div class="name">2026-10-02 · 379780 · RISE 미국S&P500</div><div class="reason">나무 · 매수 체결 2주 · 체결단가 22,565원 · 매수금액 45,130원 · 총 보유수량 886주</div></div>
     </div>
   </section>
 
@@ -279,7 +279,7 @@ footer{font-size:10px;color:var(--muted);padding:16px 2px 6px;line-height:1.5}
     </div>
   </section>
 
-  <footer>v12 · 2026-10-02 · 사용자 제공 보유내역 기반. 종목별 평균매수가·현재가·평가손익·수익률·비중·예상배당을 표시하며, 최근 종가와 뉴스는 자동 갱신합니다. 배당 추정치는 공식 자료 확인 전 1차 추정값이 포함됩니다.</footer>
+  <footer>v13 · 2026-10-02 · 사용자 제공 보유내역 기반. 종목별 평균매수가·현재가·평가손익·수익률·비중·예상배당을 표시하며, 최근 종가와 뉴스는 자동 갱신합니다. 배당 추정치는 공식 자료 확인 전 1차 추정값이 포함됩니다.</footer>
 </div>
 
 <script>
@@ -288,7 +288,7 @@ const holdings = [
 {name:"000660 · SK하이닉스",type:"국내 개별주",qty:"4주",value:"7,130,325원",note:"토스+메리츠",ret:"-32.6%",sym:"000660.KS",tv:"KRX:000660"},
 {name:"005380 · 현대자동차",type:"국내 개별주",qty:"30주",value:"10,410,000원",note:"메리츠",ret:"-41.2%",sym:"005380.KS",tv:"KRX:005380"},
 {name:"379780 · RISE 미국S&P500",type:"국내상장 ETF",qty:"886주",value:"19,904,940원",note:"나무+IRP+키움",ret:"-3.9%",sym:"379780.KS",tv:"KRX:379780"},
-{name:"368590 · RISE 미국나스닥100",type:"국내상장 ETF",qty:"552주",value:"16,710,000원",note:"나무+키움",ret:"-5.8%",sym:"368590.KS",tv:"KRX:368590"},
+{name:"368590 · RISE 미국나스닥100",type:"국내상장 ETF",qty:"554주",value:"16,710,000원",note:"나무+키움",ret:"-5.8%",cost:17800154,sym:"368590.KS",tv:"KRX:368590"},
 {name:"458730 · TIGER 미국배당다우존스",type:"국내상장 ETF",qty:"1,081주",value:"15,333,985원",note:"나무+키움",ret:"-5.6%",sym:"458730.KS",tv:"KRX:458730"},
 {name:"0072R0 · TIGER KRX금현물",type:"국내상장 ETF",qty:"453주",value:"5,515,775원",note:"나무+키움",ret:"-16.7%",sym:"0072R0.KS",tv:"KRX:0072R0"},
 {name:"322410 · HANARO K고배당",type:"국내상장 ETF",qty:"238주",value:"5,349,050원",note:"나무",ret:"-4.4%",sym:"322410.KS",tv:"KRX:322410"},
@@ -353,7 +353,7 @@ function qtyNum(h){return numText(h.qty)}
 function currencyOf(h){return String(h.value||"").includes("$")?"USD":"KRW"}
 function snapshotValue(h){return numText(h.value)}
 function savedRet(h){return numText(h.ret)/100}
-function costBasis(h){const r=savedRet(h); return snapshotValue(h)/(1+r)}
+function costBasis(h){if(h.cost!=null)return h.cost;const r=savedRet(h); return snapshotValue(h)/(1+r)}
 function latestPrice(h){
   const d=marketData[h.sym];
   if(d&&d.prices&&d.prices.length) return d.prices[d.prices.length-1].close;
