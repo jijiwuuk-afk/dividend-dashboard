@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-02 09:30 KST",
+  "updated_at": "2026-10-02 10:22 KST",
   "items": [
+    {
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "\"금보다 은이 더 빠진다\"…고금리 장기화에 은 ETF '털썩' - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ldzFYVjYzNnRPaDF6QkpfY0RJTFU2WklkSHdWMUJuY1p4WXNVdWhOTEVZOS1FcjcxcDJHWGxYSXV3Z1h6WktTbW9EYzY3Ni1lUzF6d1JTTDBhdGVoTktkeNIBeEFVX3lxTE1MM1JxVmpCTjdzaDlWU2pfbmx3d3VlYndabnk5dG5RVkZXSnlkWnQ1NmNXUk5iUmFWeFh0aW92RWYxS2YyLXJzam10eHJ5OUxFS3B0R1lYZ2dnZDJlOVB5NU1jT0hVVzNUUHhVSVdFRU92czNGNFdySQ?oc=5",
+      "source": "뉴시스",
+      "published": "10-02 09:48",
+      "published_iso": "2026-10-02T00:48:08+00:00",
+      "age": "34분 전"
+    },
     {
       "ticker": "005930",
       "name": "삼성전자",
@@ -9,7 +19,7 @@
       "source": "알파경제",
       "published": "10-02 06:00",
       "published_iso": "2026-10-01T21:00:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "000660",
@@ -19,7 +29,7 @@
       "source": "알파경제",
       "published": "10-02 06:00",
       "published_iso": "2026-10-01T21:00:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "GEV",
@@ -29,7 +39,7 @@
       "source": "TradingKey",
       "published": "10-02 02:16",
       "published_iso": "2026-10-01T17:16:05+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "ZETA",
@@ -39,7 +49,7 @@
       "source": "ThinkPool",
       "published": "10-02 01:11",
       "published_iso": "2026-10-01T16:11:05+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "GEV",
@@ -49,7 +59,7 @@
       "source": "Investing.com 한국어",
       "published": "10-02 00:58",
       "published_iso": "2026-10-01T15:58:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "GOOG",
@@ -59,7 +69,7 @@
       "source": "FinanceFeeds",
       "published": "10-01 23:35",
       "published_iso": "2026-10-01T14:35:30+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "AVGO",
@@ -69,7 +79,7 @@
       "source": "edaily.co.kr",
       "published": "10-01 23:17",
       "published_iso": "2026-10-01T14:17:39+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "ZETA",
@@ -79,7 +89,7 @@
       "source": "Investing.com 한국어",
       "published": "10-01 21:03",
       "published_iso": "2026-10-01T12:03:00+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "SNDK",
@@ -89,17 +99,7 @@
       "source": "아이투자",
       "published": "10-01 20:02",
       "published_iso": "2026-10-01T11:02:22+00:00",
-      "age": "13시간 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "규칙 확인에 필요한 버튼은 어디에? 흔한남매 속담 카드 보드게임 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ2J6NXowczZtd0lQVkRYYU5QVGVoTEFLbVlrMmRXbTEzX2V0UXdhS2ZmM3ZYcXY3aWotNFpRUGUtSTdjeEVOZ0lfV1FRSVozMkJxdmFCTF9iRHZ0dmhYX3ZWdVk1ZlNyWThpVHFqTElHWHRmN1V6SXdiU1Z5a3ZxXzVmNA?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-01 15:50",
-      "published_iso": "2026-10-01T06:50:36+00:00",
-      "age": "17시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "0072R0",
@@ -109,16 +109,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-01 14:11",
       "published_iso": "2026-10-01T05:11:53+00:00",
-      "age": "19시간 전"
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "title": "테슬라(TSLA) 주가 전망: 실적 매출 예상 상회, 주가는 왜 하락했나? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR1FzZzFTY2RlRXA2US1CWG1mamFsenFYWFhlSkxXUHd4el9fT29kcWZMQXNxemhhRUI4SDU3c2l3bmdjLXFhMHNJN3RUUVdkTk5sRHQ0LTViZHFuMm80aHdMODAySU9QUUF6QnVKV1NTeHkwc0dwNFBnVl94N1VVY3lfZkROMkdnM0lBN3BXM0dXZjFUaXl2S0FRSC1heEZmVXgzaWd6SmtCRWg1eHc4OTBONVVrNi1fUmdoa2wwQW1MbTBmUURjLWYzVXB6NVV0WC1IUWFzaXh0UlNNazc0aXg2TWMxa3hTU08xeEJBZmpQbWZ3ckN4TDNUWmNWaGlZUm0w?oc=5",
-      "source": "TradingKey",
-      "published": "10-01 12:43",
-      "published_iso": "2026-10-01T03:43:16+00:00",
       "age": "20시간 전"
     },
     {
@@ -129,17 +119,17 @@
       "source": "v.daum.net",
       "published": "10-01 11:47",
       "published_iso": "2026-10-01T02:47:45+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
-      "title": "최우수 ETF(해외) ‘KODEX 미국나스닥100’ 순자산 10조…시장 리드[2026 헤럴드 투자대상 최우수 ETF(해외)-삼성자산운용] - biz.heraldcorp.com",
+      "title": "최우수 ETF(해외) ‘KODEX 미국나스닥100’ 순자산 10조…시장 리드[2026 헤럴드 투자대상 최우수 ETF(해외)-삼성자산운용] - 헤럴드경제",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BTFhXOWJ6OHBLajFoWFpWNUJvcWpBX084cXFTZEQxUTl4cW1BNC1JUFZyUDczYUtuOWxZM1hsNDhqcW02NllzMG5mbXlFVWt3QXRDcGl3?oc=5",
-      "source": "biz.heraldcorp.com",
+      "source": "헤럴드경제",
       "published": "10-01 11:46",
       "published_iso": "2026-10-01T02:46:33+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "TSLA",
@@ -149,7 +139,7 @@
       "source": "코인리더스",
       "published": "10-01 10:45",
       "published_iso": "2026-10-01T01:45:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "0072R0",
@@ -159,7 +149,7 @@
       "source": "v.daum.net",
       "published": "10-01 10:09",
       "published_iso": "2026-10-01T01:09:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "SNDK",
@@ -169,7 +159,7 @@
       "source": "Simply Wall Street",
       "published": "10-01 09:53",
       "published_iso": "2026-10-01T00:53:40+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "GEV",
@@ -179,7 +169,7 @@
       "source": "Simply Wall Street",
       "published": "10-01 09:43",
       "published_iso": "2026-10-01T00:43:22+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "005380",
@@ -264,9 +254,9 @@
     {
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
-      "title": "[분석] GE가 세 쪽으로 쪼개지자, 한 곳만 678% 폭등했다 - choicestock.co.kr",
+      "title": "[분석] GE가 세 쪽으로 쪼개지자, 한 곳만 678% 폭등했다 - 초이스스탁US",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fQTVlTlNMU2RMNzZXUTFJZUNoM044LVE0M2o1T1I1ci1IMkd2TWlteW5WTlA4N2RSX0l2dGZDNDZBc29BNzVTaERJTTFqWklwb1o3TFNieEJZZXZnZkFCNVZZMXBvaUJLUnc?oc=5",
-      "source": "choicestock.co.kr",
+      "source": "초이스스탁US",
       "published": "09-30 11:00",
       "published_iso": "2026-09-30T02:00:00+00:00",
       "age": "1일 전"
@@ -339,16 +329,6 @@
       "source": "FinanceFeeds",
       "published": "09-29 22:36",
       "published_iso": "2026-09-29T13:36:04+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "Nvidia, AI 안전 입장에 교황 레오 14세 질책 직면 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fNWQ0VWJ3WW9fRkJjSDB4eTExT3FqUmcyVXgtOV8xV1BaOGtOdHdMbXdOVENRRmx1Q2tIY3FVM0FoSlJTdFRnVEdhNkNJSmtaY2YxeU9BOXJNZ3c4cjhNejNsNzFuUm9DbnFBS3R1WDlOWjdCSjI0?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "09-29 18:54",
-      "published_iso": "2026-09-29T09:54:00+00:00",
       "age": "2일 전"
     },
     {
@@ -542,6 +522,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "title": "Tesla Inc (TSLA) 주식 움직였습니다 하락 3.10%에 9월28일: 핵심 원인 공개 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWTk0MGh1MDZvRXlaSklwVjlzek9Gc2pRUk9CM3lBSkZZVV91RlcxTl9URUxtUGRpMzJBUEs2WVJqa0M3TkMzMmg4dVROTmhvNVp6NHVadzNFWnpwSHBhRDVXTDVfUGdIQkdqYWM0UGJXaC0wNEg0bGRMNkRKSTlNZWlhalVVLWMyMTJKaFhMRQ?oc=5",
+      "source": "TradingKey",
+      "published": "09-29 00:16",
+      "published_iso": "2026-09-28T15:16:08+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "GLDM",
       "name": "SPDR Gold MiniShares Trust",
       "title": "SPDR 골드 미니셰어즈 후원사, 조앤 빈스톡 이사·감사위원 선임 - 데이터투자",
@@ -599,6 +589,16 @@
       "source": "매일경제",
       "published": "09-28 20:16",
       "published_iso": "2026-09-28T11:16:56+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "Nvidia, AI 지배력으로 1,500억 달러 역사적 자사주 매입 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94OVRGaV9EbU5qX2JweHU5c2k0TWI4RmIyZ2xPcm5ZaU9najRoT0YxeFJmOFphSG9teC1LajRRVm9ZQmw5cXd1VmhCcFQ0VF9oSUlfazVuMGYyV2xwZlhZUkRIa1FFcndYZUJrU2tqSXA?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "09-28 20:13",
+      "published_iso": "2026-09-28T11:13:00+00:00",
       "age": "3일 전"
     },
     {
@@ -689,7 +689,7 @@
       "source": "Investing.com 한국어",
       "published": "09-28 10:04",
       "published_iso": "2026-09-28T01:04:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "NVDA",
@@ -699,7 +699,7 @@
       "source": "Simply Wall Street",
       "published": "09-28 09:59",
       "published_iso": "2026-09-28T00:59:14+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "005380",
@@ -929,16 +929,6 @@
       "source": "Simply Wall Street",
       "published": "09-25 16:00",
       "published_iso": "2026-09-25T07:00:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
-      "title": "sk 네트웍스 블록 체인 의 모든 측면: 장점, 단점 및 활용 방법 - Histoire pour tous",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbXdrVjYwTkRkbHlQNEUyU29VOXI4aFRUdjRDUkdNWFpMTVctd1BfbFNRalltNTRmSGlBSTY4S2hERXpfeU9Ca3RlVTBFVHN6TmZBTFZxVi1aSWNNWnhydVo2SnZZS0pHd182bC13d05Lc3hKUTJPdUxDa3ZZbjlMUE9RVDB3d3pMWTU1X3BRY21STWtLZXlOSjlicnAxTHBaLXlVWVAxZzNiTkVQLXEyelYtTDhQS3BKV1F0b0F1czgyMGF6clVyeGplNmhSQkhCZ1JJMVIzblhUQkZpbUZr?oc=5",
-      "source": "Histoire pour tous",
-      "published": "09-25 15:36",
-      "published_iso": "2026-09-25T06:36:39+00:00",
       "age": "6일 전"
     },
     {
