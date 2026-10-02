@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-02 22:24 KST",
+  "updated_at": "2026-10-02 23:25 KST",
   "items": [
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "브로드컴 (AVGO) 주식 움직였습니다 상승 3.26%에 10월2일: 변동 원인 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa0pJcDM5emlNWkRrYXB4XzBxM28takZRTEFzbHhydUJ1SHhTNFVjM0loNGpBSEJ0cmc3aURwdXdxZjRoVGJtR25vUm9zRGlRc2FuRjhScGFsSWtSVUFqYzRKSGNGQVQxd3E2MnlQYk5wdFplaGRMUHBIUkJXaWZ2bnBzTVNMRDZPeXBDU21Baw?oc=5",
+      "source": "TradingKey",
+      "published": "10-02 23:16",
+      "published_iso": "2026-10-02T14:16:12+00:00",
+      "age": "9분 전"
+    },
+    {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "뱅가드 ETF, 최적의 패시브 투자 수단 지목...\"30년 뒤 19배 자산 복사기 된다\" - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xRWhFeXBRMFN2VVlBRmk4XzloeFR2cHBCNEdoeVQtQ2VGS2x3blJHNkxBOUtPY1VBWmw4QlR3Vm9YTTRiSnFnakl3?oc=5",
+      "source": "코인리더스",
+      "published": "10-02 22:30",
+      "published_iso": "2026-10-02T13:30:00+00:00",
+      "age": "55분 전"
+    },
     {
       "ticker": "COST",
       "name": "Costco Wholesale Corporation",
@@ -9,7 +29,17 @@
       "source": "아이투자",
       "published": "10-02 16:43",
       "published_iso": "2026-10-02T07:43:04+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
+    },
+    {
+      "ticker": "JEPQ",
+      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+      "title": "PC에서 도움말이 가려질 때 확인할 비비 카지노 가사 - calgaryroughnecks.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdW1jM0NpN0JORmVoNXFwRnpqN01CdUJWenpvNWVaTmR1Nk1zZ1JCNnNxYUNhcnUyZDdrMk14aVVBaEx2NnJiOVlsSXJidXJtYW5tWHQ0QkVObGhYZHRmU0lvcDVlbGpNZ1dRSGxSel96XzRZcl9uZmtMT0tiazFxSnQ4ajNDUkJ6TFBmdjNHVnhrRmg1RWktMFR5TmFuWVVldGZLS0E1a3VtZ05lSWg2QmJWajRXM01nUGc?oc=5",
+      "source": "calgaryroughnecks.com",
+      "published": "10-02 14:52",
+      "published_iso": "2026-10-02T05:52:20+00:00",
+      "age": "8시간 전"
     },
     {
       "ticker": "0072R0",
@@ -19,27 +49,7 @@
       "source": "뉴시스",
       "published": "10-02 09:48",
       "published_iso": "2026-10-02T00:48:08+00:00",
-      "age": "12시간 전"
-    },
-    {
-      "ticker": "JEPQ",
-      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-      "title": "게임 화면을 천천히 읽는 누누티비 카지노 1화 첫걸음 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjN2hLRmV6U0FmYjVqazdBaGxKejlCYzVXeXdfOE5STlVnZnRGWmlCX19nSnlDcV9SRXd3Z3VIOXJBZUZTOG4xMWNXMjJ1T0M4enZEdW5IcWR1ODh6VGd0Z3Jyb2ZDaExNZmpEd0ZTdTVuTjdKQUpWQw?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-02 09:30",
-      "published_iso": "2026-10-02T00:30:27+00:00",
-      "age": "12시간 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "디 올 뉴 투싼: 가장 대담한 SUV - hyundai.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdjQxcTVicjFmS0wzMFIzTFY0MjJFWmVjZzBKcnFMSC1LZHJhRUtLYjBZTnBjc0s4alkyVHVVa0V1ZnBYX2Z3dXZ6dmJuWDdZQmZWU0lTanB1QzB1d21KY2sxYXdyc0xobVhib2o3TkhseDZzd3loUnFQUXZIZW03TmtmZlFpSVFFVFBabDNWb3E?oc=5",
-      "source": "hyundai.com",
-      "published": "10-02 06:11",
-      "published_iso": "2026-10-01T21:11:32+00:00",
-      "age": "16시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "005930",
@@ -49,7 +59,7 @@
       "source": "알파경제",
       "published": "10-02 06:00",
       "published_iso": "2026-10-01T21:00:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "000660",
@@ -59,17 +69,7 @@
       "source": "알파경제",
       "published": "10-02 06:00",
       "published_iso": "2026-10-01T21:00:00+00:00",
-      "age": "16시간 전"
-    },
-    {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "파워볼 사용 2026년 애자일 개발: 현상, 본질 및 법칙 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Pa3cxNnlxNktma3BGeEpYYmt0Yjc5dUt1OG1WSzFibGJpRnp3MUxEOWFPXzJScGhwdGdLSFZrNXBOWHYxRnBhWER0X3NsWVNMTWRVeHlCWG9hOG9DRl90WEZDZThQYTFxOUdvNE5QQmc?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-02 03:55",
-      "published_iso": "2026-10-01T18:55:53+00:00",
-      "age": "18시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "GEV",
@@ -79,7 +79,7 @@
       "source": "TradingKey",
       "published": "10-02 02:16",
       "published_iso": "2026-10-01T17:16:05+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "ZETA",
@@ -89,7 +89,7 @@
       "source": "VALORANT Esports | Schedule",
       "published": "10-02 01:43",
       "published_iso": "2026-10-01T16:43:37+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "ZETA",
@@ -99,7 +99,7 @@
       "source": "ThinkPool",
       "published": "10-02 01:11",
       "published_iso": "2026-10-01T16:11:05+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "GEV",
@@ -109,7 +109,7 @@
       "source": "Investing.com 한국어",
       "published": "10-02 00:58",
       "published_iso": "2026-10-01T15:58:00+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "GOOG",
@@ -119,14 +119,14 @@
       "source": "FinanceFeeds",
       "published": "10-01 23:35",
       "published_iso": "2026-10-01T14:35:30+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "VOO",
       "name": "Vanguard S&P 500 ETF",
-      "title": "보너스 전후에 유지되는 설정, 토토 승부 식 더블유 사이트 기능 질문 - Calgary Roughnecks",
+      "title": "보너스 전후에 유지되는 설정, 토토 승부 식 더블유 사이트 기능 질문 - calgaryroughnecks.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSEc2M0NteVhGODNPRVhESnMwYVUtNDUtR1hVR2VtU2NRYmgzT3R1WnhjS2ZhZ2dral9zZ3F5U0VzX2pvcmdKbHM4QndIYWlWWFN0ME1Bb040dUNXVjZtc005cUsyMTlKejcyaUtOS09ieVY1TkFOeFYwdGlOT2k3VVdudzQ5YUpoaXY4aWg5bnBLbmZEVk9YX0k3d1daSGdTMUVVTW9yR1ROakFqOUFNWVpxUDJfcnpRb3htY0NlSW02cUxSZTJr?oc=5",
-      "source": "Calgary Roughnecks",
+      "source": "calgaryroughnecks.com",
       "published": "10-01 21:36",
       "published_iso": "2026-10-01T12:36:34+00:00",
       "age": "1일 전"
@@ -164,9 +164,9 @@
     {
       "ticker": "487230",
       "name": "KODEX 미국AI전력핵심인프라",
-      "title": "규칙 확인에 필요한 버튼은 어디에? 흔한남매 속담 카드 보드게임 - Calgary Roughnecks",
+      "title": "규칙 확인에 필요한 버튼은 어디에? 흔한남매 속담 카드 보드게임 - calgaryroughnecks.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ2J6NXowczZtd0lQVkRYYU5QVGVoTEFLbVlrMmRXbTEzX2V0UXdhS2ZmM3ZYcXY3aWotNFpRUGUtSTdjeEVOZ0lfV1FRSVozMkJxdmFCTF9iRHZ0dmhYX3ZWdVk1ZlNyWThpVHFqTElHWHRmN1V6SXdiU1Z5a3ZxXzVmNA?oc=5",
-      "source": "Calgary Roughnecks",
+      "source": "calgaryroughnecks.com",
       "published": "10-01 15:50",
       "published_iso": "2026-10-01T06:50:36+00:00",
       "age": "1일 전"
@@ -174,9 +174,9 @@
     {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
-      "title": "게임 설명의 그림이 궁금한 분을 위한 포커 맥시마이즈 - Calgary Roughnecks",
+      "title": "게임 설명의 그림이 궁금한 분을 위한 포커 맥시마이즈 - calgaryroughnecks.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tV3pidHdoYm1UdzNTcWdRSXlOQnY5UnI0aXhWYTdYa3pVRm9lZnNYdEE1YlFRUjA2TVRWcWtlZUR1bjdDZi1GdkxOTjdBWTdqZ3ZOazA1TUdRMkc1TFpibk1FNTNKTHRTTFlmUHZ3WlFKc1lHUVV3?oc=5",
-      "source": "Calgary Roughnecks",
+      "source": "calgaryroughnecks.com",
       "published": "10-01 14:59",
       "published_iso": "2026-10-01T05:59:01+00:00",
       "age": "1일 전"
@@ -184,9 +184,9 @@
     {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
-      "title": "처음 보는 분께 설명하는 기가 토토 가입코드 게임 한 편 - Calgary Roughnecks",
+      "title": "처음 보는 분께 설명하는 기가 토토 가입코드 게임 한 편 - calgaryroughnecks.com",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xMHl5NUV2djk0ZC1Ta3d1cGR4OTZKOEVsbHJfTEpXUTRoWWJKQXR5VDZaOGQ5MUJYN3VMTHAzTUNWQ0x4ajdEQ19LenJ2UE1NaXdya2RWOVRoYm12RnNJMndrNERZYzRTVmhRWFZSNllBQQ?oc=5",
-      "source": "Calgary Roughnecks",
+      "source": "calgaryroughnecks.com",
       "published": "10-01 14:11",
       "published_iso": "2026-10-01T05:11:53+00:00",
       "age": "1일 전"
@@ -214,9 +214,9 @@
     {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
-      "title": "최우수 ETF(해외) ‘KODEX 미국나스닥100’ 순자산 10조…시장 리드[2026 헤럴드 투자대상 최우수 ETF(해외)-삼성자산운용] - 헤럴드경제",
+      "title": "최우수 ETF(해외) ‘KODEX 미국나스닥100’ 순자산 10조…시장 리드[2026 헤럴드 투자대상 최우수 ETF(해외)-삼성자산운용] - biz.heraldcorp.com",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BTFhXOWJ6OHBLajFoWFpWNUJvcWpBX084cXFTZEQxUTl4cW1BNC1JUFZyUDczYUtuOWxZM1hsNDhqcW02NllzMG5mbXlFVWt3QXRDcGl3?oc=5",
-      "source": "헤럴드경제",
+      "source": "biz.heraldcorp.com",
       "published": "10-01 11:46",
       "published_iso": "2026-10-01T02:46:33+00:00",
       "age": "1일 전"
@@ -304,9 +304,9 @@
     {
       "ticker": "SCHD",
       "name": "Schwab U.S. Dividend Equity ETF",
-      "title": "알림음과 배경 음악을 구분하는 스보벳 가입하기 사운드 안내 - Calgary Roughnecks",
+      "title": "알림음과 배경 음악을 구분하는 스보벳 가입하기 사운드 안내 - calgaryroughnecks.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWmdMZndPVElDWmlGblphbURwZEY1bzFKWmZvZGUxQTVnTW9BVElNQWpXd25lQjRicWlqNnpVdDZJZWllNlBodjVySUktbDZWbFpvTnp2dnIxS21nR01McGdnbWVDMjlCalRiU0lERDQzazdoSmg4VlgwdkpEWHhSeW9EcTRuU3pFSEJlYTBGZDlETWw3R1NQNzhwQnZCQllYbzJwOEwwaHVBejNsMWVzN0ZualY1cGJKN3hERkZQSW0xMm9oT1JFdjNnaUR0SjZtcnBaWkIzbw?oc=5",
-      "source": "Calgary Roughnecks",
+      "source": "calgaryroughnecks.com",
       "published": "09-30 20:44",
       "published_iso": "2026-09-30T11:44:34+00:00",
       "age": "2일 전"
@@ -324,11 +324,11 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
-      "title": "AMD(AMD), 월드 랩스 인수 후에도 저평가 여지가 남아 있을까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdng3QzQ4Unk1dmNfNGd0b0JQUTlqQW9XZHdhTXVoejNUU1RlcHVFbEhWVWRYOWhBUjdpakE2N1B3dmpBcjV6dUFnREY5dlY3d184LXFoVGxiQ090ZFJGUkhOaG5PMXJ5eE5xb0tQZm1PNlVEQ0FLQkY4Y05JTjAtemNlRmY3eWp5NGpmdkE0OHRrQXJmR01TOWdmMkE1N21hRmt0a1MwZ2LSAa4BQVVfeXFMUFFnT3NWajRLNVdtTW1DNUEzaXBEb0FPbEg5Qjl4MnBVZHlNZ3AzNzk5ZjF1aGc0bDZWXzNCNjZjRkwwSGZFcUM1Uzg4MFdwWU5KX280QkFldUNqSVdVMDJKelBCTUxLNm5UcFduM1FZbU9vLWpZamh2SjhZVkZKc3laMFBGTDBNU1N6TUZoTm81YVhtLWZDQ0VIcmJzcmVSSDZnZ2RHVDl3WXdoQ2ZR?oc=5",
+      "title": "AMD(AMD), 페이페이 리의 월드 랩스 인수로 AI 판을 더 키운다 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBaQ1ZBOXpDV3ZOejJnYzNRYTdpbVJCS3FZaXIzLUsyM0NqS0x5bktQTDZIckhaai1PdDlEbS01WmFyYmtaRUFzUV85WEZTLXFDVmFyNnpaQ1RNdUpBbGtvdG5HTi1yekNwUjJPbHppNGRYbzBTRTlkb0xzTkpNN0piemkxXzFwbVVpcGYzT0tsUEFtRDhfYUpLem5ZX2JXaDdPN0NNekI0VEFqWWfSAa4BQVVfeXFMTzRQWkNWQTl6Q1d2TnoyZ2MzUWE3aW1SQktxWWlyMy1LMjNDaktMeW5LUEw2SHJIWmotT3Q5RG0tNVphcmJrWkVBc1FfOVhGUy1xQ1ZhcjZ6WkNUTXVKQWxrb3RuR04tcnpDcFIyT2x6aTRkWG8wU0U5ZG9Mc05KTTdKYnppMV8xcG1VaXBmM09LbFBBbUQ4X2FKS3puWV9iV2g3TzdDTXpCNFRBalln?oc=5",
       "source": "Simply Wall Street",
-      "published": "09-30 16:00",
-      "published_iso": "2026-09-30T07:00:00+00:00",
+      "published": "09-30 12:54",
+      "published_iso": "2026-09-30T03:54:27+00:00",
       "age": "2일 전"
     },
     {
@@ -382,6 +382,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대자동차, 가정용 전기차 충전기 구독 서비스 ‘마이홈차저’ 출시 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHJsZG1RajhYMzkxSExJWDl2WkFKQ09FUUUwckNMQzNDc3FfdHFmVUpVbkQ3UldDM1ljM3RPTE5JdjNGTnhUQnAzMldyVUdnMXF0NzFzREpEei00VlRyQ2RFU0U2elZSSURteXlhdnZTQ3NYbE9fZWkzelFhTlJISHg3Z2pqbjNuVHpCRWs5aVpWb084blE?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "09-30 08:30",
+      "published_iso": "2026-09-29T23:30:00+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "테슬라(TSLA.O), 42조원 규모 신용한도 확보…사이버캡·옵티머스 생산 확대 나선다 - 알파경제",
@@ -409,7 +419,7 @@
       "source": "TradingKey",
       "published": "09-29 23:15",
       "published_iso": "2026-09-29T14:15:57+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "AVGO",
@@ -419,7 +429,7 @@
       "source": "FinanceFeeds",
       "published": "09-29 22:36",
       "published_iso": "2026-09-29T13:36:04+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "CAT",
@@ -654,9 +664,9 @@
     {
       "ticker": "GLDM",
       "name": "SPDR Gold MiniShares Trust",
-      "title": "SPDR 골드 미니셰어즈 후원사, 조앤 빈스톡 이사·감사위원 선임 - datatooza.com",
+      "title": "SPDR 골드 미니셰어즈 후원사, 조앤 빈스톡 이사·감사위원 선임 - 데이터투자",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lU28tV3lLajZpcGlZeUt3OEJWYWpTeWpjX1JkOEFoVk5nV1hPYWVHblF1S0czUWVEdFh1MVphVHJrMk5CV3U1VWZJdlRZTnRWSlg5UTBNSnRaQXFKdlc4UFMwcTFETVp1SGJENzFYR3Y1ZTQ?oc=5",
-      "source": "datatooza.com",
+      "source": "데이터투자",
       "published": "09-28 23:57",
       "published_iso": "2026-09-28T14:57:26+00:00",
       "age": "3일 전"
@@ -679,7 +689,7 @@
       "source": "TradingKey",
       "published": "09-28 23:16",
       "published_iso": "2026-09-28T14:16:01+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "SNDK",
@@ -689,7 +699,7 @@
       "source": "TradingKey",
       "published": "09-28 22:47",
       "published_iso": "2026-09-28T13:47:58+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "SCHD",
@@ -794,9 +804,9 @@
     {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
-      "title": "스캐터랩, 캐릭터챗 '제타' 신규 기능 출시...\"대화 따라 표정·배경 바뀐다\" - AI타임스",
+      "title": "스캐터랩, 캐릭터챗 '제타' 신규 기능 출시...\"대화 따라 표정·배경 바뀐다\" - aitimes.com",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0MGF0alV2aG9zdHZ1eVZ5ZmV3NExNOGtMdTd6SzVoaHVObkNsSkZReUx0UVJtT1lkZ3VJX3lkYW9yR0pEVDRGSF9uUVYxbWFIQXc5T1B5RHhsdUxJQ2ZTWkRuaS1fbHJVZHc?oc=5",
-      "source": "AI타임스",
+      "source": "aitimes.com",
       "published": "09-28 12:57",
       "published_iso": "2026-09-28T03:57:36+00:00",
       "age": "4일 전"
@@ -849,7 +859,7 @@
       "source": "경향신문",
       "published": "09-27 22:32",
       "published_iso": "2026-09-27T13:32:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "COST",
@@ -870,16 +880,6 @@
       "published": "09-27 21:30",
       "published_iso": "2026-09-27T12:30:13+00:00",
       "age": "5일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "AMD 대 브로드컴: 장기 투자에 어떤 AI 칩 종목이 더 나을까? AMD와 AVGO 종합 비교 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPajlCd29WZ0dTWEtLdm1vVmJWYkNZYm5UdmlhZWtBX0EwNWVSZmtVQ3ZkOGMtd2tiODZVMTRablU5VGM5dFJhZE9abkVTdGt0VEdpVFRsMnJ1YUw1MkFLYy14c2V5LUJ1eVFLQUxPall0d2VXZFdVS1BiWlNjbW0tWFJ4bFdkdUVEQ01RQkhkTXJKU1VQSlJlQVhMdnZhZHhtRlpEaVE2NnR4V2hyX0ViMnFwRVBHNEk1d2IySVFoU1prTXY2cXI2SWxXdV8?oc=5",
-      "source": "TradingKey",
-      "published": "09-26 19:00",
-      "published_iso": "2026-09-26T10:00:00+00:00",
-      "age": "6일 전"
     },
     {
       "ticker": "379810",
@@ -954,9 +954,9 @@
     {
       "ticker": "SCHD",
       "name": "Schwab U.S. Dividend Equity ETF",
-      "title": "비트 카지노 의 미래: 새로운 트렌드와 발전 방향 - 스텝 바이 스텝 가이드 - Calgary Roughnecks",
+      "title": "비트 카지노 의 미래: 새로운 트렌드와 발전 방향 - 스텝 바이 스텝 가이드 - calgaryroughnecks.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZTZINnk1Y2xXYWo3ZnMzMlVheDY5UFp3TTZsUy11ZTQzNlN1Rm1xbDVVUlJ0b1pSaENaZEhEb2ZZZ19XU0NtS0twZHhmRzFNQ1pPVF85NlpQOWdOQTRNN3NBQTF1V0RsRUZKc0xYQW1jZkFjTEJXUjZJdGZqcEY1cWNR?oc=5",
-      "source": "Calgary Roughnecks",
+      "source": "calgaryroughnecks.com",
       "published": "09-26 05:34",
       "published_iso": "2026-09-25T20:34:17+00:00",
       "age": "6일 전"
