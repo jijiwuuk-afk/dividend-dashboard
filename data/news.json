@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03 15:29 KST",
+  "updated_at": "2026-10-03 16:23 KST",
   "items": [
     {
       "ticker": "AVGO",
@@ -9,7 +9,7 @@
       "source": "TIKR.com",
       "published": "10-03 08:15",
       "published_iso": "2026-10-02T23:15:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "379800",
@@ -19,7 +19,27 @@
       "source": "신아일보",
       "published": "10-03 08:00",
       "published_iso": "2026-10-02T23:00:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
+    },
+    {
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "내게 필요한 설명부터 찾아보는 sk 플래닛 블록 체인 게임 안내 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWVrMml2YlU5Q0c4VDBTdHQwaWhPZlVPRE1ENkRyS0xFRy1MWmgyWlh5NkJQZjBNY0lCOVFiU0RHTWdVSXhaTTVfVmUzVTlhTWpPeGdGS05sWFdPT0s1ZGlOLTZ4cHd6Wi11cWJrYk9QMXBVODJxVEo4RHlZVUI3Nm9TaF9TcXJyVlVSZzJQU3dDNGtfNFRzM1cyX2VsdUU?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-03 04:03",
+      "published_iso": "2026-10-02T19:03:37+00:00",
+      "age": "12시간 전"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "FPS.NB (FPS) 주식 움직였습니다 상승 7.82%에 10월2일: 변동 원인 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOek02Skhjblo2MG1YXzFZZXNEc09PcVlvSl9MNWRrS2dDQlhhX282bFlpM2hoTTdNY1lxZzJnNGQ5UVhjLUwxMWRCRHNjMUhiMTVra2xraGs0YVg1Q0hCa3hvenkyUmszMVZIY21JdlZmaHRQaWoyU3BRUGx4b2ZqbldGdzNfNW1maG05eFl3?oc=5",
+      "source": "TradingKey",
+      "published": "10-03 03:16",
+      "published_iso": "2026-10-02T18:16:12+00:00",
+      "age": "13시간 전"
     },
     {
       "ticker": "TSM",
@@ -29,7 +49,7 @@
       "source": "TradingKey",
       "published": "10-03 01:16",
       "published_iso": "2026-10-02T16:16:10+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "VOO",
@@ -39,7 +59,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-03 01:03",
       "published_iso": "2026-10-02T16:03:42+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "CAT",
@@ -49,7 +69,7 @@
       "source": "TIKR.com",
       "published": "10-03 00:49",
       "published_iso": "2026-10-02T15:49:28+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "SNDK",
@@ -59,7 +79,7 @@
       "source": "TradingKey",
       "published": "10-03 00:16",
       "published_iso": "2026-10-02T15:16:04+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "368590",
@@ -69,7 +89,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-03 00:14",
       "published_iso": "2026-10-02T15:14:24+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "AVGO",
@@ -79,7 +99,7 @@
       "source": "TradingKey",
       "published": "10-02 23:16",
       "published_iso": "2026-10-02T14:16:12+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "AMD",
@@ -89,7 +109,7 @@
       "source": "TradingKey",
       "published": "10-02 22:48",
       "published_iso": "2026-10-02T13:48:09+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "VOO",
@@ -99,7 +119,7 @@
       "source": "코인리더스",
       "published": "10-02 22:30",
       "published_iso": "2026-10-02T13:30:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "QQQM",
@@ -109,7 +129,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-02 20:53",
       "published_iso": "2026-10-02T11:53:46+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "487230",
@@ -119,7 +139,7 @@
       "source": "서울경제",
       "published": "10-02 17:55",
       "published_iso": "2026-10-02T08:55:55+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "COST",
@@ -129,7 +149,7 @@
       "source": "itooza.com",
       "published": "10-02 16:43",
       "published_iso": "2026-10-02T07:43:04+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "GOOG",
@@ -139,7 +159,7 @@
       "source": "코인리더스",
       "published": "10-02 16:10",
       "published_iso": "2026-10-02T07:10:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "JEPQ",
@@ -209,16 +229,6 @@
       "source": "알파경제",
       "published": "10-02 06:00",
       "published_iso": "2026-10-01T21:00:00+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "Boeing Co (BA) 주식 마감했습니다 상승 3.35%에 10월1일: 전체 분석 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdURfaU9JZmdxTVh1dU1QN0F6QUNCR0JkYkhNU1otaG5xV1J2ZDJJQnFEdjVsZFNxVEg5VE5jcDdEX2VNeWJZYXM2WW9EUW9sd1JRQ3YycURRYzNJcW9VS1VJdXN5SlV5QUNMemJycmJPTHZLVmJTendUNkg1UjJtNTU0cXJEdGxQTEZKdQ?oc=5",
-      "source": "TradingKey",
-      "published": "10-02 05:16",
-      "published_iso": "2026-10-01T20:16:05+00:00",
       "age": "1일 전"
     },
     {
@@ -319,7 +329,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-01 15:50",
       "published_iso": "2026-10-01T06:50:36+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "0072R0",
@@ -375,7 +385,7 @@
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "“퇴직연금에 금 넣었는데 어쩌나”...한달새 -10%, 은은 더 빠졌다 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rSmFFa202WjlCZkNJazY4UEdPSzhEalZJSHBNek9rQkNtY2x0YVBJaVgzZWhJb1dvWDc3cjZ1b3hhSGFXd1E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zZHV0NmtIUk44YzFzVXUzWmhFRXpOaEdUdk5oWUlTMXdCc3YwUjhTUE1fSUtCMmozVEM2WmZTNUlMREpOVFI4eUlkOVE2N28?oc=5",
       "source": "v.daum.net",
       "published": "10-01 10:09",
       "published_iso": "2026-10-01T01:09:00+00:00",
@@ -414,9 +424,9 @@
     {
       "ticker": "005380",
       "name": "현대자동차",
-      "title": "현대차그룹, 한국도로공사와 차세대 충전 인프라 및 피지컬 AI 실증 협력 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "title": "현대차그룹, 한국도로공사와 차세대 충전 인프라 및 피지컬 AI 실증 협력 | 뉴스 | 현대자동차그룹 - hyundaimotorgroup.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYU5oRUFFTVlEbmZlVHA5YzZSY1hRQkhjbzZLd0JueE5vVXFiU05DOEhSX0o5RnE1ZDIyUGxSMFJ1VkhjRXRCbmZNMW1yZzBNdjh1Z0lMQUxtTWpRdlJ5ck4ycmd6WUttWHRQTVE3MzVESVN1NGZmSm5weUdqMXdYOFY3eTg2ZUNPOVQwaHkzNE5qbHlrWWUyZUFOb29RZ0lydlFWMWktVFpKbTZOUG5qSzdLZ01EOGczZlA3eU5PLVY?oc=5",
-      "source": "Hyundai Motor Group",
+      "source": "hyundaimotorgroup.com",
       "published": "10-01 08:30",
       "published_iso": "2026-09-30T23:30:00+00:00",
       "age": "2일 전"
@@ -479,7 +489,7 @@
       "source": "Simply Wall Street",
       "published": "09-30 16:00",
       "published_iso": "2026-09-30T07:00:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "TSLA",
@@ -524,9 +534,9 @@
     {
       "ticker": "005380",
       "name": "현대자동차",
-      "title": "현대자동차, 가정용 전기차 충전기 구독 서비스 ‘마이홈차저’ 출시 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "title": "현대자동차, 가정용 전기차 충전기 구독 서비스 ‘마이홈차저’ 출시 | 뉴스 | 현대자동차그룹 - hyundaimotorgroup.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHJsZG1RajhYMzkxSExJWDl2WkFKQ09FUUUwckNMQzNDc3FfdHFmVUpVbkQ3UldDM1ljM3RPTE5JdjNGTnhUQnAzMldyVUdnMXF0NzFzREpEei00VlRyQ2RFU0U2elZSSURteXlhdnZTQ3NYbE9fZWkzelFhTlJISHg3Z2pqbjNuVHpCRWs5aVpWb084blE?oc=5",
-      "source": "Hyundai Motor Group",
+      "source": "hyundaimotorgroup.com",
       "published": "09-30 08:30",
       "published_iso": "2026-09-29T23:30:00+00:00",
       "age": "3일 전"
@@ -619,7 +629,7 @@
       "source": "TradingKey",
       "published": "09-29 16:00",
       "published_iso": "2026-09-29T07:00:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "368590",
@@ -629,7 +639,17 @@
       "source": "매일경제",
       "published": "09-29 15:50",
       "published_iso": "2026-09-29T06:50:46+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "서울대학교 AI연구원-AMD AI 연구·교육 및 고성능 컴퓨팅 분야 협력 본격화 - 내외통신",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZc3JZVExVMGFfTEItMEVORTRHcTJaUUhqODZfQXBPRm1TZjJ3X1J1LUJpNGdjSXo2X1Rsa2ZFajUzR1BuQUJOUEZoWlJKRm5nU09mNmNacmdpNjlSLUlydVdjY2pjV001YW1N?oc=5",
+      "source": "내외통신",
+      "published": "09-29 15:32",
+      "published_iso": "2026-09-29T06:32:11+00:00",
+      "age": "4일 전"
     },
     {
       "ticker": "458730",
@@ -664,9 +684,9 @@
     {
       "ticker": "005930",
       "name": "삼성전자",
-      "title": "Samsung chiefs scramble to quell staff revolt as chip bonus divide widens - IT조선",
+      "title": "Samsung chiefs scramble to quell staff revolt as chip bonus divide widens - it.chosun.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13Rm9yYVAyb0c0bWktWWlGbFgxdFFSOVBOMDdqSjlDcW4wNmNKQjFfWUFodzZ4UlBzWjdoV1UxVV82dlBfc3dxSnJtNmo1TGR0TmFsa1ZtRFVqYTlZNWlVOS1oLVRDYkczNm9Fd0syZDPSAXRBVV95cUxQNVFkclJzclhwTTJ6NkVrM3ZZSmU2UEdLcVNLUC1oZzVDTGM1bFRHTGY0aE9oeXFNWGQ4NlZ4cm5XMlJ2bHE3STh2NFVMZktXc09QVDdxWkJIM3Q1MzhiM3g1YldXUEFQbG9kS3ptUXFUQk01OQ?oc=5",
-      "source": "IT조선",
+      "source": "it.chosun.com",
       "published": "09-29 12:00",
       "published_iso": "2026-09-29T03:00:00+00:00",
       "age": "4일 전"
@@ -679,16 +699,6 @@
       "source": "신아일보",
       "published": "09-29 11:11",
       "published_iso": "2026-09-29T02:11:45+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "서울대 AI연구원-AMD AI 연구/교육 및 고성능 컴퓨팅 분야 협력 본격화 - 베리타스알파",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaUWYyWmhoTTNzRWQ1RS1UV3ByU0xhQWpJbTlWQnJRZnZUMWFPeWx5LWRRN2V1WmhKOVBxbERSVDRBWDdHMXFkSzlhbHZtQmpsaDY0cmQ5Ujcxd2NyR2xQSS1INzgzZWpqNU1JSQ?oc=5",
-      "source": "베리타스알파",
-      "published": "09-29 10:58",
-      "published_iso": "2026-09-29T01:58:48+00:00",
       "age": "4일 전"
     },
     {
@@ -714,9 +724,9 @@
     {
       "ticker": "005380",
       "name": "현대자동차",
-      "title": "현대차그룹, ‘HMG 테크 탤런트 포럼’ 성료 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "title": "현대차그룹, ‘HMG 테크 탤런트 포럼’ 성료 | 뉴스 | 현대자동차그룹 - hyundaimotorgroup.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdzJRU2dFZExuRng0djdQNXZ1VDdlRWFqUlZyd05kRXBNNjl0U05NM3N1NGJrZV91QnFLcDlBU3k5R3h6c0tLeHBqNGdJQlg2aHJ2RmdFbGh1UUt1MW5VYlJKQU5pZjJZQ2NsdEQwazhZOGJtNWRNUDZaeHhUbkozX293VlVSZXljNktj?oc=5",
-      "source": "Hyundai Motor Group",
+      "source": "hyundaimotorgroup.com",
       "published": "09-29 08:30",
       "published_iso": "2026-09-28T23:30:00+00:00",
       "age": "4일 전"
@@ -762,21 +772,11 @@
       "age": "4일 전"
     },
     {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
-      "title": "현재 버전을 어디서 찾나요? 스틱맨 게임 다운 정보 확인 - Histoire pour Tous",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUHAwU3E2VGtwQ2lXdkM2cVQ3Z1NkWUo1alV2MUZkRk5BMFpMUnZybTZRNTNuSlVWVmhjbV9vMVhWV1dGVWRvWHBJLUtVQTYxNUhuNUZRRFgzNjJoaUdsakdDZ2x6aFRqMDRMelc5M0dOWXQ4YXpGalNVSFBlNjlNaGhyRnBhU2xLWXBob25UMlhPc3ZPQ3dOdkljenVqZEhxTktpbnhKUUFKTGxydWpzSVduQVpxeTVwVFBWT1JwWFF5REpYclRTVWw5a3VpNDRrSW9DajkyRHZlQmlMNF9xdUxOc09oa2lXVUtnYTRUQU1xOXNyYzNQUFREN1I5M3VJ?oc=5",
-      "source": "Histoire pour Tous",
-      "published": "09-29 01:02",
-      "published_iso": "2026-09-28T16:02:08+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "005930",
       "name": "삼성전자",
-      "title": "‘AI subscription’ sales near 1 trillion won…Samsung Electronics, to expand services - khan.co.kr",
+      "title": "‘AI subscription’ sales near 1 trillion won…Samsung Electronics, to expand services - 경향신문",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DdEJkdURacXd6VlVXNzBSWVJPdThNZXNINFhYN0lLc2JlTnItUGFHZjRQQWZhSkdWaEF3SC13dnQxS0tqcFBUSGxlR3NnVTJNNnN3bGNaVDFnVFlzQUE?oc=5",
-      "source": "khan.co.kr",
+      "source": "경향신문",
       "published": "09-29 00:36",
       "published_iso": "2026-09-28T15:36:00+00:00",
       "age": "4일 전"
@@ -862,16 +862,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "오늘의 Costco Wholesale Corp(COST) 주식 뉴스 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2RVpmbHpYdmhPYVNkRE5GS2pyeWMzZ3VjQlFGcVJIYm55TEVLVjlNYW1GcDNuQ0lyMDhUV2FnM2k2cmxmQlNEOW9ZM3VWM3JpOUc2T18zQjREYUI0amlld0ZfRXZHSjlnNzVnX1dMMUx5dzZLRWotMg?oc=5",
-      "source": "TradingKey",
-      "published": "09-28 19:19",
-      "published_iso": "2026-09-28T10:19:40+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
       "title": "추석 여윳돈 ETF로 굴려볼까...운용사들은 AI·배당·안전자산 '주목' - 녹색경제신문",
@@ -919,14 +909,24 @@
       "source": "뉴스워치",
       "published": "09-28 16:17",
       "published_iso": "2026-09-28T07:17:28+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "[미국 특징주] 코스트코, 관세 환급에 순익 '깜짝'…유료 회원 증가는 기대 미달 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9POVlhdF85WGV0clpiWXFFSXpqSXYtdDFJSkxqRmFkN25jVnhrYU4tZExtQkNMZzdqQURPZDN2ZjlnV0x2SGZqdHAwZl9RSGlzd3FydDF4dE56XzBV?oc=5",
+      "source": "뉴스핌",
+      "published": "09-28 13:46",
+      "published_iso": "2026-09-28T04:46:00+00:00",
+      "age": "5일 전"
     },
     {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
-      "title": "스캐터랩, 캐릭터챗 '제타' 신규 기능 출시...\"대화 따라 표정·배경 바뀐다\" - aitimes.com",
+      "title": "스캐터랩, 캐릭터챗 '제타' 신규 기능 출시...\"대화 따라 표정·배경 바뀐다\" - AI타임스",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0MGF0alV2aG9zdHZ1eVZ5ZmV3NExNOGtMdTd6SzVoaHVObkNsSkZReUx0UVJtT1lkZ3VJX3lkYW9yR0pEVDRGSF9uUVYxbWFIQXc5T1B5RHhsdUxJQ2ZTWkRuaS1fbHJVZHc?oc=5",
-      "source": "aitimes.com",
+      "source": "AI타임스",
       "published": "09-28 12:57",
       "published_iso": "2026-09-28T03:57:36+00:00",
       "age": "5일 전"
@@ -944,9 +944,9 @@
     {
       "ticker": "005380",
       "name": "현대자동차",
-      "title": "현대엔지니어링, ‘군산 AI 데이터센터 신축 사업’ 수주 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "title": "현대엔지니어링, ‘군산 AI 데이터센터 신축 사업’ 수주 | 뉴스 | 현대자동차그룹 - hyundaimotorgroup.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWEFmSDNDbm9mN1YtTWlCeWR6ZjFNc3kySGYxYVNydzhTYzM1WF9wS2x3WGhGSmVlU1JQRV9Uc19zdEhCUnVJcnVTSEZsZVR4SDZRdHZMYXRxellsaU5hOVVncjdHTDloekU3VU5CYTJkeEVBR2xaRmZ4elF3dmpvWTFiSkYxOWVDZFJ0bkd1eEZXX3hoMlE?oc=5",
-      "source": "Hyundai Motor Group",
+      "source": "hyundaimotorgroup.com",
       "published": "09-28 09:26",
       "published_iso": "2026-09-28T00:26:00+00:00",
       "age": "5일 전"
@@ -984,9 +984,9 @@
     {
       "ticker": "000660",
       "name": "SK하이닉스",
-      "title": "With ‘record-high bonuses’ at Samsung Electronics·SK hynix, are employees skipping parental leave? - khan.co.kr",
+      "title": "With ‘record-high bonuses’ at Samsung Electronics·SK hynix, are employees skipping parental leave? - 경향신문",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zRkM4eVdMNTQyOUNuYV92SXRDQ3ZuQ2wwd0N2OVQ1NUthTDFJYW1MamxySGFveV91amphZjdWWks5aV9mWmRwVmc3NHRWMm4tcmtoQWoydEFTYm9IN2c?oc=5",
-      "source": "khan.co.kr",
+      "source": "경향신문",
       "published": "09-27 22:32",
       "published_iso": "2026-09-27T13:32:00+00:00",
       "age": "5일 전"
