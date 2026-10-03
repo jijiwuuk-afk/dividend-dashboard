@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-03 08:18 KST",
+  "updated_at": "2026-10-03 09:28 KST",
   "items": [
+    {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
+      "title": "[월간 ETF워치]레버리지 팔고 미국으로…개미, S&P500 담았다 - 비즈워치",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12YzR6OHo0bG9uQkNPY0VtQXNaZWYxeDRYZUVIOWxNT1RsT0tlMjZrSHA2clZFYlVpSF9GNXptanpSQVhpc1ZTZ01qYTZvOWpvRmhLOFc3Z1E5X1ZBbG9WQV9Hb1Q1eHV2Ymc?oc=5",
+      "source": "비즈워치",
+      "published": "10-03 09:00",
+      "published_iso": "2026-10-03T00:00:03+00:00",
+      "age": "28분 전"
+    },
     {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
@@ -9,7 +19,7 @@
       "source": "신아일보",
       "published": "10-03 08:00",
       "published_iso": "2026-10-02T23:00:00+00:00",
-      "age": "18분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "AVGO",
@@ -19,7 +29,7 @@
       "source": "TIKR.com",
       "published": "10-03 03:45",
       "published_iso": "2026-10-02T18:45:30+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "TSM",
@@ -29,17 +39,7 @@
       "source": "TradingKey",
       "published": "10-03 01:16",
       "published_iso": "2026-10-02T16:16:10+00:00",
-      "age": "7시간 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "Caterpillar Is Betting $1 Billion on Small Contractors. Here’s Where the Stock Could Go by 2030 - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmxqemFmXzY1cndCN3lhNk1CeEJWNnNTLTNlUS1jRU93QnNsTXhiUkkxMGhfdFUxX2hhNlF5b1NoMmJ5TEdncFJBUUhnVjE5S3JFN3BNYWRIczFFNmRBTzdvSjExMTQzX2pTVjFpVUJRWFdiMXZ3bV94Q0RFN0hPd21WRUhUY1ZHNmhvQU8xTXhTWVpsZXJxYV8wcmZ6WFE5MGVReEZWSUF4S2pYRGNXVndVRzRjWG53Qnc0M0h2cw?oc=5",
-      "source": "TIKR.com",
-      "published": "10-03 00:49",
-      "published_iso": "2026-10-02T15:49:28+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "SNDK",
@@ -49,17 +49,7 @@
       "source": "TradingKey",
       "published": "10-03 00:16",
       "published_iso": "2026-10-02T15:16:04+00:00",
-      "age": "8시간 전"
-    },
-    {
-      "ticker": "368590",
-      "name": "RISE 미국나스닥100",
-      "title": "숫자 슬롯 컨설턴트를 위한 친환경 에너지 권위 있는 가이드 - calgaryroughnecks.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUpfcWRwNW1nRDE5UU9wMEFmX1VxdWZFa2hKTmlaQmhWdFdXdWJTR3JkaWI1SjdJTWhYT1kzN2MtWW53Ym5ScEMyQnJ2WGt1dnhDY1Y5amU0VTBzWXhBUGVYWmV3Vm9OaURYWkpWa1l3ZmZZVmRCMnFVWWRmQ1Y4MXFNSTdIbHdaVnFqZnRod0pGUVhoOS00RmNsYU54eWl5TkVkNTQ0XzNMSDhrc0wwU0dkNkVHZ3MyMVlMNGxnSW9sQXo2elNlUDJYXzQ3QWZpX3c?oc=5",
-      "source": "calgaryroughnecks.com",
-      "published": "10-03 00:14",
-      "published_iso": "2026-10-02T15:14:24+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "AVGO",
@@ -69,7 +59,7 @@
       "source": "TradingKey",
       "published": "10-02 23:16",
       "published_iso": "2026-10-02T14:16:12+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "AMD",
@@ -79,7 +69,7 @@
       "source": "TradingKey",
       "published": "10-02 22:48",
       "published_iso": "2026-10-02T13:48:09+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "VOO",
@@ -89,17 +79,7 @@
       "source": "코인리더스",
       "published": "10-02 22:30",
       "published_iso": "2026-10-02T13:30:00+00:00",
-      "age": "9시간 전"
-    },
-    {
-      "ticker": "QQQM",
-      "name": "Invesco NASDAQ 100 ETF",
-      "title": "가장 먼저 이해할 게임의 단위, 블랙잭 술 - calgaryroughnecks.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeDlRa3YyNjloVTBGV3dZQW5TMEdXNFFhcFBBQXBNcmF4c0VyM3NTUlRhVWxkWjFxa2dLUlJMLTNBRzZiYWdrdDZnVmRNdVBxcUhQNWxlRlc1dl9SN1hjblI0Y1NsbFpiSEFWbUlienMzeldscWFOUm5Vakx0RkVCX2hRcmVnSV9EZi10Zmp3Z0dFVDNvX1lQQ05uOXVCUVRHMFRjVVNrQTZ6ZXV1dXhIVUp3?oc=5",
-      "source": "calgaryroughnecks.com",
-      "published": "10-02 20:53",
-      "published_iso": "2026-10-02T11:53:46+00:00",
-      "age": "11시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "COST",
@@ -109,17 +89,17 @@
       "source": "아이투자",
       "published": "10-02 16:43",
       "published_iso": "2026-10-02T07:43:04+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "JEPQ",
       "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-      "title": "PC에서 도움말이 가려질 때 확인할 비비 카지노 가사 - calgaryroughnecks.com",
+      "title": "PC에서 도움말이 가려질 때 확인할 비비 카지노 가사 - Calgary Roughnecks",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdW1jM0NpN0JORmVoNXFwRnpqN01CdUJWenpvNWVaTmR1Nk1zZ1JCNnNxYUNhcnUyZDdrMk14aVVBaEx2NnJiOVlsSXJidXJtYW5tWHQ0QkVObGhYZHRmU0lvcDVlbGpNZ1dRSGxSel96XzRZcl9uZmtMT0tiazFxSnQ4ajNDUkJ6TFBmdjNHVnhrRmg1RWktMFR5TmFuWVVldGZLS0E1a3VtZ05lSWg2QmJWajRXM01nUGc?oc=5",
-      "source": "calgaryroughnecks.com",
+      "source": "Calgary Roughnecks",
       "published": "10-02 14:52",
       "published_iso": "2026-10-02T05:52:20+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "NVDA",
@@ -129,7 +109,7 @@
       "source": "Simply Wall Street",
       "published": "10-02 10:25",
       "published_iso": "2026-10-02T01:25:19+00:00",
-      "age": "21시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "TSM",
@@ -139,7 +119,7 @@
       "source": "TradingKey",
       "published": "10-02 10:00",
       "published_iso": "2026-10-02T01:00:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "0072R0",
@@ -149,7 +129,17 @@
       "source": "뉴시스",
       "published": "10-02 09:48",
       "published_iso": "2026-10-02T00:48:08+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
+    },
+    {
+      "ticker": "JEPQ",
+      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+      "title": "게임 화면을 천천히 읽는 누누티비 카지노 1화 첫걸음 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjN2hLRmV6U0FmYjVqazdBaGxKejlCYzVXeXdfOE5STlVnZnRGWmlCX19nSnlDcV9SRXd3Z3VIOXJBZUZTOG4xMWNXMjJ1T0M4enZEdW5IcWR1ODh6VGd0Z3Jyb2ZDaExNZmpEd0ZTdTVuTjdKQUpWQw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-02 09:30",
+      "published_iso": "2026-10-02T00:30:27+00:00",
+      "age": "23시간 전"
     },
     {
       "ticker": "005930",
@@ -174,9 +164,9 @@
     {
       "ticker": "VOO",
       "name": "Vanguard S&P 500 ETF",
-      "title": "파워볼 사용 2026년 애자일 개발: 현상, 본질 및 법칙 - calgaryroughnecks.com",
+      "title": "파워볼 사용 2026년 애자일 개발: 현상, 본질 및 법칙 - Calgary Roughnecks",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Pa3cxNnlxNktma3BGeEpYYmt0Yjc5dUt1OG1WSzFibGJpRnp3MUxEOWFPXzJScGhwdGdLSFZrNXBOWHYxRnBhWER0X3NsWVNMTWRVeHlCWG9hOG9DRl90WEZDZThQYTFxOUdvNE5QQmc?oc=5",
-      "source": "calgaryroughnecks.com",
+      "source": "Calgary Roughnecks",
       "published": "10-02 03:55",
       "published_iso": "2026-10-01T18:55:53+00:00",
       "age": "1일 전"
@@ -244,9 +234,9 @@
     {
       "ticker": "VOO",
       "name": "Vanguard S&P 500 ETF",
-      "title": "보너스 전후에 유지되는 설정, 토토 승부 식 더블유 사이트 기능 질문 - calgaryroughnecks.com",
+      "title": "보너스 전후에 유지되는 설정, 토토 승부 식 더블유 사이트 기능 질문 - Calgary Roughnecks",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSEc2M0NteVhGODNPRVhESnMwYVUtNDUtR1hVR2VtU2NRYmgzT3R1WnhjS2ZhZ2dral9zZ3F5U0VzX2pvcmdKbHM4QndIYWlWWFN0ME1Bb040dUNXVjZtc005cUsyMTlKejcyaUtOS09ieVY1TkFOeFYwdGlOT2k3VVdudzQ5YUpoaXY4aWg5bnBLbmZEVk9YX0k3d1daSGdTMUVVTW9yR1ROakFqOUFNWVpxUDJfcnpRb3htY0NlSW02cUxSZTJr?oc=5",
-      "source": "calgaryroughnecks.com",
+      "source": "Calgary Roughnecks",
       "published": "10-01 21:36",
       "published_iso": "2026-10-01T12:36:34+00:00",
       "age": "1일 전"
@@ -284,19 +274,29 @@
     {
       "ticker": "487230",
       "name": "KODEX 미국AI전력핵심인프라",
-      "title": "규칙 확인에 필요한 버튼은 어디에? 흔한남매 속담 카드 보드게임 - calgaryroughnecks.com",
+      "title": "규칙 확인에 필요한 버튼은 어디에? 흔한남매 속담 카드 보드게임 - Calgary Roughnecks",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ2J6NXowczZtd0lQVkRYYU5QVGVoTEFLbVlrMmRXbTEzX2V0UXdhS2ZmM3ZYcXY3aWotNFpRUGUtSTdjeEVOZ0lfV1FRSVozMkJxdmFCTF9iRHZ0dmhYX3ZWdVk1ZlNyWThpVHFqTElHWHRmN1V6SXdiU1Z5a3ZxXzVmNA?oc=5",
-      "source": "calgaryroughnecks.com",
+      "source": "Calgary Roughnecks",
       "published": "10-01 15:50",
       "published_iso": "2026-10-01T06:50:36+00:00",
       "age": "1일 전"
     },
     {
+      "ticker": "368590",
+      "name": "RISE 미국나스닥100",
+      "title": "게임 설명의 그림이 궁금한 분을 위한 포커 맥시마이즈 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tV3pidHdoYm1UdzNTcWdRSXlOQnY5UnI0aXhWYTdYa3pVRm9lZnNYdEE1YlFRUjA2TVRWcWtlZUR1bjdDZi1GdkxOTjdBWTdqZ3ZOazA1TUdRMkc1TFpibk1FNTNKTHRTTFlmUHZ3WlFKc1lHUVV3?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-01 14:59",
+      "published_iso": "2026-10-01T05:59:01+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
-      "title": "처음 보는 분께 설명하는 기가 토토 가입코드 게임 한 편 - calgaryroughnecks.com",
+      "title": "처음 보는 분께 설명하는 기가 토토 가입코드 게임 한 편 - Calgary Roughnecks",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xMHl5NUV2djk0ZC1Ta3d1cGR4OTZKOEVsbHJfTEpXUTRoWWJKQXR5VDZaOGQ5MUJYN3VMTHAzTUNWQ0x4ajdEQ19LenJ2UE1NaXdya2RWOVRoYm12RnNJMndrNERZYzRTVmhRWFZSNllBQQ?oc=5",
-      "source": "calgaryroughnecks.com",
+      "source": "Calgary Roughnecks",
       "published": "10-01 14:11",
       "published_iso": "2026-10-01T05:11:53+00:00",
       "age": "1일 전"
@@ -379,7 +379,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-01 08:30",
       "published_iso": "2026-09-30T23:30:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "INTC",
@@ -414,9 +414,9 @@
     {
       "ticker": "SCHD",
       "name": "Schwab U.S. Dividend Equity ETF",
-      "title": "알림음과 배경 음악을 구분하는 스보벳 가입하기 사운드 안내 - calgaryroughnecks.com",
+      "title": "알림음과 배경 음악을 구분하는 스보벳 가입하기 사운드 안내 - Calgary Roughnecks",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWmdMZndPVElDWmlGblphbURwZEY1bzFKWmZvZGUxQTVnTW9BVElNQWpXd25lQjRicWlqNnpVdDZJZWllNlBodjVySUktbDZWbFpvTnp2dnIxS21nR01McGdnbWVDMjlCalRiU0lERDQzazdoSmg4VlgwdkpEWHhSeW9EcTRuU3pFSEJlYTBGZDlETWw3R1NQNzhwQnZCQllYbzJwOEwwaHVBejNsMWVzN0ZualY1cGJKN3hERkZQSW0xMm9oT1JFdjNnaUR0SjZtcnBaWkIzbw?oc=5",
-      "source": "calgaryroughnecks.com",
+      "source": "Calgary Roughnecks",
       "published": "09-30 20:44",
       "published_iso": "2026-09-30T11:44:34+00:00",
       "age": "2일 전"
@@ -489,7 +489,7 @@
       "source": "Hyundai Motor Group",
       "published": "09-30 08:30",
       "published_iso": "2026-09-29T23:30:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "TSLA",
@@ -529,6 +529,16 @@
       "source": "TradingKey",
       "published": "09-29 23:15",
       "published_iso": "2026-09-29T14:15:57+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "캐터필러, 존 패빅 트랙터 딜러십 인수 예정 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nUDA3TTZxVzNLNy14MkZNQVplSm9rWTJQcUhtbUlsMHFCdV91WldwV3FCNzhEZkhYQ0RXazVEQUU2X19hZFFLNjFjQWhxUVVZUGhTMU02bllxT2tQRDVhMng3NVM4enJyWjNHbTE0SUU?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "09-29 21:21",
+      "published_iso": "2026-09-29T12:21:00+00:00",
       "age": "3일 전"
     },
     {
@@ -622,16 +632,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "미래에셋자산운용, 'TIGER 미국S&P500' 개인 순매수 1389억원…ETF 1위 - PRESS9",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Rclg2cElaSkdXbWNIN213VW0tem5kQ3pnS2xNWnNySWd6YmFxd21RWDV0QVpIU3hYU0xiYUxkZEFwOHRxZWhjNVc5cjBfeE83clFGaVBtaXBxNWFTRjhIaW1BeTE?oc=5",
-      "source": "PRESS9",
-      "published": "09-29 13:41",
-      "published_iso": "2026-09-29T04:41:54+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "005930",
       "name": "삼성전자",
       "title": "Samsung chiefs scramble to quell staff revolt as chip bonus divide widens - IT조선",
@@ -664,12 +664,12 @@
     {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
-      "title": "\"국장·반도체 팔고 미국장으로\"…코스피 7000 무너지자 ETF 뭉칫돈 이탈 - 뉴스퀘스트",
+      "title": "\"국장·반도체 팔고 미국장으로\"…코스피 7000 무너지자 ETF 뭉칫돈 이탈 - newsquest.co.kr",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sdVVvbGJlOTkyTkZpSUZBcFBrWjhVcnhob2tSa2U1UWRvOG00bmtmZ2dPY25oN0NLU1F6UVVGeTI2MF9TbklQeGVJSk9URXlCX3daX2lHaHAwdjM0ampJd2I2a2hKZHp1a0g2cG5pdw?oc=5",
-      "source": "뉴스퀘스트",
+      "source": "newsquest.co.kr",
       "published": "09-29 08:30",
       "published_iso": "2026-09-28T23:30:14+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "005380",
@@ -679,7 +679,7 @@
       "source": "Hyundai Motor Group",
       "published": "09-29 08:30",
       "published_iso": "2026-09-28T23:30:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "AMD",
@@ -804,9 +804,9 @@
     {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
-      "title": "인플레이션·고용지표 발표 앞두고 국채금리 상승에 S&P500 하락 - vtmarkets.com",
+      "title": "인플레이션·고용지표 발표 앞두고 국채금리 상승에 S&P500 하락 - VT Markets",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSGRoU052YXg5RFRWUXRCZm1SZXQycndlWFIwMVRVb0lRQ0lZeGVCNlR4aTRzQ2M4eXlydmhBbDBzUTBTODZEeV9LU2xDaVlscktkaEdPR2RQTnJoTGIxeWRydTE2dmNIZ3hSbGNSQU82YzR3aEZZb29rd0hndWEtVFBFM2dtbG5BRGJzbGd2ZWVYdmM2WXNDQzZwZ0NRLWRzcjN0ZTBn?oc=5",
-      "source": "vtmarkets.com",
+      "source": "VT Markets",
       "published": "09-28 20:02",
       "published_iso": "2026-09-28T11:02:27+00:00",
       "age": "4일 전"
@@ -819,16 +819,6 @@
       "source": "TradingKey",
       "published": "09-28 19:19",
       "published_iso": "2026-09-28T10:19:40+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "'하락 예감?' 코스피·반도체 추종 ETF서 한주간 뭉칫돈 이탈 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwYTIwY1ZoRHRlU2lBY2ZyLWFvcllvWWlSZGRSek00ZGN3Y2ZFWDJXN19IRmtOSUFnUnowM0hGSVVENzF0VnUxZlFPbU5mOTFJWkE?oc=5",
-      "source": "매일경제 마켓",
-      "published": "09-28 16:44",
-      "published_iso": "2026-09-28T07:44:15+00:00",
       "age": "4일 전"
     },
     {
@@ -889,7 +879,7 @@
       "source": "Hyundai Motor Group",
       "published": "09-28 09:26",
       "published_iso": "2026-09-28T00:26:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "INTC",
@@ -945,11 +935,21 @@
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
       "title": "롤러코스터장 겪은 2030, 첫 투자 선택지 달라졌다…\"삼전·닉스 굳건, 美 ETF 약진\" - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2MGp0ZEZ5UXBGcDVmaUlhT1dYUVF6Qi1BR1lHMHVaZW8yeVRTTHJCd0hCSkQ1UURNMzRHYXVTcV9WcUo0eVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LWWZiLUZOSEJiX2FtVkZraEJMbWRPZERjNFVoV1BLN09BNS1pS3JXRlFUbU5TQjlfZ01ZYzI1Ui1yVHB3NEdVNG1GMHhBMmtDWE40Ug?oc=5",
       "source": "v.daum.net",
       "published": "09-27 21:30",
-      "published_iso": "2026-09-27T12:30:00+00:00",
+      "published_iso": "2026-09-27T12:30:13+00:00",
       "age": "5일 전"
+    },
+    {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "코스피 30% 반등했지만…ETF 투자자, 지수형 30% 반도체 80% 물렸다 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FYjBPWUhDOTBrMEp0c1o3aE1QbUdWd0w5bkhwdk5selRKVlVrQ3hod3g5czZuZEhzcG1yQUtqdTBIRTRQSGMyN2MxMXp3TDJJYWc?oc=5",
+      "source": "매일경제 마켓",
+      "published": "09-27 07:08",
+      "published_iso": "2026-09-26T22:08:49+00:00",
+      "age": "6일 전"
     },
     {
       "ticker": "379810",
