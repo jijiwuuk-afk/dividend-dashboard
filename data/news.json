@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-05 14:27 KST",
+  "updated_at": "2026-10-05 15:33 KST",
   "items": [
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
-      "title": "PC 세상의 지배자가 스스로 만든 '강적'… 인텔·AMD의 '질긴 인연' - 한국일보",
+      "title": "PC 세상의 지배자가 스스로 만든 '강적'… 인텔·AMD의 '질긴 인연' - hankookilbo.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpZmdFQlNPTGwtNnlETmx2LTlxVFZET244a09GWDFZVVNmX0ZDUzF6LXdWNlVxZVc3OHlfV0tFRGprbmdPRGg3a1BTcjFSSGc3a1gtQlg2dmdySGFHdlRmeUxwaWFsdFVWNU4xMzln0gFzQVVfeXFMTkhhZ2FqbzRXVDdMSm9nZVRySXBGbEJSd3pzRHJWb2h1cUpocF9jcDlUQWNBcFdDR2NOblRRb3BlLTBMeE81LTNwcUh6dmJEWVY4TTI5Q09jb3lDUG1JUDJjbUh6QXQ0OXBvWGNCMElVQmZhUQ?oc=5",
-      "source": "한국일보",
+      "source": "hankookilbo.com",
       "published": "10-05 14:00",
       "published_iso": "2026-10-05T05:00:00+00:00",
-      "age": "27분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "GOOG",
@@ -19,7 +19,7 @@
       "source": "LiteFinance",
       "published": "10-05 09:25",
       "published_iso": "2026-10-05T00:25:46+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "368590",
@@ -29,7 +29,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-04 20:00",
       "published_iso": "2026-10-04T11:00:40+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "AVGO",
@@ -39,7 +39,7 @@
       "source": "아이투자",
       "published": "10-04 19:35",
       "published_iso": "2026-10-04T10:35:52+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "SCHD",
@@ -49,7 +49,7 @@
       "source": "v.daum.net",
       "published": "10-04 18:20",
       "published_iso": "2026-10-04T09:20:57+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "COST",
@@ -122,21 +122,11 @@
       "age": "2일 전"
     },
     {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "[월간 ETF워치]레버리지 팔고 미국으로…개미, S&P500 담았다 - 비즈워치",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12YzR6OHo0bG9uQkNPY0VtQXNaZWYxeDRYZUVIOWxNT1RsT0tlMjZrSHA2clZFYlVpSF9GNXptanpSQVhpc1ZTZ01qYTZvOWpvRmhLOFc3Z1E5X1ZBbG9WQV9Hb1Q1eHV2Ymc?oc=5",
-      "source": "비즈워치",
-      "published": "10-03 09:00",
-      "published_iso": "2026-10-03T00:00:03+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
-      "title": "[ETF머니플로우-9월4주] TIGER 미국S&P500 순매수 1위 탈환…KODEX 200타겟위클리커버드콜 6계단 - shinailbo.co.kr",
+      "title": "[ETF머니플로우-9월4주] TIGER 미국S&P500 순매수 1위 탈환…KODEX 200타겟위클리커버드콜 6계단 - 신아일보",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvaS1wa1daSWV4XzFEbWd6VkQwTmlLLWVVS1h1cnZycE1YaFRJb0JrTDA2Z0NNQktpbXlmWmJLU3p5dTA1SkdqYjdLcXlVTlRrM1RKSnVEbEs0TVc4V0p3cEI0Wm9aTlpRYXZnV2hIaUY?oc=5",
-      "source": "shinailbo.co.kr",
+      "source": "신아일보",
       "published": "10-03 08:00",
       "published_iso": "2026-10-02T23:00:00+00:00",
       "age": "2일 전"
@@ -162,6 +152,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "TSMC의 중국 내 제조 거점 및 사업 전략 분석 - 브런치",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TTzF6QVBjbXhoVnF6MmZ5VEk1emhPQ3dKUlRxY1Nqd1dOR3V2dFFMY3Zsb1pNTWZ0QVBNZUhaVWdYUlNvZWVHRw?oc=5",
+      "source": "브런치",
+      "published": "10-03 05:50",
+      "published_iso": "2026-10-02T20:50:27+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "내게 필요한 설명부터 찾아보는 sk 플래닛 블록 체인 게임 안내 - Calgary Roughnecks",
@@ -179,16 +179,6 @@
       "source": "TradingKey",
       "published": "10-03 03:16",
       "published_iso": "2026-10-02T18:16:12+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
-      "title": "TSMC 일본 구마모토 생산 거점(JASM)의 현황 - 브런치",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WSFlsM2RNdGlfQ3BuZnBTNEM4dzQ2REw4WnhlREl2My1velNtZWNqS3plZXM3Vm5BMW82ODBocmJJMnJoZ1lLeg?oc=5",
-      "source": "브런치",
-      "published": "10-03 01:25",
-      "published_iso": "2026-10-02T16:25:35+00:00",
       "age": "2일 전"
     },
     {
@@ -264,9 +254,9 @@
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
-      "title": "OpenAI 할라피뇨 칩 vs 엔비디아 블랙웰: 수치 비교 - FinanceFeeds",
+      "title": "OpenAI 할라피뇨 칩 vs 엔비디아 블랙웰: 수치 비교 - financefeeds.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBibUcxMTREYk1rU2VWUkVyMDRPU3VsVWJISU5MQWcyb3Y4MGNXdUFCNEVxekVNNm9WR3RDVTI4YzMwR19lNXF1OWIzMzFlbGhDVU9MdjdoMmV4eVBXejdVNkFEWHRBcWZNdXZpcWR6WHpza29Cemp5N0pDSDY?oc=5",
-      "source": "FinanceFeeds",
+      "source": "financefeeds.com",
       "published": "10-02 19:05",
       "published_iso": "2026-10-02T10:05:18+00:00",
       "age": "2일 전"
@@ -309,7 +299,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-02 14:52",
       "published_iso": "2026-10-02T05:52:20+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "000660",
@@ -462,6 +452,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
+      "title": "[9월 ETF 결산] ㊦ 반도체 올랐는데 돈은 빠졌다···KODEX 머니마켓엔 1.8조 - 여성경제신문",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LYm10RkVUZEx5OHhrSml3Mndwc1VhRnBMSUFsX1NrUGRKaEMzNGI1bW1CS1J2Q0QwcEZMVUpjVm5oMXJYdGZOcFZHOGxydFN2NU1Ha1BaQlJRNGx3SmFYcWR3Q0pvRnJGbmhLVHcwTl8tTHfSAXdBVV95cUxObVhTWGc4a0ZZSDV4ekthSHlPXzZIM1dPVzQwNUVwUU9lU2hleVgzR3VpcmhCY1ZqbzF3bEI0LXo1NFRWWXBySFRxWmpoQTBWQXluX0RBaFlEOTAtVVgzWFFZZGxqc0hlX3hDeDJNTGN5RzRkLUY1Yw?oc=5",
+      "source": "여성경제신문",
+      "published": "10-01 16:00",
+      "published_iso": "2026-10-01T07:00:00+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "title": "NVIDIA Corp(NVDA) 기술 분석: 지지선, 저항선, 지표 및 이동 평균 - TradingKey",
@@ -524,9 +524,9 @@
     {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
-      "title": "최우수 ETF(해외) ‘KODEX 미국나스닥100’ 순자산 10조…시장 리드[2026 헤럴드 투자대상 최우수 ETF(해외)-삼성자산운용] - biz.heraldcorp.com",
+      "title": "최우수 ETF(해외) ‘KODEX 미국나스닥100’ 순자산 10조…시장 리드[2026 헤럴드 투자대상 최우수 ETF(해외)-삼성자산운용] - 헤럴드경제",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BTFhXOWJ6OHBLajFoWFpWNUJvcWpBX084cXFTZEQxUTl4cW1BNC1JUFZyUDczYUtuOWxZM1hsNDhqcW02NllzMG5mbXlFVWt3QXRDcGl3?oc=5",
-      "source": "biz.heraldcorp.com",
+      "source": "헤럴드경제",
       "published": "10-01 11:46",
       "published_iso": "2026-10-01T02:46:33+00:00",
       "age": "4일 전"
@@ -594,9 +594,9 @@
     {
       "ticker": "000660",
       "name": "SK하이닉스",
-      "title": "SK하이닉스 주가 전망: 300만원 대 100만원 시나리오 - FinanceFeeds",
+      "title": "SK하이닉스 주가 전망: 300만원 대 100만원 시나리오 - financefeeds.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1NkMyWmxQMkIxRkVlN3N6RDRmWFhvNm44SnRVaHljU0pnVm1pUURsQmVQM2d5ME5neVZUdXJocE8yVnd5V0VKX3VOZ1F0d1dyUU1ZRjJxZzRLY1ByV0ZINzFhS3hwRnplR0t3Rw?oc=5",
-      "source": "FinanceFeeds",
+      "source": "financefeeds.com",
       "published": "10-01 01:25",
       "published_iso": "2026-09-30T16:25:20+00:00",
       "age": "4일 전"
@@ -694,9 +694,9 @@
     {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
-      "title": "미래에셋운용, 미국배당다우존스 ETF 순자산 4조2842억원 - joongang.co.kr",
+      "title": "미래에셋운용, 미국배당다우존스 ETF 순자산 4조2842억원 - 중앙일보",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9USVp0UUVrQ20tQzJEcDBHSHZUZW5RZ2poWnpZUnZ4ZW9wOUFfVFNpZEl2UGtiaGctVDhxOXlmbHBvWVBPYWY3YmFsNDAtaVFqYlRCSFpB?oc=5",
-      "source": "joongang.co.kr",
+      "source": "중앙일보",
       "published": "09-30 10:50",
       "published_iso": "2026-09-30T01:50:00+00:00",
       "age": "5일 전"
@@ -789,7 +789,7 @@
       "source": "v.daum.net",
       "published": "09-29 15:21",
       "published_iso": "2026-09-29T06:21:02+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "379800",
@@ -814,9 +814,9 @@
     {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
-      "title": "같은 S&P500인데 개미는 TIGER로…미래에셋운용, 순매수 '1위' 독주 - shinailbo.co.kr",
+      "title": "같은 S&P500인데 개미는 TIGER로…미래에셋운용, 순매수 '1위' 독주 - 신아일보",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QbmdOYzVJcXFjYzZpZzY2R0JaM0FBUF80RzBFMHJseGl2UXdLa0g1QndEQ2V2VFhxM2Yyam4xeWpmckR5VzBPbFZDY1BfNVY2djY2bWpRSkJaUjRBd09uRFZ2d0JBendOTTV1ckcyLWs?oc=5",
-      "source": "shinailbo.co.kr",
+      "source": "신아일보",
       "published": "09-29 11:11",
       "published_iso": "2026-09-29T02:11:45+00:00",
       "age": "6일 전"
@@ -984,9 +984,9 @@
     {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
-      "title": "'하락 예감?' 코스피·반도체 추종 ETF서 한주간 뭉칫돈 이탈 - yna.co.kr",
+      "title": "'하락 예감?' 코스피·반도체 추종 ETF서 한주간 뭉칫돈 이탈 - 연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZVjF2X1ZxRlJJenh6dTd3VDlhYlZWbzk5Y0xMdUJPRHY2ZE44eEtqY1JVcU4zRWhGbF94YURoZXJMbHJJRWg2LTI3bjJNQkg0azNKYXpFQktwVDDSAWBBVV95cUxNZUF1bHpDRU1zbFlHWFAwdDdkUjlxazF6SS05eTdIcWxwdlNjQUZldm1aUVhzeXpnTDBOZVJERVZ1TGlsT2NfWTdxRzdGbk9ldzNtbkVESXJfOWh6Qkp6N0c?oc=5",
-      "source": "yna.co.kr",
+      "source": "연합뉴스",
       "published": "09-28 16:44",
       "published_iso": "2026-09-28T07:44:15+00:00",
       "age": "6일 전"
