@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-06 16:24 KST",
+  "updated_at": "2026-10-06 17:25 KST",
   "items": [
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "인텔(INTC), 18A 공정 승부수...머스크 손 잡고 일어설까? - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43OWNTNjE3eTZLZ2tGWllvNzhkc0RsY3U0YXgwTmRzX1VndkI3dmMteXh4OUtjLVROYWNDRzA3NEJabzhZRlhLaEhn?oc=5",
+      "source": "코인리더스",
+      "published": "10-06 16:50",
+      "published_iso": "2026-10-06T07:50:00+00:00",
+      "age": "35분 전"
+    },
     {
       "ticker": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
@@ -9,7 +19,17 @@
       "source": "매일경제",
       "published": "10-06 15:10",
       "published_iso": "2026-10-06T06:10:14+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "title": "테슬라(TSLA), 전기차 거품 걷어내고 AI 올인...\"2027년 황금기 온다\" - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE01N3F4cks3aUFWakRxQllkYkpCU1JvS0hnUWpsd1ZEOFRHeGlSa0RNWWJYUUIxbWNVc0VMWWprTU9fOWJVd3JTSmRB?oc=5",
+      "source": "코인리더스",
+      "published": "10-06 14:50",
+      "published_iso": "2026-10-06T05:50:00+00:00",
+      "age": "2시간 전"
     },
     {
       "ticker": "379800",
@@ -19,17 +39,7 @@
       "source": "디지털데일리",
       "published": "10-06 14:16",
       "published_iso": "2026-10-06T05:16:36+00:00",
-      "age": "2시간 전"
-    },
-    {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "[여의도단신]KB자산운용·한국투자신탁운용·대신자산운용 - 매일신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40VjJNeTNNeWZJY09GN3o3M21vSlZXQU84b3gzOFQ2WVlrUHJYUUdjZjN3QWtGdnpIS3U5cDgxVjRiMFc2SlhFblBURWxJX1JEN19vaTRTRjNEUnN3dEY1RDNB?oc=5",
-      "source": "매일신문",
-      "published": "10-06 12:24",
-      "published_iso": "2026-10-06T03:24:08+00:00",
-      "age": "4시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "368590",
@@ -39,7 +49,7 @@
       "source": "매일신문",
       "published": "10-06 12:24",
       "published_iso": "2026-10-06T03:24:08+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "TSM",
@@ -49,17 +59,17 @@
       "source": "Investing.com 한국어",
       "published": "10-06 10:35",
       "published_iso": "2026-10-06T01:35:00+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "000660",
       "name": "SK하이닉스",
-      "title": "SK Hynix, 핵심 구간서 방향성 탐색 중: 매시간 업데이트 - Investing.com 한국어",
+      "title": "SK Hynix, 핵심 구간서 방향성 탐색 중: 매시간 업데이트 By Investing.com - Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96cVd6clU5dEQ2LXZlVWNRR2NtNGkyQ0NPYlh0ZWIwcW1LdEdtWHp1M3V0T3ZpYUNyNUtkRUtMVjJpRDN0OHZYeE1VUUk3bGczZ3ZwdHRtdUFEN3FlZDFrbXZuMVp5UkN3bjlfSGdkbUU5bkpKeWtF?oc=5",
       "source": "Investing.com 한국어",
       "published": "10-06 10:10",
       "published_iso": "2026-10-06T01:10:34+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "0072R0",
@@ -69,27 +79,47 @@
       "source": "뉴데일리",
       "published": "10-06 09:30",
       "published_iso": "2026-10-06T00:30:22+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대차그룹 공식 웹사이트, 글로벌 웹 어워드에서 수상 이어져 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzl3cWdqMHhpemVlVm5IQkkzcnRSTzJJTWZkekp6UjdlQWE3VTdvQmZ0cHVIYjduQTF3TUI3cjZfTVN0czZIeVNvYmhVWEJIaDVqcXF4ZFhuSkIzSGp2X3N4SGtFWXJIaGN2UzVFU3hOaUhWZ1M0eWV4amxHNDZFTXhCY2p3NFBRYlZr?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-06 08:30",
+      "published_iso": "2026-10-05T23:30:00+00:00",
+      "age": "8시간 전"
     },
     {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
-      "title": "뚝뚝 떨어지는 금값…한달여새 12% 급락 - dnews.co.kr",
+      "title": "뚝뚝 떨어지는 금값…한달여새 12% 급락 - 대한경제",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBraDZEeVBOcEl1UWxxQ0lUbHhHQ3VZdlNvbjFfWDl0Ym93dDZZM2h4S0tjVXdybjZldW9oR0xGX19fbWZQYlcyQjE2WTFQSWpOa213OFpDYVhPRTg3dDNMZFg5ZlN3eFhaclZuM25yalR5NmlR?oc=5",
-      "source": "dnews.co.kr",
+      "source": "대한경제",
       "published": "10-06 06:20",
       "published_iso": "2026-10-05T21:20:29+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "캐터필러(CAT), 미국 공장 신설과 딜러 인수로 북미 확장에 나섰다 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNnBCNWxxSmQxdnJGT2VQT2ZrQmxVMVFQN2NMZXdLMjFLcmFEbWx2bXBQU1N4NmdmM2YwM3Q3WmQ1UXJIVW5SWTVzQXNfSE45UGotdmloZXZMNXd4QU9pN0N6dFZtS2lSVG9sMXYzVDd0VWhjVEpWZHYxMlZTUTE0dmtONG9PSlZCenJlcC1IOW5jQzhOZ1VVYVdSVdIBmwFBVV95cUxQNnBCNWxxSmQxdnJGT2VQT2ZrQmxVMVFQN2NMZXdLMjFLcmFEbWx2bXBQU1N4NmdmM2YwM3Q3WmQ1UXJIVW5SWTVzQXNfSE45UGotdmloZXZMNXd4QU9pN0N6dFZtS2lSVG9sMXYzVDd0VWhjVEpWZHYxMlZTUTE0dmtONG9PSlZCenJlcC1IOW5jQzhOZ1VVYVdSVQ?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-06 00:11",
+      "published_iso": "2026-10-05T15:11:49+00:00",
+      "age": "17시간 전"
     },
     {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
-      "title": "Zeta Global 주가 52주 신고가 경신 $33.23 - Investing.com 한국어",
+      "title": "Zeta Global 주가 52주 신고가 경신 $33.23 By Investing.com - Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9idWVBd19FOEwzU2JNanBwVHVZUWgtazRsSXFQV3F6NUIzN2c2QjRSSjYtVTh5NUdmZ19IcjI2bFcwZFMtbkRtN2FkTGRFS25nN29Ra1VTSGxiYTlvcHdwbnRsa0hXMGd1eUR0bDdXMHI?oc=5",
       "source": "Investing.com 한국어",
       "published": "10-05 22:33",
       "published_iso": "2026-10-05T13:33:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "AVGO",
@@ -99,7 +129,7 @@
       "source": "tikr.com",
       "published": "10-05 19:25",
       "published_iso": "2026-10-05T10:25:58+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "0072R0",
@@ -109,16 +139,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-05 16:39",
       "published_iso": "2026-10-05T07:39:33+00:00",
-      "age": "23시간 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "투자자들은 캐터필러(CAT)의 10억 달러 규모 노스캐롤라이나 확장 계획에 어떻게 반응하고 있을까 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlExLWhrVHBxRzFMVmx1VFdkN0JMZW5TNFZMV2h2ZHRJc0JFWks0ZkluYWIwX3NVdV9FNFQ3a2VwTmhMenJRRlFPeFhYekJGaWNES3l1eWZxbXdRckREQ1lGY0VKQ200Z1lvVm5lZnI2V042T3lEWTBkbGtDRFZzZzJPUTJEWXVpa1lfUHlWXzhpUnRVZUo2emNNY9IBmwFBVV95cUxNMlExLWhrVHBxRzFMVmx1VFdkN0JMZW5TNFZMV2h2ZHRJc0JFWks0ZkluYWIwX3NVdV9FNFQ3a2VwTmhMenJRRlFPeFhYekJGaWNES3l1eWZxbXdRckREQ1lGY0VKQ200Z1lvVm5lZnI2V042T3lEWTBkbGtDRFZzZzJPUTJEWXVpa1lfUHlWXzhpUnRVZUo2emNNYw?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-05 14:52",
-      "published_iso": "2026-10-05T05:52:21+00:00",
       "age": "1일 전"
     },
     {
@@ -322,6 +342,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "[월간 ETF워치]레버리지 팔고 미국으로…개미, S&P500 담았다 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kOWpLNEpMeVJ5LXUyRFlLdXZsN2dDV2o3bk44ODlBaWk4V2RqZEJ0cHk3R0MtNWZ5V0FBRmtES1BXZFVHdzRsbXZwNV96aFVjRXFwSg?oc=5",
+      "source": "v.daum.net",
+      "published": "10-03 09:01",
+      "published_iso": "2026-10-03T00:01:19+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
       "title": "[월간 ETF워치]레버리지 팔고 미국으로…개미, S&P500 담았다 - 비즈워치",
@@ -432,6 +462,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "Caterpillar Is Betting $1 Billion on Small Contractors. Here’s Where the Stock Could Go by 2030 - tikr.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM3FFbmFaS3VOY1h0cTgzQ19GMXBwZFRkS0E5bzJhTWc3dzNEOW1JZndldFJSbXlCZTN6OTRRTnBXR2ZFWEl6R19UWVZ2eThodS1BaDJBTUs2ckEtWGd5dU9TRzZ3aUF4WWxwdjZydlhkMEUyR2Y0eTFGNWxXOXo5VHNOWEhNYjA4X3U2MFVQQ09naGRucU90UGVwWkNXclRqWTNKa3psUEk4SU5iMUFVcENLOWVaX1BxZEcwMnFn?oc=5",
+      "source": "tikr.com",
+      "published": "10-03 00:55",
+      "published_iso": "2026-10-02T15:55:41+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
       "title": "SanDisk Corporation (SNDK) 주식 움직였습니다 하락 3.23%에 10월2일: 어떤 신호인가요? - TradingKey",
@@ -509,7 +549,7 @@
       "source": "아이투자",
       "published": "10-02 16:43",
       "published_iso": "2026-10-02T07:43:04+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "GOOG",
@@ -519,16 +559,6 @@
       "source": "코인리더스",
       "published": "10-02 16:10",
       "published_iso": "2026-10-02T07:10:00+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "캐터필러(CAT), 미국 공장 신설과 딜러 인수로 북미 확장에 나섰다 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjhvQXNaLXozMUM0Y25yck9JcEZQSHRPZ3c2c01PUlVxTUs0bnhVbkdYQzFRSWZlSnVjak94MXhhRm9mOGtUSS1RYVg0SW5sQUlVZU1kYVkxbHBRbUsyU0VrRFNWc1I1ejNhbEJ0bDRJSm8tZmFTYzVFaG9fNGdTYTBodGxRcW1uUEYzeHBKUFUtd0RFUFHSAZsBQVVfeXFMUDZwQjVscUpkMXZyRk9lUE9ma0JsVTFRUDdjTGV3SzIxS3JhRG1sdm1wUFNTeDZnZjNmMDN0N1pkNVFySFVuUlk1c0FzX0hOOVBqLXZpaGV2TDV3eEFPaTdDenRWbUtpUlRvbDF2M1Q3dFVoY1RKVmR2MTJWU1ExNHZrTjRvT0pWQnpyZXAtSDluY0M4TmdVVWFXUlU?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-02 16:00",
-      "published_iso": "2026-10-02T07:00:00+00:00",
       "age": "4일 전"
     },
     {
@@ -542,11 +572,21 @@
       "age": "4일 전"
     },
     {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대차, 뉴욕서 '디 올 뉴 투싼' 공개…글로벌 SUV 시장 공략(종합) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sWXd4WVdULUR6QVhtdzEtdlktUERKUDY4Yk13SU5aejlibE40Z3JTNHZMWU4tSDlSbi16RUpIbmQ2d0FibEM0S045WDNLTWY1aUhnUEZDWUtXNWvSAWBBVV95cUxQNkhoNllVM0hVcjFKekNQOVlhM0ZGem92YjBHdjlJYThLMUhsXy1MVEk3NkFmUVVnV1NIb1VfT1NDT1BqcGliN1VnUmdHaVprUWktcG1nREloaVBsczhmcDQ?oc=5",
+      "source": "연합뉴스",
+      "published": "10-02 08:01",
+      "published_iso": "2026-10-01T23:01:02+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "005930",
       "name": "삼성전자",
-      "title": "Samsung Electronics, SK Hynix at Center of Debate Over KRW 200 Billion Housing Support for Southwest Semiconductor Cluster - alphabiz.co.kr",
+      "title": "Samsung Electronics, SK Hynix at Center of Debate Over KRW 200 Billion Housing Support for Southwest Semiconductor Cluster - 알파경제",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OamVHalVBZHJyQ2g3elZsUFBYUml1M1VOdXNKS09zempWbl9xTjhSNXl6Qi1IemVBVmNBbFpJdFk0X0x2X3A2TjI1UUJOdlNkRVZvbVpIV2Fsc2xlNUJaVXVQVDRPRmVucGtSZDZ3?oc=5",
-      "source": "alphabiz.co.kr",
+      "source": "알파경제",
       "published": "10-02 06:00",
       "published_iso": "2026-10-01T21:00:00+00:00",
       "age": "4일 전"
@@ -554,9 +594,9 @@
     {
       "ticker": "000660",
       "name": "SK하이닉스",
-      "title": "SK Hynix Says No Decision Made on Solidigm U.S. IPO, Pledges to Prioritize Long-Term Shareholder Value - alphabiz.co.kr",
+      "title": "SK Hynix Says No Decision Made on Solidigm U.S. IPO, Pledges to Prioritize Long-Term Shareholder Value - 알파경제",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yZ2RkbG5LeWFhLXYyU0Y4a1lpVE9yQlF2V2lxU1FENGdCYnN0SmR6SEVoX1RielpKWmd4NXhVVzFSTWppSUN6RXF0dm5sZWtvR09hMjVsVHQxZXBDVnNsM0lkdHpZUWlWWGRlSHR3?oc=5",
-      "source": "alphabiz.co.kr",
+      "source": "알파경제",
       "published": "10-02 06:00",
       "published_iso": "2026-10-01T21:00:00+00:00",
       "age": "4일 전"
@@ -712,16 +752,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "title": "스페이스X·테슬라(TSLA), 합병하나...\"현실화되면 3.5조 달러 몸값 정조준\" - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RLXJsMzltU0NpNkNQYWZxOUMycExQSk1kVlhvNEhiakp4TmRZYlNqQzgtQlE0YTlKbmpLMDdSV2Z5NkhOVjBzWWl3?oc=5",
-      "source": "코인리더스",
-      "published": "10-01 10:45",
-      "published_iso": "2026-10-01T01:45:00+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "“퇴직연금에 금 넣었는데 어쩌나”...한달새 -10%, 은은 더 빠졌다 - v.daum.net",
@@ -754,19 +784,9 @@
     {
       "ticker": "005380",
       "name": "현대자동차",
-      "title": "현대차그룹, 한국도로공사와 차세대 충전 인프라 및 피지컬 AI 실증 협력 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYU5oRUFFTVlEbmZlVHA5YzZSY1hRQkhjbzZLd0JueE5vVXFiU05DOEhSX0o5RnE1ZDIyUGxSMFJ1VkhjRXRCbmZNMW1yZzBNdjh1Z0lMQUxtTWpRdlJ5ck4ycmd6WUttWHRQTVE3MzVESVN1NGZmSm5weUdqMXdYOFY3eTg2ZUNPOVQwaHkzNE5qbHlrWWUyZUFOb29RZ0lydlFWMWktVFpKbTZOUG5qSzdLZ01EOGczZlA3eU5PLVY?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-01 08:30",
-      "published_iso": "2026-09-30T23:30:00+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "Hyundai Motor to Invest Additional $500 Million in Alabama Plant, Expand U.S. Hybrid and EREV Production - alphabiz.co.kr",
+      "title": "Hyundai Motor to Invest Additional $500 Million in Alabama Plant, Expand U.S. Hybrid and EREV Production - 알파경제",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xRXRVa0o1U2lJTXJuSXg4QnFQeVJmdHNkR05EQnA0dW9GVE5EWkFHOGh6R2VJSmFWQlEtYjRubmhsaktxNm9YTFdEUkpNR1RZTGJzUFhZcmZHTzJ3aXZreWVjZFdNenRUV2tUY053?oc=5",
-      "source": "alphabiz.co.kr",
+      "source": "알파경제",
       "published": "10-01 06:00",
       "published_iso": "2026-09-30T21:00:00+00:00",
       "age": "5일 전"
@@ -884,9 +904,9 @@
     {
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
-      "title": "[분석] GE가 세 쪽으로 쪼개지자, 한 곳만 678% 폭등했다 - choicestock.co.kr",
+      "title": "[분석] GE가 세 쪽으로 쪼개지자, 한 곳만 678% 폭등했다 - 초이스스탁US",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fQTVlTlNMU2RMNzZXUTFJZUNoM044LVE0M2o1T1I1ci1IMkd2TWlteW5WTlA4N2RSX0l2dGZDNDZBc29BNzVTaERJTTFqWklwb1o3TFNieEJZZXZnZkFCNVZZMXBvaUJLUnc?oc=5",
-      "source": "choicestock.co.kr",
+      "source": "초이스스탁US",
       "published": "09-30 11:00",
       "published_iso": "2026-09-30T02:00:00+00:00",
       "age": "6일 전"
@@ -914,21 +934,11 @@
     {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
-      "title": "테슬라(TSLA.O), 42조원 규모 신용한도 확보…사이버캡·옵티머스 생산 확대 나선다 - alphabiz.co.kr",
+      "title": "테슬라(TSLA.O), 42조원 규모 신용한도 확보…사이버캡·옵티머스 생산 확대 나선다 - 알파경제",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PWGZoRVFxd3pJSGUxOV9iYmRSZy1FRW5DS0JQVVVuZmI1aENSbkY0TjY4T0xTNW4zUmZvRVdmeDBOamQ2bC00dzhSeXlqQUg2dGRvSHpPZnB5SGlkSGgtN1BqZS1XT25QNmNyZmt3?oc=5",
-      "source": "alphabiz.co.kr",
+      "source": "알파경제",
       "published": "09-30 07:44",
       "published_iso": "2026-09-29T22:44:56+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "Hyundai Motor, Kia Suppliers Could Face Greater Cost Pressure as U.S. Tariffs Weigh on Automakers’ Cash Flow - alphabiz.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHVFZwTnVIUnVTblVCTkJ2NWFJUGJRcy1nNzlFR3VhQU9WWHItSGRpSGtZOW9XSjBlTUdSWDUxMGpaZ2RqbE41MWxITHFEV3VPRnc2QVBtTVlLbFprR2NqMnN1SnhIRTNCWWFKRlpR?oc=5",
-      "source": "alphabiz.co.kr",
-      "published": "09-30 06:00",
-      "published_iso": "2026-09-29T21:00:00+00:00",
       "age": "6일 전"
     },
     {
@@ -939,16 +949,6 @@
       "source": "Simply Wall Street",
       "published": "09-30 05:28",
       "published_iso": "2026-09-29T20:28:38+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "Intel Stock Is Up 246% Over the Past Year. Here’s What This Week’s Pullback Signals - tikr.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDRuaExKMGJOLTktWDhuYWpEQzZua0JsY2RHSTBqT0hxUll0czN6NjFaN2NjeUoxSWtjVVNpRUxwc19xOXEycVJRZnlqbDlGMXR0MHk3VUgxaDh4b0N0QkRxbkhKSGFPekQ0cFplcjFHNHE1NUgyaTZSM2NHa0FDNUk0cTg0NnhOVWJyeTZ3UHN3XzB4MkI2eWZpa3lWR2RaZFlPdzdlTmc5SXdi?oc=5",
-      "source": "tikr.com",
-      "published": "09-30 02:15",
-      "published_iso": "2026-09-29T17:15:00+00:00",
       "age": "6일 전"
     },
     {
@@ -974,7 +974,7 @@
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
-      "title": "Nvidia, AI 안전 입장에 교황 레오 14세 질책 직면 - Investing.com 한국어",
+      "title": "Nvidia, AI 안전 입장에 교황 레오 14세 질책 직면 By Investing.com - Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fNWQ0VWJ3WW9fRkJjSDB4eTExT3FqUmcyVXgtOV8xV1BaOGtOdHdMbXdOVENRRmx1Q2tIY3FVM0FoSlJTdFRnVEdhNkNJSmtaY2YxeU9BOXJNZ3c4cjhNejNsNzFuUm9DbnFBS3R1WDlOWjdCSjI0?oc=5",
       "source": "Investing.com 한국어",
       "published": "09-29 18:54",
