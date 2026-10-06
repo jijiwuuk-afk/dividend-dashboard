@@ -1,15 +1,25 @@
 {
-  "updated_at": "2026-10-06 09:33 KST",
+  "updated_at": "2026-10-06 10:22 KST",
   "items": [
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대차그룹 공식 웹사이트, 글로벌 웹 어워드에서 수상 이어져 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzl3cWdqMHhpemVlVm5IQkkzcnRSTzJJTWZkekp6UjdlQWE3VTdvQmZ0cHVIYjduQTF3TUI3cjZfTVN0czZIeVNvYmhVWEJIaDVqcXF4ZFhuSkIzSGp2X3N4SGtFWXJIaGN2UzVFU3hOaUhWZ1M0eWV4amxHNDZFTXhCY2p3NFBRYlZr?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-06 08:30",
+      "published_iso": "2026-10-05T23:30:00+00:00",
+      "age": "1시간 전"
+    },
     {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "뚝뚝 떨어지는 금값…한달여새 12% 급락 - 대한경제",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfdWRtYUZrLVdjYXQyWlN6T0RxWXI5dVFDbUVyLThGcE1lMjgtWVA4MHBHUGs1cFYyd09aclM1dUZkbFN2N0lmak1sa1A0TGdzbWJzcHAtdnA3NGFLeV9COG8zcUluWEphOHZEMVdYa1FOUjg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR0tmUU44LW53c3QzNGYzRmhZMEtvamdQUEV0UE9qdjM0VGZRZVhtWnVPZV9CQ19RdEVJdVpHdEE4T2dTYzZRV0V6Q05DN0dZNTdPdktkUGFQc1dpcEpaN0dmTnBpZDA3d0hTNU84ckRvOWxmR1I3QlQ3c3dRZVZJdk80RE1iUQ?oc=5",
       "source": "대한경제",
       "published": "10-06 06:20",
       "published_iso": "2026-10-05T21:20:29+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "INTC",
@@ -19,7 +29,7 @@
       "source": "TIKR.com",
       "published": "10-06 04:07",
       "published_iso": "2026-10-05T19:07:30+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "ZETA",
@@ -49,7 +59,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-05 16:39",
       "published_iso": "2026-10-05T07:39:33+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "CAT",
@@ -59,17 +69,17 @@
       "source": "Simply Wall Street",
       "published": "10-05 14:52",
       "published_iso": "2026-10-05T05:52:21+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "005930",
       "name": "삼성전자",
-      "title": "This Week, the KOSPI Hinges on Samsung Electronics Earnings - khan.co.kr",
+      "title": "This Week, the KOSPI Hinges on Samsung Electronics Earnings - 경향신문",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42dWF1SVY5LVZWWWlibjB3QXlHTFU5OUZqSGpLRks1aDhJT3VTMzZ2dFJuamhYUW93TF81NS1ZdVUyN1c4THAwcjI1bjEtUlE1UEJNTHpUU2ctdjFhVVE?oc=5",
-      "source": "khan.co.kr",
+      "source": "경향신문",
       "published": "10-05 14:48",
       "published_iso": "2026-10-05T05:48:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "AMD",
@@ -79,7 +89,7 @@
       "source": "한국일보",
       "published": "10-05 14:00",
       "published_iso": "2026-10-05T05:00:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "GOOG",
@@ -189,7 +199,7 @@
       "source": "Simply Wall Street",
       "published": "10-04 10:22",
       "published_iso": "2026-10-04T01:22:46+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "COST",
@@ -264,9 +274,9 @@
     {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
-      "title": "[ETF머니플로우-9월4주] TIGER 미국S&P500 순매수 1위 탈환…KODEX 200타겟위클리커버드콜 6계단 - shinailbo.co.kr",
+      "title": "[ETF머니플로우-9월4주] TIGER 미국S&P500 순매수 1위 탈환…KODEX 200타겟위클리커버드콜 6계단 - 신아일보",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvaS1wa1daSWV4XzFEbWd6VkQwTmlLLWVVS1h1cnZycE1YaFRJb0JrTDA2Z0NNQktpbXlmWmJLU3p5dTA1SkdqYjdLcXlVTlRrM1RKSnVEbEs0TVc4V0p3cEI0Wm9aTlpRYXZnV2hIaUY?oc=5",
-      "source": "shinailbo.co.kr",
+      "source": "신아일보",
       "published": "10-03 08:00",
       "published_iso": "2026-10-02T23:00:00+00:00",
       "age": "3일 전"
@@ -459,7 +469,7 @@
       "source": "TradingKey",
       "published": "10-02 10:00",
       "published_iso": "2026-10-02T01:00:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "0072R0",
@@ -469,16 +479,6 @@
       "source": "뉴시스",
       "published": "10-02 09:48",
       "published_iso": "2026-10-02T00:48:08+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "현대자동차, 디 올 뉴 투싼 美 뉴욕서 글로벌 무대 첫 선 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMk9iSFd4T0JBYXl5eGZ0U1k3ZXI1aUxQV3dxQkMxVE45T0pqbzRhaG1rMWpPMWFSYnloZWNvdjRTR3gtRXdlcmR0Yi1ZcFJnX1NBOV9Ram1oX0FDVVM5NlhiWkdfQ3lMYUVZOUltbWFhRGlzR3Y3SU1Zb1J1ZDdGWFBJbXhDMm4yNS1hYWZURDRMZHVnXzA0Zk4tSjFUWkduajJ5b0xqOA?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-02 06:15",
-      "published_iso": "2026-10-01T21:15:00+00:00",
       "age": "4일 전"
     },
     {
@@ -679,7 +679,7 @@
       "source": "v.daum.net",
       "published": "10-01 10:09",
       "published_iso": "2026-10-01T01:09:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "SNDK",
@@ -689,7 +689,7 @@
       "source": "Simply Wall Street",
       "published": "10-01 09:53",
       "published_iso": "2026-10-01T00:53:33+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "GEV",
@@ -699,7 +699,7 @@
       "source": "Simply Wall Street",
       "published": "10-01 09:43",
       "published_iso": "2026-10-01T00:43:14+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "005380",
@@ -784,9 +784,9 @@
     {
       "ticker": "000660",
       "name": "SK하이닉스",
-      "title": "SK하이닉스 미국 상장(SKHY) 주가 전망 2026: 목표주가 $245.21, 본주 대비 프리미엄의 의미 - Mitrade",
+      "title": "SK하이닉스 미국 상장(SKHY) 주가 전망 2026: 목표주가 $245.21, 본주 대비 프리미엄의 의미 - mitrade.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdGc4VW4yZXRWWllhSVhHcmtIdTBhdk9wNXNVa1pXcFkwZjVPZ2pHNFdQTkRPTmUwZjg4bUtzU2RJc05INUgzaW10TEJ2d3VObDY4eVpOdXQyT2laZk5STjdBb05KVFkwNTUwdTZBQnlYRXJOWm5qa0NDUW5TRVB3SUhZQkxwQlMyMGRTMGhqQQ?oc=5",
-      "source": "Mitrade",
+      "source": "mitrade.com",
       "published": "09-30 16:00",
       "published_iso": "2026-09-30T07:00:00+00:00",
       "age": "5일 전"
@@ -824,9 +824,9 @@
     {
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
-      "title": "[분석] GE가 세 쪽으로 쪼개지자, 한 곳만 678% 폭등했다 - 초이스스탁US",
+      "title": "[분석] GE가 세 쪽으로 쪼개지자, 한 곳만 678% 폭등했다 - choicestock.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fQTVlTlNMU2RMNzZXUTFJZUNoM044LVE0M2o1T1I1ci1IMkd2TWlteW5WTlA4N2RSX0l2dGZDNDZBc29BNzVTaERJTTFqWklwb1o3TFNieEJZZXZnZkFCNVZZMXBvaUJLUnc?oc=5",
-      "source": "초이스스탁US",
+      "source": "choicestock.co.kr",
       "published": "09-30 11:00",
       "published_iso": "2026-09-30T02:00:00+00:00",
       "age": "5일 전"
@@ -994,9 +994,9 @@
     {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
-      "title": "같은 S&P500인데 개미는 TIGER로…미래에셋운용, 순매수 '1위' 독주 - shinailbo.co.kr",
+      "title": "같은 S&P500인데 개미는 TIGER로…미래에셋운용, 순매수 '1위' 독주 - 신아일보",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QbmdOYzVJcXFjYzZpZzY2R0JaM0FBUF80RzBFMHJseGl2UXdLa0g1QndEQ2V2VFhxM2Yyam4xeWpmckR5VzBPbFZDY1BfNVY2djY2bWpRSkJaUjRBd09uRFZ2d0JBendOTTV1ckcyLWs?oc=5",
-      "source": "shinailbo.co.kr",
+      "source": "신아일보",
       "published": "09-29 11:11",
       "published_iso": "2026-09-29T02:11:45+00:00",
       "age": "6일 전"
