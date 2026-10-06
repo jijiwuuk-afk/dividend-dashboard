@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 01:25 KST",
+  "updated_at": "2026-10-07 02:21 KST",
   "items": [
     {
       "ticker": "GOOG",
@@ -9,7 +9,7 @@
       "source": "TIKR.com",
       "published": "10-07 01:07",
       "published_iso": "2026-10-06T16:07:54+00:00",
-      "age": "18분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "AMD",
@@ -19,7 +19,7 @@
       "source": "TradingKey",
       "published": "10-07 00:16",
       "published_iso": "2026-10-06T15:16:20+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "AVGO",
@@ -29,7 +29,7 @@
       "source": "TradingKey",
       "published": "10-06 23:15",
       "published_iso": "2026-10-06T14:15:58+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "GEV",
@@ -39,7 +39,7 @@
       "source": "TradingKey",
       "published": "10-06 22:48",
       "published_iso": "2026-10-06T13:48:37+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "487230",
@@ -49,7 +49,7 @@
       "source": "매일경제 마켓",
       "published": "10-06 17:29",
       "published_iso": "2026-10-06T08:29:59+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "379780",
@@ -59,7 +59,7 @@
       "source": "위키리크스한국",
       "published": "10-06 17:25",
       "published_iso": "2026-10-06T08:25:56+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "368590",
@@ -69,7 +69,7 @@
       "source": "위키리크스한국",
       "published": "10-06 17:25",
       "published_iso": "2026-10-06T08:25:56+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "INTC",
@@ -79,7 +79,7 @@
       "source": "코인리더스",
       "published": "10-06 16:50",
       "published_iso": "2026-10-06T07:50:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "379780",
@@ -89,7 +89,7 @@
       "source": "더밸류뉴스",
       "published": "10-06 16:31",
       "published_iso": "2026-10-06T07:31:18+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "368590",
@@ -99,7 +99,7 @@
       "source": "더밸류뉴스",
       "published": "10-06 16:31",
       "published_iso": "2026-10-06T07:31:18+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "VOO",
@@ -109,7 +109,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-06 15:26",
       "published_iso": "2026-10-06T06:26:46+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "TSM",
@@ -119,7 +119,7 @@
       "source": "매일경제",
       "published": "10-06 15:10",
       "published_iso": "2026-10-06T06:10:14+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "TSLA",
@@ -129,7 +129,7 @@
       "source": "코인리더스",
       "published": "10-06 14:50",
       "published_iso": "2026-10-06T05:50:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "005930",
@@ -139,7 +139,7 @@
       "source": "CoinGecko",
       "published": "10-06 14:25",
       "published_iso": "2026-10-06T05:25:54+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "379800",
@@ -149,7 +149,7 @@
       "source": "디지털데일리",
       "published": "10-06 14:16",
       "published_iso": "2026-10-06T05:16:36+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "000660",
@@ -159,7 +159,7 @@
       "source": "Investing.com 한국어",
       "published": "10-06 14:02",
       "published_iso": "2026-10-06T05:02:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "0072R0",
@@ -169,7 +169,7 @@
       "source": "뉴데일리",
       "published": "10-06 09:30",
       "published_iso": "2026-10-06T00:30:22+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "005380",
@@ -179,7 +179,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-06 08:30",
       "published_iso": "2026-10-05T23:30:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "NVDA",
@@ -189,7 +189,7 @@
       "source": "알파경제",
       "published": "10-06 08:29",
       "published_iso": "2026-10-05T23:29:34+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "0072R0",
@@ -199,7 +199,7 @@
       "source": "대한경제",
       "published": "10-06 06:20",
       "published_iso": "2026-10-05T21:20:29+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "INTC",
@@ -209,7 +209,7 @@
       "source": "TIKR.com",
       "published": "10-06 04:07",
       "published_iso": "2026-10-05T19:07:30+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "CAT",
@@ -269,16 +269,6 @@
       "source": "LiteFinance",
       "published": "10-05 09:25",
       "published_iso": "2026-10-05T00:25:46+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "JEPQ",
-      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-      "title": "stardew valley 카지노 : 을 통한 성공 전략 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR24wWFFIZi1aVVBURHNndlpIc0ZoS1poc3phOWZNeWtpT1pzUkxnbk05SDRncVhSOFNhT2hhRkNvUUJSZGVPTG54Mk96RVF2bjJOZklITTRLcVRsUjMwQ05iZFFKQjNMNW9aS2lac01yNFlUMUF2eURybWdkYlNyeDZCRzd6ckpyLUZRai1wY0JsTDRHSDdPV0xtV3NGYmtj?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-05 08:53",
-      "published_iso": "2026-10-04T23:53:05+00:00",
       "age": "1일 전"
     },
     {
@@ -642,13 +632,23 @@
       "age": "4일 전"
     },
     {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "홍춘봉 기자의 카지노 이야기 플레이 중 열 수 있는 정보 창 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJbWtfalBSODdZbmdobFBTa291Z3RWZC1EdGxjcUE0V0N1QkFmVFdMTnptNnA1YmJBVEc5UTJ3ay03a0FnN0dUREtSOVZiYVk3OTBGcTFVSU5oRWZ1TWRidGMyYjBlUWk1V010LVRsbzJKVkowUDJn?oc=5",
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "[임실근의 단상] 코스트코와 월마트, 다른 성공의 공식 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUHJjOFFJdmh0UUQyQ3FFX3VkU016b2VlTlpHU0w0SjZVY2o4a25IYjBWS0RyTWtUcHZEXzJNc3hDRlA3c1BYS0JxX1VmQUlwQ01YVktlVG1NN0ZzdWxydFFUZkxTRGVXbGRBd3VfcDVGYkVZR0pKM2xJMUx0dDhRTUlhOEw?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "10-02 13:37",
+      "published_iso": "2026-10-02T04:37:15+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "JEPQ",
+      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+      "title": "게임 화면을 천천히 읽는 누누티비 카지노 1화 첫걸음 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjN2hLRmV6U0FmYjVqazdBaGxKejlCYzVXeXdfOE5STlVnZnRGWmlCX19nSnlDcV9SRXd3Z3VIOXJBZUZTOG4xMWNXMjJ1T0M4enZEdW5IcWR1ODh6VGd0Z3Jyb2ZDaExNZmpEd0ZTdTVuTjdKQUpWQw?oc=5",
       "source": "Calgary Roughnecks",
-      "published": "10-02 09:04",
-      "published_iso": "2026-10-02T00:04:51+00:00",
+      "published": "10-02 09:30",
+      "published_iso": "2026-10-02T00:30:27+00:00",
       "age": "4일 전"
     },
     {
@@ -699,7 +699,7 @@
       "source": "TradingKey",
       "published": "10-02 02:16",
       "published_iso": "2026-10-01T17:16:05+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "ZETA",
@@ -709,7 +709,7 @@
       "source": "VALORANT Esports | Schedule",
       "published": "10-02 01:43",
       "published_iso": "2026-10-01T16:43:37+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "ZETA",
