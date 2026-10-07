@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-07 12:24 KST",
+  "updated_at": "2026-10-07 13:24 KST",
   "items": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "엔비디아(NVDA), 시총 6조 달러 턱밑까지 껑충...\"실적 30% 더 뛴다\" - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8wVnZyTG9JX3RpMXF0Y3BXNTBuUmt6VEZXZTRYMkd6TVFTTXR2YldnRF81ZGNXT0Eya2pmZmFrRElCYUcwdU82MThn?oc=5",
+      "source": "코인리더스",
+      "published": "10-07 12:10",
+      "published_iso": "2026-10-07T03:10:00+00:00",
+      "age": "1시간 전"
+    },
     {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
@@ -9,7 +19,7 @@
       "source": "레디앙",
       "published": "10-07 12:04",
       "published_iso": "2026-10-07T03:04:36+00:00",
-      "age": "19분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "458730",
@@ -19,7 +29,7 @@
       "source": "인포스탁데일리",
       "published": "10-07 11:28",
       "published_iso": "2026-10-07T02:28:32+00:00",
-      "age": "55분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "458730",
@@ -29,7 +39,7 @@
       "source": "브릿지경제",
       "published": "10-07 10:58",
       "published_iso": "2026-10-07T01:58:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "458730",
@@ -39,7 +49,7 @@
       "source": "Daum",
       "published": "10-07 09:55",
       "published_iso": "2026-10-07T00:55:24+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "TSLA",
@@ -49,7 +59,7 @@
       "source": "Investing.com 한국어",
       "published": "10-07 09:45",
       "published_iso": "2026-10-07T00:45:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "005380",
@@ -59,17 +69,7 @@
       "source": "경향신문",
       "published": "10-07 09:44",
       "published_iso": "2026-10-07T00:44:00+00:00",
-      "age": "2시간 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "AI 에이전트 뜨자 CPU도 부활…AMD 시총 1조달러 돌파 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81WlRPN19LVDVvVjZ6d1BoMDdadnZrTVJEcE90TWVOWlZVQkxQTnNSaVlhRWttS3VFT3RSaFd3VjJIaG83OXVSTzFkZTFBQQ?oc=5",
-      "source": "매일경제",
-      "published": "10-07 06:15",
-      "published_iso": "2026-10-06T21:15:07+00:00",
-      "age": "6시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "005380",
@@ -79,7 +79,7 @@
       "source": "알파경제",
       "published": "10-07 06:00",
       "published_iso": "2026-10-06T21:00:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "AMD",
@@ -89,16 +89,6 @@
       "source": "한국경제",
       "published": "10-07 04:05",
       "published_iso": "2026-10-06T19:05:10+00:00",
-      "age": "8시간 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "Nvidia 주가 전망: NVDA 보합세 속 $246.24 저항선 주목 - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMkZtQWRpbnBBLUtTQURpUk51VFE0Tm9JY0VlWVZrRk8yVVJJQm42c0o0amxyek1qcnlPdVBTQ3UtNjBlNWo2Tmo0WEl6VHg4N1VKRm9iX1prOUFTblhsSDFKM2NhOWdNcnpGTmV4WE1kc19iWGNoaE9TRm8zNFVmY2docnFuajJ0SDhv?oc=5",
-      "source": "Traders Union",
-      "published": "10-07 03:09",
-      "published_iso": "2026-10-06T18:09:42+00:00",
       "age": "9시간 전"
     },
     {
@@ -109,7 +99,7 @@
       "source": "TIKR.com",
       "published": "10-07 02:26",
       "published_iso": "2026-10-06T17:26:15+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "AMD",
@@ -119,7 +109,7 @@
       "source": "TradingKey",
       "published": "10-07 00:16",
       "published_iso": "2026-10-06T15:16:20+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "ZETA",
@@ -129,7 +119,7 @@
       "source": "Investing.com 한국어",
       "published": "10-06 23:27",
       "published_iso": "2026-10-06T14:27:00+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "AVGO",
@@ -139,7 +129,7 @@
       "source": "TradingKey",
       "published": "10-06 23:15",
       "published_iso": "2026-10-06T14:15:58+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "GEV",
@@ -149,7 +139,7 @@
       "source": "TradingKey",
       "published": "10-06 22:48",
       "published_iso": "2026-10-06T13:48:37+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "487230",
@@ -159,7 +149,7 @@
       "source": "매일경제 마켓",
       "published": "10-06 17:29",
       "published_iso": "2026-10-06T08:29:59+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "379780",
@@ -169,7 +159,7 @@
       "source": "위키리크스한국",
       "published": "10-06 17:25",
       "published_iso": "2026-10-06T08:25:56+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "368590",
@@ -179,7 +169,7 @@
       "source": "위키리크스한국",
       "published": "10-06 17:25",
       "published_iso": "2026-10-06T08:25:56+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "INTC",
@@ -189,7 +179,7 @@
       "source": "코인리더스",
       "published": "10-06 16:50",
       "published_iso": "2026-10-06T07:50:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "379780",
@@ -199,7 +189,7 @@
       "source": "더밸류뉴스",
       "published": "10-06 16:31",
       "published_iso": "2026-10-06T07:31:18+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "368590",
@@ -209,16 +199,6 @@
       "source": "더밸류뉴스",
       "published": "10-06 16:31",
       "published_iso": "2026-10-06T07:31:18+00:00",
-      "age": "19시간 전"
-    },
-    {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "같은 심벌이 연속으로 나와야 하나요? 미성년자 토토 처벌 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPd1BJcnZ6T3A4OTZuSjM4amdzcDA5MnJ6ekxEMnZ0eW1QeF9xaEtrOWtRaEpYY2FWRGNodWYtOVFnTFZ4c1Z2NTFqbkp0Qll3ZVh4NnNsc3ZIa0hqX3FSTGhBNmVkS1VOR2pGNUdMTHNQMDVfazdHU0RlYnJXYllVekc0VkZMbUctc05vY0JJbkRiSXAxSzNwM0FQcjBaMkxSeXJfVHNPSXRmVVIyMWxKdXhvMkswdWZ2QW5WR0ZoRnJGTEdZWl94b285VjBtdFRtOWJlUWRTd0ZTVzBHYk9teHNPbXZ2VDB4V3FaeTlvWW9IQmNzY2xaQVBTZklXMEJ1LV93Sg?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-06 15:26",
-      "published_iso": "2026-10-06T06:26:46+00:00",
       "age": "20시간 전"
     },
     {
@@ -229,7 +209,7 @@
       "source": "매일경제",
       "published": "10-06 15:10",
       "published_iso": "2026-10-06T06:10:14+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "TSLA",
@@ -239,17 +219,7 @@
       "source": "코인리더스",
       "published": "10-06 14:50",
       "published_iso": "2026-10-06T05:50:00+00:00",
-      "age": "21시간 전"
-    },
-    {
-      "ticker": "005930",
-      "name": "삼성전자",
-      "title": "CSOP Samsung Electronics Daily (2x) Leveraged Product (7747.HK) 오늘의 주식 시세, 차트 & 뉴스 - CoinGecko",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUTFPaUdxZnAxajVfTHVRdnV3NkJKeFV0VzQ5MTlVLXdidHBSbl9saG1lclVYX2tkOVdMZE92eEZzNHpXTm9aVzFNQW8ySG1LdjB2b3VLdU1nTUJCYUR3Z1h4NHdGeG9ibE9ZZW02UGN1X2JQSDI3Wnd2U28yZU9LdWUzaVBRd2pNbWs4M0JB?oc=5",
-      "source": "CoinGecko",
-      "published": "10-06 14:25",
-      "published_iso": "2026-10-06T05:25:54+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "379800",
@@ -259,7 +229,7 @@
       "source": "디지털데일리",
       "published": "10-06 14:16",
       "published_iso": "2026-10-06T05:16:36+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "000660",
@@ -269,7 +239,7 @@
       "source": "Investing.com 한국어",
       "published": "10-06 14:02",
       "published_iso": "2026-10-06T05:02:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "005930",
@@ -279,7 +249,7 @@
       "source": "Investing.com 한국어",
       "published": "10-06 14:01",
       "published_iso": "2026-10-06T05:01:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "379780",
@@ -289,7 +259,7 @@
       "source": "매일신문",
       "published": "10-06 12:24",
       "published_iso": "2026-10-06T03:24:08+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "0072R0",
@@ -312,6 +282,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "엔비디아(NVDA.N) 사상 최대 자사주 매입..주가 '고공 행진' - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MNFdTUU5xekx5WF92TWJRSFBobk1CRFNEdzM5elVPTmVyd1dKT2J2WklOWmlIRXM2aVNsWllfU2pid2ppWGt4amR2U1lLYUNlSlJLSmdwN1BZdEtGYk1iNlg0ajR1b0Q3eHhGbG9B?oc=5",
+      "source": "알파경제",
+      "published": "10-06 08:29",
+      "published_iso": "2026-10-05T23:29:34+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "뚝뚝 떨어지는 금값…한달여새 12% 급락 - 대한경제",
@@ -329,6 +309,16 @@
       "source": "TIKR.com",
       "published": "10-06 04:07",
       "published_iso": "2026-10-05T19:07:30+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "title": "엔비디아(Nvidia)와 테슬라(Tesla)를 포함한 60개 이상의 미국 주식이 온체인으로 전환됩니다. 작동 원리를 살펴보겠습니다 - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUw2YnhyWWY3eWVCN1c5SWhQMzBoRXg2SzdOQ285eXhHYzhSRFVncHNtdW42RW9FX3dFMkEwOHpnQ1o0STRsU0FoajlFOVc5Y1JiNjlEM0hVQmVteWdFZThKNllGR3g3WnBCNldDcmlQYzVvbWxtS1BVbzB1cEFLUDA5MVZKRGh6VUhLc1JYM21aZnNOR1RCdHhQaTR1MEpYSUhUbU5ORnFHaHpUZXFyNVVUZHJaMjlLOFo4aU9VVEdram5oLU9VOU9abDk1emxUbnc?oc=5",
+      "source": "CoinDesk",
+      "published": "10-06 02:49",
+      "published_iso": "2026-10-05T17:49:18+00:00",
       "age": "1일 전"
     },
     {
@@ -379,6 +369,16 @@
       "source": "경향신문",
       "published": "10-05 14:48",
       "published_iso": "2026-10-05T05:48:00+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "PC 세상의 지배자가 스스로 만든 '강적'… 인텔·AMD의 '질긴 인연' - 한국일보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpZmdFQlNPTGwtNnlETmx2LTlxVFZET244a09GWDFZVVNmX0ZDUzF6LXdWNlVxZVc3OHlfV0tFRGprbmdPRGg3a1BTcjFSSGc3a1gtQlg2dmdySGFHdlRmeUxwaWFsdFVWNU4xMzln0gFzQVVfeXFMTkhhZ2FqbzRXVDdMSm9nZVRySXBGbEJSd3pzRHJWb2h1cUpocF9jcDlUQWNBcFdDR2NOblRRb3BlLTBMeE81LTNwcUh6dmJEWVY4TTI5Q09jb3lDUG1JUDJjbUh6QXQ0OXBvWGNCMElVQmZhUQ?oc=5",
+      "source": "한국일보",
+      "published": "10-05 14:00",
+      "published_iso": "2026-10-05T05:00:00+00:00",
       "age": "1일 전"
     },
     {
@@ -455,7 +455,7 @@
       "ticker": "SCHD",
       "name": "Schwab U.S. Dividend Equity ETF",
       "title": "\"미국 주식은 무조건 오른다고 해서 샀더니\"…AI·고금리 불안에 주목할 '이 ETF'[주末머니] - Daum",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QX2t6S3oxWkFXcHpybEg0VUltZUtJWS02di1PNkJPSHJMTk5oRWNXcVBDeVNQdDhGNWhudWJZaVNQMzFaSFlQNE9KNVlzOFhHZW1hdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4MW9hSG9DY0w0TWI5blV0MmZyWlhEdk5aYTUyY25ySkRId3dPekRFblB6dHdPdkd4MVBWT01xblk5VTR4WEE?oc=5",
       "source": "Daum",
       "published": "10-04 18:20",
       "published_iso": "2026-10-04T09:20:57+00:00",
@@ -544,11 +544,11 @@
     {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
-      "title": "[월간 ETF워치]레버리지 팔고 미국으로…개미, S&P500 담았다 - 비즈워치",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12YzR6OHo0bG9uQkNPY0VtQXNaZWYxeDRYZUVIOWxNT1RsT0tlMjZrSHA2clZFYlVpSF9GNXptanpSQVhpc1ZTZ01qYTZvOWpvRmhLOFc3Z1E5X1ZBbG9WQV9Hb1Q1eHV2Ymc?oc=5",
-      "source": "비즈워치",
-      "published": "10-03 09:00",
-      "published_iso": "2026-10-03T00:00:03+00:00",
+      "title": "[월간 ETF워치]레버리지 팔고 미국으로…개미, S&P500 담았다 - Daum",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kOWpLNEpMeVJ5LXUyRFlLdXZsN2dDV2o3bk44ODlBaWk4V2RqZEJ0cHk3R0MtNWZ5V0FBRmtES1BXZFVHdzRsbXZwNV96aFVjRXFwSg?oc=5",
+      "source": "Daum",
+      "published": "10-03 09:01",
+      "published_iso": "2026-10-03T00:01:19+00:00",
       "age": "4일 전"
     },
     {
@@ -629,6 +629,16 @@
       "source": "TradingKey",
       "published": "10-03 01:16",
       "published_iso": "2026-10-02T16:16:10+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "기능이 잠겨 보일 때 읽는 강원 랜드 블랙 잭 베스트 온라인 카지노 조건 안내 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rVVcycXVDVVRXbnpKbEszR1lDd004RFg1Y0tQVzFWT1dEX0ZVM1l0UV9JZDZaN0s5cWZqYjhxRFlJMWxPaTZrTXNTWG41MGF5SF9icmthc05UMVBEcTlXQ2ZYeXZOd1U?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-03 01:03",
+      "published_iso": "2026-10-02T16:03:42+00:00",
       "age": "4일 전"
     },
     {
@@ -740,16 +750,6 @@
       "published": "10-02 13:37",
       "published_iso": "2026-10-02T04:37:15+00:00",
       "age": "4일 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "홍춘봉 기자의 카지노 이야기 플레이 중 열 수 있는 정보 창 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJbWtfalBSODdZbmdobFBTa291Z3RWZC1EdGxjcUE0V0N1QkFmVFdMTnptNnA1YmJBVEc5UTJ3ay03a0FnN0dUREtSOVZiYVk3OTBGcTFVSU5oRWZ1TWRidGMyYjBlUWk1V010LVRsbzJKVkowUDJn?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-02 09:04",
-      "published_iso": "2026-10-02T00:04:51+00:00",
-      "age": "5일 전"
     },
     {
       "ticker": "AVGO",
@@ -922,6 +922,16 @@
       "age": "6일 전"
     },
     {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "Hana Securities, Samsung Electronics’ Memory Cycle Offers Further Earnings Upside - 한국면세뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94akpyWVg2R3IxeUQtMko0RzFtd3AxbmRaejF3TEJ1V0RYd2RfSm1UeVVUVjlMb2h2WkU4eGt1d29tQXk1UklhY1V0eXF2VHp0YXdSbzBkbWZYd1pqaDltOUJ0cVRVOUZidkE?oc=5",
+      "source": "한국면세뉴스",
+      "published": "10-01 09:30",
+      "published_iso": "2026-10-01T00:30:54+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "000660",
       "name": "SK하이닉스",
       "title": "SK하이닉스 주가 전망: 300만원 대 100만원 시나리오 - FinanceFeeds",
@@ -969,16 +979,6 @@
       "source": "Investing.com 한국어",
       "published": "09-30 20:01",
       "published_iso": "2026-09-30T11:01:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "엔비디아(NVDA) 주가 전망 2026 하반기: 평균 목표가 326달러, 52주 신고가 부근의 선택 - Mitrade",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNEpBRExFbHJicmhHMjdfMGlaVmNpU0gwVThIYkFjZFhIMFYxd29VQzBLQlNyYjhyWVJkNWh1MVZxai0tR3pRcDZleVVQSlpiSGF0TEFzaURJaS1nQ3lyVWlVdHBuN1VMc0xLVnpPYTlGcnMyaHdDd0I3aTNzSWh0YjhBOW9iQQ?oc=5",
-      "source": "Mitrade",
-      "published": "09-30 18:06",
-      "published_iso": "2026-09-30T09:06:48+00:00",
       "age": "6일 전"
     },
     {
