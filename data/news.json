@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 04:24 KST",
+  "updated_at": "2026-10-08 05:24 KST",
   "items": [
     {
       "ticker": "SNDK",
@@ -9,7 +9,7 @@
       "source": "TradingKey",
       "published": "10-08 00:16",
       "published_iso": "2026-10-07T15:16:17+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "GEV",
@@ -19,7 +19,7 @@
       "source": "Investing.com 한국어",
       "published": "10-07 23:25",
       "published_iso": "2026-10-07T14:25:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "CAT",
@@ -29,7 +29,17 @@
       "source": "TradingKey",
       "published": "10-07 22:48",
       "published_iso": "2026-10-07T13:48:12+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
+    },
+    {
+      "ticker": "QQQM",
+      "name": "Invesco NASDAQ 100 ETF",
+      "title": "숫자가 올라가는 연출과 최종 표시, eos 파워볼 사이트 화면 해설 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXlYUHZmcVF1dUVWTWhlT1lYUWN4d1NUSy1kUG05emliTjhCR2ZoVHVTWEhGblNhYjFPa0ltNHFieVVwazhBaDRheFlvNkt5ZFI4cFAwSW5qMmw2WXpoVjIybEhjLUY0RS1kN2pEZlMwZkNtR1lwVWxsbkFlb0c3QWxFc3QzMHpvUXlNV0hXYWx1QUV4eG5kVVM4dXhlRWpUYmdGckxMZDlHbEd2eFRlQ3g2d2xSUW5y?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-07 20:44",
+      "published_iso": "2026-10-07T11:44:58+00:00",
+      "age": "8시간 전"
     },
     {
       "ticker": "000660",
@@ -39,7 +49,7 @@
       "source": "포쓰저널",
       "published": "10-07 20:37",
       "published_iso": "2026-10-07T11:37:59+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "0072R0",
@@ -49,7 +59,7 @@
       "source": "서울경제",
       "published": "10-07 20:24",
       "published_iso": "2026-10-07T11:24:28+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "379780",
@@ -59,17 +69,7 @@
       "source": "서울경제",
       "published": "10-07 20:21",
       "published_iso": "2026-10-07T11:21:40+00:00",
-      "age": "8시간 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "GOOGL|Alphabet Inc Class A|가격:345.820|Chg%:-1.860 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OVMxWGwxYl81M0J0S0c5bjBaOUpzalIxSXV1MXNsSHV5Mnh0Z1lldUNrVFFONFZkc1EybzAxT05XRzJ3RndOOUFQdjJfRjFzMWVUNDV6QlVySWhTYW5r?oc=5",
-      "source": "TradingKey",
-      "published": "10-07 19:25",
-      "published_iso": "2026-10-07T10:25:55+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "COST",
@@ -79,7 +79,7 @@
       "source": "데이터투자",
       "published": "10-07 19:12",
       "published_iso": "2026-10-07T10:12:08+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "458730",
@@ -89,7 +89,7 @@
       "source": "인더스트리뉴스",
       "published": "10-07 18:26",
       "published_iso": "2026-10-07T09:26:02+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "JEPQ",
@@ -99,7 +99,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-07 17:59",
       "published_iso": "2026-10-07T08:59:20+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "379780",
@@ -109,7 +109,7 @@
       "source": "초이스경제",
       "published": "10-07 16:10",
       "published_iso": "2026-10-07T07:10:21+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "489250",
@@ -119,7 +119,7 @@
       "source": "초이스경제",
       "published": "10-07 16:10",
       "published_iso": "2026-10-07T07:10:21+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "458730",
@@ -129,7 +129,7 @@
       "source": "매일일보",
       "published": "10-07 15:33",
       "published_iso": "2026-10-07T06:33:15+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "487230",
@@ -139,7 +139,7 @@
       "source": "한스경제",
       "published": "10-07 14:21",
       "published_iso": "2026-10-07T05:21:26+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "NVDA",
@@ -149,7 +149,7 @@
       "source": "코인리더스",
       "published": "10-07 12:10",
       "published_iso": "2026-10-07T03:10:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "458730",
@@ -159,7 +159,7 @@
       "source": "인포스탁데일리",
       "published": "10-07 11:28",
       "published_iso": "2026-10-07T02:28:32+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "JEPQ",
@@ -169,7 +169,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-07 10:23",
       "published_iso": "2026-10-07T01:23:58+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "005930",
@@ -179,17 +179,17 @@
       "source": "Investing.com 한국어",
       "published": "10-07 10:02",
       "published_iso": "2026-10-07T01:02:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
-      "title": "미래에셋 \"美타겟데일리커버드콜 3종, 올해 개인 1조 넘게 매수\" - Daum",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4td2pSeDZYYWVVTnY1d3Nzd3U4MHdaa3FscUItU2JwYkl0V1pmZm5fbVZnSGFYSnRfVzctT01kUXR2bkR5bWxWRW54Yi0wN3c?oc=5",
-      "source": "Daum",
-      "published": "10-07 09:55",
-      "published_iso": "2026-10-07T00:55:24+00:00",
-      "age": "18시간 전"
+      "title": "미래에셋 \"美타겟데일리커버드콜 3종, 올해 개인 1조 넘게 매수\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LbDIwcVRGY3JXa1dNektYOTIzTUx1ZHhsVXk2WUNFb0xyWHBfaHpoQnBkazE4Y0dCZ3drTkQyamJ3YjFNWHlJLTJKN25XaEkxQ3FkS3BEdFdtT2_SAWBBVV95cUxNM3k0UXdZWWJmZ3JMUXhNb1hxWUZVMi1LLXEyRzc1RExzOW9uQ2hsR2hCcXp3OUpNREhRWjRWaERBV3hzM0tTVXlFd3ZDZkZYU2p4YU1MV2taSk14RENGUFI?oc=5",
+      "source": "연합뉴스",
+      "published": "10-07 09:52",
+      "published_iso": "2026-10-07T00:52:50+00:00",
+      "age": "19시간 전"
     },
     {
       "ticker": "005380",
@@ -199,7 +199,7 @@
       "source": "경향신문",
       "published": "10-07 09:44",
       "published_iso": "2026-10-07T00:44:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "SCHD",
@@ -209,7 +209,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-07 09:08",
       "published_iso": "2026-10-07T00:08:39+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "VOO",
@@ -219,7 +219,7 @@
       "source": "이데일리TV",
       "published": "10-07 08:40",
       "published_iso": "2026-10-06T23:40:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "TSLA",
@@ -229,7 +229,7 @@
       "source": "알파경제",
       "published": "10-07 07:56",
       "published_iso": "2026-10-06T22:56:27+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "VOO",
@@ -239,7 +239,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-07 06:49",
       "published_iso": "2026-10-06T21:49:03+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "005380",
@@ -249,7 +249,7 @@
       "source": "알파경제",
       "published": "10-07 06:00",
       "published_iso": "2026-10-06T21:00:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "487230",
@@ -259,7 +259,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-07 05:50",
       "published_iso": "2026-10-06T20:50:39+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "AMD",
@@ -364,9 +364,9 @@
     {
       "ticker": "487230",
       "name": "KODEX 미국AI전력핵심인프라",
-      "title": "\"AI 병목 구간은 메모리\"… 삼전닉스 담는 새 글로벌ETF - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE50Q0ZhVlVpQUhlU1cyUzdPZUpXcXlnMjR5WjJxVmVYN21DTWxmSXd3TmEwNXhvQ1dVVlg0bTR6cmszUllNemc?oc=5",
-      "source": "매일경제",
+      "title": "\"AI 병목 구간은 메모리\"… 삼전닉스 담는 새 글로벌ETF - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xdk1qVktGb2VMUHkySFNUQ01qRE16d1liNFhWcC04SXhRWXlDQ21aaHluMFY4cEhtdlpHY09IcjVQM0EtbzdhY2NLRy1vbGpBVnc?oc=5",
+      "source": "매일경제 마켓",
       "published": "10-06 17:29",
       "published_iso": "2026-10-06T08:29:59+00:00",
       "age": "1일 전"
@@ -435,7 +435,7 @@
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
       "title": "“국내 ETF 500조 돌파”…개미 투자자 ‘美S&P500’에 몰렸다 - 디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzdGNmMXQzNnNEVWtsTE9HSVFsdU9oeXJ3Njh5UTFsV3RRQ2NiZkpXTGtxN29SSE1EQm5TWFVLM2FBbTFUVEtZb0w1Z3J3cktxcUpQVk14TmJ2dUdOdHJwTWRHckY?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BQ0ZDZE5zbkRKNlpNTDZtYUFPaC1HNFJYSEgwODZaYTV2RzNrOExpd29zNGxBZEJlZ3NjejREaFJldWZlY0tlWXVlZjB5aXZlOXdJbTdVbFR1aUJ6dWtLSW9B?oc=5",
       "source": "디지털데일리",
       "published": "10-06 14:16",
       "published_iso": "2026-10-06T05:16:36+00:00",
@@ -549,6 +549,16 @@
       "source": "LiteFinance",
       "published": "10-05 09:25",
       "published_iso": "2026-10-05T00:25:46+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "주간 전망: ECB 금리 결정 임박; 알파벳(GOOGL), 테슬라(TSLA), 인텔(INTC) 실적 발표; 글로벌 PMI 예비치 발표 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMDhobDJ3Um1yVHIyVzl5TEYyTnR2X25wdFVmR3RJQ0xkOXZLUjZEbWRLMlNOeEZSSEV6aXNnQzdkWEhrX01WQl9SX2tYQmR5SFZKZlJLR1V6QlNaVERybUd6U09GRTdhek9KOGJjdVRJXzkwWllCZHlJMDA4Z0FTdzRJVzNadFRCWTA3YXctajFqMm9uMlhBaGpubDBsVDN2TXVYVkdPcXRBMDM5RS0wSWZFdUMxTUVFcHZNcWM0bVNVNDQyb1pMa1NvV0x0RVZs?oc=5",
+      "source": "TradingKey",
+      "published": "10-05 07:31",
+      "published_iso": "2026-10-04T22:31:43+00:00",
       "age": "2일 전"
     },
     {
@@ -989,16 +999,6 @@
       "source": "매일경제 마켓",
       "published": "10-01 10:07",
       "published_iso": "2026-10-01T01:07:34+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "샌디스크(SNDK) 주가가 현금흐름 가치보다 높게 책정된 것으로 보인다 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbDVKal9hQkZfTlIwSFQxTS1IeFgzM3ZWYm9MVnZwTzJTUjg0cUhObzBrVEhBa3Y4SkVZZExxSE1wRmdRTHZMNUxlbXBPeUJtWDVVMEFpLWFhNWlNYlplb0pzZ0VyeDUxcHNPcVJzV3hyUDM5U0NZdEpfV3V1QnF4NFhQV29YVXJs0gGOAUFVX3lxTE5Pa3JOYTdzQWxqNEVDaHlGNzNZaEZpa0ZIMlVrWTZ4ZEJhTEc5NER6X2E4d3hWbWcwbUVzNVgtb2hWTDhXbkFBYUc4RDcyX1Vqc3I1c3djdUVyUTR0Mmx2bFp5NXBUdUpVUnBpZXBEdjE0RkY2bGpCeG92R2NReExsRVpueGVxU1NyTTYyWWc?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-01 09:53",
-      "published_iso": "2026-10-01T00:53:33+00:00",
       "age": "6일 전"
     }
   ]
