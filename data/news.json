@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-10-07 17:26 KST",
+  "updated_at": "2026-10-07 18:24 KST",
   "items": [
-    {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "미래에셋자산운용, 미국 커버드콜 ETF 개인 순매수 1조 돌파...의미는? - 초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95ZVFoM2lPRXJXMzYtbHJDdV9nWlhNSnhJN0JvZFJONF8yeEJfRVdFVFJaUjQxRC1aN3gyZElFSGtrempxY2JBSVJDU0lHSzR3QmFlYWtzZEYxTzdGMmhBalNTZTRaempteDBrbnQ2TmFCaHPSAXNBVV95cUxPeWVRaDNpT0VyVzM2LWxyQ3VfZ1pYTUp4STdCb2RSTjRfMnhCX0VXRVRSWlI0MUQtWjd4MmRJRUhra3pqcWNiQUlSQ1NJR0s0d0JhZWFrc2RGMU83RjJoQWpTU2U0WnpqbXgwa250Nk5hQmhz?oc=5",
-      "source": "초이스경제",
-      "published": "10-07 16:10",
-      "published_iso": "2026-10-07T07:10:21+00:00",
-      "age": "1시간 전"
-    },
     {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
@@ -19,7 +9,17 @@
       "source": "초이스경제",
       "published": "10-07 15:38",
       "published_iso": "2026-10-07T06:38:32+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
+    },
+    {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "미래에셋자산운용, 미국 커버드콜 ETF 개인 순매수 1조 돌파...의미는? - 초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MQkdYSnNwZ2Q4Mnp2QmY5RjdTWUVZTVJiUmNfQ0V3Nm5WVUM3Y2hoTFJ0SXJMdDhJeGJTc2dPTmpRLTFkcDQtVl9mV2tjaDlHejNRX0tNVDRNYUdNR2NTbGZGNGJ1bWw5ZTh0TkU2RlfSAXNBVV95cUxPeWVRaDNpT0VyVzM2LWxyQ3VfZ1pYTUp4STdCb2RSTjRfMnhCX0VXRVRSWlI0MUQtWjd4MmRJRUhra3pqcWNiQUlSQ1NJR0s0d0JhZWFrc2RGMU83RjJoQWpTU2U0WnpqbXgwa250Nk5hQmhz?oc=5",
+      "source": "초이스경제",
+      "published": "10-07 15:38",
+      "published_iso": "2026-10-07T06:38:32+00:00",
+      "age": "2시간 전"
     },
     {
       "ticker": "458730",
@@ -29,7 +29,7 @@
       "source": "매일일보",
       "published": "10-07 15:33",
       "published_iso": "2026-10-07T06:33:15+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "487230",
@@ -39,7 +39,7 @@
       "source": "한스경제",
       "published": "10-07 14:21",
       "published_iso": "2026-10-07T05:21:26+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "NVDA",
@@ -49,7 +49,7 @@
       "source": "코인리더스",
       "published": "10-07 12:10",
       "published_iso": "2026-10-07T03:10:00+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "458730",
@@ -59,7 +59,7 @@
       "source": "레디앙",
       "published": "10-07 12:04",
       "published_iso": "2026-10-07T03:04:36+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "458730",
@@ -69,7 +69,7 @@
       "source": "인포스탁데일리",
       "published": "10-07 11:28",
       "published_iso": "2026-10-07T02:28:32+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "JEPQ",
@@ -79,7 +79,17 @@
       "source": "Calgary Roughnecks",
       "published": "10-07 10:23",
       "published_iso": "2026-10-07T01:23:58+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "삼성전자 ₩279,000, 방향성 실종 박스권: 매시간 업데이트 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qdlM5V0RhWTQ0Q2I5UGk0RDc5Z3hZbEZGeHNBZ1NBSXpLSDRVZlhZQWhMR20wRFBDQ1BmeVhWeFF3UEUwODZ5U1dxVzg5ZHJyLVNTN1pqWWVZMmNFZEZyY21MM2dFSTVhWXRadDI1OWNULWlQUVdz?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-07 10:02",
+      "published_iso": "2026-10-07T01:02:00+00:00",
+      "age": "8시간 전"
     },
     {
       "ticker": "458730",
@@ -89,7 +99,7 @@
       "source": "Daum",
       "published": "10-07 09:55",
       "published_iso": "2026-10-07T00:55:24+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "TSLA",
@@ -99,7 +109,17 @@
       "source": "Investing.com 한국어",
       "published": "10-07 09:45",
       "published_iso": "2026-10-07T00:45:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
+    },
+    {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "자극적인 연출과 별개로 읽는 월드컵 토토 하는법 결과 수치 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQdHQ5VUU5OFk0ZjN6Uk5vOFg1LTU3eDdwa0QzWTU5YVhOZlRVR3ZKU0x4Ry1rME42a0JmWkRwY0ExX3NlZjZhQXJwOEJDU0YzN1hZQ2tJTDhhUFduQ1owV0k3S0JDWUx2alRvWndUcnFSUmRId296WlpZZUdiM1hWbGVfQllwdGNOekNBS3A1emxxYUtsRzEtS3BYeTREU2I1U3NjNHpGYlRfcWt5NW82aTdmNFZlMEpEM0dFM2ZQVXpVdkItWmFDZ01XU3dMY01Xc0xNTHNmS2VUblpiZ254RzNIUzNoRUlaNFNLWGVoOXZNQ1Z4WlhHUEdBSUd4T1UyQndWRENmc0ZBd0ltZlJNaGhZYUQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-07 06:49",
+      "published_iso": "2026-10-06T21:49:03+00:00",
+      "age": "11시간 전"
     },
     {
       "ticker": "AMD",
@@ -109,7 +129,7 @@
       "source": "매일경제",
       "published": "10-07 06:15",
       "published_iso": "2026-10-06T21:15:07+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "005930",
@@ -119,7 +139,7 @@
       "source": "알파경제",
       "published": "10-07 06:00",
       "published_iso": "2026-10-06T21:00:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "005380",
@@ -129,7 +149,17 @@
       "source": "알파경제",
       "published": "10-07 06:00",
       "published_iso": "2026-10-06T21:00:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
+    },
+    {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "게임 중 회전 잠금이 필요한지 보는 슬롯 릴렉스 모바일 정보 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ncEE0RV9OeEhxQ2dEX0wxZnpUSFQ0UEJWRjB2Q01VZU9pZDhGVFYyem9Sb3dWQmxzTTlWRXNOUTdPVnhic0pYeUM2ZmhEWUxFX2ZuQW5PVlNXNDE0N296STNWOERSNktBd283aHV1WjJWVHlZWnJ6Rw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-07 05:50",
+      "published_iso": "2026-10-06T20:50:39+00:00",
+      "age": "12시간 전"
     },
     {
       "ticker": "AMD",
@@ -139,7 +169,7 @@
       "source": "한국경제",
       "published": "10-07 04:05",
       "published_iso": "2026-10-06T19:05:10+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "QQQM",
@@ -149,7 +179,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-07 03:38",
       "published_iso": "2026-10-06T18:38:28+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "0072R0",
@@ -159,7 +189,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-07 03:04",
       "published_iso": "2026-10-06T18:04:52+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "GOOG",
@@ -179,7 +209,7 @@
       "source": "TradingKey",
       "published": "10-07 00:16",
       "published_iso": "2026-10-06T15:16:20+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "ZETA",
@@ -189,7 +219,7 @@
       "source": "Investing.com 한국어",
       "published": "10-06 23:27",
       "published_iso": "2026-10-06T14:27:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "AVGO",
@@ -199,7 +229,7 @@
       "source": "TradingKey",
       "published": "10-06 23:15",
       "published_iso": "2026-10-06T14:15:58+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "GEV",
@@ -209,7 +239,7 @@
       "source": "TradingKey",
       "published": "10-06 22:48",
       "published_iso": "2026-10-06T13:48:37+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "TSLA",
@@ -219,17 +249,17 @@
       "source": "Simply Wall Street",
       "published": "10-06 18:04",
       "published_iso": "2026-10-06T09:04:04+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "487230",
       "name": "KODEX 미국AI전력핵심인프라",
-      "title": "\"AI 병목 구간은 메모리\"… 삼전닉스 담는 새 글로벌ETF - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xdk1qVktGb2VMUHkySFNUQ01qRE16d1liNFhWcC04SXhRWXlDQ21aaHluMFY4cEhtdlpHY09IcjVQM0EtbzdhY2NLRy1vbGpBVnc?oc=5",
-      "source": "매일경제 마켓",
+      "title": "\"AI 병목 구간은 메모리\"… 삼전닉스 담는 새 글로벌ETF - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE50Q0ZhVlVpQUhlU1cyUzdPZUpXcXlnMjR5WjJxVmVYN21DTWxmSXd3TmEwNXhvQ1dVVlg0bTR6cmszUllNemc?oc=5",
+      "source": "매일경제",
       "published": "10-06 17:29",
       "published_iso": "2026-10-06T08:29:59+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "379780",
@@ -279,16 +309,6 @@
       "source": "더밸류뉴스",
       "published": "10-06 16:31",
       "published_iso": "2026-10-06T07:31:18+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "같은 심벌이 연속으로 나와야 하나요? 미성년자 토토 처벌 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPd1BJcnZ6T3A4OTZuSjM4amdzcDA5MnJ6ekxEMnZ0eW1QeF9xaEtrOWtRaEpYY2FWRGNodWYtOVFnTFZ4c1Z2NTFqbkp0Qll3ZVh4NnNsc3ZIa0hqX3FSTGhBNmVkS1VOR2pGNUdMTHNQMDVfazdHU0RlYnJXYllVekc0VkZMbUctc05vY0JJbkRiSXAxSzNwM0FQcjBaMkxSeXJfVHNPSXRmVVIyMWxKdXhvMkswdWZ2QW5WR0ZoRnJGTEdZWl94b285VjBtdFRtOWJlUWRTd0ZTVzBHYk9teHNPbXZ2VDB4V3FaeTlvWW9IQmNzY2xaQVBTZklXMEJ1LV93Sg?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-06 15:26",
-      "published_iso": "2026-10-06T06:26:46+00:00",
       "age": "1일 전"
     },
     {
@@ -342,26 +362,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "005930",
-      "name": "삼성전자",
-      "title": "삼성전자, 박스권 중간선 ₩270,250 도달: 매시간 업데이트 By Investing.com - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qdlM5V0RhWTQ0Q2I5UGk0RDc5Z3hZbEZGeHNBZ1NBSXpLSDRVZlhZQWhMR20wRFBDQ1BmeVhWeFF3UEUwODZ5U1dxVzg5ZHJyLVNTN1pqWWVZMmNFZEZyY21MM2dFSTVhWXRadDI1OWNULWlQUVdz?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-06 14:01",
-      "published_iso": "2026-10-06T05:01:00+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "현대자동차그룹, 익스플로라토리움과 체험형 과학 전시 Have Fun with Science 개최 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWHhLVU9WcWpjcXlSS0FiZlRjeTJNZ3Nac09tYVpfWmowVkM4UzMtdVBhWVZTVFE5cG1STnk1S092QXB6OGI4dVhkbmlCcHlWcTk1cmFlRXFWZl8wa3FPZ1JKZFE2Y1dndTc4dlV2Vnlwend4N2UwUTNMN2pQYndsV2hCYWU2QWdfZTFhb2F1QVNOX2RhUEpnWmdQNHo2dw?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-06 13:00",
-      "published_iso": "2026-10-06T04:00:00+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
       "title": "[단독] 한솔케미칼, TSMC 코앞에 반도체 핵심 소재 기지 구축…대만 정부 340억원 투자 승인 By The Guru - Investing.com 한국어",
@@ -405,7 +405,7 @@
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "뚝뚝 떨어지는 금값…한달여새 12% 급락 - 대한경제",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBraDZEeVBOcEl1UWxxQ0lUbHhHQ3VZdlNvbjFfWDl0Ym93dDZZM2h4S0tjVXdybjZldW9oR0xGX19fbWZQYlcyQjE2WTFQSWpOa213OFpDYVhPRTg3dDNMZFg5ZlN3eFhaclZuM25yalR5NmlR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR0tmUU44LW53c3QzNGYzRmhZMEtvamdQUEV0UE9qdjM0VGZRZVhtWnVPZV9CQ19RdEVJdVpHdEE4T2dTYzZRV0V6Q05DN0dZNTdPdktkUGFQc1dpcEpaN0dmTnBpZDA3d0hTNU84ckRvOWxmR1I3QlQ3c3dRZVZJdk80RE1iUQ?oc=5",
       "source": "대한경제",
       "published": "10-06 06:20",
       "published_iso": "2026-10-05T21:20:29+00:00",
@@ -529,7 +529,7 @@
       "source": "Daum",
       "published": "10-04 18:20",
       "published_iso": "2026-10-04T09:20:57+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "489250",
@@ -539,7 +539,7 @@
       "source": "아시아경제",
       "published": "10-04 18:19",
       "published_iso": "2026-10-04T09:19:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "COST",
@@ -579,6 +579,16 @@
       "source": "VALORANT Esports | Schedule",
       "published": "10-04 01:17",
       "published_iso": "2026-10-03T16:17:35+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "SK하이닉스(KOSE:A000660), AI 생태계 투자 맡을 SK하이닉스 벤처스 출범 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMW5WdF9zTVlTMzk3VkJwVXZTNXZhcW9HZERTNWZqU01TRWVueThzZ1BTa1BwM1dValBydjROS1F6S2U5SEpEUk5nX2c4TURZV21rSmI4akdaZlJSeEtXVmUzSDlYeGV4UWkwWmhuZDVZVEM1aDZ5QVEtaUc2RUY4bHAxaENvb0ZSWGE4NlEwcWpsc0VMVkNaOWJjU3UtdmVreENPYnF0Z9IBpwFBVV95cUxNMW5WdF9zTVlTMzk3VkJwVXZTNXZhcW9HZERTNWZqU01TRWVueThzZ1BTa1BwM1dValBydjROS1F6S2U5SEpEUk5nX2c4TURZV21rSmI4akdaZlJSeEtXVmUzSDlYeGV4UWkwWmhuZDVZVEM1aDZ5QVEtaUc2RUY4bHAxaENvb0ZSWGE4NlEwcWpsc0VMVkNaOWJjU3UtdmVreENPYnF0Zw?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-03 19:46",
+      "published_iso": "2026-10-03T10:46:57+00:00",
       "age": "3일 전"
     },
     {
@@ -655,20 +665,10 @@
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
       "title": "배당금 및 원자로 허가 문제로 인해 GE Vernova(GEV) 투자자들이 조치를 취해야 할까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3dycTlOMzFTX1lfU2t4dGVleVl3TjhYb3pxY3RZdkllNGpZaDVjamdKeWt6SnhFRmZPWTFRMkk5eXJ0VF9MdnJ6R3I0R3o3MHIydV9WS1d3ZlVvV2ZiekFTb0tDdlVyYl9YOFk5enJCenA5bG5Kd0xoenk3M045T3kwcm8zNXg5R1o0Y2ExZ3VTandN0gGaAUFVX3lxTE1FZzE1RGdiZG1LME04X1hHa0tKMnlGZlF0bE5YVDlTcmxsZ3BjeUl2YkZqS2o1MG96RjZHVTVGQVNvTVBiemJtVkZfd0oyS3p0LUdYNnoydmROa0pWRjA2QnlESUhaWjBLWVByRjQ0VXVkamlVM1V1a0stVHF1Z0hyam9sVGFfdTVBVDdKa3dBSUZCNUt1THRVRkE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWcxNURnYmRtSzBNOF9YR2tLSjJ5RmZRdGxOWFQ5U3JsbGdwY3lJdmJGaktqNTBvekY2R1U1RkFTb01QYnpibVZGX3dKMkt6dC1HWDZ6MnZkTmtKVkYwNkJ5RElIWlowS1lQckY0NFV1ZGppVTNVdWtLLVRxdWdIcmpvbFRhX3U1QVQ3Smt3QUlGQjVLdUx0VUZB0gGaAUFVX3lxTE1FZzE1RGdiZG1LME04X1hHa0tKMnlGZlF0bE5YVDlTcmxsZ3BjeUl2YkZqS2o1MG96RjZHVTVGQVNvTVBiemJtVkZfd0oyS3p0LUdYNnoydmROa0pWRjA2QnlESUhaWjBLWVByRjQ0VXVkamlVM1V1a0stVHF1Z0hyam9sVGFfdTVBVDdKa3dBSUZCNUt1THRVRkE?oc=5",
       "source": "Simply Wall Street",
       "published": "10-03 06:07",
-      "published_iso": "2026-10-02T21:07:04+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "자동 진행을 멈추는 경로, 토토로 산책 조작 안내 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWlZsMUJQaGJaU29KeUJ1Q3dlQ2VwXzlEVHVrSkNPTmNNU1JHTlJKUGJiRkFnYVJ0WUdQTzJubW11ZUw2ckEydWNaVzJPWmtocDZ3d2djNzVrUnBwV2dDR29heUxrZjQwT0NOcGtDYld1X25tdjlxNDNaR1A1VnJJdC1mSnA5bHEwTi1jdTI5ci1Na3hMQ1BUTTVqQTdNaldpTnNkZ1RfUHlkU21CQWdNdg?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-03 06:05",
-      "published_iso": "2026-10-02T21:05:58+00:00",
+      "published_iso": "2026-10-02T21:07:06+00:00",
       "age": "4일 전"
     },
     {
@@ -699,6 +699,16 @@
       "source": "TradingKey",
       "published": "10-03 01:16",
       "published_iso": "2026-10-02T16:16:10+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "기능이 잠겨 보일 때 읽는 강원 랜드 블랙 잭 베스트 온라인 카지노 조건 안내 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rVVcycXVDVVRXbnpKbEszR1lDd004RFg1Y0tQVzFWT1dEX0ZVM1l0UV9JZDZaN0s5cWZqYjhxRFlJMWxPaTZrTXNTWG41MGF5SF9icmthc05UMVBEcTlXQ2ZYeXZOd1U?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-03 01:03",
+      "published_iso": "2026-10-02T16:03:42+00:00",
       "age": "4일 전"
     },
     {
@@ -759,16 +769,6 @@
       "source": "서울경제",
       "published": "10-02 17:55",
       "published_iso": "2026-10-02T08:55:55+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "SK하이닉스 뚫은 씨케이솔루션, 올해 수주 5000억 '청신호' - 디일렉",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZNkRud3JLR0ZYaE1RVFZtSTVzTGRlRXU0WWJKSF83T0dubFQ2M2NsOHpwMXZSR2NObXFwZUx5bjFoeDQ4OG0tZ1llckItUFc4emJfNjkzZzF6b3UxZHdoVzFPUXN3UQ?oc=5",
-      "source": "디일렉",
-      "published": "10-02 16:52",
-      "published_iso": "2026-10-02T07:52:28+00:00",
       "age": "5일 전"
     },
     {
@@ -809,6 +809,16 @@
       "source": "글로벌이코노믹",
       "published": "10-02 13:37",
       "published_iso": "2026-10-02T04:37:15+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "\"금보다 은이 더 빠진다\"…고금리 장기화에 은 ETF '털썩' - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ldzFYVjYzNnRPaDF6QkpfY0RJTFU2WklkSHdWMUJuY1p4WXNVdWhOTEVZOS1FcjcxcDJHWGxYSXV3Z1h6WktTbW9EYzY3Ni1lUzF6d1JTTDBhdGVoTktkeNIBeEFVX3lxTE1MM1JxVmpCTjdzaDlWU2pfbmx3d3VlYndabnk5dG5RVkZXSnlkWnQ1NmNXUk5iUmFWeFh0aW92RWYxS2YyLXJzam10eHJ5OUxFS3B0R1lYZ2dnZDJlOVB5NU1jT0hVVzNUUHhVSVdFRU92czNGNFdySQ?oc=5",
+      "source": "뉴시스",
+      "published": "10-02 09:48",
+      "published_iso": "2026-10-02T00:48:08+00:00",
       "age": "5일 전"
     },
     {
@@ -942,16 +952,6 @@
       "age": "6일 전"
     },
     {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
-      "title": "“퇴직연금에 금 넣었는데 어쩌나”...한달새 -10%, 은은 더 빠졌다 - Daum",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zZHV0NmtIUk44YzFzVXUzWmhFRXpOaEdUdk5oWUlTMXdCc3YwUjhTUE1fSUtCMmozVEM2WmZTNUlMREpOVFI4eUlkOVE2N28?oc=5",
-      "source": "Daum",
-      "published": "10-01 10:09",
-      "published_iso": "2026-10-01T01:09:00+00:00",
-      "age": "6일 전"
-    },
-    {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
       "title": "샌디스크(SNDK) 주가가 현금흐름 가치보다 높게 책정된 것으로 보인다 - Simply Wall Street",
@@ -972,6 +972,16 @@
       "age": "6일 전"
     },
     {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "Hyundai Motor to Invest Additional $500 Million in Alabama Plant, Expand U.S. Hybrid and EREV Production - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xRXRVa0o1U2lJTXJuSXg4QnFQeVJmdHNkR05EQnA0dW9GVE5EWkFHOGh6R2VJSmFWQlEtYjRubmhsaktxNm9YTFdEUkpNR1RZTGJzUFhZcmZHTzJ3aXZreWVjZFdNenRUV2tUY053?oc=5",
+      "source": "알파경제",
+      "published": "10-01 06:00",
+      "published_iso": "2026-09-30T21:00:00+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "000660",
       "name": "SK하이닉스",
       "title": "SK하이닉스 주가 전망: 300만원 대 100만원 시나리오 - FinanceFeeds",
@@ -989,16 +999,6 @@
       "source": "TradingKey",
       "published": "10-01 01:16",
       "published_iso": "2026-09-30T16:16:06+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "Why Caterpillar Stock Has Surged 75% Over the Past Year on AI Power Demand - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWhOR0swUHR6VGFmREd5SllZNjVRZkVaT2RFWmk0b0tMSWRXRkQxdTA4VGxzRUk2SG5xdl9laDlpLURKZ0wwU0FuTEdvb1NKMTBjQjZaRHVudVRMYkFiVGVITWt0N3ZLSS1DNVAzamZ6Uy1aaGdhMHV1RFRKLVhUT0RYd1g4Mk1iY285dE0zVGpqQncwd3NDR0lkc2NQcnNTel9rYg?oc=5",
-      "source": "TIKR.com",
-      "published": "09-30 23:26",
-      "published_iso": "2026-09-30T14:26:15+00:00",
       "age": "6일 전"
     }
   ]
