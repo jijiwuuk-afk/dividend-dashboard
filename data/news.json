@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 04:24 KST",
+  "updated_at": "2026-10-09 05:25 KST",
   "items": [
     {
       "ticker": "NVDA",
@@ -9,7 +9,7 @@
       "source": "TradingKey",
       "published": "10-09 04:16",
       "published_iso": "2026-10-08T19:16:18+00:00",
-      "age": "7분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "000660",
@@ -19,7 +19,7 @@
       "source": "매일경제",
       "published": "10-09 03:15",
       "published_iso": "2026-10-08T18:15:33+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "TSM",
@@ -29,7 +29,7 @@
       "source": "TradingKey",
       "published": "10-09 02:16",
       "published_iso": "2026-10-08T17:16:19+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "INTC",
@@ -39,7 +39,7 @@
       "source": "TradingKey",
       "published": "10-09 00:16",
       "published_iso": "2026-10-08T15:16:20+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "SCHD",
@@ -49,7 +49,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 00:07",
       "published_iso": "2026-10-08T15:07:45+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "TSM",
@@ -59,7 +59,7 @@
       "source": "Investing.com 한국어",
       "published": "10-08 23:52",
       "published_iso": "2026-10-08T14:52:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "COST",
@@ -69,17 +69,7 @@
       "source": "TIKR.com",
       "published": "10-08 23:11",
       "published_iso": "2026-10-08T14:11:46+00:00",
-      "age": "5시간 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "GOOGL|Alphabet Inc Class A|가격:347.870|Chg%:-2.630 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OVMxWGwxYl81M0J0S0c5bjBaOUpzalIxSXV1MXNsSHV5Mnh0Z1lldUNrVFFONFZkc1EybzAxT05XRzJ3RndOOUFQdjJfRjFzMWVUNDV6QlVySWhTYW5r?oc=5",
-      "source": "TradingKey",
-      "published": "10-08 23:00",
-      "published_iso": "2026-10-08T14:00:59+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "ZETA",
@@ -89,7 +79,7 @@
       "source": "Investing.com 한국어",
       "published": "10-08 22:21",
       "published_iso": "2026-10-08T13:21:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "487230",
@@ -99,16 +89,6 @@
       "source": "코리아리포트",
       "published": "10-08 19:42",
       "published_iso": "2026-10-08T10:42:50+00:00",
-      "age": "8시간 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "SNDK|SanDisk Corporation|가격:1586.620|Chg%:-105.800 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFYmtHUnVMa2UxNzVWT01fWjZKZTZDaXFneGhwT3dJUEJKY0hjNlIza3pDSlNSSjd3UmE2d08tdXZZRmJRb0t6cHhjRVhLdGNuOHdZbkxRa2dMX3lweHc?oc=5",
-      "source": "TradingKey",
-      "published": "10-08 19:06",
-      "published_iso": "2026-10-08T10:06:49+00:00",
       "age": "9시간 전"
     },
     {
@@ -119,7 +99,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 16:22",
       "published_iso": "2026-10-08T07:22:46+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "005930",
@@ -129,7 +109,7 @@
       "source": "경향신문",
       "published": "10-08 15:55",
       "published_iso": "2026-10-08T06:55:00+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "INTC",
@@ -139,7 +119,17 @@
       "source": "코인리더스",
       "published": "10-08 14:50",
       "published_iso": "2026-10-08T05:50:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
+    },
+    {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "규칙을 한 항목씩 찾아 읽는 같이 하면 재밌는 모바일 게임 도움말 활용 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVllNTWxkeVc0QmxYUmNQVE93UVBDWnV1ekV0STFZYUljeUxocENQZDJKcVVsQ2pNZE1TN0lfVUp4UUdKZnNHOExzRlJDZ24wcGQ0Z1hNNmstOWNYckdEMjJzUGVBNFZidDVBZDJ1RTlzSjdxLVlEX2ZQanJ3QWtyUnhhWEJvcHNYVnlMSE44Y0xXTENOWXBQOGZyRlVqUDRIUGpUQ2hCQ0dVNmI4MVNtcWVweWZ5YlpTMXFZZUlNYm54RVhzVWlubjdhczg4azNRY185Y3ZpTnhTbWta?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-08 12:34",
+      "published_iso": "2026-10-08T03:34:05+00:00",
+      "age": "16시간 전"
     },
     {
       "ticker": "CAT",
@@ -149,7 +139,17 @@
       "source": "네이버 프리미엄콘텐츠",
       "published": "10-08 12:30",
       "published_iso": "2026-10-08T03:30:00+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "샌디스크, 수요일 주가 2% 상승한 이유는? - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPejhXbkFsS3FHazZIdnhoUUJ2X2lZSHpGNlZsRTFMSzlQdE1tVzJhOVNwclE2ckdYNkNMOFlVSnprZjRWeWUwemN2RXpQSmNITDNjTWNOYXgyNEdVbGZ3WXJ6ZGpOeHdWQW54eERVdVhPNjE3ZklNRkpacV9hSUFDSGM0WFlkV3ZYanEyV3dfWkM4RzEzWm5qcTJybWZiaG5rajk4QklQdkg5c3duUXYwQW1LNXFWUHV6X1hCdHd2YXpzZ3RxdlVQLW1Qa1VzaFNCbXlfZUdfVmdqRWNHWVFNUnFhU192cmFhR19UdGVSN1NmWFlHYjkySFV1X3MyVVQySkNiaVRxam1mQm9PRkF1eQ?oc=5",
+      "source": "Benzinga",
+      "published": "10-08 11:03",
+      "published_iso": "2026-10-08T02:03:36+00:00",
+      "age": "18시간 전"
     },
     {
       "ticker": "GLDM",
@@ -159,7 +159,7 @@
       "source": "Benzinga",
       "published": "10-08 11:03",
       "published_iso": "2026-10-08T02:03:36+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "QQQM",
@@ -169,7 +169,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 10:43",
       "published_iso": "2026-10-08T01:43:40+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "005380",
@@ -179,7 +179,7 @@
       "source": "hyundai.com",
       "published": "10-08 10:15",
       "published_iso": "2026-10-08T01:15:20+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "487230",
@@ -189,7 +189,7 @@
       "source": "초이스경제",
       "published": "10-08 10:12",
       "published_iso": "2026-10-08T01:12:35+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "0072R0",
@@ -199,7 +199,7 @@
       "source": "국민일보",
       "published": "10-08 08:38",
       "published_iso": "2026-10-07T23:38:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "005380",
@@ -209,7 +209,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-08 08:30",
       "published_iso": "2026-10-07T23:30:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "AVGO",
@@ -219,7 +219,7 @@
       "source": "Simply Wall Street",
       "published": "10-08 07:15",
       "published_iso": "2026-10-07T22:15:38+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "TSLA",
@@ -229,7 +229,7 @@
       "source": "TradingKey",
       "published": "10-08 04:57",
       "published_iso": "2026-10-07T19:57:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "VOO",
@@ -239,6 +239,16 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 03:47",
       "published_iso": "2026-10-07T18:47:41+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "Sandisk (SNDK) 주식 개요 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ybzZHcF9HbkdaVm1wbmxoSWZHTUlhWTg0Q3A4N0dYWFg4ektDa1o5V1ZRblRscE81bXNsM1JkaXZQaGhXc19UVWhaZjJ5Tkc3NTZaV1lYdGNUSnUwNXJKY2JNdnlDR0FPRlVZ?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-08 00:21",
+      "published_iso": "2026-10-07T15:21:10+00:00",
       "age": "1일 전"
     },
     {
@@ -449,16 +459,6 @@
       "source": "인포스탁데일리",
       "published": "10-07 11:28",
       "published_iso": "2026-10-07T02:28:32+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "특수 기능의 이름보다 중요한 토토 꽁모니 발동 조건 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMXRRd05KWS1YVmc5Nm5vcDRibUwtZmZSQWtYSktWUEZFUDlPTVpGZzdmNHlUbGtHMGFBV2c2ZW80M3RPMElCYWRIamlhM3FFUFdDaGFUVEE3b08yaWk2Y3VPMHFEZjBSdXNQMTdLeXlwc3ZJV0wxQTBQSEtkYXhoeWd4U3JDWXEwOWNoUzRoaHUxUU50V21BZ0I0UkFNTVBiUUtkS3RjYnlZUlFvem8xbDh3dkh6em9yLU5DTmJVT054YldHbGJSc0I4cDdOZnFCUFBOeVlvdHBiMGdQU1RfNnZpNGpDbTdMR0JDTkFGQQ?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-07 10:38",
-      "published_iso": "2026-10-07T01:38:47+00:00",
       "age": "1일 전"
     },
     {
@@ -862,16 +862,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "2026년 주가 600% 이상 급등한 샌디스크···글로벌 NAND 플래시 메모리 공급난의 중심 - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNTktOVDdsMkZiUWJiOXkyVF82UWxfYk1ZN1gzaU9QRFdvLTBoNGExLVVXejVXNlZZSU5sUC1CeGZhcVJzX3J3RDlTR01rVk42SjZ2SE5rb245TWZVeXAzRUV1eXJiNW9Wa083b3Vnbm02blpRalU1THMzaEg5ZFdZZkJVclhWZFVNTnpiZzFRX3JSc2kydW5qWGZKa0VfRTNORHRLWmF0T1djSjFLSVlMLW5iRko0M0o1YUwtR1RfTi1pTnFRUWNvemJOVm1CQ2VscG1JZWMtRVNZazRwcGJ1TVZxcTBMZGVKVTFRMWVnLUptaEVaMklBemlUVVFHVndRMlhrUURnN3Q5bUw3aFJYRzItS2tSZzVqa0wyRTJHTHdmWGU3dXdqWFRDRXU2RU05dTFHZG1ZNWVNU2tzNjNKc09SVm0?oc=5",
-      "source": "Benzinga",
-      "published": "10-03 10:44",
-      "published_iso": "2026-10-03T01:44:32+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
       "title": "[월간 ETF워치]레버리지 팔고 미국으로…개미, S&P500 담았다 - 비즈워치",
@@ -979,6 +969,16 @@
       "source": "TradingKey",
       "published": "10-03 00:16",
       "published_iso": "2026-10-02T15:16:04+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "Gemini 4 Argon AI 출시로 Alphabet 주가, $344.37 저항선 향해 상승 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQklCQ3lYRnUzX0Z5NHFkYnVNT1I5aGV5QzZXYzlaNnJDZkhpM2JNN2lnNDZaQlVPSzVnRklHbkZlY01oaU1EeUJGYnhWRHM3bUduVHlUZld4ZzI1alBPTEhKWG5UXzJpbGtKNktreGhSLXBja1NvLUhBUVdfNXR1bWp4YTBnNzJ2X2pXbEFFRGZ3eGpKMWdFbQ?oc=5",
+      "source": "Traders Union",
+      "published": "10-02 23:29",
+      "published_iso": "2026-10-02T14:29:45+00:00",
       "age": "6일 전"
     },
     {
