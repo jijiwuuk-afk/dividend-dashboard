@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-09 03:27 KST",
+  "updated_at": "2026-10-09 04:24 KST",
   "items": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "NVIDIA Corp (NVDA) 주식 움직였습니다 하락 3.06%에 10월8일: 어떤 신호인가요? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0U4RVh5cGZrR01MRUlraVk4RFRGby1fSm5Hc1g5OXE4eEJZZHlySGNDTFJ4elJWSEhxS044YkRVTWl4N1pkcXNjUjRObGtBb2QzZTFyd0d4OW5pTVBfLUkyNHFkM1ZzOGNHVVdYN0laS2FsaUlzVW9peUhPZEVrVXVjcm5wRm9GUUJQeVRhTQ?oc=5",
+      "source": "TradingKey",
+      "published": "10-09 04:16",
+      "published_iso": "2026-10-08T19:16:18+00:00",
+      "age": "7분 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "Samsung Electronics, SK hynix rally on U.S. market boost - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUR09lb2ZSRXIydFBWLUk4dnJ4V3MxVGFwc3c5ejMzcHBJT2ZhSDdDUWM4OFJ6LXdrRmdUNkYzRDB6OEJMS3JsS1djRmtaRVhH?oc=5",
+      "source": "매일경제",
+      "published": "10-09 03:15",
+      "published_iso": "2026-10-08T18:15:33+00:00",
+      "age": "1시간 전"
+    },
     {
       "ticker": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
@@ -9,7 +29,7 @@
       "source": "TradingKey",
       "published": "10-09 02:16",
       "published_iso": "2026-10-08T17:16:19+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "INTC",
@@ -19,7 +39,7 @@
       "source": "TradingKey",
       "published": "10-09 00:16",
       "published_iso": "2026-10-08T15:16:20+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "SCHD",
@@ -29,7 +49,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 00:07",
       "published_iso": "2026-10-08T15:07:45+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "TSM",
@@ -39,7 +59,7 @@
       "source": "Investing.com 한국어",
       "published": "10-08 23:52",
       "published_iso": "2026-10-08T14:52:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "COST",
@@ -49,7 +69,17 @@
       "source": "TIKR.com",
       "published": "10-08 23:11",
       "published_iso": "2026-10-08T14:11:46+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "GOOGL|Alphabet Inc Class A|가격:347.870|Chg%:-2.630 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OVMxWGwxYl81M0J0S0c5bjBaOUpzalIxSXV1MXNsSHV5Mnh0Z1lldUNrVFFONFZkc1EybzAxT05XRzJ3RndOOUFQdjJfRjFzMWVUNDV6QlVySWhTYW5r?oc=5",
+      "source": "TradingKey",
+      "published": "10-08 23:00",
+      "published_iso": "2026-10-08T14:00:59+00:00",
+      "age": "5시간 전"
     },
     {
       "ticker": "ZETA",
@@ -59,7 +89,7 @@
       "source": "Investing.com 한국어",
       "published": "10-08 22:21",
       "published_iso": "2026-10-08T13:21:00+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "487230",
@@ -69,7 +99,7 @@
       "source": "코리아리포트",
       "published": "10-08 19:42",
       "published_iso": "2026-10-08T10:42:50+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "SNDK",
@@ -79,7 +109,7 @@
       "source": "TradingKey",
       "published": "10-08 19:06",
       "published_iso": "2026-10-08T10:06:49+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "SCHD",
@@ -89,7 +119,17 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 16:22",
       "published_iso": "2026-10-08T07:22:46+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "Samsung Electronics stock failed to rebound despite an earnings surprise... Why? - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lYlE3d2JIVjZWTGkxVFoyZUlpY3FxUXZDVndRN1FrdzhjUmFJWkczMzlGb3k5dF9SeW5VVUZ5czFKakk5M1M5ODJvVVB6eTR5dWFfVDl5cFIxd1pwcHc?oc=5",
+      "source": "경향신문",
+      "published": "10-08 15:55",
+      "published_iso": "2026-10-08T06:55:00+00:00",
+      "age": "12시간 전"
     },
     {
       "ticker": "INTC",
@@ -99,7 +139,7 @@
       "source": "코인리더스",
       "published": "10-08 14:50",
       "published_iso": "2026-10-08T05:50:00+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "CAT",
@@ -109,7 +149,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "published": "10-08 12:30",
       "published_iso": "2026-10-08T03:30:00+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "GLDM",
@@ -119,7 +159,7 @@
       "source": "Benzinga",
       "published": "10-08 11:03",
       "published_iso": "2026-10-08T02:03:36+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "QQQM",
@@ -129,7 +169,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 10:43",
       "published_iso": "2026-10-08T01:43:40+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "005380",
@@ -139,7 +179,7 @@
       "source": "hyundai.com",
       "published": "10-08 10:15",
       "published_iso": "2026-10-08T01:15:20+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "487230",
@@ -149,17 +189,7 @@
       "source": "초이스경제",
       "published": "10-08 10:12",
       "published_iso": "2026-10-08T01:12:35+00:00",
-      "age": "17시간 전"
-    },
-    {
-      "ticker": "005930",
-      "name": "삼성전자",
-      "title": "Samsung Electronics Q3 operating profit hits 107.4 trillion won… first South Korean company to surpass 100 trillion - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91aDEzY0VDLWZOQmxGbU5WbWNVeGkzR0NGMjdpclJVcU9ucnZ1WDJ4azZKUV90UTJCSThEaFp1SVdWUHRJVkV2Y1FmcUJwOEJBVFhIZ2pTbzhCX1doT2c?oc=5",
-      "source": "경향신문",
-      "published": "10-08 09:37",
-      "published_iso": "2026-10-08T00:37:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "0072R0",
@@ -169,7 +199,7 @@
       "source": "국민일보",
       "published": "10-08 08:38",
       "published_iso": "2026-10-07T23:38:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "005380",
@@ -179,7 +209,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-08 08:30",
       "published_iso": "2026-10-07T23:30:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "AVGO",
@@ -189,7 +219,7 @@
       "source": "Simply Wall Street",
       "published": "10-08 07:15",
       "published_iso": "2026-10-07T22:15:38+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "TSLA",
@@ -199,7 +229,7 @@
       "source": "TradingKey",
       "published": "10-08 04:57",
       "published_iso": "2026-10-07T19:57:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "VOO",
@@ -209,7 +239,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 03:47",
       "published_iso": "2026-10-07T18:47:41+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "GEV",
@@ -259,16 +289,6 @@
       "source": "TradingKey",
       "published": "10-07 22:48",
       "published_iso": "2026-10-07T13:48:12+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "버핏의 '비밀 포트폴리오', 대형AI주 팔고 '이것' 투자했다 - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZUZwTVl3NGk4REcxSDJrbFI2dGg2bzB6aEltUmZsTmdPc25NenFHdnFsWU5aelVpcDRaaWhqc1cyZXgxd2pKVU83TlBDbDI3cmRxZDRnM1BfTzV3X0RMODNybi1TZjZ0QkdkWG1XYUlxQWZvTGg3cmRyNGVmU1dsVA?oc=5",
-      "source": "이데일리",
-      "published": "10-07 22:30",
-      "published_iso": "2026-10-07T13:30:51+00:00",
       "age": "1일 전"
     },
     {
@@ -422,16 +442,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "Samsung Electronics, SK hynix rebound from early losses - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5INlJpdTRyMHpDRGhPRDg3dUREdThQYjdPRHl1WlNWUUxJajFXNUlZYlU4TGZFemt1b25JbS03aml2cWRKQnFNNlVXQkdlTWg5Z0dZ?oc=5",
-      "source": "매일경제",
-      "published": "10-07 11:48",
-      "published_iso": "2026-10-07T02:48:09+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
       "title": "미래에셋, 'TIGER 미국 타겟데일리커버드콜 3종' 연초 이후 개인 순매수 1조원 돌파 - 인포스탁데일리",
@@ -472,6 +482,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "버핏의 '비밀 포트폴리오', 대형AI주 팔고 '이것' 투자했다 - 이데일리TV",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43MFFLUUkyMzBfekFqbTNiRFNXazd5cmU0NzI0cTFGRVBDeUlxV3dRWWtWaWF1ckJiUjNkeTVERm1XdmluLTdqOGtyeUZnWklGejVPZnJ6NVFPczRjZ0dMdUQ3M0lNZ0lpN0swM2NyYWFwT21wZHE4NU9vYw?oc=5",
+      "source": "이데일리TV",
+      "published": "10-07 08:40",
+      "published_iso": "2026-10-06T23:40:00+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "테슬라(TSLA.N) 3분기 판매 예상치 상회..수익성 확인 필요 - 알파경제",
@@ -499,7 +519,7 @@
       "source": "한국경제",
       "published": "10-07 04:05",
       "published_iso": "2026-10-06T19:05:10+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "QQQM",
@@ -509,7 +529,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-07 03:38",
       "published_iso": "2026-10-06T18:38:28+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "0072R0",
@@ -612,16 +632,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "NVIDIA Corp(NVDA) 기술 분석: 지지선, 저항선, 지표 및 이동 평균 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vcXVmY2ZUd3dGWTRlV2FNakRFMWtVUVdMRTFwUTlWSTlUOTAtV21GX0RFNUF4SHNtcmlqLXprM1BNY2hzVThmVFctN2txUUh1UEZUbkVSb25ZV1ZQV1FXNlBWTjJSTGUtVkxN?oc=5",
-      "source": "TradingKey",
-      "published": "10-06 16:00",
-      "published_iso": "2026-10-06T07:00:00+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "테슬라(TSLA), 전기차 거품 걷어내고 AI 올인...\"2027년 황금기 온다\" - 코인리더스",
@@ -699,7 +709,7 @@
       "source": "TIKR.com",
       "published": "10-06 04:07",
       "published_iso": "2026-10-05T19:07:30+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "AVGO",
@@ -719,16 +729,6 @@
       "source": "Investing.com 한국어",
       "published": "10-05 22:33",
       "published_iso": "2026-10-05T13:33:00+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "2026년, 2027년, 2028~2030년 및 향후 구글 주가 예측 및 전망 - LiteFinance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeTlyQUdiYVBHQVFvbXp3OUJlT21rUWdNYTd4dVBGVTBQUE0yQk01Q3A5WkdqMFYyRTRkN3E4SEJCQnhnazM0dVlRekNvQm1jYThVWEZPYXAwd0dXTExfUlEyT25TMjZid3lUTnBjWUhNTVVYcHp6c0pFVlROTVN2NGtfUy13Wi1aX3VkakoxNXY3aHRGUEU2QUJucWc1cEtTdTJCQw?oc=5",
-      "source": "LiteFinance",
-      "published": "10-05 09:25",
-      "published_iso": "2026-10-05T00:25:46+00:00",
       "age": "3일 전"
     },
     {
