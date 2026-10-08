@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 00:25 KST",
+  "updated_at": "2026-10-09 01:27 KST",
   "items": [
     {
       "ticker": "INTC",
@@ -9,7 +9,7 @@
       "source": "TradingKey",
       "published": "10-09 00:16",
       "published_iso": "2026-10-08T15:16:20+00:00",
-      "age": "9분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "TSM",
@@ -19,7 +19,7 @@
       "source": "Investing.com 한국어",
       "published": "10-08 23:52",
       "published_iso": "2026-10-08T14:52:00+00:00",
-      "age": "33분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "COST",
@@ -29,7 +29,7 @@
       "source": "TIKR.com",
       "published": "10-08 23:11",
       "published_iso": "2026-10-08T14:11:46+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "ZETA",
@@ -39,7 +39,7 @@
       "source": "Investing.com 한국어",
       "published": "10-08 22:21",
       "published_iso": "2026-10-08T13:21:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "005930",
@@ -49,7 +49,17 @@
       "source": "경향신문",
       "published": "10-08 15:55",
       "published_iso": "2026-10-08T06:55:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "SNDK|SanDisk Corporation|가격:1692.420|Chg%:+31.960 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFYmtHUnVMa2UxNzVWT01fWjZKZTZDaXFneGhwT3dJUEJKY0hjNlIza3pDSlNSSjd3UmE2d08tdXZZRmJRb0t6cHhjRVhLdGNuOHdZbkxRa2dMX3lweHc?oc=5",
+      "source": "TradingKey",
+      "published": "10-08 15:09",
+      "published_iso": "2026-10-08T06:09:18+00:00",
+      "age": "10시간 전"
     },
     {
       "ticker": "INTC",
@@ -59,7 +69,7 @@
       "source": "코인리더스",
       "published": "10-08 14:50",
       "published_iso": "2026-10-08T05:50:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "379810",
@@ -69,7 +79,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 12:34",
       "published_iso": "2026-10-08T03:34:05+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "489250",
@@ -79,7 +89,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 12:34",
       "published_iso": "2026-10-08T03:34:05+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "CAT",
@@ -89,7 +99,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "published": "10-08 12:30",
       "published_iso": "2026-10-08T03:30:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "487230",
@@ -99,7 +109,7 @@
       "source": "메가경제",
       "published": "10-08 12:12",
       "published_iso": "2026-10-08T03:12:08+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "GLDM",
@@ -109,17 +119,7 @@
       "source": "Benzinga",
       "published": "10-08 11:03",
       "published_iso": "2026-10-08T02:03:36+00:00",
-      "age": "13시간 전"
-    },
-    {
-      "ticker": "QQQM",
-      "name": "Invesco NASDAQ 100 ETF",
-      "title": "야구 토토 스페셜 트리플 - 을 통한 성공 전략 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hWE5JTXZfU1ZxZDM4RnJSbmJKcHBLVUR1c0lSWUZmMEsxMVpMeXN4Sm02RTgzVU9UTjBtSVYwS01UMmRCc0hwUVFwQUFZTm52bElWeldPbndLMF9lSUE4bEdtZmpxeVBtekViSU1LbFZmZlhtNnc?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-08 10:43",
-      "published_iso": "2026-10-08T01:43:40+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "005380",
@@ -129,7 +129,7 @@
       "source": "hyundai.com",
       "published": "10-08 10:15",
       "published_iso": "2026-10-08T01:15:20+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "487230",
@@ -139,7 +139,7 @@
       "source": "초이스경제",
       "published": "10-08 10:12",
       "published_iso": "2026-10-08T01:12:35+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "0072R0",
@@ -149,7 +149,7 @@
       "source": "국민일보",
       "published": "10-08 08:38",
       "published_iso": "2026-10-07T23:38:00+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "005380",
@@ -159,7 +159,17 @@
       "source": "Hyundai Motor Group",
       "published": "10-08 08:30",
       "published_iso": "2026-10-07T23:30:00+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "브로드컴(AVGO) 고용 지표 랠리 후 다시 커진 저평가 기대 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEZDdTc2OV9XMnBLQ2tSVXNRT2wzYTQtWU0ySkl4czU0X0VaYnVLdmpLektjWUFFeTFhdmcxVkc5R3NNWlQwSlhPdjFzMWtDdGlnY1lPRm10MjdHMi1VWF8zc2MtS2U1a1ZVSVF1V3h6OFhaaGttdHh2WFNwdGRXZlFtY1ZzdHBvX0MzTWtra3ZtR09PM0NLZXVSN0PSAZwBQVVfeXFMT3RGQ3U3NjlfVzJwS0NrUlVzUU9sM2E0LVlNMkpJeHM1NF9FWmJ1S3ZqS3pLY1lBRXkxYXZnMVZHOUdzTVpUMEpYT3YxczFrQ3RpZ2NZT0ZtdDI3RzItVVhfM3NjLUtlNWtWVUlRdVd4ejhYWmhrbXR4dlhTcHRkV2ZRbWNWc3Rwb19DM01ra2t2bUdPTzNDS2V1UjdD?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-08 07:15",
+      "published_iso": "2026-10-07T22:15:38+00:00",
+      "age": "18시간 전"
     },
     {
       "ticker": "TSLA",
@@ -169,7 +179,7 @@
       "source": "TradingKey",
       "published": "10-08 04:57",
       "published_iso": "2026-10-07T19:57:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "VOO",
@@ -179,17 +189,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 03:47",
       "published_iso": "2026-10-07T18:47:41+00:00",
-      "age": "20시간 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "SNDK|SanDisk Corporation|가격:1638.190|Chg%:-54.230 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFYmtHUnVMa2UxNzVWT01fWjZKZTZDaXFneGhwT3dJUEJKY0hjNlIza3pDSlNSSjd3UmE2d08tdXZZRmJRb0t6cHhjRVhLdGNuOHdZbkxRa2dMX3lweHc?oc=5",
-      "source": "TradingKey",
-      "published": "10-08 02:07",
-      "published_iso": "2026-10-07T17:07:38+00:00",
-      "age": "22시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "SNDK",
@@ -234,11 +234,11 @@
     {
       "ticker": "VOO",
       "name": "Vanguard S&P 500 ETF",
-      "title": "도박 대출 디시 도움말 업데이트 여부 확인 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYjFIeEFlanh4bWkzTGdiMTlnTGlGbVN2YW81UW03M1UzcnozWVNiYUtxTjBZMGs4dV9OX203UnpnMHVTd0hKY1JaWkJ1cmVJeG91VWc4alVvZU1WdFFTclEyR21jTHY0UHBRaDVOOXVDY2hFQklHT3pXRkZ2ek4xM25NSzV6ZkUxOUNFVQ?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-07 20:49",
-      "published_iso": "2026-10-07T11:49:05+00:00",
+      "title": "버핏의 '비밀 포트폴리오', 대형AI주 팔고 '이것' 투자했다 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZUZwTVl3NGk4REcxSDJrbFI2dGg2bzB6aEltUmZsTmdPc25NenFHdnFsWU5aelVpcDRaaWhqc1cyZXgxd2pKVU83TlBDbDI3cmRxZDRnM1BfTzV3X0RMODNybi1TZjZ0QkdkWG1XYUlxQWZvTGg3cmRyNGVmU1dsVA?oc=5",
+      "source": "이데일리",
+      "published": "10-07 22:30",
+      "published_iso": "2026-10-07T13:30:51+00:00",
       "age": "1일 전"
     },
     {
@@ -462,6 +462,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "SK Hynix, Samsung Electronics Face Growing U.S. HBM Patent Lawsuits as NPE Litigation Surges - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MWlh1YVc1ZXpPek1XdTFWcHpKcnUxUThSenB2czdSeEN2Z3MxOXlqbUJZRlV6VmRDd0hLejhCZDBTRkpIZmdTcHQ0Q3VPdWRLZXpvTDBPQ2VhdzRqVmlPVzQ3WlFKSFkzZW9ranFB?oc=5",
+      "source": "알파경제",
+      "published": "10-07 06:00",
+      "published_iso": "2026-10-06T21:00:00+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
       "title": "AMD 목표가 800달러까지…월가, 메타 등 AI주 낙관론 지속 [월가 업&다운] - 한국경제",
@@ -682,6 +692,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "Zeta Global 주가 52주 신고가 경신 $33.23 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9idWVBd19FOEwzU2JNanBwVHVZUWgtazRsSXFQV3F6NUIzN2c2QjRSSjYtVTh5NUdmZ19IcjI2bFcwZFMtbkRtN2FkTGRFS25nN29Ra1VTSGxiYTlvcHdwbnRsa0hXMGd1eUR0bDdXMHI?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-05 22:33",
+      "published_iso": "2026-10-05T13:33:00+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
       "title": "Broadcom Is Lending Billions to Its Biggest Future Customer. Should Investors Worry? - TIKR.com",
@@ -799,7 +819,7 @@
       "source": "Simply Wall Street",
       "published": "10-04 01:20",
       "published_iso": "2026-10-03T16:20:31+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "ZETA",
@@ -809,7 +829,7 @@
       "source": "VALORANT Esports | Schedule",
       "published": "10-04 01:17",
       "published_iso": "2026-10-03T16:17:35+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "INTC",
@@ -919,7 +939,7 @@
       "source": "TradingKey",
       "published": "10-03 01:16",
       "published_iso": "2026-10-02T16:16:10+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "CAT",
@@ -929,7 +949,7 @@
       "source": "TIKR.com",
       "published": "10-03 00:55",
       "published_iso": "2026-10-02T15:55:41+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "SNDK",
@@ -979,26 +999,6 @@
       "source": "Simply Wall Street",
       "published": "10-02 16:00",
       "published_iso": "2026-10-02T07:00:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "코스트코 홀세일(COST) 7% 고평가 가능성 4분기 어닝 서프라이즈 이후 더 커졌나 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnQyTVp1S1hwZ3BLeGxjSldDcm5veko4ZGlkREdOZU5PcXlDWHk0aTg5bGw1VGhpSllRNzhrcXFoRjI3Q3dxWWc3U1d0d1lZcDRkSjFFMjg3b0cwLXdKRGx2Skp4TnU5UXhfdmxzTWZjaGFueFpsR3kxWTJhOG5fY0N6LTFYZllUcmNlaXhvOUdReUIzenNVYTluOEJtSUtxaU1GczV2VdIBrAFBVV95cUxOdlh0djYyMDFocHBLN2NoRFB1WHFUeDlmaUhNNDNFcm5kSnFHaVQ4YmU3bHlUZHZnTEwwYThZblNpcTdEemNNdTBjNHhTNUhabkU0eTJxLTlNaFgyeWlqNmdlcUtGckRqT2lFdGZnbmlHYXppeGtyUmV6ZGpxd0FIMjZOSmt2OTFsalNpMGNFUmhFanMwSXFQTnJRV3JXT0V5YlJUSWxYd0ZkYkxQ?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-02 16:00",
-      "published_iso": "2026-10-02T07:00:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "2026년 10월 주목할 고성장 우량주 3선 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0luNG1nN25NX1N3STBCZ1duQmNFekZETHZNTFRnUExFMXNzY09Qd2FTZWxRY044VG11YnJncnBVM1BvQ2xOQzRDZFZEaTQ3djZOYV94eXVQZFp1bWFzcHp6MFNZZ29MNnFSTVdfVGlXUkZqeEg1d1FpTThFakM4NzJLQmk4a2ROWFpwSUtwdDRCQ25TeGpB0gGcAUFVX3lxTE40czF0cU9nbFFmeXZKVVpCbHZhMDROSXpaSjF6c3RmYzVacjFLZDJjZ0QwZ0NSOEROWVJtRkFpLVNNZGZFTUpqS2o5UkhpY0drMFFlLVVWaFBVSW4wSnVYeDRuRm9rV0R1MXRvQkZnLVlvdE1sR29pOEV2RzJ5NmZKU25DZWlSWkZOb0ZFRjZGamRxSFVRNUhQMTdhLQ?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-02 08:20",
-      "published_iso": "2026-10-01T23:20:22+00:00",
       "age": "6일 전"
     }
   ]
