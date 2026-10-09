@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 22:26 KST",
+  "updated_at": "2026-10-09 23:26 KST",
   "items": [
     {
       "ticker": "379780",
@@ -9,7 +9,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "0072R0",
@@ -19,7 +19,7 @@
       "source": "뉴시스",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "379800",
@@ -29,7 +29,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "379780",
@@ -39,7 +39,7 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "379810",
@@ -49,7 +49,7 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "NVDA",
@@ -59,7 +59,7 @@
       "source": "TradingKey",
       "published": "10-09 04:16",
       "published_iso": "2026-10-08T19:16:18+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "000660",
@@ -69,7 +69,7 @@
       "source": "매일경제",
       "published": "10-09 03:15",
       "published_iso": "2026-10-08T18:15:33+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "TSM",
@@ -79,7 +79,7 @@
       "source": "TradingKey",
       "published": "10-09 02:16",
       "published_iso": "2026-10-08T17:16:19+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "GOOG",
@@ -89,7 +89,7 @@
       "source": "Traders Union",
       "published": "10-09 02:09",
       "published_iso": "2026-10-08T17:09:07+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "INTC",
@@ -99,7 +99,7 @@
       "source": "TradingKey",
       "published": "10-09 00:16",
       "published_iso": "2026-10-08T15:16:20+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "SCHD",
@@ -109,7 +109,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 00:07",
       "published_iso": "2026-10-08T15:07:45+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "TSM",
@@ -119,7 +119,7 @@
       "source": "Investing.com 한국어",
       "published": "10-08 23:52",
       "published_iso": "2026-10-08T14:52:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "COST",
@@ -129,7 +129,7 @@
       "source": "TIKR.com",
       "published": "10-08 23:11",
       "published_iso": "2026-10-08T14:11:46+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "ZETA",
@@ -369,7 +369,7 @@
       "source": "Investing.com 한국어",
       "published": "10-07 23:25",
       "published_iso": "2026-10-07T14:25:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "CAT",
@@ -379,7 +379,7 @@
       "source": "TradingKey",
       "published": "10-07 22:48",
       "published_iso": "2026-10-07T13:48:12+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "GEV",
@@ -389,7 +389,7 @@
       "source": "TradingKey",
       "published": "10-07 22:48",
       "published_iso": "2026-10-07T13:48:01+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "379780",
@@ -552,6 +552,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "특수 기능의 이름보다 중요한 토토 꽁모니 발동 조건 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMXRRd05KWS1YVmc5Nm5vcDRibUwtZmZSQWtYSktWUEZFUDlPTVpGZzdmNHlUbGtHMGFBV2c2ZW80M3RPMElCYWRIamlhM3FFUFdDaGFUVEE3b08yaWk2Y3VPMHFEZjBSdXNQMTdLeXlwc3ZJV0wxQTBQSEtkYXhoeWd4U3JDWXEwOWNoUzRoaHUxUU50V21BZ0I0UkFNTVBiUUtkS3RjYnlZUlFvem8xbDh3dkh6em9yLU5DTmJVT054YldHbGJSc0I4cDdOZnFCUFBOeVlvdHBiMGdQU1RfNnZpNGpDbTdMR0JDTkFGQQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-07 10:38",
+      "published_iso": "2026-10-07T01:38:47+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "JEPQ",
       "name": "JPMorgan Nasdaq Equity Premium Income ETF",
       "title": "게임 소개와 FAQ를 연결하는 바카라 소액 마티니 질문 안내 - Calgary Roughnecks",
@@ -689,7 +699,7 @@
       "source": "TradingKey",
       "published": "10-06 23:15",
       "published_iso": "2026-10-06T14:15:58+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "GEV",
@@ -699,7 +709,7 @@
       "source": "TradingKey",
       "published": "10-06 22:48",
       "published_iso": "2026-10-06T13:48:37+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "487230",
@@ -799,7 +809,7 @@
       "source": "TIKR.com",
       "published": "10-05 22:52",
       "published_iso": "2026-10-05T13:52:30+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "000660",
@@ -809,7 +819,7 @@
       "source": "FinanceFeeds",
       "published": "10-05 22:35",
       "published_iso": "2026-10-05T13:35:18+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "ZETA",
@@ -819,7 +829,7 @@
       "source": "Investing.com 한국어",
       "published": "10-05 22:33",
       "published_iso": "2026-10-05T13:33:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "CAT",
@@ -879,16 +889,6 @@
       "source": "Daum",
       "published": "10-04 18:20",
       "published_iso": "2026-10-04T09:20:57+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "\"반도체만 믿다간 큰일\" 돌변하더니…뭉칫돈 '대이동' [김연지의 연금빌드업] - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zS09falY4Vkg4YmJ5NjFyRFJEN0tUMklMMFZsNzBjNEtxVElkQXo0eG1KRnZvQ2M3SDhrZXo4Z1JoYlNQNDViT0FoZkZ3OE80cHo1LXlRQTAtQQ?oc=5",
-      "source": "한국경제",
-      "published": "10-04 09:00",
-      "published_iso": "2026-10-04T00:00:01+00:00",
       "age": "5일 전"
     },
     {
