@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 19:25 KST",
+  "updated_at": "2026-10-09 20:23 KST",
   "items": [
     {
       "ticker": "379780",
@@ -9,7 +9,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "0072R0",
@@ -19,7 +19,7 @@
       "source": "뉴시스",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "379800",
@@ -29,7 +29,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "379780",
@@ -39,7 +39,7 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "379810",
@@ -49,7 +49,7 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "NVDA",
@@ -59,7 +59,7 @@
       "source": "TradingKey",
       "published": "10-09 04:16",
       "published_iso": "2026-10-08T19:16:18+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "000660",
@@ -69,7 +69,7 @@
       "source": "매일경제",
       "published": "10-09 03:15",
       "published_iso": "2026-10-08T18:15:33+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "TSM",
@@ -79,17 +79,7 @@
       "source": "TradingKey",
       "published": "10-09 02:16",
       "published_iso": "2026-10-08T17:16:19+00:00",
-      "age": "17시간 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "Alphabet 주가 전망: GOOGL, 횡보세 속 $344 지지선 유지 - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3U1YmdaNUtfZUJwOU1NY3hIYm1xZXROSTRoTklGM1RUSzZuUThRYldLZUVxd2RnOWFzTmFQTmJ6cy1HeldYR2phYW1qd2RySlZ0U1Z3TlNqUjZSV1FxOU9NZml3UExGVXVaeVEzampnQVZyU0ZHUVZCanFqVzBMaGRHT0dkUnRheElSM0ZPSHl4aTVT?oc=5",
-      "source": "Traders Union",
-      "published": "10-09 02:09",
-      "published_iso": "2026-10-08T17:09:07+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "INTC",
@@ -99,7 +89,7 @@
       "source": "TradingKey",
       "published": "10-09 00:16",
       "published_iso": "2026-10-08T15:16:20+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "SCHD",
@@ -109,7 +99,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 00:07",
       "published_iso": "2026-10-08T15:07:45+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "TSM",
@@ -119,7 +109,17 @@
       "source": "Investing.com 한국어",
       "published": "10-08 23:52",
       "published_iso": "2026-10-08T14:52:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "Alphabet 주가, $355.26 저항선 테스트: 기술적 전망 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHJvV2puZHVpUEppQ2Q1SUNJZTRYdm12UzNWS1V3Z0xvaWFMa3EwcE15TmhNRTJOcERwXzFIVnZ5Z19kOHpPSlltQnBMN0FGRDBHQXBoNlBINC1KUnRzM1BzNzhuSVZSbDF3eW0tVVFTMFEyNDZnbzR0UzhtcVIyazYtcVJabU54UWVVMkd4cw?oc=5",
+      "source": "Traders Union",
+      "published": "10-08 23:29",
+      "published_iso": "2026-10-08T14:29:50+00:00",
+      "age": "20시간 전"
     },
     {
       "ticker": "COST",
@@ -129,27 +129,7 @@
       "source": "TIKR.com",
       "published": "10-08 23:11",
       "published_iso": "2026-10-08T14:11:46+00:00",
-      "age": "20시간 전"
-    },
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "Zeta Global, Fireworks와 AI 추론 모델 개발 협력 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFYXNfXzhSTGdBaGlKY0ZDTmhDN016LXZkZ2p1RkJLM0UzblhKdUVJUEhDZHhDT3FfS19ZSXFHeE5LWFYzVU1FdWRhbWxuTGlOdS1IYXdha3Q1MU51amlGMndzLTlucWY3cmE2LVZkcFg?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-08 22:21",
-      "published_iso": "2026-10-08T13:21:00+00:00",
       "age": "21시간 전"
-    },
-    {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "포커 최고 : 위험 피하기와 보호 조치 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45Mzlsd1JOMlVMMk1CMDFZVHBwcXFqZUU5SW5nbnpMd2xoNS0yb0Y0NzVhNnpzNHNISlR3dWp4bG5lcWR1SERya2VSTU9SSWltYVBBaUNSX3otS0lGR3BVbVhNZVRGOFNP?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-08 19:54",
-      "published_iso": "2026-10-08T10:54:11+00:00",
-      "age": "23시간 전"
     },
     {
       "ticker": "487230",
@@ -159,7 +139,17 @@
       "source": "코리아리포트",
       "published": "10-08 19:42",
       "published_iso": "2026-10-08T10:42:50+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
+    },
+    {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "빠른 진행 옵션이 궁금한 원게임 포커 기능 질문 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN1VXdHFTcDBfODhjXzBWZlpsRXVLenVQVXlYTHhQeEdBVVdUb21DVVdVYUV3Q0Z1c2lPZHVKTzlLYmFJUm43QzB2VW1Vc08zRXdCYVFCOHV4dGNHbWRNcnNPeWtZU2dxWE1HalZGWkR0cFJlRUNxa3NnRDBXTFlZLWcyOFIyUVdzRXdPeHhxZzhYeWYzT3lBM0YtalNadktZd3BoTjVmUFNRSi1KSTduajhBSlFMcjRP?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-08 19:07",
+      "published_iso": "2026-10-08T10:07:54+00:00",
+      "age": "1일 전"
     },
     {
       "ticker": "TSLA",
@@ -252,6 +242,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "QQQM",
+      "name": "Invesco NASDAQ 100 ETF",
+      "title": "야구 토토 스페셜 트리플 - 을 통한 성공 전략 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hWE5JTXZfU1ZxZDM4RnJSbmJKcHBLVUR1c0lSWUZmMEsxMVpMeXN4Sm02RTgzVU9UTjBtSVYwS01UMmRCc0hwUVFwQUFZTm52bElWeldPbndLMF9lSUE4bEdtZmpxeVBtekViSU1LbFZmZlhtNnc?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-08 10:43",
+      "published_iso": "2026-10-08T01:43:40+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "005380",
       "name": "현대자동차",
       "title": "새로운 오프로드 탐험의 시작, ‘더 크루 모터페스트’ 속 현대자동차 크레이터 콘셉트 - hyundai.com",
@@ -329,16 +329,6 @@
       "source": "TradingKey",
       "published": "10-08 04:57",
       "published_iso": "2026-10-07T19:57:00+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "Sandisk (SNDK) 주식 개요 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ybzZHcF9HbkdaVm1wbmxoSWZHTUlhWTg0Q3A4N0dYWFg4ektDa1o5V1ZRblRscE81bXNsM1JkaXZQaGhXc19UVWhaZjJ5Tkc3NTZaV1lYdGNUSnUwNXJKY2JNdnlDR0FPRlVZ?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-08 00:21",
-      "published_iso": "2026-10-07T15:21:10+00:00",
       "age": "1일 전"
     },
     {
@@ -522,6 +512,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "샌디스크(SNDK), 지금 다시 시선이 쏠리는 이유는? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMVVpRnAxNHhvQ0gyTllvbjJBbWpDc0pTWkVseTBXOUp2Z1Z1NFlhU29ZMmZhbDJrVHVXNUFaZ3ViYkktVHNWTGdiMlNRZGZnN2NDaDR1QVZwV1ZVakV1dEcwa3FSTUotS2NfX1pHa2dkczJLejBWUks0Q1lxak5UR292dEVNSl9m0gGOAUFVX3lxTE9tQmhmTVA0bFBXQXpnYUpkS3NTNHhnS09DQ0J5SjlfbWw3V0hGX1EweFpMUFhHVlRQX3loMFphV1lZMmJLLWllNHVUUWFZMlY4S0tmSk43RWN4UjRRVWRnWjVxR2l6M0twRnRuc21DVmhZUVhjSTNxU2RscDAzamtNR0YzYXlhU3phUE00aVE?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-07 16:00",
+      "published_iso": "2026-10-07T07:00:00+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
       "title": "미래에셋, ‘TIGER 미국 타겟데일리커버드콜’ 3종 개인 순매수 1조원 돌파 - 매일일보",
@@ -559,16 +559,6 @@
       "source": "인포스탁데일리",
       "published": "10-07 11:28",
       "published_iso": "2026-10-07T02:28:32+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "특수 기능의 이름보다 중요한 토토 꽁모니 발동 조건 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMXRRd05KWS1YVmc5Nm5vcDRibUwtZmZSQWtYSktWUEZFUDlPTVpGZzdmNHlUbGtHMGFBV2c2ZW80M3RPMElCYWRIamlhM3FFUFdDaGFUVEE3b08yaWk2Y3VPMHFEZjBSdXNQMTdLeXlwc3ZJV0wxQTBQSEtkYXhoeWd4U3JDWXEwOWNoUzRoaHUxUU50V21BZ0I0UkFNTVBiUUtkS3RjYnlZUlFvem8xbDh3dkh6em9yLU5DTmJVT054YldHbGJSc0I4cDdOZnFCUFBOeVlvdHBiMGdQU1RfNnZpNGpDbTdMR0JDTkFGQQ?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-07 10:38",
-      "published_iso": "2026-10-07T01:38:47+00:00",
       "age": "2일 전"
     },
     {
@@ -692,16 +682,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "DA Davidson이 성장 전망에 따라 Zeta Global 목표주가를 상향 조정 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lVktRODAwaEU3RzM1bEdiSnNiMGNmZWs3SlFrdDNyNmgyZUh3VllyZmhhaGNGOXdNT3BFZHJSUWJvNF9VdzA3bU1lRVRhWUZTOVZvQzIzeWZweFlzVkVzRDNHYktzUzh4aWJrYlMxblNac1dj?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-06 23:27",
-      "published_iso": "2026-10-06T14:27:00+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
       "title": "브로드컴 (AVGO) 주식 움직였습니다 상승 3.74%에 10월6일: 전체 분석 - TradingKey",
@@ -822,16 +802,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "Zeta Global 주가 52주 신고가 경신 $33.23 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9idWVBd19FOEwzU2JNanBwVHVZUWgtazRsSXFQV3F6NUIzN2c2QjRSSjYtVTh5NUdmZ19IcjI2bFcwZFMtbkRtN2FkTGRFS25nN29Ra1VTSGxiYTlvcHdwbnRsa0hXMGd1eUR0bDdXMHI?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-05 22:33",
-      "published_iso": "2026-10-05T13:33:00+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "투자자들은 캐터필러(CAT)의 10억 달러 규모 노스캐롤라이나 확장 계획에 어떻게 반응하고 있을까 - Simply Wall Street",
@@ -879,7 +849,7 @@
       "source": "아이투자",
       "published": "10-04 19:35",
       "published_iso": "2026-10-04T10:35:52+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "SCHD",
@@ -889,6 +859,16 @@
       "source": "Daum",
       "published": "10-04 18:20",
       "published_iso": "2026-10-04T09:20:57+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "\"반도체만 믿다간 큰일\" 돌변하더니…뭉칫돈 '대이동' [김연지의 연금빌드업] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zS09falY4Vkg4YmJ5NjFyRFJEN0tUMklMMFZsNzBjNEtxVElkQXo0eG1KRnZvQ2M3SDhrZXo4Z1JoYlNQNDViT0FoZkZ3OE80cHo1LXlRQTAtQQ?oc=5",
+      "source": "한국경제",
+      "published": "10-04 09:00",
+      "published_iso": "2026-10-04T00:00:01+00:00",
       "age": "5일 전"
     },
     {
@@ -919,16 +899,6 @@
       "source": "Simply Wall Street",
       "published": "10-04 01:20",
       "published_iso": "2026-10-03T16:20:31+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "ZETA VS DFM - VALORANT Esports | Schedule",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05dWhfUHdlTmtZYWRKb1JXaXpOX1BRRzJaVlNsaVRRVnNTRTVrRkw4dU45Tzl4YVhDcmw5YUxUb1V6VXpGeVY0YXpjbk9MeGVNWmJnZnpiVDNkeUVrYjVuN000ZnRVbzQ3MXc?oc=5",
-      "source": "VALORANT Esports | Schedule",
-      "published": "10-04 01:17",
-      "published_iso": "2026-10-03T16:17:35+00:00",
       "age": "5일 전"
     },
     {
@@ -999,6 +969,36 @@
       "source": "Simply Wall Street",
       "published": "10-03 06:07",
       "published_iso": "2026-10-02T21:07:04+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "TSMC의 중국 내 제조 거점 및 사업 전략 분석 - 브런치",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TTzF6QVBjbXhoVnF6MmZ5VEk1emhPQ3dKUlRxY1Nqd1dOR3V2dFFMY3Zsb1pNTWZ0QVBNZUhaVWdYUlNvZWVHRw?oc=5",
+      "source": "브런치",
+      "published": "10-03 05:50",
+      "published_iso": "2026-10-02T20:50:27+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "Taiwan Semiconductor Manufacturing Co Ltd (TSM) 주식 움직였습니다 상승 3.16%에 10월2일: 변동을 뒷받침하는 사실 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjhVZ1l1eFhHTkVBTkhoMW9GTUFQNnNZNVJPbld1YnNaRW9BNXlna1F3WFVPS0hjLTZwN20wZVNSOXNXd2k1NjFuWS10eVZmdWliUE9adUdVNS1YSTh3aVpBaGxIekN2RnN3b01LU3FkSXpVaU9GUE10ZmlhNG1MVXdWenBwQnFtN1NaV2hR?oc=5",
+      "source": "TradingKey",
+      "published": "10-03 01:16",
+      "published_iso": "2026-10-02T16:16:10+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "Caterpillar Is Betting $1 Billion on Small Contractors. Here’s Where the Stock Could Go by 2030 - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM3FFbmFaS3VOY1h0cTgzQ19GMXBwZFRkS0E5bzJhTWc3dzNEOW1JZndldFJSbXlCZTN6OTRRTnBXR2ZFWEl6R19UWVZ2eThodS1BaDJBTUs2ckEtWGd5dU9TRzZ3aUF4WWxwdjZydlhkMEUyR2Y0eTFGNWxXOXo5VHNOWEhNYjA4X3U2MFVQQ09naGRucU90UGVwWkNXclRqWTNKa3psUEk4SU5iMUFVcENLOWVaX1BxZEcwMnFn?oc=5",
+      "source": "TIKR.com",
+      "published": "10-03 00:55",
+      "published_iso": "2026-10-02T15:55:41+00:00",
       "age": "6일 전"
     }
   ]
