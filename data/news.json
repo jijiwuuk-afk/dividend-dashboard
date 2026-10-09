@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 16:25 KST",
+  "updated_at": "2026-10-09 17:25 KST",
   "items": [
     {
       "ticker": "AMD",
@@ -9,7 +9,7 @@
       "source": "비즈워치",
       "published": "10-09 13:00",
       "published_iso": "2026-10-09T04:00:02+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "379780",
@@ -19,7 +19,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "379800",
@@ -29,7 +29,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "379780",
@@ -39,7 +39,7 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "379810",
@@ -49,7 +49,7 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "NVDA",
@@ -59,7 +59,7 @@
       "source": "TradingKey",
       "published": "10-09 04:16",
       "published_iso": "2026-10-08T19:16:18+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "000660",
@@ -69,7 +69,7 @@
       "source": "매일경제",
       "published": "10-09 03:15",
       "published_iso": "2026-10-08T18:15:33+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "TSM",
@@ -79,7 +79,7 @@
       "source": "TradingKey",
       "published": "10-09 02:16",
       "published_iso": "2026-10-08T17:16:19+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "INTC",
@@ -89,7 +89,7 @@
       "source": "TradingKey",
       "published": "10-09 00:16",
       "published_iso": "2026-10-08T15:16:20+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "SCHD",
@@ -99,7 +99,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 00:07",
       "published_iso": "2026-10-08T15:07:45+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "TSM",
@@ -109,7 +109,7 @@
       "source": "Investing.com 한국어",
       "published": "10-08 23:52",
       "published_iso": "2026-10-08T14:52:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "GOOG",
@@ -119,7 +119,7 @@
       "source": "Traders Union",
       "published": "10-08 23:29",
       "published_iso": "2026-10-08T14:29:50+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "COST",
@@ -129,7 +129,7 @@
       "source": "TIKR.com",
       "published": "10-08 23:11",
       "published_iso": "2026-10-08T14:11:46+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "ZETA",
@@ -139,7 +139,7 @@
       "source": "Investing.com 한국어",
       "published": "10-08 22:21",
       "published_iso": "2026-10-08T13:21:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "VOO",
@@ -149,7 +149,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 19:54",
       "published_iso": "2026-10-08T10:54:11+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "TSLA",
@@ -159,7 +159,17 @@
       "source": "Simply Wall Street",
       "published": "10-08 18:27",
       "published_iso": "2026-10-08T09:27:53+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "Samsung Electronics stock failed to rebound despite an earnings surprise... Why? - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lYlE3d2JIVjZWTGkxVFoyZUlpY3FxUXZDVndRN1FrdzhjUmFJWkczMzlGb3k5dF9SeW5VVUZ5czFKakk5M1M5ODJvVVB6eTR5dWFfVDl5cFIxd1pwcHc?oc=5",
+      "source": "경향신문",
+      "published": "10-08 15:55",
+      "published_iso": "2026-10-08T06:55:00+00:00",
+      "age": "1일 전"
     },
     {
       "ticker": "INTC",
@@ -469,7 +479,7 @@
       "source": "경상매일신문",
       "published": "10-07 16:33",
       "published_iso": "2026-10-07T07:33:45+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "379780",
@@ -829,16 +839,6 @@
       "source": "Simply Wall Street",
       "published": "10-05 14:52",
       "published_iso": "2026-10-05T05:52:21+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "005930",
-      "name": "삼성전자",
-      "title": "This Week, the KOSPI Hinges on Samsung Electronics Earnings - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42dWF1SVY5LVZWWWlibjB3QXlHTFU5OUZqSGpLRks1aDhJT3VTMzZ2dFJuamhYUW93TF81NS1ZdVUyN1c4THAwcjI1bjEtUlE1UEJNTHpUU2ctdjFhVVE?oc=5",
-      "source": "경향신문",
-      "published": "10-05 14:48",
-      "published_iso": "2026-10-05T05:48:00+00:00",
       "age": "4일 전"
     },
     {
