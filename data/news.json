@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 13:24 KST",
+  "updated_at": "2026-10-09 14:24 KST",
   "items": [
     {
       "ticker": "AMD",
@@ -9,7 +9,7 @@
       "source": "비즈워치",
       "published": "10-09 13:00",
       "published_iso": "2026-10-09T04:00:02+00:00",
-      "age": "24분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "379780",
@@ -19,7 +19,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "379800",
@@ -29,7 +29,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "379780",
@@ -39,7 +39,7 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "379810",
@@ -49,7 +49,7 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "NVDA",
@@ -59,7 +59,7 @@
       "source": "TradingKey",
       "published": "10-09 04:16",
       "published_iso": "2026-10-08T19:16:18+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "000660",
@@ -69,7 +69,7 @@
       "source": "매일경제",
       "published": "10-09 03:15",
       "published_iso": "2026-10-08T18:15:33+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "TSM",
@@ -79,7 +79,7 @@
       "source": "TradingKey",
       "published": "10-09 02:16",
       "published_iso": "2026-10-08T17:16:19+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "INTC",
@@ -89,7 +89,7 @@
       "source": "TradingKey",
       "published": "10-09 00:16",
       "published_iso": "2026-10-08T15:16:20+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "SCHD",
@@ -99,7 +99,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 00:07",
       "published_iso": "2026-10-08T15:07:45+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "TSM",
@@ -109,7 +109,7 @@
       "source": "Investing.com 한국어",
       "published": "10-08 23:52",
       "published_iso": "2026-10-08T14:52:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "COST",
@@ -119,7 +119,7 @@
       "source": "TIKR.com",
       "published": "10-08 23:11",
       "published_iso": "2026-10-08T14:11:46+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "ZETA",
@@ -129,7 +129,17 @@
       "source": "Investing.com 한국어",
       "published": "10-08 22:21",
       "published_iso": "2026-10-08T13:21:00+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
+    },
+    {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "빠른 진행 옵션이 궁금한 원게임 포커 기능 질문 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN1VXdHFTcDBfODhjXzBWZlpsRXVLenVQVXlYTHhQeEdBVVdUb21DVVdVYUV3Q0Z1c2lPZHVKTzlLYmFJUm43QzB2VW1Vc08zRXdCYVFCOHV4dGNHbWRNcnNPeWtZU2dxWE1HalZGWkR0cFJlRUNxa3NnRDBXTFlZLWcyOFIyUVdzRXdPeHhxZzhYeWYzT3lBM0YtalNadktZd3BoTjVmUFNRSi1KSTduajhBSlFMcjRP?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-08 19:07",
+      "published_iso": "2026-10-08T10:07:54+00:00",
+      "age": "19시간 전"
     },
     {
       "ticker": "TSLA",
@@ -139,7 +149,7 @@
       "source": "Simply Wall Street",
       "published": "10-08 18:27",
       "published_iso": "2026-10-08T09:27:53+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "005930",
@@ -149,7 +159,7 @@
       "source": "경향신문",
       "published": "10-08 15:55",
       "published_iso": "2026-10-08T06:55:00+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "INTC",
@@ -159,7 +169,7 @@
       "source": "코인리더스",
       "published": "10-08 14:50",
       "published_iso": "2026-10-08T05:50:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "VOO",
@@ -169,7 +179,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 14:44",
       "published_iso": "2026-10-08T05:44:03+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "379810",
@@ -312,16 +322,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "Sandisk (SNDK) 주식 개요 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ybzZHcF9HbkdaVm1wbmxoSWZHTUlhWTg0Q3A4N0dYWFg4ektDa1o5V1ZRblRscE81bXNsM1JkaXZQaGhXc19UVWhaZjJ5Tkc3NTZaV1lYdGNUSnUwNXJKY2JNdnlDR0FPRlVZ?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-08 00:21",
-      "published_iso": "2026-10-07T15:21:10+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
       "title": "AI정보분석 - ThinkPool",
@@ -379,16 +379,6 @@
       "source": "TradingKey",
       "published": "10-07 22:48",
       "published_iso": "2026-10-07T13:48:01+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "버핏의 '비밀 포트폴리오', 대형AI주 팔고 '이것' 투자했다 - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZUZwTVl3NGk4REcxSDJrbFI2dGg2bzB6aEltUmZsTmdPc25NenFHdnFsWU5aelVpcDRaaWhqc1cyZXgxd2pKVU83TlBDbDI3cmRxZDRnM1BfTzV3X0RMODNybi1TZjZ0QkdkWG1XYUlxQWZvTGg3cmRyNGVmU1dsVA?oc=5",
-      "source": "이데일리",
-      "published": "10-07 22:30",
-      "published_iso": "2026-10-07T13:30:51+00:00",
       "age": "1일 전"
     },
     {
@@ -502,6 +492,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "SK하이닉스 미국 상장(SKHY) 주가 전망 2026: 목표주가 $245.21, 본주 대비 프리미엄의 의미 - Mitrade",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdGc4VW4yZXRWWllhSVhHcmtIdTBhdk9wNXNVa1pXcFkwZjVPZ2pHNFdQTkRPTmUwZjg4bUtzU2RJc05INUgzaW10TEJ2d3VObDY4eVpOdXQyT2laZk5STjdBb05KVFkwNTUwdTZBQnlYRXJOWm5qa0NDUW5TRVB3SUhZQkxwQlMyMGRTMGhqQQ?oc=5",
+      "source": "Mitrade",
+      "published": "10-07 16:00",
+      "published_iso": "2026-10-07T07:00:00+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
       "title": "미래에셋, ‘TIGER 미국 타겟데일리커버드콜’ 3종 개인 순매수 1조원 돌파 - 매일일보",
@@ -539,6 +539,16 @@
       "source": "인포스탁데일리",
       "published": "10-07 11:28",
       "published_iso": "2026-10-07T02:28:32+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "특수 기능의 이름보다 중요한 토토 꽁모니 발동 조건 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMXRRd05KWS1YVmc5Nm5vcDRibUwtZmZSQWtYSktWUEZFUDlPTVpGZzdmNHlUbGtHMGFBV2c2ZW80M3RPMElCYWRIamlhM3FFUFdDaGFUVEE3b08yaWk2Y3VPMHFEZjBSdXNQMTdLeXlwc3ZJV0wxQTBQSEtkYXhoeWd4U3JDWXEwOWNoUzRoaHUxUU50V21BZ0I0UkFNTVBiUUtkS3RjYnlZUlFvem8xbDh3dkh6em9yLU5DTmJVT054YldHbGJSc0I4cDdOZnFCUFBOeVlvdHBiMGdQU1RfNnZpNGpDbTdMR0JDTkFGQQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-07 10:38",
+      "published_iso": "2026-10-07T01:38:47+00:00",
       "age": "2일 전"
     },
     {
@@ -699,17 +709,7 @@
       "source": "디지털데일리",
       "published": "10-06 14:16",
       "published_iso": "2026-10-06T05:16:36+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "SK Hynix, 50% 피보나치 변곡점 도달: 매시간 업데이트 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96cVd6clU5dEQ2LXZlVWNRR2NtNGkyQ0NPYlh0ZWIwcW1LdEdtWHp1M3V0T3ZpYUNyNUtkRUtMVjJpRDN0OHZYeE1VUUk3bGczZ3ZwdHRtdUFEN3FlZDFrbXZuMVp5UkN3bjlfSGdkbUU5bkpKeWtF?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-06 14:02",
-      "published_iso": "2026-10-06T05:02:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "005380",
@@ -842,14 +842,14 @@
       "age": "4일 전"
     },
     {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "\"반도체만 믿다간 큰일\" 돌변하더니…뭉칫돈 '대이동' [김연지의 연금빌드업] - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zS09falY4Vkg4YmJ5NjFyRFJEN0tUMklMMFZsNzBjNEtxVElkQXo0eG1KRnZvQ2M3SDhrZXo4Z1JoYlNQNDViT0FoZkZ3OE80cHo1LXlRQTAtQQ?oc=5",
-      "source": "한국경제",
-      "published": "10-04 09:00",
-      "published_iso": "2026-10-04T00:00:01+00:00",
-      "age": "5일 전"
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "마이크론 대 샌디스크: AI 데이터센터 붐이 계속 가열되는 가운데, 어느 메모리주가 더 나은 매수 대상인가? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMDNRQ0JhN0U0N3o4NGFvUHFCV1dxbi1pY1RyaXF0TV9rczJQREhWMzF6NzBLczdrT09JQUJTdWhzaFZOSGJOMU9RWjdzb3k2THppdGJ5RGRGTTM5QjVmUXpTaFRjR1V2cWtDMU1pRmFTZ1N0WmtES3JFNDdiZml6bmFoZ1ZZVWM0SjgtalVsUGs1VVpCR1d2S2dnUVJJWVFnckY4NFFucEhTc3lwRHVRcmxobFlDUl94MW1DUWotNm0zb1hjR2c?oc=5",
+      "source": "TradingKey",
+      "published": "10-04 17:00",
+      "published_iso": "2026-10-04T08:00:00+00:00",
+      "age": "4일 전"
     },
     {
       "ticker": "379810",
