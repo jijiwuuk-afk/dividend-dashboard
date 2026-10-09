@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-10 00:23 KST",
+  "updated_at": "2026-10-10 01:24 KST",
   "items": [
+    {
+      "ticker": "GLDM",
+      "name": "SPDR Gold MiniShares Trust",
+      "title": "금 ETF 추천 종목 5가지 — 1,000만원 넣기 전 세금·수수료부터 비교했습니다 - Mitrade",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSEhvRHVHaWdhWnU5UGtsOHVBNE1vZjNLMWxaY0RrOTVaX2ZyRERIUkhBaURMN3VNXy00d3BUbkZlNHM1UXByOThkNm9mbWg2c3Bqa0pvR2p0aXlybzFYNkRGT1ZFRkk5ZmFvQ1NEcThBWUx0RlA5UF9uYm9iR2g5NERNQ1hPc2pIcmVtNUlKYXo?oc=5",
+      "source": "Mitrade",
+      "published": "10-09 19:01",
+      "published_iso": "2026-10-09T10:01:10+00:00",
+      "age": "6시간 전"
+    },
     {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
@@ -9,7 +19,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "0072R0",
@@ -19,7 +29,7 @@
       "source": "뉴시스",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "379800",
@@ -29,7 +39,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "379780",
@@ -39,7 +49,7 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "379810",
@@ -49,7 +59,7 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "NVDA",
@@ -59,7 +69,7 @@
       "source": "TradingKey",
       "published": "10-09 04:16",
       "published_iso": "2026-10-08T19:16:18+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "000660",
@@ -69,7 +79,7 @@
       "source": "매일경제",
       "published": "10-09 03:15",
       "published_iso": "2026-10-08T18:15:33+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "TSM",
@@ -79,7 +89,7 @@
       "source": "TradingKey",
       "published": "10-09 02:16",
       "published_iso": "2026-10-08T17:16:19+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "GOOG",
@@ -89,17 +99,7 @@
       "source": "Traders Union",
       "published": "10-09 02:09",
       "published_iso": "2026-10-08T17:09:07+00:00",
-      "age": "22시간 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "마이크론, 샌디스크, SK하이닉스 2% 넘게 오르며 메모리주 일제히 반등 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS0kyTWJpY01WdllPN09qdENIQ0FEUTA4eGtJb1RwQk1wNXBZMmdtQnhaU0FSR3J1REV5blliSnNnckZ1WnAyTXctWUl4UzVfemxVbXRndnY3OGdZcTdaSlZSMmRiLWtJa0tsU1pRZFczNWVsakZjaUh3YU53bHVrOUpIYzlSOWprTVlhanVodnVVa2Z3RmlNMkVNTzBCa2kxTVE5NTNCRlJZQjkzdVktZVZlSWlMUXZMekNMRW1zUW5XbVo1blNPdElnaUs4TVRudlRSZUdJSXdxRE5q?oc=5",
-      "source": "TradingKey",
-      "published": "10-09 01:53",
-      "published_iso": "2026-10-08T16:53:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "INTC",
@@ -189,16 +189,6 @@
       "source": "Simply Wall Street",
       "published": "10-08 18:27",
       "published_iso": "2026-10-08T09:27:53+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "005930",
-      "name": "삼성전자",
-      "title": "Samsung Electronics stock failed to rebound despite an earnings surprise... Why? - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lYlE3d2JIVjZWTGkxVFoyZUlpY3FxUXZDVndRN1FrdzhjUmFJWkczMzlGb3k5dF9SeW5VVUZ5czFKakk5M1M5ODJvVVB6eTR5dWFfVDl5cFIxd1pwcHc?oc=5",
-      "source": "경향신문",
-      "published": "10-08 15:55",
-      "published_iso": "2026-10-08T06:55:00+00:00",
       "age": "1일 전"
     },
     {
@@ -344,6 +334,16 @@
     {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
+      "title": "Sandisk (SNDK) 주식 개요 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ybzZHcF9HbkdaVm1wbmxoSWZHTUlhWTg0Q3A4N0dYWFg4ektDa1o5V1ZRblRscE81bXNsM1JkaXZQaGhXc19UVWhaZjJ5Tkc3NTZaV1lYdGNUSnUwNXJKY2JNdnlDR0FPRlVZ?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-08 00:21",
+      "published_iso": "2026-10-07T15:21:10+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
       "title": "SanDisk Corporation (SNDK) 주식 움직였습니다 상승 3.25%에 10월7일: 어떤 신호인가요? - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXE1ODBkNlNvZnA1MHp3aU43TThFZjh2b1ZldWxoQi1RUUNKN2V6RnJ2amxIZVQ0S2hUUkZWMGhMdFk4V1plMm5NYnY2XzQ0UlpXdFF3a1RzRHNwM3Z3ODhab210eVZidmpOdDNiM21LUmZ3OXZlQnJaWXlLSm1NdnRYRVhOVC1zYnFHQ000dw?oc=5",
       "source": "TradingKey",
@@ -389,16 +389,6 @@
       "source": "TradingKey",
       "published": "10-07 22:48",
       "published_iso": "2026-10-07T13:48:01+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "도박 대출 디시 도움말 업데이트 여부 확인 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYjFIeEFlanh4bWkzTGdiMTlnTGlGbVN2YW81UW03M1UzcnozWVNiYUtxTjBZMGs4dV9OX203UnpnMHVTd0hKY1JaWkJ1cmVJeG91VWc4alVvZU1WdFFTclEyR21jTHY0UHBRaDVOOXVDY2hFQklHT3pXRkZ2ek4xM25NSzV6ZkUxOUNFVQ?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-07 20:49",
-      "published_iso": "2026-10-07T11:49:05+00:00",
       "age": "2일 전"
     },
     {
@@ -702,6 +692,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "Caterpillar 주가, 노스캐롤라이나 $1B 시설 확장 발표 후 $892 저항선 부근에서 거래 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOblpYaXgwMjVSZnVxT0FXUUpBaXN0aThES05JTGNabmdiRk00cUhUQi14ZjZKcklYUF9sMlFIQUd3cG82Mm1COGpReHJwa2V3LUQyMXgzdnZEaU5ERUU5TExpSVZuUkNWYlFyUUtzR01GVmpRa1dVRkR4R3VKM1pIYzdQdHl0azNrdU5sMEp5WHFfcV9CUlRkTWQ5OA?oc=5",
+      "source": "Traders Union",
+      "published": "10-06 23:48",
+      "published_iso": "2026-10-06T14:48:40+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
       "title": "DA Davidson이 성장 전망에 따라 Zeta Global 목표주가를 상향 조정 - Investing.com 한국어",
@@ -749,6 +749,16 @@
       "source": "위키리크스한국",
       "published": "10-06 17:25",
       "published_iso": "2026-10-06T08:25:56+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "파운드리發 반도체값 도미노 인상 예고…TSMC, 내년 파운드리 단가 10% 올린다 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvZmZINWhLdDNOdEV5ekJmMmgwbDdqTDQ1Rml0VW14M0JJeDliZm53NmpaUWdTMTZTVUxmemQzMHBhelEwUHNta0kzdHRSVWMzdXROUDd3?oc=5",
+      "source": "매일경제",
+      "published": "10-06 15:10",
+      "published_iso": "2026-10-06T06:10:14+00:00",
       "age": "3일 전"
     },
     {
@@ -862,6 +872,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "This Week, the KOSPI Hinges on Samsung Electronics Earnings - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42dWF1SVY5LVZWWWlibjB3QXlHTFU5OUZqSGpLRks1aDhJT3VTMzZ2dFJuamhYUW93TF81NS1ZdVUyN1c4THAwcjI1bjEtUlE1UEJNTHpUU2ctdjFhVVE?oc=5",
+      "source": "경향신문",
+      "published": "10-05 14:48",
+      "published_iso": "2026-10-05T05:48:00+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
       "title": "[분배형 ETF 돋보기] 배당-이자 극복한 옵션 커버드콜…SOL팔란티어 28% 1위 - 딜사이트",
@@ -939,7 +959,7 @@
       "source": "Simply Wall Street",
       "published": "10-04 01:20",
       "published_iso": "2026-10-03T16:20:31+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "ZETA",
@@ -949,7 +969,7 @@
       "source": "VALORANT Esports | Schedule",
       "published": "10-04 01:17",
       "published_iso": "2026-10-03T16:17:35+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "INTC",
@@ -979,26 +999,6 @@
       "source": "비즈워치",
       "published": "10-03 09:00",
       "published_iso": "2026-10-03T00:00:03+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "[월간 ETF워치]레버리지 팔고 미국으로…개미, S&P500 담았다 - 비즈워치",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12YzR6OHo0bG9uQkNPY0VtQXNaZWYxeDRYZUVIOWxNT1RsT0tlMjZrSHA2clZFYlVpSF9GNXptanpSQVhpc1ZTZ01qYTZvOWpvRmhLOFc3Z1E5X1ZBbG9WQV9Hb1Q1eHV2Ymc?oc=5",
-      "source": "비즈워치",
-      "published": "10-03 09:00",
-      "published_iso": "2026-10-03T00:00:03+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
-      "title": "[ETF머니플로우-9월4주] TIGER 미국S&P500 순매수 1위 탈환…KODEX 200타겟위클리커버드콜 6계단 - 신아일보",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvaS1wa1daSWV4XzFEbWd6VkQwTmlLLWVVS1h1cnZycE1YaFRJb0JrTDA2Z0NNQktpbXlmWmJLU3p5dTA1SkdqYjdLcXlVTlRrM1RKSnVEbEs0TVc4V0p3cEI0Wm9aTlpRYXZnV2hIaUY?oc=5",
-      "source": "신아일보",
-      "published": "10-03 08:00",
-      "published_iso": "2026-10-02T23:00:00+00:00",
       "age": "6일 전"
     }
   ]
