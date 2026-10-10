@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-10 21:26 KST",
+  "updated_at": "2026-10-10 22:22 KST",
   "items": [
+    {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "스트리밍 광고 재편에서 볼 종목 3선 Zeta Global과 AppLovin 주목 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3BVanV4WC1STVdGeTZJbFR3cmc2LWV2OTEwS3hVYmNVSUVNX1pNZzZMSlk1M241aC1kYmJwXzBNX082UjFabUE4TUdMNUJHVXpfX1FESkItY3EzRTNhX0FJbHNWLTl3YnNXZ0hBUDE4SGdEN3pPQzZkX1NBTVhwT1Rkajl1eW43MFlHcDlNUjlKWE1XWWJvN1JiQkVReW9MYUHSAaIBQVVfeXFMTmtwVWp1eFgtUk1XRnk2SWxUd3JnNi1ldjkxMEt4VWJjVUlFTV9aTWc2TEpZNTNuNWgtZGJicF8wTV9PNlIxWm1BOE1HTDVCR1V6X19RREpCLWNxM0UzYV9BSWxzVi05d2JzV2dIQVAxOEhnRDd6T0M2ZF9TQU1YcE9UZGo5dXluNzBZR3A5TVI5SlhNV1libzdSYkJFUXlvTGFB?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-10 08:19",
+      "published_iso": "2026-10-09T23:19:41+00:00",
+      "age": "14시간 전"
+    },
     {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
@@ -9,7 +19,7 @@
       "source": "연합뉴스",
       "published": "10-10 08:00",
       "published_iso": "2026-10-09T23:00:01+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "GEV",
@@ -19,7 +29,7 @@
       "source": "Simply Wall Street",
       "published": "10-10 06:58",
       "published_iso": "2026-10-09T21:58:25+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "GOOG",
@@ -29,7 +39,7 @@
       "source": "Traders Union",
       "published": "10-10 01:02",
       "published_iso": "2026-10-09T16:02:15+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "CAT",
@@ -39,7 +49,7 @@
       "source": "Simply Wall Street",
       "published": "10-09 22:43",
       "published_iso": "2026-10-09T13:43:48+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "379800",
@@ -49,7 +59,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 21:47",
       "published_iso": "2026-10-09T12:47:48+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "QQQM",
@@ -59,7 +69,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 21:47",
       "published_iso": "2026-10-09T12:47:48+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "VOO",
@@ -69,6 +79,16 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 20:11",
       "published_iso": "2026-10-09T11:11:40+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "[챗ICT]'아이돌인줄…' 리사 수에 열광한 까닭 - 비즈워치",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82dDRpcDh0LUIxY01MZmNKYTkyVi1RTDh1MC0wNTlJYTN2WUF5T1plNW5WYVVSdXpYSEF0S0tEdlpjMVpPX3pSc2VsVzctZ2s3bXhqNV9neEhXNHVWdGR6VHpoRTJ4enVHY3c?oc=5",
+      "source": "비즈워치",
+      "published": "10-09 13:00",
+      "published_iso": "2026-10-09T04:00:02+00:00",
       "age": "1일 전"
     },
     {
@@ -182,16 +202,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "Advanced Micro Devices Inc (AMD) 주식 움직였습니다 하락 3.38%에 10월8일: 핵심 원인 공개 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMVhrcW1HV1ZaOXBVUFFyd09KWFRaalBiUGZnN21iOUlMalpyMDlsQng4NU1FNlRVZ3FSZmJWTzVSaUxGRHFobGU4QTlPVGxmVUJUWVc2eEdsRWpNdzZkQXJaUnZWQnZyZUx0X0NkQTBORHBmNzVpZTJnT1I2VEhUWm5RbFk1NlB1bkV0b05R?oc=5",
-      "source": "TradingKey",
-      "published": "10-09 02:16",
-      "published_iso": "2026-10-08T17:16:17+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
       "title": "Alphabet 주가 전망: GOOGL, 횡보세 속 $344 지지선 유지 - Traders Union",
@@ -249,17 +259,7 @@
       "source": "Investing.com 한국어",
       "published": "10-08 22:21",
       "published_iso": "2026-10-08T13:21:00+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "Zeta Global, 엔터프라이즈 AI 시스템 ’AthenaOS’ 공개 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9feGpUYkRvS3Izc0FaOHgtWVE4cFBZSEZSU3RJZmRWa3N0SUdRR0dCR2pzSnNVNmdPbm9yT1BvSzlUMGEzWGx1bmFReGFvNEJiaTNONzBmbFIzWkt0MFRUMDZGYTR1RVI0QTZTSmR0Q1A?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-08 22:21",
-      "published_iso": "2026-10-08T13:21:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "VOO",
