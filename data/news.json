@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10 12:22 KST",
+  "updated_at": "2026-10-10 13:22 KST",
   "items": [
     {
       "ticker": "368590",
@@ -9,7 +9,7 @@
       "source": "연합뉴스",
       "published": "10-10 08:00",
       "published_iso": "2026-10-09T23:00:01+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "ZETA",
@@ -19,7 +19,7 @@
       "source": "Investing.com 한국어",
       "published": "10-09 23:19",
       "published_iso": "2026-10-09T14:19:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "379800",
@@ -29,7 +29,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 21:47",
       "published_iso": "2026-10-09T12:47:48+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "QQQM",
@@ -39,17 +39,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 21:47",
       "published_iso": "2026-10-09T12:47:48+00:00",
-      "age": "14시간 전"
-    },
-    {
-      "ticker": "GLDM",
-      "name": "SPDR Gold MiniShares Trust",
-      "title": "금 ETF 추천 종목 5가지 — 1,000만원 넣기 전 세금·수수료부터 비교했습니다 - Mitrade",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSEhvRHVHaWdhWnU5UGtsOHVBNE1vZjNLMWxaY0RrOTVaX2ZyRERIUkhBaURMN3VNXy00d3BUbkZlNHM1UXByOThkNm9mbWg2c3Bqa0pvR2p0aXlybzFYNkRGT1ZFRkk5ZmFvQ1NEcThBWUx0RlA5UF9uYm9iR2g5NERNQ1hPc2pIcmVtNUlKYXo?oc=5",
-      "source": "Mitrade",
-      "published": "10-09 19:01",
-      "published_iso": "2026-10-09T10:01:10+00:00",
-      "age": "17시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "379780",
@@ -212,16 +202,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "Alphabet 주가, $355.26 저항선 테스트: 기술적 전망 - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHJvV2puZHVpUEppQ2Q1SUNJZTRYdm12UzNWS1V3Z0xvaWFMa3EwcE15TmhNRTJOcERwXzFIVnZ5Z19kOHpPSlltQnBMN0FGRDBHQXBoNlBINC1KUnRzM1BzNzhuSVZSbDF3eW0tVVFTMFEyNDZnbzR0UzhtcVIyazYtcVJabU54UWVVMkd4cw?oc=5",
-      "source": "Traders Union",
-      "published": "10-08 23:29",
-      "published_iso": "2026-10-08T14:29:50+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "COST",
       "name": "Costco Wholesale Corporation",
       "title": "Costco’s September Sales Jumped 13%. How Much of That Was Gas? - TIKR.com",
@@ -249,6 +229,16 @@
       "source": "Simply Wall Street",
       "published": "10-08 21:50",
       "published_iso": "2026-10-08T12:50:07+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "TD Cowen, 클라우드 성장 기대에 Alphabet 목표주가 상향 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUjlQMGYxanlUMzAwekRIRWRQX3R2R094Nmlxb0xlTThhX2xCNmZRYVpyTi1LXzFFN0ZtR0F3TURzc3FOZlVQOUc1RDR4V0FrTmd5QWl6MkkwbWdKeV9zbDRDNW94MEdsRUQwOGVBZ05jeDY3?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-08 21:43",
+      "published_iso": "2026-10-08T12:43:00+00:00",
       "age": "1일 전"
     },
     {
@@ -339,7 +329,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 12:34",
       "published_iso": "2026-10-08T03:34:05+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "489250",
@@ -349,7 +339,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 12:34",
       "published_iso": "2026-10-08T03:34:05+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "CAT",
@@ -359,7 +349,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "published": "10-08 12:30",
       "published_iso": "2026-10-08T03:30:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "GLDM",
@@ -449,6 +439,16 @@
       "source": "알파경제",
       "published": "10-08 06:00",
       "published_iso": "2026-10-07T21:00:00+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "사설 사이트 추천 게임 내 언어 설정 확인 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQam5OYnpuaU0wc3QzZk5mNS1vYmxlRXpQR2lLWmJLUWZ2RnNxXzhuVFF2UzBCR3EzeGlCc2J0MTdpNUlYQWh3TUQxa1gyQ1JiSmstTlU1eWJlZnI2aDlHUkd1ZGxCYy1nVHpJRUdLb0dXTDVSUzByMWdsN095UXg3b2JPRG5iSmlKSmVva2xpWWJUdWh2eXVfYlp6TVVsdmtfTVZXTkRNcFhGVUxmTFVuamo3VWptMnktQnR2c3VsbGlRN04wd0JZVlVxWFo3UQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-08 05:13",
+      "published_iso": "2026-10-07T20:13:32+00:00",
       "age": "2일 전"
     },
     {
@@ -632,16 +632,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "엔비디아(NVDA), 시총 6조 달러 턱밑까지 껑충...\"실적 30% 더 뛴다\" - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8wVnZyTG9JX3RpMXF0Y3BXNTBuUmt6VEZXZTRYMkd6TVFTTXR2YldnRF81ZGNXT0Eya2pmZmFrRElCYUcwdU82MThn?oc=5",
-      "source": "코인리더스",
-      "published": "10-07 12:10",
-      "published_iso": "2026-10-07T03:10:00+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "005930",
       "name": "삼성전자",
       "title": "Samsung Electronics, SK hynix rebound from early losses - 매일경제",
@@ -812,16 +802,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "\"AI 병목 구간은 메모리\"… 삼전닉스 담는 새 글로벌ETF - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xdk1qVktGb2VMUHkySFNUQ01qRE16d1liNFhWcC04SXhRWXlDQ21aaHluMFY4cEhtdlpHY09IcjVQM0EtbzdhY2NLRy1vbGpBVnc?oc=5",
-      "source": "매일경제 마켓",
-      "published": "10-06 17:29",
-      "published_iso": "2026-10-06T08:29:59+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
       "title": "[ETF NOW] KB자산운용·한국투자신탁운용 - 위키리크스한국",
@@ -879,6 +859,16 @@
       "source": "Hyundai Motor Group",
       "published": "10-06 08:30",
       "published_iso": "2026-10-05T23:30:00+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "엔비디아(NVDA.N) 사상 최대 자사주 매입..주가 '고공 행진' - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MNFdTUU5xekx5WF92TWJRSFBobk1CRFNEdzM5elVPTmVyd1dKT2J2WklOWmlIRXM2aVNsWllfU2pid2ppWGt4amR2U1lLYUNlSlJLSmdwN1BZdEtGYk1iNlg0ajR1b0Q3eHhGbG9B?oc=5",
+      "source": "알파경제",
+      "published": "10-06 08:29",
+      "published_iso": "2026-10-05T23:29:34+00:00",
       "age": "4일 전"
     },
     {
@@ -999,6 +989,16 @@
       "source": "한국경제",
       "published": "10-04 09:00",
       "published_iso": "2026-10-04T00:00:01+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
+      "title": "“돈은 미장·파킹형 갔는데”… 수익은 코스닥 ‘소부장’서 터졌다 [선데이 머니카페] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkTzRlSUNMWkNuWFp4bTRxd1JJVXM0WUFsNWdaSkthNE9xUDVYZnFXY2pIdFBCVmJwYnI5YUVMaWczOWZQeTM0akNQcGdCeURsemfSAVNBVV95cUxNaFpyNmtpVkd5REhVTDVKcGs3M29qazBVbW83S3hVN01oV3BRNV9SOTZkQTdmbktqUVpJUUdUdUQ3bEg1OXVtT3RXTHR6TWdCRzVpYw?oc=5",
+      "source": "서울경제",
+      "published": "10-04 07:00",
+      "published_iso": "2026-10-03T22:00:00+00:00",
       "age": "6일 전"
     }
   ]
