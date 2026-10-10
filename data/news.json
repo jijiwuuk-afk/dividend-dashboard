@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-10-10 20:21 KST",
+  "updated_at": "2026-10-10 21:26 KST",
   "items": [
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "스트리밍 광고 재편에서 볼 종목 3선 Zeta Global과 AppLovin 주목 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3BVanV4WC1STVdGeTZJbFR3cmc2LWV2OTEwS3hVYmNVSUVNX1pNZzZMSlk1M241aC1kYmJwXzBNX082UjFabUE4TUdMNUJHVXpfX1FESkItY3EzRTNhX0FJbHNWLTl3YnNXZ0hBUDE4SGdEN3pPQzZkX1NBTVhwT1Rkajl1eW43MFlHcDlNUjlKWE1XWWJvN1JiQkVReW9MYUHSAaIBQVVfeXFMTmtwVWp1eFgtUk1XRnk2SWxUd3JnNi1ldjkxMEt4VWJjVUlFTV9aTWc2TEpZNTNuNWgtZGJicF8wTV9PNlIxWm1BOE1HTDVCR1V6X19RREpCLWNxM0UzYV9BSWxzVi05d2JzV2dIQVAxOEhnRDd6T0M2ZF9TQU1YcE9UZGo5dXluNzBZR3A5TVI5SlhNV1libzdSYkJFUXlvTGFB?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-10 08:19",
-      "published_iso": "2026-10-09T23:19:41+00:00",
-      "age": "12시간 전"
-    },
     {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
@@ -19,7 +9,37 @@
       "source": "연합뉴스",
       "published": "10-10 08:00",
       "published_iso": "2026-10-09T23:00:01+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova Inc.",
+      "title": "GE 베르노바 주식에 대한 투자자들의 반응: AI 데이터센터 수주 급증 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONEtBZ1VENXJKUWxnc2tfcG50T0g5N3FvLWpwY0lSM19QSTZzc0tQMFR4MGFOTW5ucnZETU9Ia0hISjhSUkw4bnpKZE1vTmtQVEVHZVlrVXRWbTBJeGlCdlN3d0VZMHZUTFNSRE9zVFh0UHJLMjFFbTBJNUF3d002UHFwTEhmMWJqbzRpOWVWVDdET0FCY1ZYVjZn0gGaAUFVX3lxTE40S0FnVUQ1ckpRbGdza19wbnRPSDk3cW8tanBjSVIzX1BJNnNzS1AwVHgwYU5Nbm5ydkRNT0hrSEhKOFJSTDhuekpkTW9Oa1BURUdlWWtVdFZtMEl4aUJ2U3d3RVkwdlRMU1JET3NUWHRQcksyMUVtMEk1QXd3TTZQcXBMSGYxYmpvNGk5ZVZUN0RPQUJjVlhWNmc?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-10 06:58",
+      "published_iso": "2026-10-09T21:58:25+00:00",
+      "age": "14시간 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "Gemini 확장으로 Alphabet 전망 강화되며 Google 주가 상승 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeXNITDBOYnBnSzlkc21vRDZEOVRRWFpaX0ZtM1AzVVAzZ0k1Wkh5U01lM3BDWDdWTWRRUnU3T3U5dU42X1NWSUN0d3JpcUs5dGFuRk9kUUNodU51ZUR5TTYxTkszX0tYdTFrcGY0M0JmN3YxNnktcVExcXZ0b1hlYzBucDJnT1YtYW81YmNGanNDWWp5S1RHVjJIdVROTktWTFA1bGNsYkZuSXNQNnA0ZlJzRVJ6Q1FqeTJEYkZjVQ?oc=5",
+      "source": "Traders Union",
+      "published": "10-10 01:02",
+      "published_iso": "2026-10-09T16:02:15+00:00",
+      "age": "20시간 전"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "캐터필러(CAT) 주가는 미래 현금흐름을 고려할 때 저평가된 것으로 보인다 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmFEWXEzZEFFRnNjamNBd0MzMDd1aDAxVnFpV0NJTjRzZDJYZlRCVEwwdkdMWEpjRHJ2eU9YbW5GYjJOMjJGSVBtMkUtd3lvN19oUEZOemdiTFI2emZReFNTNmFZcWFxck94aUU1WmdwTkNrUlZENlRJUEdaTmd6WGhicmxCWTJka1BlQkViaXl1LWZ4dFlyVGowTdIBmwFBVV95cUxPQmFEWXEzZEFFRnNjamNBd0MzMDd1aDAxVnFpV0NJTjRzZDJYZlRCVEwwdkdMWEpjRHJ2eU9YbW5GYjJOMjJGSVBtMkUtd3lvN19oUEZOemdiTFI2emZReFNTNmFZcWFxck94aUU1WmdwTkNrUlZENlRJUEdaTmd6WGhicmxCWTJka1BlQkViaXl1LWZ4dFlyVGowTQ?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-09 22:43",
+      "published_iso": "2026-10-09T13:43:48+00:00",
+      "age": "22시간 전"
     },
     {
       "ticker": "379800",
@@ -29,7 +49,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 21:47",
       "published_iso": "2026-10-09T12:47:48+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "QQQM",
@@ -39,7 +59,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 21:47",
       "published_iso": "2026-10-09T12:47:48+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "VOO",
@@ -119,16 +139,6 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "Caterpillar Stock Fell Nearly 6% in a Day as Treasury Yields Hit 24-Year Highs. Here’s Why Gas Compression Demand Matters - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSW5KUDFBQ2ZEbHNZQzdyLW1pbmFVcFREcVdBSjN5a18yVC1NNE8wQlA4NERJYTk2dEVkVUZyMkpvWTV3aExNSVRiMnNiNVQ0VllLeVpHeXpkb1ZhZ1p5MTJEOUNFX0phVmd1RndwaTVRdWVzRm5wbmRBRHk1T2NOVmVBQzVXQzJyQnExOEgwT0R6UlhpS3lCSGlFMFBxYndNSkVidWx4a2ZUN1Bab18wUl9Kc01UU2xSSll0SkpuQUFMX0RWTUZrVG9Pc2Nqckh6cGZ2RFpyMkx3RnB4czhzbw?oc=5",
-      "source": "TIKR.com",
-      "published": "10-09 05:37",
-      "published_iso": "2026-10-08T20:37:30+00:00",
       "age": "1일 전"
     },
     {
@@ -242,23 +252,13 @@
       "age": "1일 전"
     },
     {
-      "ticker": "GEV",
-      "name": "GE Vernova Inc.",
-      "title": "에너지 전환 분야의 최신 소식 - 오라클, 스카우트와의 풍력 에너지 파트너십을 통해 역량 강화 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZTZUMUYwdkhhcTk2Z2ZEczBtWVhMUHBaZC03NWZyTk5rM0JmMVVyb1I1NU9WZjJPb2p2XzRjaWhScmxWOFd1V25CWFU1SG9WenBxV2NESGVzTkRuc3NGcWR0S01nZWozUWpVS2k2VDdDUDloODBSQkd3YnZLeXlseGh0eG92YXEtQkHSAY8BQVVfeXFMTlJ0akF2M2N5UUpHMXJtOUlLWlNZWHFpS1Npd3hpbTNwSFN5SkxEOC1NU2MwZXduRUhSc3ZsUnBFZFVkakVtVWNhdXVmXzVZeXBTOXBlY1U1M0ktakRZemd5M01oeDJkU1NzZ09DMFNQOXJXYlFBaHV6WWxMeG1HRGxZUHFXbnJoWS1TaDdDODA?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-08 21:50",
-      "published_iso": "2026-10-08T12:50:07+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "TD Cowen, 클라우드 성장 기대에 Alphabet 목표주가 상향 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUjlQMGYxanlUMzAwekRIRWRQX3R2R094Nmlxb0xlTThhX2xCNmZRYVpyTi1LXzFFN0ZtR0F3TURzc3FOZlVQOUc1RDR4V0FrTmd5QWl6MkkwbWdKeV9zbDRDNW94MEdsRUQwOGVBZ05jeDY3?oc=5",
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "Zeta Global, 엔터프라이즈 AI 시스템 ’AthenaOS’ 공개 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9feGpUYkRvS3Izc0FaOHgtWVE4cFBZSEZSU3RJZmRWa3N0SUdRR0dCR2pzSnNVNmdPbm9yT1BvSzlUMGEzWGx1bmFReGFvNEJiaTNONzBmbFIzWkt0MFRUMDZGYTR1RVI0QTZTSmR0Q1A?oc=5",
       "source": "Investing.com 한국어",
-      "published": "10-08 21:43",
-      "published_iso": "2026-10-08T12:43:00+00:00",
+      "published": "10-08 22:21",
+      "published_iso": "2026-10-08T13:21:00+00:00",
       "age": "1일 전"
     },
     {
@@ -529,7 +529,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-07 20:44",
       "published_iso": "2026-10-07T11:44:58+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "0072R0",
@@ -539,7 +539,7 @@
       "source": "서울경제",
       "published": "10-07 20:24",
       "published_iso": "2026-10-07T11:24:28+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "COST",
