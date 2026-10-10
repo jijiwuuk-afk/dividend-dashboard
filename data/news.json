@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 07:21 KST",
+  "updated_at": "2026-10-11 08:20 KST",
   "items": [
     {
       "ticker": "487230",
@@ -9,7 +9,7 @@
       "source": "IT조선",
       "published": "10-11 06:20",
       "published_iso": "2026-10-10T21:20:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "GEV",
@@ -19,7 +19,17 @@
       "source": "TIKR.com",
       "published": "10-11 01:54",
       "published_iso": "2026-10-10T16:54:31+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
+    },
+    {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "스트리밍 광고 재편에서 볼 종목 3선 Zeta Global과 AppLovin 주목 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3BVanV4WC1STVdGeTZJbFR3cmc2LWV2OTEwS3hVYmNVSUVNX1pNZzZMSlk1M241aC1kYmJwXzBNX082UjFabUE4TUdMNUJHVXpfX1FESkItY3EzRTNhX0FJbHNWLTl3YnNXZ0hBUDE4SGdEN3pPQzZkX1NBTVhwT1Rkajl1eW43MFlHcDlNUjlKWE1XWWJvN1JiQkVReW9MYUHSAaIBQVVfeXFMTmtwVWp1eFgtUk1XRnk2SWxUd3JnNi1ldjkxMEt4VWJjVUlFTV9aTWc2TEpZNTNuNWgtZGJicF8wTV9PNlIxWm1BOE1HTDVCR1V6X19RREpCLWNxM0UzYV9BSWxzVi05d2JzV2dIQVAxOEhnRDd6T0M2ZF9TQU1YcE9UZGo5dXluNzBZR3A5TVI5SlhNV1libzdSYkJFUXlvTGFB?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-10 08:19",
+      "published_iso": "2026-10-09T23:19:41+00:00",
+      "age": "1일 전"
     },
     {
       "ticker": "368590",
@@ -29,7 +39,7 @@
       "source": "연합뉴스",
       "published": "10-10 08:00",
       "published_iso": "2026-10-09T23:00:01+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "GEV",
@@ -149,7 +159,7 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "379800",
@@ -159,7 +169,7 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "379810",
@@ -169,7 +179,7 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "COST",
@@ -342,16 +352,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "테마와 시스템을 함께 이해하는 파워볼 3분 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTWZwUzZ6TlJON3dYZzhoMXVlSE1MaGNlWHRUZWpXSmh6TUJOWmVJZ3MtQlNOQnRodUJraXlQcjZZeURsTXM2ZlpIWVVpejN3SVZSVWtHQnpuZWJhVTFIVEluaUJuNW1jLXdXT1RQb3VMd3VoLUUyazluUUNzQzZ2Vzlnb0cwQVQwbVF5SHRPV3NOZlZHOFRQOGhzVU93VUtacU1SS0Z0NU1jSVFweFZ0M1J1X2VkWHlkbjd3THNvWkRmbEZTT0I1amRxNXNzdW5JbXNvVUFYR3R0UGlXazdsdTN1UEZBTklxblAtbVdlN3o5X0t1?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-08 17:34",
-      "published_iso": "2026-10-08T08:34:46+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "SCHD",
       "name": "Schwab U.S. Dividend Equity ETF",
       "title": "토토 잭팟 의 모든 측면: 장점, 단점 및 활용 방법 - Calgary Roughnecks",
@@ -359,16 +359,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 16:22",
       "published_iso": "2026-10-08T07:22:46+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "스트리밍 광고 재편에서 볼 종목 3선 Zeta Global과 AppLovin 주목 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZFhMa0UwTzNLdzBEem1oaG91aWpKUVNid0xhTWVsQUQzazRlV0ZCdXVRQ054QldqNl84NnhaVDZIQzBHcDRQX0lsaXJ5R0hHc2V5dXF2WWZNbklwa1VQZVJienlvWU16R2hzb2p4RzJPcGhqTTlRa2RibS1zUV94cVNydDBjNlRyTTltRWZTa050eHBRc1BPeEhxcmvSAaIBQVVfeXFMTmtwVWp1eFgtUk1XRnk2SWxUd3JnNi1ldjkxMEt4VWJjVUlFTV9aTWc2TEpZNTNuNWgtZGJicF8wTV9PNlIxWm1BOE1HTDVCR1V6X19RREpCLWNxM0UzYV9BSWxzVi05d2JzV2dIQVAxOEhnRDd6T0M2ZF9TQU1YcE9UZGo5dXluNzBZR3A5TVI5SlhNV1libzdSYkJFUXlvTGFB?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-08 16:00",
-      "published_iso": "2026-10-08T07:00:00+00:00",
       "age": "2일 전"
     },
     {
@@ -489,6 +479,16 @@
       "source": "알파경제",
       "published": "10-08 06:00",
       "published_iso": "2026-10-07T21:00:00+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "사설 사이트 추천 게임 내 언어 설정 확인 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQam5OYnpuaU0wc3QzZk5mNS1vYmxlRXpQR2lLWmJLUWZ2RnNxXzhuVFF2UzBCR3EzeGlCc2J0MTdpNUlYQWh3TUQxa1gyQ1JiSmstTlU1eWJlZnI2aDlHUkd1ZGxCYy1nVHpJRUdLb0dXTDVSUzByMWdsN095UXg3b2JPRG5iSmlKSmVva2xpWWJUdWh2eXVfYlp6TVVsdmtfTVZXTkRNcFhGVUxmTFVuamo3VWptMnktQnR2c3VsbGlRN04wd0JZVlVxWFo3UQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-08 05:13",
+      "published_iso": "2026-10-07T20:13:32+00:00",
       "age": "3일 전"
     },
     {
@@ -642,6 +642,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "미래에셋자산운용, 미국 커버드콜 ETF 개인 순매수 1조 돌파...의미는? - 초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11cU5zVF9wZ2dseXJaeWFZS2VRcHZqQWdDVXRuY2Z4bXZmdFF3ZVc0Yjhha3pQNXZKeWFJX043bm44UTVGc3I3TG9TbTlpNEN1cW01QlZFWnh2bHBEM1RnV0NueFhOTE52Rlk3NWNPUdIBc0FVX3lxTE95ZVFoM2lPRXJXMzYtbHJDdV9nWlhNSnhJN0JvZFJONF8yeEJfRVdFVFJaUjQxRC1aN3gyZElFSGtrempxY2JBSVJDU0lHSzR3QmFlYWtzZEYxTzdGMmhBalNTZTRaempteDBrbnQ2TmFCaHM?oc=5",
+      "source": "초이스경제",
+      "published": "10-07 15:38",
+      "published_iso": "2026-10-07T06:38:32+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
       "title": "미래에셋, ‘TIGER 미국 타겟데일리커버드콜’ 3종 개인 순매수 1조원 돌파 - 매일일보",
@@ -739,7 +749,7 @@
       "source": "알파경제",
       "published": "10-07 07:56",
       "published_iso": "2026-10-06T22:56:27+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "VOO",
@@ -769,6 +779,16 @@
       "source": "알파경제",
       "published": "10-07 06:00",
       "published_iso": "2026-10-06T21:00:00+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "FTAI Aviation Ltd (FTAI) 주식 움직였습니다 상승 8.01%에 10월6일: 핵심 원인 공개 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVJlYzUxNnVVcml0RG9zSUVXZFNzYi1nOUNTLUVscEIxaFVJa1luZ0tJVHBjN1Z6QWR0OXVFZGFITTVjdVoyblVtN1BDWVI4OEszUUo4LW5fWWZwMzZpWUpjQ1gxb0h1b1lWLW93RmxQV0NIY1VOQk44ajVQc0otcTVzOWRTY1VFQ2ZGMzBrWQ?oc=5",
+      "source": "TradingKey",
+      "published": "10-07 04:16",
+      "published_iso": "2026-10-06T19:16:35+00:00",
       "age": "4일 전"
     },
     {
@@ -839,16 +859,6 @@
       "source": "TradingKey",
       "published": "10-06 22:48",
       "published_iso": "2026-10-06T13:48:37+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "\"AI 병목 구간은 메모리\"… 삼전닉스 담는 새 글로벌ETF - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xdk1qVktGb2VMUHkySFNUQ01qRE16d1liNFhWcC04SXhRWXlDQ21aaHluMFY4cEhtdlpHY09IcjVQM0EtbzdhY2NLRy1vbGpBVnc?oc=5",
-      "source": "매일경제 마켓",
-      "published": "10-06 17:29",
-      "published_iso": "2026-10-06T08:29:59+00:00",
       "age": "4일 전"
     },
     {
@@ -979,16 +989,6 @@
       "source": "Simply Wall Street",
       "published": "10-05 16:00",
       "published_iso": "2026-10-05T07:00:00+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "투자자들은 캐터필러(CAT)의 10억 달러 규모 노스캐롤라이나 확장 계획에 어떻게 반응하고 있을까 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlExLWhrVHBxRzFMVmx1VFdkN0JMZW5TNFZMV2h2ZHRJc0JFWks0ZkluYWIwX3NVdV9FNFQ3a2VwTmhMenJRRlFPeFhYekJGaWNES3l1eWZxbXdRckREQ1lGY0VKQ200Z1lvVm5lZnI2V042T3lEWTBkbGtDRFZzZzJPUTJEWXVpa1lfUHlWXzhpUnRVZUo2emNNY9IBmwFBVV95cUxNMlExLWhrVHBxRzFMVmx1VFdkN0JMZW5TNFZMV2h2ZHRJc0JFWks0ZkluYWIwX3NVdV9FNFQ3a2VwTmhMenJRRlFPeFhYekJGaWNES3l1eWZxbXdRckREQ1lGY0VKQ200Z1lvVm5lZnI2V042T3lEWTBkbGtDRFZzZzJPUTJEWXVpa1lfUHlWXzhpUnRVZUo2emNNYw?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-05 14:52",
-      "published_iso": "2026-10-05T05:52:21+00:00",
       "age": "5일 전"
     },
     {
