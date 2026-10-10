@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10 08:21 KST",
+  "updated_at": "2026-10-10 09:34 KST",
   "items": [
     {
       "ticker": "ZETA",
@@ -9,7 +9,27 @@
       "source": "Investing.com 한국어",
       "published": "10-09 23:19",
       "published_iso": "2026-10-09T14:19:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
+    },
+    {
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
+      "title": "설명서에서 먼저 찾아야 할 도박 어플 핵심 항목 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRnZVTUJjTEd6aTRfdXQ4Z1Z1bnZjdERpOXcxQldNVVFLUVY3VF85bFBRYnZXeE0wbURteThRVGxLRXdOU3BCcF9xa1E4cXhXcl81Y1RybXFkLVBzT0d2bDhwR1FsZi1oc3FqOVdkOGJ5TGtWWTNSYmtCMWxhMFFudkNzSVg4YmNpNjQwRktXcmFkeWU2UzY4em00ajI5dkJ6ZE5tdnNEM1RzWFdiNmh2V3YtaGVQSXVBOGNodlFB?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-09 21:47",
+      "published_iso": "2026-10-09T12:47:48+00:00",
+      "age": "11시간 전"
+    },
+    {
+      "ticker": "QQQM",
+      "name": "Invesco NASDAQ 100 ETF",
+      "title": "설명서에서 먼저 찾아야 할 도박 어플 핵심 항목 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRnZVTUJjTEd6aTRfdXQ4Z1Z1bnZjdERpOXcxQldNVVFLUVY3VF85bFBRYnZXeE0wbURteThRVGxLRXdOU3BCcF9xa1E4cXhXcl81Y1RybXFkLVBzT0d2bDhwR1FsZi1oc3FqOVdkOGJ5TGtWWTNSYmtCMWxhMFFudkNzSVg4YmNpNjQwRktXcmFkeWU2UzY4em00ajI5dkJ6ZE5tdnNEM1RzWFdiNmh2V3YtaGVQSXVBOGNodlFB?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-09 21:47",
+      "published_iso": "2026-10-09T12:47:48+00:00",
+      "age": "11시간 전"
     },
     {
       "ticker": "GLDM",
@@ -19,7 +39,7 @@
       "source": "Mitrade",
       "published": "10-09 19:01",
       "published_iso": "2026-10-09T10:01:10+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "379780",
@@ -29,7 +49,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "0072R0",
@@ -39,7 +59,7 @@
       "source": "뉴시스",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "379800",
@@ -49,7 +69,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "379780",
@@ -172,6 +192,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "Alphabet 주가, $355.26 저항선 테스트: 기술적 전망 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHJvV2puZHVpUEppQ2Q1SUNJZTRYdm12UzNWS1V3Z0xvaWFMa3EwcE15TmhNRTJOcERwXzFIVnZ5Z19kOHpPSlltQnBMN0FGRDBHQXBoNlBINC1KUnRzM1BzNzhuSVZSbDF3eW0tVVFTMFEyNDZnbzR0UzhtcVIyazYtcVJabU54UWVVMkd4cw?oc=5",
+      "source": "Traders Union",
+      "published": "10-08 23:29",
+      "published_iso": "2026-10-08T14:29:50+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "COST",
       "name": "Costco Wholesale Corporation",
       "title": "Costco’s September Sales Jumped 13%. How Much of That Was Gas? - TIKR.com",
@@ -202,13 +232,13 @@
       "age": "1일 전"
     },
     {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "TD Cowen, 클라우드 성장 기대에 Alphabet 목표주가 상향 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUjlQMGYxanlUMzAwekRIRWRQX3R2R094Nmlxb0xlTThhX2xCNmZRYVpyTi1LXzFFN0ZtR0F3TURzc3FOZlVQOUc1RDR4V0FrTmd5QWl6MkkwbWdKeV9zbDRDNW94MEdsRUQwOGVBZ05jeDY3?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-08 21:43",
-      "published_iso": "2026-10-08T12:43:00+00:00",
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "포커 최고 : 위험 피하기와 보호 조치 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45Mzlsd1JOMlVMMk1CMDFZVHBwcXFqZUU5SW5nbnpMd2xoNS0yb0Y0NzVhNnpzNHNISlR3dWp4bG5lcWR1SERya2VSTU9SSWltYVBBaUNSX3otS0lGR3BVbVhNZVRGOFNP?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-08 19:54",
+      "published_iso": "2026-10-08T10:54:11+00:00",
       "age": "1일 전"
     },
     {
@@ -219,16 +249,6 @@
       "source": "코리아리포트",
       "published": "10-08 19:42",
       "published_iso": "2026-10-08T10:42:50+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "빠른 진행 옵션이 궁금한 원게임 포커 기능 질문 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN1VXdHFTcDBfODhjXzBWZlpsRXVLenVQVXlYTHhQeEdBVVdUb21DVVdVYUV3Q0Z1c2lPZHVKTzlLYmFJUm43QzB2VW1Vc08zRXdCYVFCOHV4dGNHbWRNcnNPeWtZU2dxWE1HalZGWkR0cFJlRUNxa3NnRDBXTFlZLWcyOFIyUVdzRXdPeHhxZzhYeWYzT3lBM0YtalNadktZd3BoTjVmUFNRSi1KSTduajhBSlFMcjRP?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-08 19:07",
-      "published_iso": "2026-10-08T10:07:54+00:00",
       "age": "1일 전"
     },
     {
@@ -332,6 +352,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "삼성자산운용, 'ETF 투자 웹세미나' 12일 개최 - 일간투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TTkoyWTBqOXpyWHdKYTBFMXIxYzZBWncwSkItemhUQW5SdGVMSjluN2hFNmVHWGdjNFZHSFJnZS1sMHhyZTQ2YmJKeEJ1TkttUXdaUXhmUU9CVVp0TG05b2hvVmcybHhZdXN3?oc=5",
+      "source": "일간투데이",
+      "published": "10-08 10:32",
+      "published_iso": "2026-10-08T01:32:55+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "005380",
       "name": "현대자동차",
       "title": "새로운 오프로드 탐험의 시작, ‘더 크루 모터페스트’ 속 현대자동차 크레이터 콘셉트 - hyundai.com",
@@ -359,7 +389,7 @@
       "source": "국민일보",
       "published": "10-08 08:38",
       "published_iso": "2026-10-07T23:38:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "005380",
@@ -369,7 +399,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-08 08:30",
       "published_iso": "2026-10-07T23:30:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "AVGO",
@@ -402,16 +432,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "사설 사이트 추천 게임 내 언어 설정 확인 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQam5OYnpuaU0wc3QzZk5mNS1vYmxlRXpQR2lLWmJLUWZ2RnNxXzhuVFF2UzBCR3EzeGlCc2J0MTdpNUlYQWh3TUQxa1gyQ1JiSmstTlU1eWJlZnI2aDlHUkd1ZGxCYy1nVHpJRUdLb0dXTDVSUzByMWdsN095UXg3b2JPRG5iSmlKSmVva2xpWWJUdWh2eXVfYlp6TVVsdmtfTVZXTkRNcFhGVUxmTFVuamo3VWptMnktQnR2c3VsbGlRN04wd0JZVlVxWFo3UQ?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-08 05:13",
-      "published_iso": "2026-10-07T20:13:32+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "테슬라 주가 전망: TSLA, 380달러에서 저항 직면, 랠리는 끝났는가 아니면 동력을 모으고 있는가? - TradingKey",
@@ -419,16 +439,6 @@
       "source": "TradingKey",
       "published": "10-08 04:57",
       "published_iso": "2026-10-07T19:57:00+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "Sandisk (SNDK) 주식 개요 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ybzZHcF9HbkdaVm1wbmxoSWZHTUlhWTg0Q3A4N0dYWFg4ektDa1o5V1ZRblRscE81bXNsM1JkaXZQaGhXc19UVWhaZjJ5Tkc3NTZaV1lYdGNUSnUwNXJKY2JNdnlDR0FPRlVZ?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-08 00:21",
-      "published_iso": "2026-10-07T15:21:10+00:00",
       "age": "2일 전"
     },
     {
@@ -472,6 +482,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "Sandisk (SNDK) 주식 개요 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ybzZHcF9HbkdaVm1wbmxoSWZHTUlhWTg0Q3A4N0dYWFg4ektDa1o5V1ZRblRscE81bXNsM1JkaXZQaGhXc19UVWhaZjJ5Tkc3NTZaV1lYdGNUSnUwNXJKY2JNdnlDR0FPRlVZ?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-07 22:51",
+      "published_iso": "2026-10-07T13:51:38+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "Caterpillar Inc (CAT) 주식 시작했습니다 하락 3.62%에 10월7일: 핵심 원인 공개 - TradingKey",
@@ -509,16 +529,6 @@
       "source": "서울경제",
       "published": "10-07 20:24",
       "published_iso": "2026-10-07T11:24:28+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "설명에 없는 기능을 찾고 있다면? 사이버펑크 카지노 정보 점검 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVd1R6QnZtcHUtWmRMYkZsd05BRUVvSUVuNmxXTWdiNWtXcjItbF9QSWZTbGVXSUlSYklkMFpMVjBmeUxnT2FrYlZGUk01bnhOdS1mczNCM0swT2tMd0oyN3Rib2hYNWo3cWxGOA?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-07 20:18",
-      "published_iso": "2026-10-07T11:18:48+00:00",
       "age": "2일 전"
     },
     {
@@ -562,33 +572,13 @@
       "age": "2일 전"
     },
     {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "미래에셋자산운용, 미국 커버드콜 ETF 개인 순매수 1조 돌파...의미는? - 초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95ZVFoM2lPRXJXMzYtbHJDdV9nWlhNSnhJN0JvZFJONF8yeEJfRVdFVFJaUjQxRC1aN3gyZElFSGtrempxY2JBSVJDU0lHSzR3QmFlYWtzZEYxTzdGMmhBalNTZTRaempteDBrbnQ2TmFCaHPSAXNBVV95cUxPeWVRaDNpT0VyVzM2LWxyQ3VfZ1pYTUp4STdCb2RSTjRfMnhCX0VXRVRSWlI0MUQtWjd4MmRJRUhra3pqcWNiQUlSQ1NJR0s0d0JhZWFrc2RGMU83RjJoQWpTU2U0WnpqbXgwa250Nk5hQmhz?oc=5",
-      "source": "초이스경제",
-      "published": "10-07 16:10",
-      "published_iso": "2026-10-07T07:10:21+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
-      "title": "미래에셋자산운용, 미국 커버드콜 ETF 개인 순매수 1조 돌파...의미는? - 초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95ZVFoM2lPRXJXMzYtbHJDdV9nWlhNSnhJN0JvZFJONF8yeEJfRVdFVFJaUjQxRC1aN3gyZElFSGtrempxY2JBSVJDU0lHSzR3QmFlYWtzZEYxTzdGMmhBalNTZTRaempteDBrbnQ2TmFCaHPSAXNBVV95cUxPeWVRaDNpT0VyVzM2LWxyQ3VfZ1pYTUp4STdCb2RSTjRfMnhCX0VXRVRSWlI0MUQtWjd4MmRJRUhra3pqcWNiQUlSQ1NJR0s0d0JhZWFrc2RGMU83RjJoQWpTU2U0WnpqbXgwa250Nk5hQmhz?oc=5",
-      "source": "초이스경제",
-      "published": "10-07 16:10",
-      "published_iso": "2026-10-07T07:10:21+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "미래에셋자산운용, 미국 커버드콜 ETF 개인 순매수 1조 돌파...의미는? - 초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95ZVFoM2lPRXJXMzYtbHJDdV9nWlhNSnhJN0JvZFJONF8yeEJfRVdFVFJaUjQxRC1aN3gyZElFSGtrempxY2JBSVJDU0lHSzR3QmFlYWtzZEYxTzdGMmhBalNTZTRaempteDBrbnQ2TmFCaHPSAXNBVV95cUxPeWVRaDNpT0VyVzM2LWxyQ3VfZ1pYTUp4STdCb2RSTjRfMnhCX0VXRVRSWlI0MUQtWjd4MmRJRUhra3pqcWNiQUlSQ1NJR0s0d0JhZWFrc2RGMU83RjJoQWpTU2U0WnpqbXgwa250Nk5hQmhz?oc=5",
-      "source": "초이스경제",
-      "published": "10-07 16:10",
-      "published_iso": "2026-10-07T07:10:21+00:00",
+      "title": "[증권가 톡톡] 신한·유진證, 연금&연말정산 이벤트…운용사 ETF 소식 잇따라 - 주간한국",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HMzdJS0lpVUgwNjhTM2NKclBJWlNNanRXTUFPRUNOS2NxSl8yNmd3SXptU0lCQXVUb3paZE1qTFBkOWVYZjFnY3RFdzRLZkJ0N2FjR0ExYkJXenl5bTJRMkZLdkxiWGc1d0RHeF92OHluV3Mx0gF0QVVfeXFMT0czN0lLSWlVSDA2OFMzY0pyUElaU01qdFdNQU9FQ05LY3FKXzI2Z3dJem1TSUJBdVRvelpkTWpMUGQ5ZVhmMWdjdEV3NEtmQnQ3YWNHQTFiQld6eXltMlEyRkt2TGJYZzV3REd4X3Y4eW5XczE?oc=5",
+      "source": "주간한국",
+      "published": "10-07 17:47",
+      "published_iso": "2026-10-07T08:47:20+00:00",
       "age": "2일 전"
     },
     {
@@ -596,6 +586,16 @@
       "name": "SK하이닉스",
       "title": "SK하이닉스 미국 상장(SKHY) 주가 전망 2026: 목표주가 $245.21, 본주 대비 프리미엄의 의미 - Mitrade",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdGc4VW4yZXRWWllhSVhHcmtIdTBhdk9wNXNVa1pXcFkwZjVPZ2pHNFdQTkRPTmUwZjg4bUtzU2RJc05INUgzaW10TEJ2d3VObDY4eVpOdXQyT2laZk5STjdBb05KVFkwNTUwdTZBQnlYRXJOWm5qa0NDUW5TRVB3SUhZQkxwQlMyMGRTMGhqQQ?oc=5",
+      "source": "Mitrade",
+      "published": "10-07 16:00",
+      "published_iso": "2026-10-07T07:00:00+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "엔비디아(NVDA) 주가 전망 2026 하반기: 평균 목표가 326달러, 52주 신고가 부근의 선택 - Mitrade",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNEpBRExFbHJicmhHMjdfMGlaVmNpU0gwVThIYkFjZFhIMFYxd29VQzBLQlNyYjhyWVJkNWh1MVZxai0tR3pRcDZleVVQSlpiSGF0TEFzaURJaS1nQ3lyVWlVdHBuN1VMc0xLVnpPYTlGcnMyaHdDd0I3aTNzSWh0YjhBOW9iQQ?oc=5",
       "source": "Mitrade",
       "published": "10-07 16:00",
       "published_iso": "2026-10-07T07:00:00+00:00",
@@ -612,6 +612,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "미래에셋자산운용, 미국 커버드콜 ETF 개인 순매수 1조 돌파...의미는? - 초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MQkdYSnNwZ2Q4Mnp2QmY5RjdTWUVZTVJiUmNfQ0V3Nm5WVUM3Y2hoTFJ0SXJMdDhJeGJTc2dPTmpRLTFkcDQtVl9mV2tjaDlHejNRX0tNVDRNYUdNR2NTbGZGNGJ1bWw5ZTh0TkU2RlfSAXNBVV95cUxPeWVRaDNpT0VyVzM2LWxyQ3VfZ1pYTUp4STdCb2RSTjRfMnhCX0VXRVRSWlI0MUQtWjd4MmRJRUhra3pqcWNiQUlSQ1NJR0s0d0JhZWFrc2RGMU83RjJoQWpTU2U0WnpqbXgwa250Nk5hQmhz?oc=5",
+      "source": "초이스경제",
+      "published": "10-07 15:38",
+      "published_iso": "2026-10-07T06:38:32+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
       "title": "미래에셋, ‘TIGER 미국 타겟데일리커버드콜’ 3종 개인 순매수 1조원 돌파 - 매일일보",
@@ -619,16 +629,6 @@
       "source": "매일일보",
       "published": "10-07 15:33",
       "published_iso": "2026-10-07T06:33:15+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "엔비디아(NVDA), 시총 6조 달러 턱밑까지 껑충...\"실적 30% 더 뛴다\" - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8wVnZyTG9JX3RpMXF0Y3BXNTBuUmt6VEZXZTRYMkd6TVFTTXR2YldnRF81ZGNXT0Eya2pmZmFrRElCYUcwdU82MThn?oc=5",
-      "source": "코인리더스",
-      "published": "10-07 12:10",
-      "published_iso": "2026-10-07T03:10:00+00:00",
       "age": "2일 전"
     },
     {
@@ -679,7 +679,7 @@
       "source": "Simply Wall Street",
       "published": "10-07 08:45",
       "published_iso": "2026-10-06T23:45:11+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "TSLA",
@@ -706,6 +706,16 @@
       "name": "SK하이닉스",
       "title": "SK Hynix, Samsung Electronics Face Growing U.S. HBM Patent Lawsuits as NPE Litigation Surges - 알파경제",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MWlh1YVc1ZXpPek1XdTFWcHpKcnUxUThSenB2czdSeEN2Z3MxOXlqbUJZRlV6VmRDd0hLejhCZDBTRkpIZmdTcHQ0Q3VPdWRLZXpvTDBPQ2VhdzRqVmlPVzQ3WlFKSFkzZW9ranFB?oc=5",
+      "source": "알파경제",
+      "published": "10-07 06:00",
+      "published_iso": "2026-10-06T21:00:00+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "Hyundai Motor Saudi Plant Unaffected by Houthi Attack on Nearby Aramco Facility, Company Monitors Security Risks - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRYVZyMHJDT1pWbG1tREJxSU50Wmtsc2RlRlRMTDJjRnJ3M25OWHhvNzVEOFdfczlJTUdIbnctdGpnc1VSblRTMmlxMUNGcGFXQTIxdzNXcllSemlaNDRCN1ZEXzdKek1Mc0NjdG1n?oc=5",
       "source": "알파경제",
       "published": "10-07 06:00",
       "published_iso": "2026-10-06T21:00:00+00:00",
@@ -802,6 +812,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "[ETF NOW] KB자산운용·한국투자신탁운용 - 위키리크스한국",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52dkdBTEhuby1YdlVlLWRRVUVGOVF5Y0lSUkZDcGEtaGpSYWl3M1A1NnRaUUJoTXVKMVFPZUpMUGVPZHBjaVpPWnB6XzE4dUViM0ljYnViOHVFa056b0hJTWdQTWxNaGJOLWx3aW5mODM?oc=5",
+      "source": "위키리크스한국",
+      "published": "10-06 17:25",
+      "published_iso": "2026-10-06T08:25:56+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
       "title": "[ETF NOW] KB자산운용·한국투자신탁운용 - 위키리크스한국",
@@ -849,7 +869,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-06 08:30",
       "published_iso": "2026-10-05T23:30:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "NVDA",
@@ -859,7 +879,7 @@
       "source": "알파경제",
       "published": "10-06 08:29",
       "published_iso": "2026-10-05T23:29:34+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "INTC",
@@ -909,16 +929,6 @@
       "source": "Simply Wall Street",
       "published": "10-05 14:52",
       "published_iso": "2026-10-05T05:52:21+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "현대자동차, 더 뉴 아반떼 N TCR, 2026 TCR 월드투어 5라운드 우승 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTVpWU3E4ME1kbU44WDZKcFEwQWg4LVVlMm1Fd3FYaVE5ajFxdDBUWjJHUDc0XzQ3QVRDZlplNkhqUC1XMTNyY0tfMjN0S3JhWXBtMFFEMkJ6bUJOWUtsd252WmQ3Rm42cnI1TkJYTDQ3R0x3NEVzeGItTHdqemxyR0kyRW90cUJKbV8xc0FST2IyY2dKWnloOVhRYjhYQl9QNXdxQW9wLVh5T0RSUlNKTFF3b0x6X0VsNjZiaw?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-05 08:30",
-      "published_iso": "2026-10-04T23:30:00+00:00",
       "age": "4일 전"
     },
     {
@@ -974,31 +984,21 @@
     {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
-      "title": "“돈은 미장·파킹형 갔는데”… 수익은 코스닥 ‘소부장’서 터졌다 [선데이 머니카페] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkTzRlSUNMWkNuWFp4bTRxd1JJVXM0WUFsNWdaSkthNE9xUDVYZnFXY2pIdFBCVmJwYnI5YUVMaWczOWZQeTM0akNQcGdCeURsemfSAVNBVV95cUxNaFpyNmtpVkd5REhVTDVKcGs3M29qazBVbW83S3hVN01oV3BRNV9SOTZkQTdmbktqUVpJUUdUdUQ3bEg1OXVtT3RXTHR6TWdCRzVpYw?oc=5",
-      "source": "서울경제",
-      "published": "10-04 07:00",
-      "published_iso": "2026-10-03T22:00:00+00:00",
+      "title": "\"반도체만 믿다간 큰일\" 돌변하더니…뭉칫돈 '대이동' [김연지의 연금빌드업] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zS09falY4Vkg4YmJ5NjFyRFJEN0tUMklMMFZsNzBjNEtxVElkQXo0eG1KRnZvQ2M3SDhrZXo4Z1JoYlNQNDViT0FoZkZ3OE80cHo1LXlRQTAtQQ?oc=5",
+      "source": "한국경제",
+      "published": "10-04 09:00",
+      "published_iso": "2026-10-04T00:00:01+00:00",
       "age": "6일 전"
     },
     {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "배민 품은 우버, 美 코스트코 손잡고 우버이츠 배송 확대 - 더구루",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VWTVfb1FncTlvR3VqVk4taTBRYW5KTVVfdWtCcHlsZXJYZjlIWXpWcFZQQjU0dm5KMV9GZ2g5RlBFd3huWGZJOE1LMTNSZmdXV2Q0dWxKT2Qyb0FMU3c?oc=5",
-      "source": "더구루",
-      "published": "10-04 06:00",
-      "published_iso": "2026-10-03T21:00:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "AMD(AMD) 주가는 현금 흐름만으로는 가치를 평가하기 어려워 보인다 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOWZzVkE5Z2JxMGgxd1Zxak8tSjVCcUVPZFROM1RBME4yWEFELXFkWWYwZEVWZzMta002RkcwQU1DWlJfRHJrdTBBelcwTks1bFF2eHNfZV9OS05VQm9feWtDbzA1Q0pINXdHcDhrbjJod2ZfR0ZlaDdqUUJBZXRtNGRXNGVISzhrZUluWUpFenBCbUlqaV81blRBSmtET3VPOHJvRTdWOHPSAa4BQVVfeXFMT21HSjBfYXIzOEVPUXVCcEIwRXo5cFg4ZHpZYUNibmhYRzNpS21OZnNKdVdQNndacnN6Sm1NcTR3blU1aFpXS25paXBUNGh6eG5qMVVTdzgwVnIxT1B0OE5NbDdyemE4Ykg2ekRpeXdza3VvRklMZXJQd0RzWHdJTXVzUVRuUEZjMXJ4Q1BucDJsd19JSFotSVVSWkJyTVdvXzVwV3M2S3FWZTgwSy1R?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-04 01:20",
-      "published_iso": "2026-10-03T16:20:31+00:00",
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "\"반도체만 믿다간 큰일\" 돌변하더니…뭉칫돈 '대이동' [김연지의 연금빌드업] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zS09falY4Vkg4YmJ5NjFyRFJEN0tUMklMMFZsNzBjNEtxVElkQXo0eG1KRnZvQ2M3SDhrZXo4Z1JoYlNQNDViT0FoZkZ3OE80cHo1LXlRQTAtQQ?oc=5",
+      "source": "한국경제",
+      "published": "10-04 09:00",
+      "published_iso": "2026-10-04T00:00:01+00:00",
       "age": "6일 전"
     }
   ]
