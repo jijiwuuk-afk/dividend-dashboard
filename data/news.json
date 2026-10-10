@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-10 18:22 KST",
+  "updated_at": "2026-10-10 19:21 KST",
   "items": [
+    {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "스트리밍 광고 재편에서 볼 종목 3선 Zeta Global과 AppLovin 주목 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3BVanV4WC1STVdGeTZJbFR3cmc2LWV2OTEwS3hVYmNVSUVNX1pNZzZMSlk1M241aC1kYmJwXzBNX082UjFabUE4TUdMNUJHVXpfX1FESkItY3EzRTNhX0FJbHNWLTl3YnNXZ0hBUDE4SGdEN3pPQzZkX1NBTVhwT1Rkajl1eW43MFlHcDlNUjlKWE1XWWJvN1JiQkVReW9MYUHSAaIBQVVfeXFMTmtwVWp1eFgtUk1XRnk2SWxUd3JnNi1ldjkxMEt4VWJjVUlFTV9aTWc2TEpZNTNuNWgtZGJicF8wTV9PNlIxWm1BOE1HTDVCR1V6X19RREpCLWNxM0UzYV9BSWxzVi05d2JzV2dIQVAxOEhnRDd6T0M2ZF9TQU1YcE9UZGo5dXluNzBZR3A5TVI5SlhNV1libzdSYkJFUXlvTGFB?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-10 08:19",
+      "published_iso": "2026-10-09T23:19:41+00:00",
+      "age": "11시간 전"
+    },
     {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
@@ -9,16 +19,6 @@
       "source": "연합뉴스",
       "published": "10-10 08:00",
       "published_iso": "2026-10-09T23:00:01+00:00",
-      "age": "10시간 전"
-    },
-    {
-      "ticker": "GEV",
-      "name": "GE Vernova Inc.",
-      "title": "GE 베르노바 주식에 대한 투자자들의 반응: AI 데이터센터 수주 급증 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONEtBZ1VENXJKUWxnc2tfcG50T0g5N3FvLWpwY0lSM19QSTZzc0tQMFR4MGFOTW5ucnZETU9Ia0hISjhSUkw4bnpKZE1vTmtQVEVHZVlrVXRWbTBJeGlCdlN3d0VZMHZUTFNSRE9zVFh0UHJLMjFFbTBJNUF3d002UHFwTEhmMWJqbzRpOWVWVDdET0FCY1ZYVjZn0gGaAUFVX3lxTE40S0FnVUQ1ckpRbGdza19wbnRPSDk3cW8tanBjSVIzX1BJNnNzS1AwVHgwYU5Nbm5ydkRNT0hrSEhKOFJSTDhuekpkTW9Oa1BURUdlWWtVdFZtMEl4aUJ2U3d3RVkwdlRMU1JET3NUWHRQcksyMUVtMEk1QXd3TTZQcXBMSGYxYmpvNGk5ZVZUN0RPQUJjVlhWNmc?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-10 06:58",
-      "published_iso": "2026-10-09T21:58:25+00:00",
       "age": "11시간 전"
     },
     {
@@ -29,7 +29,7 @@
       "source": "마켓인",
       "published": "10-10 04:48",
       "published_iso": "2026-10-09T19:48:44+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "379800",
@@ -39,7 +39,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 21:47",
       "published_iso": "2026-10-09T12:47:48+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "QQQM",
@@ -49,7 +49,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 21:47",
       "published_iso": "2026-10-09T12:47:48+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "VOO",
@@ -59,7 +59,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 20:11",
       "published_iso": "2026-10-09T11:11:40+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "GEV",
@@ -252,13 +252,13 @@
       "age": "1일 전"
     },
     {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "Zeta Global, 엔터프라이즈 AI 시스템 ’AthenaOS’ 공개 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9feGpUYkRvS3Izc0FaOHgtWVE4cFBZSEZSU3RJZmRWa3N0SUdRR0dCR2pzSnNVNmdPbm9yT1BvSzlUMGEzWGx1bmFReGFvNEJiaTNONzBmbFIzWkt0MFRUMDZGYTR1RVI0QTZTSmR0Q1A?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-08 22:21",
-      "published_iso": "2026-10-08T13:21:00+00:00",
+      "ticker": "GEV",
+      "name": "GE Vernova Inc.",
+      "title": "에너지 전환 분야의 최신 소식 - 오라클, 스카우트와의 풍력 에너지 파트너십을 통해 역량 강화 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZTZUMUYwdkhhcTk2Z2ZEczBtWVhMUHBaZC03NWZyTk5rM0JmMVVyb1I1NU9WZjJPb2p2XzRjaWhScmxWOFd1V25CWFU1SG9WenBxV2NESGVzTkRuc3NGcWR0S01nZWozUWpVS2k2VDdDUDloODBSQkd3YnZLeXlseGh0eG92YXEtQkHSAY8BQVVfeXFMTlJ0akF2M2N5UUpHMXJtOUlLWlNZWHFpS1Npd3hpbTNwSFN5SkxEOC1NU2MwZXduRUhSc3ZsUnBFZFVkakVtVWNhdXVmXzVZeXBTOXBlY1U1M0ktakRZemd5M01oeDJkU1NzZ09DMFNQOXJXYlFBaHV6WWxMeG1HRGxZUHFXbnJoWS1TaDdDODA?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-08 21:50",
+      "published_iso": "2026-10-08T12:50:07+00:00",
       "age": "1일 전"
     },
     {
@@ -299,7 +299,7 @@
       "source": "Simply Wall Street",
       "published": "10-08 18:27",
       "published_iso": "2026-10-08T09:27:53+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "489250",
@@ -559,7 +559,7 @@
       "source": "데이터투자",
       "published": "10-07 19:12",
       "published_iso": "2026-10-07T10:12:08+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "458730",
@@ -569,7 +569,7 @@
       "source": "인더스트리뉴스",
       "published": "10-07 18:26",
       "published_iso": "2026-10-07T09:26:02+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "GOOG",
