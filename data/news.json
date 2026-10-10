@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10 15:27 KST",
+  "updated_at": "2026-10-10 16:22 KST",
   "items": [
     {
       "ticker": "368590",
@@ -9,7 +9,17 @@
       "source": "연합뉴스",
       "published": "10-10 08:00",
       "published_iso": "2026-10-09T23:00:01+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova Inc.",
+      "title": "GE 베르노바 주식에 대한 투자자들의 반응: AI 데이터센터 수주 급증 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONEtBZ1VENXJKUWxnc2tfcG50T0g5N3FvLWpwY0lSM19QSTZzc0tQMFR4MGFOTW5ucnZETU9Ia0hISjhSUkw4bnpKZE1vTmtQVEVHZVlrVXRWbTBJeGlCdlN3d0VZMHZUTFNSRE9zVFh0UHJLMjFFbTBJNUF3d002UHFwTEhmMWJqbzRpOWVWVDdET0FCY1ZYVjZn0gGaAUFVX3lxTE40S0FnVUQ1ckpRbGdza19wbnRPSDk3cW8tanBjSVIzX1BJNnNzS1AwVHgwYU5Nbm5ydkRNT0hrSEhKOFJSTDhuekpkTW9Oa1BURUdlWWtVdFZtMEl4aUJ2U3d3RVkwdlRMU1JET3NUWHRQcksyMUVtMEk1QXd3TTZQcXBMSGYxYmpvNGk5ZVZUN0RPQUJjVlhWNmc?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-10 06:58",
+      "published_iso": "2026-10-09T21:58:25+00:00",
+      "age": "9시간 전"
     },
     {
       "ticker": "ZETA",
@@ -19,7 +29,7 @@
       "source": "Investing.com 한국어",
       "published": "10-09 23:19",
       "published_iso": "2026-10-09T14:19:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "379800",
@@ -29,7 +39,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 21:47",
       "published_iso": "2026-10-09T12:47:48+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "QQQM",
@@ -39,7 +49,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 21:47",
       "published_iso": "2026-10-09T12:47:48+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "VOO",
@@ -49,7 +59,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 20:11",
       "published_iso": "2026-10-09T11:11:40+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "SCHD",
@@ -222,16 +232,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "Alphabet 주가, $355.26 저항선 테스트: 기술적 전망 - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHJvV2puZHVpUEppQ2Q1SUNJZTRYdm12UzNWS1V3Z0xvaWFMa3EwcE15TmhNRTJOcERwXzFIVnZ5Z19kOHpPSlltQnBMN0FGRDBHQXBoNlBINC1KUnRzM1BzNzhuSVZSbDF3eW0tVVFTMFEyNDZnbzR0UzhtcVIyazYtcVJabU54UWVVMkd4cw?oc=5",
-      "source": "Traders Union",
-      "published": "10-08 23:29",
-      "published_iso": "2026-10-08T14:29:50+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "COST",
       "name": "Costco Wholesale Corporation",
       "title": "Costco’s September Sales Jumped 13%. How Much of That Was Gas? - TIKR.com",
@@ -252,13 +252,13 @@
       "age": "1일 전"
     },
     {
-      "ticker": "GEV",
-      "name": "GE Vernova Inc.",
-      "title": "에너지 전환 분야의 최신 소식 - 오라클, 스카우트와의 풍력 에너지 파트너십을 통해 역량 강화 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZTZUMUYwdkhhcTk2Z2ZEczBtWVhMUHBaZC03NWZyTk5rM0JmMVVyb1I1NU9WZjJPb2p2XzRjaWhScmxWOFd1V25CWFU1SG9WenBxV2NESGVzTkRuc3NGcWR0S01nZWozUWpVS2k2VDdDUDloODBSQkd3YnZLeXlseGh0eG92YXEtQkHSAY8BQVVfeXFMTlJ0akF2M2N5UUpHMXJtOUlLWlNZWHFpS1Npd3hpbTNwSFN5SkxEOC1NU2MwZXduRUhSc3ZsUnBFZFVkakVtVWNhdXVmXzVZeXBTOXBlY1U1M0ktakRZemd5M01oeDJkU1NzZ09DMFNQOXJXYlFBaHV6WWxMeG1HRGxZUHFXbnJoWS1TaDdDODA?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-08 21:50",
-      "published_iso": "2026-10-08T12:50:07+00:00",
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "TD Cowen, 클라우드 성장 기대에 Alphabet 목표주가 상향 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUjlQMGYxanlUMzAwekRIRWRQX3R2R094Nmlxb0xlTThhX2xCNmZRYVpyTi1LXzFFN0ZtR0F3TURzc3FOZlVQOUc1RDR4V0FrTmd5QWl6MkkwbWdKeV9zbDRDNW94MEdsRUQwOGVBZ05jeDY3?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-08 21:43",
+      "published_iso": "2026-10-08T12:43:00+00:00",
       "age": "1일 전"
     },
     {
@@ -319,7 +319,7 @@
       "source": "경향신문",
       "published": "10-08 15:55",
       "published_iso": "2026-10-08T06:55:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "INTC",
@@ -609,7 +609,7 @@
       "source": "Mitrade",
       "published": "10-07 16:00",
       "published_iso": "2026-10-07T07:00:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "NVDA",
@@ -619,7 +619,7 @@
       "source": "Mitrade",
       "published": "10-07 16:00",
       "published_iso": "2026-10-07T07:00:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "SNDK",
@@ -629,7 +629,7 @@
       "source": "Simply Wall Street",
       "published": "10-07 16:00",
       "published_iso": "2026-10-07T07:00:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "458730",
@@ -639,7 +639,17 @@
       "source": "매일일보",
       "published": "10-07 15:33",
       "published_iso": "2026-10-07T06:33:15+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "엔비디아(NVDA), 시총 6조 달러 턱밑까지 껑충...\"실적 30% 더 뛴다\" - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8wVnZyTG9JX3RpMXF0Y3BXNTBuUmt6VEZXZTRYMkd6TVFTTXR2YldnRF81ZGNXT0Eya2pmZmFrRElCYUcwdU82MThn?oc=5",
+      "source": "코인리더스",
+      "published": "10-07 12:10",
+      "published_iso": "2026-10-07T03:10:00+00:00",
+      "age": "3일 전"
     },
     {
       "ticker": "005930",
@@ -669,6 +679,16 @@
       "source": "Calgary Roughnecks",
       "published": "10-07 10:23",
       "published_iso": "2026-10-07T01:23:58+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "인텔(INTC) 테라팹 입지 흔드는 새 파트너 참여 협의 주목 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUJWa3dmY2k0dHRacGlLYWp1MWZaa3VDN0ItaE5XYmlXYnl4QTVKTmF1WDlxZjI3eWtxOXpUNjJaZUlUY00xNmhjX0VFNkxIZ19yaGpRd0UzX3J4UHA0X2dQdHFxanRxYUNiU3kwWnVWMzgwcmlwUUUxNjl2OUp0SEp0WTFsVHp1STltMTBjM3BUUmhHTE9fetIBmAFBVV95cUxQdUJWa3dmY2k0dHRacGlLYWp1MWZaa3VDN0ItaE5XYmlXYnl4QTVKTmF1WDlxZjI3eWtxOXpUNjJaZUlUY00xNmhjX0VFNkxIZ19yaGpRd0UzX3J4UHA0X2dQdHFxanRxYUNiU3kwWnVWMzgwcmlwUUUxNjl2OUp0SEp0WTFsVHp1STltMTBjM3BUUmhHTE9feg?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-07 10:02",
+      "published_iso": "2026-10-07T01:02:46+00:00",
       "age": "3일 전"
     },
     {
@@ -980,26 +1000,6 @@
       "published": "10-04 18:20",
       "published_iso": "2026-10-04T09:20:57+00:00",
       "age": "5일 전"
-    },
-    {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "\"반도체만 믿다간 큰일\" 돌변하더니…뭉칫돈 '대이동' [김연지의 연금빌드업] - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zS09falY4Vkg4YmJ5NjFyRFJEN0tUMklMMFZsNzBjNEtxVElkQXo0eG1KRnZvQ2M3SDhrZXo4Z1JoYlNQNDViT0FoZkZ3OE80cHo1LXlRQTAtQQ?oc=5",
-      "source": "한국경제",
-      "published": "10-04 09:00",
-      "published_iso": "2026-10-04T00:00:01+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "\"반도체만 믿다간 큰일\" 돌변하더니…뭉칫돈 '대이동' [김연지의 연금빌드업] - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zS09falY4Vkg4YmJ5NjFyRFJEN0tUMklMMFZsNzBjNEtxVElkQXo0eG1KRnZvQ2M3SDhrZXo4Z1JoYlNQNDViT0FoZkZ3OE80cHo1LXlRQTAtQQ?oc=5",
-      "source": "한국경제",
-      "published": "10-04 09:00",
-      "published_iso": "2026-10-04T00:00:01+00:00",
-      "age": "6일 전"
     }
   ]
 }
