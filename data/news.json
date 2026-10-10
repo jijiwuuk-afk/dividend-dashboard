@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10 19:21 KST",
+  "updated_at": "2026-10-10 20:21 KST",
   "items": [
     {
       "ticker": "ZETA",
@@ -9,7 +9,7 @@
       "source": "Simply Wall Street",
       "published": "10-10 08:19",
       "published_iso": "2026-10-09T23:19:41+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "368590",
@@ -19,17 +19,7 @@
       "source": "연합뉴스",
       "published": "10-10 08:00",
       "published_iso": "2026-10-09T23:00:01+00:00",
-      "age": "11시간 전"
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "title": "테슬라, 유럽서 FSD 명칭 '주행 보조'로 변경…독일 규제당국 지적 수용 - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NTENkQjd3elpoSTZYS01rT1V3a0xaQTBEZlM5amhfM3pZVlFYejFuMjJiUWloTWRZUkdwNGloYWljVlVjSi04OWRHc0ZVZVpwX3ZwQlBVa01rbzlsY0x3aHh3VFNBMnFoRVRQVkpmd0NIMFE?oc=5",
-      "source": "마켓인",
-      "published": "10-10 04:48",
-      "published_iso": "2026-10-09T19:48:44+00:00",
-      "age": "14시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "379800",
@@ -39,7 +29,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 21:47",
       "published_iso": "2026-10-09T12:47:48+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "QQQM",
@@ -49,7 +39,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 21:47",
       "published_iso": "2026-10-09T12:47:48+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "VOO",
@@ -59,7 +49,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 20:11",
       "published_iso": "2026-10-09T11:11:40+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "GEV",
@@ -279,7 +269,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 19:54",
       "published_iso": "2026-10-08T10:54:11+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "487230",
@@ -289,7 +279,7 @@
       "source": "코리아리포트",
       "published": "10-08 19:42",
       "published_iso": "2026-10-08T10:42:50+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "TSLA",
@@ -702,6 +692,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "[특징주] 삼성전자, 장초반 2%대 급등…SK하이닉스는 0.6%↓ - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GN19UN19JbDYzSFFyM2VSVU5YQXYtOVFyeTVURXVydndMdUVsaUdUbUtUYUZTNkF0MlJHdWVKcFVwSW1nTGdrV3Y1VVVGRDVHODdHbUFnMlpVLTTSAWBBVV95cUxQc21tX1NSYUlLZ2RXcFdGRmwyTlFpbWphVkVOamxsNndONElJYURyVmROMmZtWENVcFBZNDJ3WW52bk5Rbi1lZUJ6Y19aeTFoR2NlWEVNNGxpbmFpNmFNNHQ?oc=5",
+      "source": "연합뉴스",
+      "published": "10-07 09:31",
+      "published_iso": "2026-10-07T00:31:03+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "COST",
       "name": "Costco Wholesale Corporation",
       "title": "코스트코(COST) 주가는 현금 흐름 대비 17% 과대평가되었을 수 있다 - Simply Wall Street",
@@ -922,6 +922,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "title": "엔비디아(Nvidia)와 테슬라(Tesla)를 포함한 60개 이상의 미국 주식이 온체인으로 전환됩니다. 작동 원리를 살펴보겠습니다 - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUw2YnhyWWY3eWVCN1c5SWhQMzBoRXg2SzdOQ285eXhHYzhSRFVncHNtdW42RW9FX3dFMkEwOHpnQ1o0STRsU0FoajlFOVc5Y1JiNjlEM0hVQmVteWdFZThKNllGR3g3WnBCNldDcmlQYzVvbWxtS1BVbzB1cEFLUDA5MVZKRGh6VUhLc1JYM21aZnNOR1RCdHhQaTR1MEpYSUhUbU5ORnFHaHpUZXFyNVVUZHJaMjlLOFo4aU9VVEdram5oLU9VOU9abDk1emxUbnc?oc=5",
+      "source": "CoinDesk",
+      "published": "10-06 02:49",
+      "published_iso": "2026-10-05T17:49:18+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
       "title": "Broadcom Is Lending Billions to Its Biggest Future Customer. Should Investors Worry? - TIKR.com",
@@ -979,7 +989,7 @@
       "source": "아이투자",
       "published": "10-04 19:35",
       "published_iso": "2026-10-04T10:35:52+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "SCHD",
@@ -989,16 +999,6 @@
       "source": "Daum",
       "published": "10-04 18:20",
       "published_iso": "2026-10-04T09:20:57+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "\"반도체만 믿다간 큰일\" 돌변하더니…뭉칫돈 '대이동' [김연지의 연금빌드업] - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zS09falY4Vkg4YmJ5NjFyRFJEN0tUMklMMFZsNzBjNEtxVElkQXo0eG1KRnZvQ2M3SDhrZXo4Z1JoYlNQNDViT0FoZkZ3OE80cHo1LXlRQTAtQQ?oc=5",
-      "source": "한국경제",
-      "published": "10-04 09:00",
-      "published_iso": "2026-10-04T00:00:01+00:00",
       "age": "6일 전"
     }
   ]
