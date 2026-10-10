@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 03:24 KST",
+  "updated_at": "2026-10-11 04:20 KST",
   "items": [
     {
       "ticker": "GEV",
@@ -9,17 +9,7 @@
       "source": "TIKR.com",
       "published": "10-11 01:54",
       "published_iso": "2026-10-10T16:54:31+00:00",
-      "age": "1시간 전"
-    },
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "스트리밍 광고 재편에서 볼 종목 3선 Zeta Global과 AppLovin 주목 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3BVanV4WC1STVdGeTZJbFR3cmc2LWV2OTEwS3hVYmNVSUVNX1pNZzZMSlk1M241aC1kYmJwXzBNX082UjFabUE4TUdMNUJHVXpfX1FESkItY3EzRTNhX0FJbHNWLTl3YnNXZ0hBUDE4SGdEN3pPQzZkX1NBTVhwT1Rkajl1eW43MFlHcDlNUjlKWE1XWWJvN1JiQkVReW9MYUHSAaIBQVVfeXFMTmtwVWp1eFgtUk1XRnk2SWxUd3JnNi1ldjkxMEt4VWJjVUlFTV9aTWc2TEpZNTNuNWgtZGJicF8wTV9PNlIxWm1BOE1HTDVCR1V6X19RREpCLWNxM0UzYV9BSWxzVi05d2JzV2dIQVAxOEhnRDd6T0M2ZF9TQU1YcE9UZGo5dXluNzBZR3A5TVI5SlhNV1libzdSYkJFUXlvTGFB?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-10 08:19",
-      "published_iso": "2026-10-09T23:19:41+00:00",
-      "age": "19시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "368590",
@@ -29,7 +19,7 @@
       "source": "연합뉴스",
       "published": "10-10 08:00",
       "published_iso": "2026-10-09T23:00:01+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "GEV",
@@ -39,7 +29,7 @@
       "source": "Simply Wall Street",
       "published": "10-10 06:58",
       "published_iso": "2026-10-09T21:58:25+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "GOOG",
@@ -182,16 +172,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "상승 참여 높인 커버드콜 ETF… 개인 매수 이어져 - 뉴스클레임",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sd3ZtX2xWVG0wbFdlQUVXamltOVBpdEpoSzItWjBTN014bFRKckpUWFFQRmhHRnFnUWo2d05MMGFrbGowblAybHJUMWFVY1lzZW5RU3JjLUh5eTRQTXZ1bzdvYVVOU3FpX0NFTF95ZFFHVVRh0gF0QVVfeXFMTmx3dm1fbFZUbTBsV2VBRVdqaW05UGl0SmhLMi1aMFM3TXhsVEpySlRYUVBGaEdGcWdRajZ3TkwwYWtsajBuUDJsclQxYVVjWXNlblFTcmMtSHl5NFBNdnVvN29hVU5TcWlfQ0VMX3lkUUdVVGE?oc=5",
-      "source": "뉴스클레임",
-      "published": "10-09 04:20",
-      "published_iso": "2026-10-08T19:20:39+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "title": "NVIDIA Corp (NVDA) 주식 움직였습니다 하락 3.06%에 10월8일: 어떤 신호인가요? - TradingKey",
@@ -199,7 +179,7 @@
       "source": "TradingKey",
       "published": "10-09 04:16",
       "published_iso": "2026-10-08T19:16:18+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "000660",
@@ -249,6 +229,16 @@
       "source": "TradingKey",
       "published": "10-09 00:16",
       "published_iso": "2026-10-08T15:16:17+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "상승 참여 높인 커버드콜 ETF… 개인 매수 이어져 - 뉴스클레임",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vaUZJcktQNUxxdVFlNUdZa20xM0tIa3UxVUhJblZhRHBKYThSeHZYNGNIR2QwMVpENmtMcVlFQ0tNNjkzNEY1RE5hZzBsYy16X1dpRWFobUV3c0pfQW8yRGhkVldma2F6bmRZZ2ZWSnbSAXRBVV95cUxObHd2bV9sVlRtMGxXZUFFV2ppbTlQaXRKaEsyLVowUzdNeGxUSnJKVFhRUEZoR0ZxZ1FqNndOTDBha2xqMG5QMmxyVDFhVWNZc2VuUVNyYy1IeXk0UE12dW83b2FVTlNxaV9DRUxfeWRRR1VUYQ?oc=5",
+      "source": "뉴스클레임",
+      "published": "10-09 00:00",
+      "published_iso": "2026-10-08T15:00:00+00:00",
       "age": "2일 전"
     },
     {
@@ -309,6 +299,16 @@
       "source": "코리아리포트",
       "published": "10-08 19:42",
       "published_iso": "2026-10-08T10:42:50+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "플레이 순서를 놓쳤을 때 보는 파워볼 전완근 단계 안내 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DRGo4MEdtUmI5NWpmX0RtTFRIVnZfdldDcmR3WmJ0cWNxcm9MNDJnMmdKanFGUFU5dGhqMDIweU9fUFo0WDViNHRva05yNGNScnNUVkU3ajFZNmJhTHNYZjVIby1NUXZaZi1CTA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-08 18:49",
+      "published_iso": "2026-10-08T09:49:42+00:00",
       "age": "2일 전"
     },
     {
@@ -442,16 +442,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
-      "title": "금값 떨어져도 돈은 몰렸다…금 ETF 역대 최대 분기 유입 - 국민일보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RZ1F2SmY2ZzVGYkZYVXk5SmhxYnFaak11MDQ0TFktQXJFa3BPcXBvZTY4OHVjdEVhbDU1aXVxQUtNZTB2OWtaMmEzZUNYeVh4V1M4RXd1WXQ3TWkyV25IYjlMYUo3SHlneVBYRNIBbEFVX3lxTE9RZ1F2SmY2ZzVGYkZYVXk5SmhxYnFaak11MDQ0TFktQXJFa3BPcXBvZTY4OHVjdEVhbDU1aXVxQUtNZTB2OWtaMmEzZUNYeVh4V1M4RXd1WXQ3TWkyV25IYjlMYUo3SHlneVBYRA?oc=5",
-      "source": "국민일보",
-      "published": "10-08 08:38",
-      "published_iso": "2026-10-07T23:38:00+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "005380",
       "name": "현대자동차",
       "title": "현대자동차, 글로벌 레이싱 게임 ‘더크루 모터페스트’서 ‘크레이터 콘셉트’ 공개 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
@@ -459,16 +449,6 @@
       "source": "Hyundai Motor Group",
       "published": "10-08 08:30",
       "published_iso": "2026-10-07T23:30:00+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "브로드컴(AVGO) 고용 지표 랠리 후 다시 커진 저평가 기대 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEZDdTc2OV9XMnBLQ2tSVXNRT2wzYTQtWU0ySkl4czU0X0VaYnVLdmpLektjWUFFeTFhdmcxVkc5R3NNWlQwSlhPdjFzMWtDdGlnY1lPRm10MjdHMi1VWF8zc2MtS2U1a1ZVSVF1V3h6OFhaaGttdHh2WFNwdGRXZlFtY1ZzdHBvX0MzTWtra3ZtR09PM0NLZXVSN0PSAZwBQVVfeXFMT3RGQ3U3NjlfVzJwS0NrUlVzUU9sM2E0LVlNMkpJeHM1NF9FWmJ1S3ZqS3pLY1lBRXkxYXZnMVZHOUdzTVpUMEpYT3YxczFrQ3RpZ2NZT0ZtdDI3RzItVVhfM3NjLUtlNWtWVUlRdVd4ejhYWmhrbXR4dlhTcHRkV2ZRbWNWc3Rwb19DM01ra2t2bUdPTzNDS2V1UjdD?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-08 07:15",
-      "published_iso": "2026-10-07T22:15:38+00:00",
       "age": "2일 전"
     },
     {
@@ -782,6 +762,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "FTAI Aviation Ltd (FTAI) 주식 움직였습니다 상승 8.01%에 10월6일: 핵심 원인 공개 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVJlYzUxNnVVcml0RG9zSUVXZFNzYi1nOUNTLUVscEIxaFVJa1luZ0tJVHBjN1Z6QWR0OXVFZGFITTVjdVoyblVtN1BDWVI4OEszUUo4LW5fWWZwMzZpWUpjQ1gxb0h1b1lWLW93RmxQV0NIY1VOQk44ajVQc0otcTVzOWRTY1VFQ2ZGMzBrWQ?oc=5",
+      "source": "TradingKey",
+      "published": "10-07 04:16",
+      "published_iso": "2026-10-06T19:16:35+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
       "title": "AMD 목표가 800달러까지…월가, 메타 등 AI주 낙관론 지속 [월가 업&다운] - 한국경제",
@@ -789,7 +779,7 @@
       "source": "한국경제",
       "published": "10-07 04:05",
       "published_iso": "2026-10-06T19:05:10+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "QQQM",
@@ -799,7 +789,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-07 03:38",
       "published_iso": "2026-10-06T18:38:28+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "0072R0",
@@ -829,6 +819,16 @@
       "source": "TradingKey",
       "published": "10-07 00:16",
       "published_iso": "2026-10-06T15:16:20+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "DA Davidson이 성장 전망에 따라 Zeta Global 목표주가를 상향 조정 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lVktRODAwaEU3RzM1bEdiSnNiMGNmZWs3SlFrdDNyNmgyZUh3VllyZmhhaGNGOXdNT3BFZHJSUWJvNF9VdzA3bU1lRVRhWUZTOVZvQzIzeWZweFlzVkVzRDNHYktzUzh4aWJrYlMxblNac1dj?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-06 23:27",
+      "published_iso": "2026-10-06T14:27:00+00:00",
       "age": "4일 전"
     },
     {
@@ -929,7 +929,7 @@
       "source": "TIKR.com",
       "published": "10-06 04:07",
       "published_iso": "2026-10-05T19:07:30+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "TSLA",
@@ -962,13 +962,13 @@
       "age": "5일 전"
     },
     {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "투자자들은 캐터필러(CAT)의 10억 달러 규모 노스캐롤라이나 확장 계획에 어떻게 반응하고 있을까 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlExLWhrVHBxRzFMVmx1VFdkN0JMZW5TNFZMV2h2ZHRJc0JFWks0ZkluYWIwX3NVdV9FNFQ3a2VwTmhMenJRRlFPeFhYekJGaWNES3l1eWZxbXdRckREQ1lGY0VKQ200Z1lvVm5lZnI2V042T3lEWTBkbGtDRFZzZzJPUTJEWXVpa1lfUHlWXzhpUnRVZUo2emNNY9IBmwFBVV95cUxNMlExLWhrVHBxRzFMVmx1VFdkN0JMZW5TNFZMV2h2ZHRJc0JFWks0ZkluYWIwX3NVdV9FNFQ3a2VwTmhMenJRRlFPeFhYekJGaWNES3l1eWZxbXdRckREQ1lGY0VKQ200Z1lvVm5lZnI2V042T3lEWTBkbGtDRFZzZzJPUTJEWXVpa1lfUHlWXzhpUnRVZUo2emNNYw?oc=5",
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "브로드컴(AVGO) 고용 지표 랠리 후 다시 커진 저평가 기대 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWERGUTFSZ0lBT0JKZGRZMWdPVnNuRE04TEh0QUNuRGVFcTVYeVBoY0F2NEFSenQwOXVwUWpfUW03SkltUzllQlR3NW5lcXdtVk92X0hncVRzTWlQcDJhSmFJS0ZDZ004NzROOFNIVkRqVlMtazRYMm01djRmeTlxOTM4SWtUWWl5RzdtZkJ6Y20wb1BVd3Y00gGcAUFVX3lxTE90RkN1NzY5X1cycEtDa1JVc1FPbDNhNC1ZTTJKSXhzNTRfRVpidUt2akt6S2NZQUV5MWF2ZzFWRzlHc01aVDBKWE92MXMxa0N0aWdjWU9GbXQyN0cyLVVYXzNzYy1LZTVrVlVJUXVXeHo4WFpoa210eHZYU3B0ZFdmUW1jVnN0cG9fQzNNa2trdm1HT08zQ0tldVI3Qw?oc=5",
       "source": "Simply Wall Street",
-      "published": "10-05 14:52",
-      "published_iso": "2026-10-05T05:52:21+00:00",
+      "published": "10-05 16:00",
+      "published_iso": "2026-10-05T07:00:00+00:00",
       "age": "5일 전"
     },
     {
