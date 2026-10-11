@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 17:24 KST",
+  "updated_at": "2026-10-11 18:22 KST",
   "items": [
     {
       "ticker": "GEV",
@@ -9,7 +9,17 @@
       "source": "TIKR.com",
       "published": "10-11 10:12",
       "published_iso": "2026-10-11T01:12:32+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "새로운 AI 수요 소식에 AMD(AMD) 주가가 적정 가치 수준에 근접한 것으로 보인다 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTU1ZUDBHN080cW1ZZE9KUExmNTJsVjRqczV0V29pZkZERFRmellwWjhNTmwzcGVVRXlfbzVSZk9NWEdkc0tyN3RUb3BhTTA2RGtOUGIwWW9sWDJnU2pKemVENV9VcXV3NGMyM1VrTENCQ0t4Tl9vQXFfU1k3SDhkTDZkaXJrZmN0N0tub3lLdFBCVVhQSXVlbGRiT05xNHlhSFFwYmFOZjI4T2t3a1HSAa4BQVVfeXFMTU1NWVAwRzdPNHFtWWRPSlBMZjUybFY0anM1dFdvaWZGRERUZnpZcFo4TU5sM3BlVUV5X281UmZPTVhHZHNLcjd0VG9wYU0wNkRrTlBiMFlvbFgyZ1NqSnplRDVfVXF1dzRjMjNVa0xDQkNLeE5fb0FxX1NZN0g4ZEw2ZGlya2ZjdDdLbm95S3RQQlVYUEl1ZWxkYk9OcTR5YUhRcGJhTmYyOE9rd2tR?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-11 09:29",
+      "published_iso": "2026-10-11T00:29:21+00:00",
+      "age": "8시간 전"
     },
     {
       "ticker": "COST",
@@ -19,7 +29,7 @@
       "source": "아시아투데이",
       "published": "10-11 09:17",
       "published_iso": "2026-10-11T00:17:46+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "487230",
@@ -29,7 +39,7 @@
       "source": "IT조선",
       "published": "10-11 06:20",
       "published_iso": "2026-10-10T21:20:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "379810",
@@ -39,7 +49,17 @@
       "source": "Calgary Roughnecks",
       "published": "10-11 06:01",
       "published_iso": "2026-10-10T21:01:58+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
+    },
+    {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "'파킹형' ETF 자금 유입 지속…증시 박스권 장세 영향 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LZjJyQ1NqMDhXUDhXamZYaFJRS2w0dU1iWHljWGJZeXRvRUU0THRWZFdMRmFPTnFwcHNFYWZpTEdPektCR0JGRmJKYzUxb2p0OVdjSXJIQXBxZkFhUmFWZdIBYEFVX3lxTE9LZjJyQ1NqMDhXUDhXamZYaFJRS2w0dU1iWHljWGJZeXRvRUU0THRWZFdMRmFPTnFwcHNFYWZpTEdPektCR0JGRmJKYzUxb2p0OVdjSXJIQXBxZkFhUmFWZQ?oc=5",
+      "source": "연합뉴스",
+      "published": "10-10 08:00",
+      "published_iso": "2026-10-09T23:00:01+00:00",
+      "age": "1일 전"
     },
     {
       "ticker": "368590",
@@ -129,6 +149,26 @@
       "source": "Mitrade",
       "published": "10-09 16:00",
       "published_iso": "2026-10-09T07:00:00+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "왜 인텔(INTC)은 AI 반도체 협력 확대에 나섰을까? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTXdpQmJlUmJGMXdQTlFmUFN2aXRaOFlMejV3Ti1UOTltR2k2WVBvSXA1d1hNN2dqSURBSG1PMU9EWWhFejBMallBcjFKUzhlcGlTNXZiUnZTaEQ1WDdNV3dkLTFrLUUwZ2xZN1R4bnpTYUZkaWozd3FWbDB3bEpLQ3drblJaek1oM0VscUQ2VWw2UlnSAZgBQVVfeXFMTVpLRXJLY00wMWJiLVhielJyNUhjR1Nmc0xmVmdtWTJfUTdlZFd4QUpNckpSem1ybzJMLW5qd1JFeURKVGtOQmYxdjMxMW5id3J0LVFTdV9qYzlzdHRtTFdGRnNYbzhPS0k2N29uQkxJNnJmbnh4elZsQi11aXJkSENqVU9QcW5QaEo5bGw2ekFWWXhvUnhONlM?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-09 16:00",
+      "published_iso": "2026-10-09T07:00:00+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "SCHD",
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "title": "규칙을 한 항목씩 찾아 읽는 엔트리 파워볼 사다리 도움말 활용 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYm10X2I1NG8zS19BX1hDWmNRQi1KWlQ2RUx6NEMtMGhhMnRXUGliS09sTzRYM2oxcUltMXdtZlg4a2tzVTVLajZZSHZJWVZzaU5YOElNYmZXc0NVQmN4ZTNfR3ZNQmoxV3FHeGQwVGJaZ01acmlncHZ6S0h2WUttZy1MTE53c20wMV9LMDJQalpfNWFRUThLbmkyWGVfMUgtb0libDFLdUJkR2h6SWNxZW1STGRKbEMxYXhyWjhiUWFPV0xmQ3hLbzNRSDJ4RE1ESEM4R0kzak00XzFGcWstajNpenVsM1RKa1dmWXpGT1BwQQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-09 14:27",
+      "published_iso": "2026-10-09T05:27:08+00:00",
       "age": "2일 전"
     },
     {
@@ -322,6 +362,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "포커 최고 : 위험 피하기와 보호 조치 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45Mzlsd1JOMlVMMk1CMDFZVHBwcXFqZUU5SW5nbnpMd2xoNS0yb0Y0NzVhNnpzNHNISlR3dWp4bG5lcWR1SERya2VSTU9SSWltYVBBaUNSX3otS0lGR3BVbVhNZVRGOFNP?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-08 19:54",
+      "published_iso": "2026-10-08T10:54:11+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "487230",
       "name": "KODEX 미국AI전력핵심인프라",
       "title": "국내 반도체부터 미국 AI 에이전트까지…AI·우량채권 ETF 4종 13일 상장 - 코리아리포트",
@@ -349,16 +399,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 17:34",
       "published_iso": "2026-10-08T08:34:46+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "SCHD",
-      "name": "Schwab U.S. Dividend Equity ETF",
-      "title": "토토 잭팟 의 모든 측면: 장점, 단점 및 활용 방법 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kTlpEelpaZUhVT09jZmlld0xNY1R3LWsyZWV2clgwLWZJbTljT3lhRzNkS3oxdDJqdEp4cGN4Y2U0M2tuVml3UkhtaUl3ajdVX0pGV0FHaS01Wm9xZmxBTDh0SV8tcndsUWhqX2VSamNnVU80eHpNZ3BIc3c?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-08 16:22",
-      "published_iso": "2026-10-08T07:22:46+00:00",
       "age": "3일 전"
     },
     {
@@ -589,7 +629,7 @@
       "source": "TradingKey",
       "published": "10-07 18:17",
       "published_iso": "2026-10-07T09:17:45+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "JEPQ",
@@ -599,7 +639,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-07 17:59",
       "published_iso": "2026-10-07T08:59:20+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "SCHD",
@@ -682,16 +722,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "규칙 화면의 탭을 따라 읽는 온라인 카지노 mit는 카드를 지불합니다 탐색 순서 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yMzBtWk4tM2ctTzQwRGdkTUlGN2FnMjBiOVp6bEEwdUZDakEtdGFlWC1RRGZsQVI1YlN6R2lsVGxSWUhvNnJIYjZrQWNza01BUEJRY1pFY1JMRnhNWFRNRjU3UF9OY3ZtSzBLZFcwbG0?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-07 10:50",
-      "published_iso": "2026-10-07T01:50:39+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "JEPQ",
       "name": "JPMorgan Nasdaq Equity Premium Income ETF",
       "title": "게임 소개와 FAQ를 연결하는 바카라 소액 마티니 질문 안내 - Calgary Roughnecks",
@@ -699,16 +729,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-07 10:23",
       "published_iso": "2026-10-07T01:23:58+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "인텔(INTC) 테라팹 입지 흔드는 새 파트너 참여 협의 주목 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUJWa3dmY2k0dHRacGlLYWp1MWZaa3VDN0ItaE5XYmlXYnl4QTVKTmF1WDlxZjI3eWtxOXpUNjJaZUlUY00xNmhjX0VFNkxIZ19yaGpRd0UzX3J4UHA0X2dQdHFxanRxYUNiU3kwWnVWMzgwcmlwUUUxNjl2OUp0SEp0WTFsVHp1STltMTBjM3BUUmhHTE9fetIBmAFBVV95cUxQdUJWa3dmY2k0dHRacGlLYWp1MWZaa3VDN0ItaE5XYmlXYnl4QTVKTmF1WDlxZjI3eWtxOXpUNjJaZUlUY00xNmhjX0VFNkxIZ19yaGpRd0UzX3J4UHA0X2dQdHFxanRxYUNiU3kwWnVWMzgwcmlwUUUxNjl2OUp0SEp0WTFsVHp1STltMTBjM3BUUmhHTE9feg?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-07 10:02",
-      "published_iso": "2026-10-07T01:02:46+00:00",
       "age": "4일 전"
     },
     {
@@ -859,17 +879,7 @@
       "source": "매일경제 마켓",
       "published": "10-06 17:29",
       "published_iso": "2026-10-06T08:29:59+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "[ETF NOW] KB자산운용·한국투자신탁운용 - 위키리크스한국",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52dkdBTEhuby1YdlVlLWRRVUVGOVF5Y0lSUkZDcGEtaGpSYWl3M1A1NnRaUUJoTXVKMVFPZUpMUGVPZHBjaVpPWnB6XzE4dUViM0ljYnViOHVFa056b0hJTWdQTWxNaGJOLWx3aW5mODM?oc=5",
-      "source": "위키리크스한국",
-      "published": "10-06 17:25",
-      "published_iso": "2026-10-06T08:25:56+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "368590",
@@ -879,7 +889,7 @@
       "source": "위키리크스한국",
       "published": "10-06 17:25",
       "published_iso": "2026-10-06T08:25:56+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "TSM",
@@ -969,16 +979,6 @@
       "source": "TIKR.com",
       "published": "10-05 22:52",
       "published_iso": "2026-10-05T13:52:30+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "OpenFold3 배포가 AMD 주가에 미칠 영향 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSXVXRkZMTnp2SGY0b2pjU0kzbzIwcXNUaV81RU1CNzFGdXV2RjMta0FGNUxRNGVWQVl3MV94dXFTXzIyaDZiM0pLZkNYS090VXVPU1gxMU1EeS1jR3M5dnp2QnFHQ3NSYjM3eUFlejJvLXI0NEtTSWRkN1FPV29fZWZuelFndDB3MW4yNC1XZnZNMS0xTk1LTDZnVXk2a3BBSmRDaG9oUjbSAa4BQVVfeXFMTTZsZnlMcFFoUUF6RS1JY3BZbm81T0pKOFVFV25oaWdXZU9iSXVhSGIteTBSb3lmdV9lSzEzeEFiUmFEYk5NRjQtS0NxWk9BU2ZvYm1FRngzR2h5QkhrNFRMOHRkZExUTTZJNHFPVzJEQXpnVXlpUkhsQ0I1TkxJNHM5YUU0NVZwQmtxZXFKLURwdXB3VFlwTF9peDdXNnNCMGhVX1UzemFsODM2UkRR?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-05 22:52",
-      "published_iso": "2026-10-05T13:52:04+00:00",
       "age": "5일 전"
     },
     {
