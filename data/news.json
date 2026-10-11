@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 06:22 KST",
+  "updated_at": "2026-10-12 07:22 KST",
   "items": [
     {
       "ticker": "GEV",
@@ -9,7 +9,7 @@
       "source": "TIKR.com",
       "published": "10-11 10:12",
       "published_iso": "2026-10-11T01:12:32+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "AMD",
@@ -19,7 +19,7 @@
       "source": "Simply Wall Street",
       "published": "10-11 09:29",
       "published_iso": "2026-10-11T00:29:21+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "COST",
@@ -29,7 +29,7 @@
       "source": "아시아투데이",
       "published": "10-11 09:17",
       "published_iso": "2026-10-11T00:17:46+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "487230",
@@ -52,6 +52,26 @@
       "age": "1일 전"
     },
     {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "title": "유럽의 자율주행 소프트웨어 관련 소식에도 불구하고 테슬라(TSLA) 주가는 고평가된 것으로 보일 수 있다 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbkFmOFI4N1VUdUtza3F1eEFaMUlMMUVKWFJ0VGp1RGpZR2VfcldzUmRJQ1hENkV2aVNISWt4RERpMFdGeFBJdkxIXzhCQzYtQldvOWVfSDU1R1M0MmhKMHh1ZVdYeW5hNUdFYlVYbjFxbnZjbHpZcHM2Wi1IbElqQlhOSURsS2RHZ3k4NE9Gc9IBlAFBVV95cUxPVk9ZdzNEUU01TVI1YnpkZHROaE9ka2tuMkVfbTBHcXFSdS1pWk0zSWZZd2MxX1BZU2xSYVJnNmJHdFY5THpNZm5MSFgtUG5ZY3FtWUxwMHB4eVJ4ZHQyckozM1cxU0hvbzlmM3lnSG5yVGw0VVJKVmxBQXI2bWNOQ211ckFaSVllVXpmdVk0RnRBOVNB?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-10 16:00",
+      "published_iso": "2026-10-10T07:00:00+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "'파킹형' ETF 자금 유입 지속…증시 박스권 장세 영향 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LZjJyQ1NqMDhXUDhXamZYaFJRS2w0dU1iWHljWGJZeXRvRUU0THRWZFdMRmFPTnFwcHNFYWZpTEdPektCR0JGRmJKYzUxb2p0OVdjSXJIQXBxZkFhUmFWZdIBYEFVX3lxTE9LZjJyQ1NqMDhXUDhXamZYaFJRS2w0dU1iWHljWGJZeXRvRUU0THRWZFdMRmFPTnFwcHNFYWZpTEdPektCR0JGRmJKYzUxb2p0OVdjSXJIQXBxZkFhUmFWZQ?oc=5",
+      "source": "연합뉴스",
+      "published": "10-10 08:00",
+      "published_iso": "2026-10-09T23:00:01+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
       "title": "'파킹형' ETF 자금 유입 지속…증시 박스권 장세 영향 - 연합뉴스",
@@ -69,7 +89,7 @@
       "source": "Simply Wall Street",
       "published": "10-10 06:58",
       "published_iso": "2026-10-09T21:58:25+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "GOOG",
@@ -135,7 +155,7 @@
       "ticker": "INTC",
       "name": "Intel Corporation",
       "title": "왜 인텔(INTC)은 AI 반도체 협력 확대에 나섰을까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWktFcktjTTAxYmItWGJ6UnI1SGNHU2ZzTGZWZ21ZMl9RN2VkV3hBSk1ySlJ6bXJvMkwtbmp3UkV5REpUa05CZjF2MzExbmJ3cnQtUVN1X2pjOXN0dG1MV0ZGc1hvOE9LSTY3b25CTEk2cmZueHh6VmxCLXVpcmRIQ2pVT1BxblBoSjlsbDZ6QVZZeG9SeE42U9IBmAFBVV95cUxNWktFcktjTTAxYmItWGJ6UnI1SGNHU2ZzTGZWZ21ZMl9RN2VkV3hBSk1ySlJ6bXJvMkwtbmp3UkV5REpUa05CZjF2MzExbmJ3cnQtUVN1X2pjOXN0dG1MV0ZGc1hvOE9LSTY3b25CTEk2cmZueHh6VmxCLXVpcmRIQ2pVT1BxblBoSjlsbDZ6QVZZeG9SeE42Uw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTXdpQmJlUmJGMXdQTlFmUFN2aXRaOFlMejV3Ti1UOTltR2k2WVBvSXA1d1hNN2dqSURBSG1PMU9EWWhFejBMallBcjFKUzhlcGlTNXZiUnZTaEQ1WDdNV3dkLTFrLUUwZ2xZN1R4bnpTYUZkaWozd3FWbDB3bEpLQ3drblJaek1oM0VscUQ2VWw2UlnSAZgBQVVfeXFMTVpLRXJLY00wMWJiLVhielJyNUhjR1Nmc0xmVmdtWTJfUTdlZFd4QUpNckpSem1ybzJMLW5qd1JFeURKVGtOQmYxdjMxMW5id3J0LVFTdV9qYzlzdHRtTFdGRnNYbzhPS0k2N29uQkxJNnJmbnh4elZsQi11aXJkSENqVU9QcW5QaEo5bGw2ekFWWXhvUnhONlM?oc=5",
       "source": "Simply Wall Street",
       "published": "10-09 16:00",
       "published_iso": "2026-10-09T07:00:00+00:00",
@@ -172,16 +192,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "“메모리 반도체주에 무슨 일이?”···마이크론·SK하이닉스·샌디스크 주가 일제히 하락 - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNUUtWeVZ5QXRDN1FOUTFUSUR6ZVVrM01zSGZtQTZEeHc0NkVDWnRlZ24xdGYzSGRYY1Mya1JNZTNyVFJLaWQwbnkwV3pJajRQaGpfbnltODh1MTlwWU1fYlFPbGVWYWZBQmVmVFl2RVRVcGpfN3NycWZwckQyNlQwOXN3cUdzeWpsdFRNcXRPRFFrU1paTktKNzJwLWlkTF9xRnZkMU1GTFdacmVGemh5VHF3Ul82Um12ZDlVbERfQzgyUXM3aS1SRUdQTWhKMkVucUpJRjhYV0dkTllrM2UtSmtWWmZrSG9iMTJ2LWFiQ3BxTldBdjBmWlo3NnljeU5PTk95X1NZd1hicjNrTk42T2ZPdVA0ZlBPMEE?oc=5",
-      "source": "Benzinga",
-      "published": "10-09 09:47",
-      "published_iso": "2026-10-09T00:47:39+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
       "title": "美증시 ETF에 한 달 새 2조 유입…S&P500, 환율이 수익률 갈랐다 [마켓시그널] - 서울경제",
@@ -195,7 +205,7 @@
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "美 10년물 급등에 빛바랜 금 ETF…3개월간 10% 안팎 하락 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JVFg1dVl2ek80UjJndVIwQ1NTQ3RwR1M4Qk1iQ3JOSGFBdDBScWU4QWNRWUpOcy1zUVJvN291X2QtbUh4Mlg5RjgyMTltOVlONVFBaHJCR3Nqand4N3JlUUdtZVphX1dtUDA0ZXNHZWNHcGpta0Z3SNIBeEFVX3lxTE9JVFg1dVl2ek80UjJndVIwQ1NTQ3RwR1M4Qk1iQ3JOSGFBdDBScWU4QWNRWUpOcy1zUVJvN291X2QtbUh4Mlg5RjgyMTltOVlONVFBaHJCR3Nqand4N3JlUUdtZVphX1dtUDA0ZXNHZWNHcGpta0Z3SA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6dXdtalpPWm1KdWNDOF9nLTZvNW05N000WTh4N1JMamV4TGp0RWRMMGZOclFfUEtTd1ZrR25LTFV0UnFuVUk2ZXdfQjJWbzNXQkhuTnZGVGRvVGVaWHVYU9IBeEFVX3lxTE9JVFg1dVl2ek80UjJndVIwQ1NTQ3RwR1M4Qk1iQ3JOSGFBdDBScWU4QWNRWUpOcy1zUVJvN291X2QtbUh4Mlg5RjgyMTltOVlONVFBaHJCR3Nqand4N3JlUUdtZVphX1dtUDA0ZXNHZWNHcGpta0Z3SA?oc=5",
       "source": "뉴시스",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
@@ -364,8 +374,8 @@
     {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
-      "title": "Zeta Global, 엔터프라이즈 AI 시스템 ’AthenaOS’ 공개 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9feGpUYkRvS3Izc0FaOHgtWVE4cFBZSEZSU3RJZmRWa3N0SUdRR0dCR2pzSnNVNmdPbm9yT1BvSzlUMGEzWGx1bmFReGFvNEJiaTNONzBmbFIzWkt0MFRUMDZGYTR1RVI0QTZTSmR0Q1A?oc=5",
+      "title": "Zeta Global, Fireworks와 AI 추론 모델 개발 협력 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFYXNfXzhSTGdBaGlKY0ZDTmhDN016LXZkZ2p1RkJLM0UzblhKdUVJUEhDZHhDT3FfS19ZSXFHeE5LWFYzVU1FdWRhbWxuTGlOdS1IYXdha3Q1MU51amlGMndzLTlucWY3cmE2LVZkcFg?oc=5",
       "source": "Investing.com 한국어",
       "published": "10-08 22:21",
       "published_iso": "2026-10-08T13:21:00+00:00",
@@ -379,16 +389,6 @@
       "source": "Investing.com 한국어",
       "published": "10-08 21:43",
       "published_iso": "2026-10-08T12:43:00+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "포커 최고 : 위험 피하기와 보호 조치 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45Mzlsd1JOMlVMMk1CMDFZVHBwcXFqZUU5SW5nbnpMd2xoNS0yb0Y0NzVhNnpzNHNISlR3dWp4bG5lcWR1SERya2VSTU9SSWltYVBBaUNSX3otS0lGR3BVbVhNZVRGOFNP?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-08 19:54",
-      "published_iso": "2026-10-08T10:54:11+00:00",
       "age": "3일 전"
     },
     {
@@ -409,16 +409,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 18:49",
       "published_iso": "2026-10-08T09:49:42+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "title": "매출 성장률 최대 47%의 창업자 주도주 3선 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFplVWF0TmVKTkZNeVYzbV8tLWVsSl9qS3J2dlVnOFVQVEF5ZUlPdUFfUmlpRlpUb0I3UHlFN2JXcFgtMG5qcmZhZm9JZUhDOGY1MDNJYnZ6RDVHTVJJN3lhTXFkZUJlS3JDU1lpVW4zdGZUUnh3eU9DOEhudmV1MmlOeU5lWUtEVEEzZ0M5QkZPNXBM0gGUAUFVX3lxTE1UWmVVYXROZUpORk15VjNtXy0tZWxKX2pLcnZ2VWc4VVBUQXllSU91QV9SaWlGWlRvQjdQeUU3YldwWC0wbmpyZmFmb0llSEM4ZjUwM0lidnpENUdNUkk3eWFNcWRlQmVLckNTWWlVbjN0ZlRSeHd5T0M4SG52ZXUyaU55TmVZS0RUQTNnQzlCRk81cEw?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-08 18:27",
-      "published_iso": "2026-10-08T09:27:53+00:00",
       "age": "3일 전"
     },
     {
@@ -582,6 +572,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "Sandisk (SNDK) 주식 개요 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ybzZHcF9HbkdaVm1wbmxoSWZHTUlhWTg0Q3A4N0dYWFg4ektDa1o5V1ZRblRscE81bXNsM1JkaXZQaGhXc19UVWhaZjJ5Tkc3NTZaV1lYdGNUSnUwNXJKY2JNdnlDR0FPRlVZ?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-07 22:51",
+      "published_iso": "2026-10-07T13:51:38+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "Caterpillar Inc (CAT) 주식 시작했습니다 하락 3.62%에 10월7일: 핵심 원인 공개 - TradingKey",
@@ -692,6 +692,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "368590",
+      "name": "RISE 미국나스닥100",
+      "title": "미래에셋자산운용, 미국 커버드콜 ETF 개인 순매수 1조 돌파...의미는? - 초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11cU5zVF9wZ2dseXJaeWFZS2VRcHZqQWdDVXRuY2Z4bXZmdFF3ZVc0Yjhha3pQNXZKeWFJX043bm44UTVGc3I3TG9TbTlpNEN1cW01QlZFWnh2bHBEM1RnV0NueFhOTE52Rlk3NWNPUdIBc0FVX3lxTE95ZVFoM2lPRXJXMzYtbHJDdV9nWlhNSnhJN0JvZFJONF8yeEJfRVdFVFJaUjQxRC1aN3gyZElFSGtrempxY2JBSVJDU0lHSzR3QmFlYWtzZEYxTzdGMmhBalNTZTRaempteDBrbnQ2TmFCaHM?oc=5",
+      "source": "초이스경제",
+      "published": "10-07 15:38",
+      "published_iso": "2026-10-07T06:38:32+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
       "title": "미래에셋자산운용, 미국 커버드콜 ETF 개인 순매수 1조 돌파...의미는? - 초이스경제",
@@ -742,6 +752,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "규칙 화면의 탭을 따라 읽는 온라인 카지노 mit는 카드를 지불합니다 탐색 순서 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yMzBtWk4tM2ctTzQwRGdkTUlGN2FnMjBiOVp6bEEwdUZDakEtdGFlWC1RRGZsQVI1YlN6R2lsVGxSWUhvNnJIYjZrQWNza01BUEJRY1pFY1JMRnhNWFRNRjU3UF9OY3ZtSzBLZFcwbG0?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-07 10:50",
+      "published_iso": "2026-10-07T01:50:39+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "JEPQ",
       "name": "JPMorgan Nasdaq Equity Premium Income ETF",
       "title": "게임 소개와 FAQ를 연결하는 바카라 소액 마티니 질문 안내 - Calgary Roughnecks",
@@ -789,7 +809,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-07 06:49",
       "published_iso": "2026-10-06T21:49:03+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "000660",
@@ -912,16 +932,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "[ETF NOW] KB자산운용·한국투자신탁운용 - 위키리크스한국",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52dkdBTEhuby1YdlVlLWRRVUVGOVF5Y0lSUkZDcGEtaGpSYWl3M1A1NnRaUUJoTXVKMVFPZUpMUGVPZHBjaVpPWnB6XzE4dUViM0ljYnViOHVFa056b0hJTWdQTWxNaGJOLWx3aW5mODM?oc=5",
-      "source": "위키리크스한국",
-      "published": "10-06 17:25",
-      "published_iso": "2026-10-06T08:25:56+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
       "title": "[ETF NOW] KB자산운용·한국투자신탁운용 - 위키리크스한국",
@@ -990,16 +1000,6 @@
       "published": "10-06 08:29",
       "published_iso": "2026-10-05T23:29:34+00:00",
       "age": "5일 전"
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "Why Intel Stock Slips as TSMC Eyes a Seat at Musk’s Terafab - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONThkSmhGMG9qTGd5MkJ1cS1BUXlZOFZpOWEwc1l2UWJlU2h2VzJoMzJpRUhMdWlYQ2JodDNWbW1wb2pIOWVWT0Z5S3YyaEdYYUdFa19CeDVIYnZhT0x0YjNXTUZDcHh0SDM0eDJrN1FKTUtVd21pTDhYNHFiZjhYUGgwSmFHVmRoQlhIQ0tUM3c?oc=5",
-      "source": "TIKR.com",
-      "published": "10-06 04:07",
-      "published_iso": "2026-10-05T19:07:30+00:00",
-      "age": "6일 전"
     }
   ]
 }
