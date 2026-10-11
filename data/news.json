@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 08:20 KST",
+  "updated_at": "2026-10-11 09:32 KST",
   "items": [
     {
       "ticker": "487230",
@@ -9,7 +9,7 @@
       "source": "IT조선",
       "published": "10-11 06:20",
       "published_iso": "2026-10-10T21:20:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "GEV",
@@ -19,17 +19,7 @@
       "source": "TIKR.com",
       "published": "10-11 01:54",
       "published_iso": "2026-10-10T16:54:31+00:00",
-      "age": "6시간 전"
-    },
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "스트리밍 광고 재편에서 볼 종목 3선 Zeta Global과 AppLovin 주목 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3BVanV4WC1STVdGeTZJbFR3cmc2LWV2OTEwS3hVYmNVSUVNX1pNZzZMSlk1M241aC1kYmJwXzBNX082UjFabUE4TUdMNUJHVXpfX1FESkItY3EzRTNhX0FJbHNWLTl3YnNXZ0hBUDE4SGdEN3pPQzZkX1NBTVhwT1Rkajl1eW43MFlHcDlNUjlKWE1XWWJvN1JiQkVReW9MYUHSAaIBQVVfeXFMTmtwVWp1eFgtUk1XRnk2SWxUd3JnNi1ldjkxMEt4VWJjVUlFTV9aTWc2TEpZNTNuNWgtZGJicF8wTV9PNlIxWm1BOE1HTDVCR1V6X19RREpCLWNxM0UzYV9BSWxzVi05d2JzV2dIQVAxOEhnRDd6T0M2ZF9TQU1YcE9UZGo5dXluNzBZR3A5TVI5SlhNV1libzdSYkJFUXlvTGFB?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-10 08:19",
-      "published_iso": "2026-10-09T23:19:41+00:00",
-      "age": "1일 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "368590",
@@ -119,7 +109,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "0072R0",
@@ -129,7 +119,7 @@
       "source": "뉴시스",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "379800",
@@ -139,7 +129,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "379810",
@@ -149,7 +139,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "379780",
@@ -189,16 +179,6 @@
       "source": "시애틀코리안데일리",
       "published": "10-09 06:30",
       "published_iso": "2026-10-08T21:30:45+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "상승 참여 높인 커버드콜 ETF… 개인 매수 이어져 - 뉴스클레임",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sd3ZtX2xWVG0wbFdlQUVXamltOVBpdEpoSzItWjBTN014bFRKckpUWFFQRmhHRnFnUWo2d05MMGFrbGowblAybHJUMWFVY1lzZW5RU3JjLUh5eTRQTXZ1bzdvYVVOU3FpX0NFTF95ZFFHVVRh0gF0QVVfeXFMTmx3dm1fbFZUbTBsV2VBRVdqaW05UGl0SmhLMi1aMFM3TXhsVEpySlRYUVBGaEdGcWdRajZ3TkwwYWtsajBuUDJsclQxYVVjWXNlblFTcmMtSHl5NFBNdnVvN29hVU5TcWlfQ0VMX3lkUUdVVGE?oc=5",
-      "source": "뉴스클레임",
-      "published": "10-09 04:20",
-      "published_iso": "2026-10-08T19:20:39+00:00",
       "age": "2일 전"
     },
     {
@@ -269,6 +249,16 @@
       "source": "TradingKey",
       "published": "10-09 00:16",
       "published_iso": "2026-10-08T15:16:17+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "상승 참여 높인 커버드콜 ETF… 개인 매수 이어져 - 뉴스클레임",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vaUZJcktQNUxxdVFlNUdZa20xM0tIa3UxVUhJblZhRHBKYThSeHZYNGNIR2QwMVpENmtMcVlFQ0tNNjkzNEY1RE5hZzBsYy16X1dpRWFobUV3c0pfQW8yRGhkVldma2F6bmRZZ2ZWSnbSAXRBVV95cUxObHd2bV9sVlRtMGxXZUFFV2ppbTlQaXRKaEsyLVowUzdNeGxUSnJKVFhRUEZoR0ZxZ1FqNndOTDBha2xqMG5QMmxyVDFhVWNZc2VuUVNyYy1IeXk0UE12dW83b2FVTlNxaV9DRUxfeWRRR1VUYQ?oc=5",
+      "source": "뉴스클레임",
+      "published": "10-09 00:00",
+      "published_iso": "2026-10-08T15:00:00+00:00",
       "age": "2일 전"
     },
     {
@@ -352,6 +342,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "테마와 시스템을 함께 이해하는 파워볼 3분 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTWZwUzZ6TlJON3dYZzhoMXVlSE1MaGNlWHRUZWpXSmh6TUJOWmVJZ3MtQlNOQnRodUJraXlQcjZZeURsTXM2ZlpIWVVpejN3SVZSVWtHQnpuZWJhVTFIVEluaUJuNW1jLXdXT1RQb3VMd3VoLUUyazluUUNzQzZ2Vzlnb0cwQVQwbVF5SHRPV3NOZlZHOFRQOGhzVU93VUtacU1SS0Z0NU1jSVFweFZ0M1J1X2VkWHlkbjd3THNvWkRmbEZTT0I1amRxNXNzdW5JbXNvVUFYR3R0UGlXazdsdTN1UEZBTklxblAtbVdlN3o5X0t1?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-08 17:34",
+      "published_iso": "2026-10-08T08:34:46+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "SCHD",
       "name": "Schwab U.S. Dividend Equity ETF",
       "title": "토토 잭팟 의 모든 측면: 장점, 단점 및 활용 방법 - Calgary Roughnecks",
@@ -359,6 +359,16 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 16:22",
       "published_iso": "2026-10-08T07:22:46+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "스트리밍 광고 재편에서 볼 종목 3선 Zeta Global과 AppLovin 주목 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZFhMa0UwTzNLdzBEem1oaG91aWpKUVNid0xhTWVsQUQzazRlV0ZCdXVRQ054QldqNl84NnhaVDZIQzBHcDRQX0lsaXJ5R0hHc2V5dXF2WWZNbklwa1VQZVJienlvWU16R2hzb2p4RzJPcGhqTTlRa2RibS1zUV94cVNydDBjNlRyTTltRWZTa050eHBRc1BPeEhxcmvSAaIBQVVfeXFMTmtwVWp1eFgtUk1XRnk2SWxUd3JnNi1ldjkxMEt4VWJjVUlFTV9aTWc2TEpZNTNuNWgtZGJicF8wTV9PNlIxWm1BOE1HTDVCR1V6X19RREpCLWNxM0UzYV9BSWxzVi05d2JzV2dIQVAxOEhnRDd6T0M2ZF9TQU1YcE9UZGo5dXluNzBZR3A5TVI5SlhNV1libzdSYkJFUXlvTGFB?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-08 16:00",
+      "published_iso": "2026-10-08T07:00:00+00:00",
       "age": "2일 전"
     },
     {
@@ -459,16 +469,6 @@
       "source": "Hyundai Motor Group",
       "published": "10-08 08:30",
       "published_iso": "2026-10-07T23:30:00+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
-      "title": "호재 가시화 속 TSMC 470달러 하회: 이번 조정은 어디까지 이어질까? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnZqbEJNVXhNd2EtVjBXZE9BdXA0bVBfaTNwZkNkZHctZDN3Qmw3RFdZUUlCS2lGeDJWYnFYdElXeUJ0MmRLSGhYcDhacy1ITjVOYWFueHFNNTRacDFNd3dvbURXV0xiOWQ5UW9SSTF2Nm9LckctVHBpS2k4bVRLdC1BSlJ0blc0SDV4OGxwUzJuMG1BSUM4a1JDU0lOXy1tazVwbWFvbXhDV0RsMGpBUDdzdzk0azdfcmY3S2xCUVY2WFc2ZlpF?oc=5",
-      "source": "TradingKey",
-      "published": "10-08 06:10",
-      "published_iso": "2026-10-07T21:10:00+00:00",
       "age": "3일 전"
     },
     {
@@ -479,16 +479,6 @@
       "source": "알파경제",
       "published": "10-08 06:00",
       "published_iso": "2026-10-07T21:00:00+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "사설 사이트 추천 게임 내 언어 설정 확인 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQam5OYnpuaU0wc3QzZk5mNS1vYmxlRXpQR2lLWmJLUWZ2RnNxXzhuVFF2UzBCR3EzeGlCc2J0MTdpNUlYQWh3TUQxa1gyQ1JiSmstTlU1eWJlZnI2aDlHUkd1ZGxCYy1nVHpJRUdLb0dXTDVSUzByMWdsN095UXg3b2JPRG5iSmlKSmVva2xpWWJUdWh2eXVfYlp6TVVsdmtfTVZXTkRNcFhGVUxmTFVuamo3VWptMnktQnR2c3VsbGlRN04wd0JZVlVxWFo3UQ?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-08 05:13",
-      "published_iso": "2026-10-07T20:13:32+00:00",
       "age": "3일 전"
     },
     {
@@ -729,7 +719,7 @@
       "source": "연합뉴스",
       "published": "10-07 09:31",
       "published_iso": "2026-10-07T00:31:03+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "COST",
@@ -739,7 +729,7 @@
       "source": "Simply Wall Street",
       "published": "10-07 08:45",
       "published_iso": "2026-10-06T23:45:11+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "TSLA",
@@ -862,6 +852,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "\"AI 병목 구간은 메모리\"… 삼전닉스 담는 새 글로벌ETF - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xdk1qVktGb2VMUHkySFNUQ01qRE16d1liNFhWcC04SXhRWXlDQ21aaHluMFY4cEhtdlpHY09IcjVQM0EtbzdhY2NLRy1vbGpBVnc?oc=5",
+      "source": "매일경제 마켓",
+      "published": "10-06 17:29",
+      "published_iso": "2026-10-06T08:29:59+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
       "title": "[ETF NOW] KB자산운용·한국투자신탁운용 - 위키리크스한국",
@@ -922,6 +922,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "[단독] 한솔케미칼, TSMC 코앞에 반도체 핵심 소재 기지 구축…대만 정부 340억원 투자 승인 By The Guru - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByQTFBampsSFJJMkFzRUp2LVdRZ3hjWWVRc1ZfSUlYX0F6Y3BOdEZRQUFyYmhYcGlFTnZtcFdGaEJkczFoZE00R1c5TTJaRjNfdFdLNFEyZUd6dFZJY1dQTHNRc3Vvck5ydy1KMFFBRlE?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-06 10:35",
+      "published_iso": "2026-10-06T01:35:00+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "005380",
       "name": "현대자동차",
       "title": "현대차그룹 공식 웹사이트, 글로벌 웹 어워드에서 수상 이어져 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
@@ -929,7 +939,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-06 08:30",
       "published_iso": "2026-10-05T23:30:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "NVDA",
@@ -939,7 +949,7 @@
       "source": "알파경제",
       "published": "10-06 08:29",
       "published_iso": "2026-10-05T23:29:34+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "INTC",
@@ -990,16 +1000,6 @@
       "published": "10-05 16:00",
       "published_iso": "2026-10-05T07:00:00+00:00",
       "age": "5일 전"
-    },
-    {
-      "ticker": "368590",
-      "name": "RISE 미국나스닥100",
-      "title": "[분배형 ETF 돋보기] 배당-이자 극복한 옵션 커버드콜…SOL팔란티어 28% 1위 - 딜사이트",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hdjROeG1MVFJnaWRLeF82ZkRCYUcxZFo3anZENWw3X2h2R09rMk10aFlXN1p6SF9wc3lHWktyMjFwSURocklCQkhUY0dYYTA?oc=5",
-      "source": "딜사이트",
-      "published": "10-05 07:04",
-      "published_iso": "2026-10-04T22:04:29+00:00",
-      "age": "6일 전"
     }
   ]
 }
