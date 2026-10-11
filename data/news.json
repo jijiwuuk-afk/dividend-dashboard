@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 07:22 KST",
+  "updated_at": "2026-10-12 08:21 KST",
   "items": [
     {
       "ticker": "GEV",
@@ -9,7 +9,7 @@
       "source": "TIKR.com",
       "published": "10-11 10:12",
       "published_iso": "2026-10-11T01:12:32+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "AMD",
@@ -19,7 +19,7 @@
       "source": "Simply Wall Street",
       "published": "10-11 09:29",
       "published_iso": "2026-10-11T00:29:21+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "COST",
@@ -29,7 +29,7 @@
       "source": "아시아투데이",
       "published": "10-11 09:17",
       "published_iso": "2026-10-11T00:17:46+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "487230",
@@ -62,16 +62,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "'파킹형' ETF 자금 유입 지속…증시 박스권 장세 영향 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LZjJyQ1NqMDhXUDhXamZYaFJRS2w0dU1iWHljWGJZeXRvRUU0THRWZFdMRmFPTnFwcHNFYWZpTEdPektCR0JGRmJKYzUxb2p0OVdjSXJIQXBxZkFhUmFWZdIBYEFVX3lxTE9LZjJyQ1NqMDhXUDhXamZYaFJRS2w0dU1iWHljWGJZeXRvRUU0THRWZFdMRmFPTnFwcHNFYWZpTEdPektCR0JGRmJKYzUxb2p0OVdjSXJIQXBxZkFhUmFWZQ?oc=5",
-      "source": "연합뉴스",
-      "published": "10-10 08:00",
-      "published_iso": "2026-10-09T23:00:01+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
       "title": "'파킹형' ETF 자금 유입 지속…증시 박스권 장세 영향 - 연합뉴스",
@@ -79,7 +69,7 @@
       "source": "연합뉴스",
       "published": "10-10 08:00",
       "published_iso": "2026-10-09T23:00:01+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "GEV",
@@ -99,6 +89,16 @@
       "source": "Traders Union",
       "published": "10-10 01:02",
       "published_iso": "2026-10-09T16:02:15+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "키뱅크, 제품 강점 기반으로 제타 글로벌 목표주가 상향 조정 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94ZWR4dURJZEVJLVQtaHQxdWt0NmV3RmNCdHZjam9WWWdTaFRrTS1FU2hzazY1Qy1kZGVMX3FBMFNISU5tQ3UzTmJKRk1UM0ZkeTNYQUxfak5NbjVSX2hyM1FuZWdwQ21jNTBzdEhnOEVRUkJp?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-09 23:19",
+      "published_iso": "2026-10-09T14:19:00+00:00",
       "age": "2일 전"
     },
     {
@@ -155,7 +155,7 @@
       "ticker": "INTC",
       "name": "Intel Corporation",
       "title": "왜 인텔(INTC)은 AI 반도체 협력 확대에 나섰을까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTXdpQmJlUmJGMXdQTlFmUFN2aXRaOFlMejV3Ti1UOTltR2k2WVBvSXA1d1hNN2dqSURBSG1PMU9EWWhFejBMallBcjFKUzhlcGlTNXZiUnZTaEQ1WDdNV3dkLTFrLUUwZ2xZN1R4bnpTYUZkaWozd3FWbDB3bEpLQ3drblJaek1oM0VscUQ2VWw2UlnSAZgBQVVfeXFMTVpLRXJLY00wMWJiLVhielJyNUhjR1Nmc0xmVmdtWTJfUTdlZFd4QUpNckpSem1ybzJMLW5qd1JFeURKVGtOQmYxdjMxMW5id3J0LVFTdV9qYzlzdHRtTFdGRnNYbzhPS0k2N29uQkxJNnJmbnh4elZsQi11aXJkSENqVU9QcW5QaEo5bGw2ekFWWXhvUnhONlM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWktFcktjTTAxYmItWGJ6UnI1SGNHU2ZzTGZWZ21ZMl9RN2VkV3hBSk1ySlJ6bXJvMkwtbmp3UkV5REpUa05CZjF2MzExbmJ3cnQtUVN1X2pjOXN0dG1MV0ZGc1hvOE9LSTY3b25CTEk2cmZueHh6VmxCLXVpcmRIQ2pVT1BxblBoSjlsbDZ6QVZZeG9SeE42U9IBmAFBVV95cUxNWktFcktjTTAxYmItWGJ6UnI1SGNHU2ZzTGZWZ21ZMl9RN2VkV3hBSk1ySlJ6bXJvMkwtbmp3UkV5REpUa05CZjF2MzExbmJ3cnQtUVN1X2pjOXN0dG1MV0ZGc1hvOE9LSTY3b25CTEk2cmZueHh6VmxCLXVpcmRIQ2pVT1BxblBoSjlsbDZ6QVZZeG9SeE42Uw?oc=5",
       "source": "Simply Wall Street",
       "published": "10-09 16:00",
       "published_iso": "2026-10-09T07:00:00+00:00",
@@ -182,13 +182,13 @@
       "age": "2일 전"
     },
     {
-      "ticker": "SCHD",
-      "name": "Schwab U.S. Dividend Equity ETF",
-      "title": "규칙을 한 항목씩 찾아 읽는 엔트리 파워볼 사다리 도움말 활용 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYm10X2I1NG8zS19BX1hDWmNRQi1KWlQ2RUx6NEMtMGhhMnRXUGliS09sTzRYM2oxcUltMXdtZlg4a2tzVTVLajZZSHZJWVZzaU5YOElNYmZXc0NVQmN4ZTNfR3ZNQmoxV3FHeGQwVGJaZ01acmlncHZ6S0h2WUttZy1MTE53c20wMV9LMDJQalpfNWFRUThLbmkyWGVfMUgtb0libDFLdUJkR2h6SWNxZW1STGRKbEMxYXhyWjhiUWFPV0xmQ3hLbzNRSDJ4RE1ESEM4R0kzak00XzFGcWstajNpenVsM1RKa1dmWXpGT1BwQQ?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-09 14:27",
-      "published_iso": "2026-10-09T05:27:08+00:00",
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "“메모리 반도체주에 무슨 일이?”···마이크론·SK하이닉스·샌디스크 주가 일제히 하락 - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNUUtWeVZ5QXRDN1FOUTFUSUR6ZVVrM01zSGZtQTZEeHc0NkVDWnRlZ24xdGYzSGRYY1Mya1JNZTNyVFJLaWQwbnkwV3pJajRQaGpfbnltODh1MTlwWU1fYlFPbGVWYWZBQmVmVFl2RVRVcGpfN3NycWZwckQyNlQwOXN3cUdzeWpsdFRNcXRPRFFrU1paTktKNzJwLWlkTF9xRnZkMU1GTFdacmVGemh5VHF3Ul82Um12ZDlVbERfQzgyUXM3aS1SRUdQTWhKMkVucUpJRjhYV0dkTllrM2UtSmtWWmZrSG9iMTJ2LWFiQ3BxTldBdjBmWlo3NnljeU5PTk95X1NZd1hicjNrTk42T2ZPdVA0ZlBPMEE?oc=5",
+      "source": "Benzinga",
+      "published": "10-09 09:47",
+      "published_iso": "2026-10-09T00:47:39+00:00",
       "age": "2일 전"
     },
     {
@@ -239,7 +239,7 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "379800",
@@ -249,7 +249,7 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "379810",
@@ -259,7 +259,7 @@
       "source": "신아일보",
       "published": "10-09 08:00",
       "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "COST",
@@ -269,7 +269,7 @@
       "source": "TIKR.com",
       "published": "10-09 07:52",
       "published_iso": "2026-10-08T22:52:30+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "CAT",
@@ -392,6 +392,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "포커 최고 : 위험 피하기와 보호 조치 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45Mzlsd1JOMlVMMk1CMDFZVHBwcXFqZUU5SW5nbnpMd2xoNS0yb0Y0NzVhNnpzNHNISlR3dWp4bG5lcWR1SERya2VSTU9SSWltYVBBaUNSX3otS0lGR3BVbVhNZVRGOFNP?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-08 19:54",
+      "published_iso": "2026-10-08T10:54:11+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "487230",
       "name": "KODEX 미국AI전력핵심인프라",
       "title": "국내 반도체부터 미국 AI 에이전트까지…AI·우량채권 ETF 4종 13일 상장 - 코리아리포트",
@@ -422,11 +432,31 @@
       "age": "3일 전"
     },
     {
+      "ticker": "SCHD",
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "title": "토토 잭팟 의 모든 측면: 장점, 단점 및 활용 방법 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kTlpEelpaZUhVT09jZmlld0xNY1R3LWsyZWV2clgwLWZJbTljT3lhRzNkS3oxdDJqdEp4cGN4Y2U0M2tuVml3UkhtaUl3ajdVX0pGV0FHaS01Wm9xZmxBTDh0SV8tcndsUWhqX2VSamNnVU80eHpNZ3BIc3c?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-08 16:22",
+      "published_iso": "2026-10-08T07:22:46+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
       "title": "스트리밍 광고 재편에서 볼 종목 3선 Zeta Global과 AppLovin 주목 - Simply Wall Street",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZFhMa0UwTzNLdzBEem1oaG91aWpKUVNid0xhTWVsQUQzazRlV0ZCdXVRQ054QldqNl84NnhaVDZIQzBHcDRQX0lsaXJ5R0hHc2V5dXF2WWZNbklwa1VQZVJienlvWU16R2hzb2p4RzJPcGhqTTlRa2RibS1zUV94cVNydDBjNlRyTTltRWZTa050eHBRc1BPeEhxcmvSAaIBQVVfeXFMTmtwVWp1eFgtUk1XRnk2SWxUd3JnNi1ldjkxMEt4VWJjVUlFTV9aTWc2TEpZNTNuNWgtZGJicF8wTV9PNlIxWm1BOE1HTDVCR1V6X19RREpCLWNxM0UzYV9BSWxzVi05d2JzV2dIQVAxOEhnRDd6T0M2ZF9TQU1YcE9UZGo5dXluNzBZR3A5TVI5SlhNV1libzdSYkJFUXlvTGFB?oc=5",
       "source": "Simply Wall Street",
+      "published": "10-08 16:00",
+      "published_iso": "2026-10-08T07:00:00+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "SCHD",
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "title": "스캐터는 위치와 상관없이 세나요? 토토 마왕 링크 모음 규칙 문답 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEckYyTTV3emYzbUhiY25XRmpRVnZSME94cFZLOTRqY2c0V0RDUWluMklCdUhiTTNSTVdIY2lKWm5NNHZ2bGgxa0YtWUdaN2VBRHZSLVlLZ3J6dUpEQVFWcXBGMWJ0aUhDLU1HOG50TUg0WHpS?oc=5",
+      "source": "Calgary Roughnecks",
       "published": "10-08 16:00",
       "published_iso": "2026-10-08T07:00:00+00:00",
       "age": "3일 전"
@@ -569,16 +599,6 @@
       "source": "Investing.com 한국어",
       "published": "10-07 23:25",
       "published_iso": "2026-10-07T14:25:00+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "Sandisk (SNDK) 주식 개요 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ybzZHcF9HbkdaVm1wbmxoSWZHTUlhWTg0Q3A4N0dYWFg4ektDa1o5V1ZRblRscE81bXNsM1JkaXZQaGhXc19UVWhaZjJ5Tkc3NTZaV1lYdGNUSnUwNXJKY2JNdnlDR0FPRlVZ?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-07 22:51",
-      "published_iso": "2026-10-07T13:51:38+00:00",
       "age": "4일 전"
     },
     {
@@ -752,16 +772,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "규칙 화면의 탭을 따라 읽는 온라인 카지노 mit는 카드를 지불합니다 탐색 순서 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yMzBtWk4tM2ctTzQwRGdkTUlGN2FnMjBiOVp6bEEwdUZDakEtdGFlWC1RRGZsQVI1YlN6R2lsVGxSWUhvNnJIYjZrQWNza01BUEJRY1pFY1JMRnhNWFRNRjU3UF9OY3ZtSzBLZFcwbG0?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-07 10:50",
-      "published_iso": "2026-10-07T01:50:39+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "JEPQ",
       "name": "JPMorgan Nasdaq Equity Premium Income ETF",
       "title": "게임 소개와 FAQ를 연결하는 바카라 소액 마티니 질문 안내 - Calgary Roughnecks",
@@ -799,7 +809,7 @@
       "source": "알파경제",
       "published": "10-07 07:56",
       "published_iso": "2026-10-06T22:56:27+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "VOO",
@@ -882,16 +892,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "DA Davidson이 성장 전망에 따라 Zeta Global 목표주가를 상향 조정 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lVktRODAwaEU3RzM1bEdiSnNiMGNmZWs3SlFrdDNyNmgyZUh3VllyZmhhaGNGOXdNT3BFZHJSUWJvNF9VdzA3bU1lRVRhWUZTOVZvQzIzeWZweFlzVkVzRDNHYktzUzh4aWJrYlMxblNac1dj?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-06 23:27",
-      "published_iso": "2026-10-06T14:27:00+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
       "title": "브로드컴 (AVGO) 주식 움직였습니다 상승 3.74%에 10월6일: 전체 분석 - TradingKey",
@@ -929,6 +929,16 @@
       "source": "매일경제 마켓",
       "published": "10-06 17:29",
       "published_iso": "2026-10-06T08:29:59+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "[ETF NOW] KB자산운용·한국투자신탁운용 - 위키리크스한국",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52dkdBTEhuby1YdlVlLWRRVUVGOVF5Y0lSUkZDcGEtaGpSYWl3M1A1NnRaUUJoTXVKMVFPZUpMUGVPZHBjaVpPWnB6XzE4dUViM0ljYnViOHVFa056b0hJTWdQTWxNaGJOLWx3aW5mODM?oc=5",
+      "source": "위키리크스한국",
+      "published": "10-06 17:25",
+      "published_iso": "2026-10-06T08:25:56+00:00",
       "age": "5일 전"
     },
     {
@@ -989,16 +999,6 @@
       "source": "Hyundai Motor Group",
       "published": "10-06 08:30",
       "published_iso": "2026-10-05T23:30:00+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "엔비디아(NVDA.N) 사상 최대 자사주 매입..주가 '고공 행진' - 알파경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MNFdTUU5xekx5WF92TWJRSFBobk1CRFNEdzM5elVPTmVyd1dKT2J2WklOWmlIRXM2aVNsWllfU2pid2ppWGt4amR2U1lLYUNlSlJLSmdwN1BZdEtGYk1iNlg0ajR1b0Q3eHhGbG9B?oc=5",
-      "source": "알파경제",
-      "published": "10-06 08:29",
-      "published_iso": "2026-10-05T23:29:34+00:00",
       "age": "5일 전"
     }
   ]
