@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 04:21 KST",
+  "updated_at": "2026-10-12 05:21 KST",
   "items": [
     {
       "ticker": "GEV",
@@ -9,7 +9,7 @@
       "source": "TIKR.com",
       "published": "10-11 10:12",
       "published_iso": "2026-10-11T01:12:32+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "AMD",
@@ -19,7 +19,7 @@
       "source": "Simply Wall Street",
       "published": "10-11 09:29",
       "published_iso": "2026-10-11T00:29:21+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "COST",
@@ -29,7 +29,7 @@
       "source": "아시아투데이",
       "published": "10-11 09:17",
       "published_iso": "2026-10-11T00:17:46+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "487230",
@@ -39,7 +39,7 @@
       "source": "IT조선",
       "published": "10-11 06:20",
       "published_iso": "2026-10-10T21:20:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "379810",
@@ -49,7 +49,17 @@
       "source": "Calgary Roughnecks",
       "published": "10-11 06:01",
       "published_iso": "2026-10-10T21:01:58+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "title": "유럽의 자율주행 소프트웨어 관련 소식에도 불구하고 테슬라(TSLA) 주가는 고평가된 것으로 보일 수 있다 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbkFmOFI4N1VUdUtza3F1eEFaMUlMMUVKWFJ0VGp1RGpZR2VfcldzUmRJQ1hENkV2aVNISWt4RERpMFdGeFBJdkxIXzhCQzYtQldvOWVfSDU1R1M0MmhKMHh1ZVdYeW5hNUdFYlVYbjFxbnZjbHpZcHM2Wi1IbElqQlhOSURsS2RHZ3k4NE9Gc9IBlAFBVV95cUxPVk9ZdzNEUU01TVI1YnpkZHROaE9ka2tuMkVfbTBHcXFSdS1pWk0zSWZZd2MxX1BZU2xSYVJnNmJHdFY5THpNZm5MSFgtUG5ZY3FtWUxwMHB4eVJ4ZHQyckozM1cxU0hvbzlmM3lnSG5yVGw0VVJKVmxBQXI2bWNOQ211ckFaSVllVXpmdVk0RnRBOVNB?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-10 16:00",
+      "published_iso": "2026-10-10T07:00:00+00:00",
+      "age": "1일 전"
     },
     {
       "ticker": "368590",
@@ -269,7 +279,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 04:31",
       "published_iso": "2026-10-08T19:31:48+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "NVDA",
@@ -279,6 +289,16 @@
       "source": "TradingKey",
       "published": "10-09 04:16",
       "published_iso": "2026-10-08T19:16:18+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "Samsung Electronics, SK hynix rally on U.S. market boost - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUR09lb2ZSRXIydFBWLUk4dnJ4V3MxVGFwc3c5ejMzcHBJT2ZhSDdDUWM4OFJ6LXdrRmdUNkYzRDB6OEJMS3JsS1djRmtaRVhH?oc=5",
+      "source": "매일경제",
+      "published": "10-09 03:15",
+      "published_iso": "2026-10-08T18:15:33+00:00",
       "age": "3일 전"
     },
     {
@@ -399,16 +419,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 18:49",
       "published_iso": "2026-10-08T09:49:42+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "title": "매출 성장률 최대 47%의 창업자 주도주 3선 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFplVWF0TmVKTkZNeVYzbV8tLWVsSl9qS3J2dlVnOFVQVEF5ZUlPdUFfUmlpRlpUb0I3UHlFN2JXcFgtMG5qcmZhZm9JZUhDOGY1MDNJYnZ6RDVHTVJJN3lhTXFkZUJlS3JDU1lpVW4zdGZUUnh3eU9DOEhudmV1MmlOeU5lWUtEVEEzZ0M5QkZPNXBM0gGUAUFVX3lxTE1UWmVVYXROZUpORk15VjNtXy0tZWxKX2pLcnZ2VWc4VVBUQXllSU91QV9SaWlGWlRvQjdQeUU3YldwWC0wbmpyZmFmb0llSEM4ZjUwM0lidnpENUdNUkk3eWFNcWRlQmVLckNTWWlVbjN0ZlRSeHd5T0M4SG52ZXUyaU55TmVZS0RUQTNnQzlCRk81cEw?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-08 18:27",
-      "published_iso": "2026-10-08T09:27:53+00:00",
       "age": "3일 전"
     },
     {
@@ -549,7 +559,7 @@
       "source": "TradingKey",
       "published": "10-08 04:57",
       "published_iso": "2026-10-07T19:57:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "SNDK",
@@ -722,16 +732,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "Samsung Electronics, SK hynix rebound from early losses - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5INlJpdTRyMHpDRGhPRDg3dUREdThQYjdPRHl1WlNWUUxJajFXNUlZYlU4TGZFemt1b25JbS03aml2cWRKQnFNNlVXQkdlTWg5Z0dZ?oc=5",
-      "source": "매일경제",
-      "published": "10-07 11:48",
-      "published_iso": "2026-10-07T02:48:09+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
       "title": "미래에셋, 'TIGER 미국 타겟데일리커버드콜 3종' 연초 이후 개인 순매수 1조원 돌파 - 인포스탁데일리",
@@ -794,8 +794,8 @@
     {
       "ticker": "000660",
       "name": "SK하이닉스",
-      "title": "SK Hynix, Samsung Electronics Face Growing U.S. HBM Patent Lawsuits as NPE Litigation Surges - 알파경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MWlh1YVc1ZXpPek1XdTFWcHpKcnUxUThSenB2czdSeEN2Z3MxOXlqbUJZRlV6VmRDd0hLejhCZDBTRkpIZmdTcHQ0Q3VPdWRLZXpvTDBPQ2VhdzRqVmlPVzQ3WlFKSFkzZW9ranFB?oc=5",
+      "title": "Samsung Electronics, SK Hynix Veteran Engineers Move to China’s CXMT, Raising Concerns Over Chip Technology Talent Drain - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhTXg0SENTYUZ3Ty1KcFhJbDVHb1BhZjgyc2l3TUloT1laNGgxNWl5TjVkclpnSUVGQ3RfanRYR1pLWmRSdGRHUXhmcHk0OTc3aUQ0WWdOSEdGTFJrQkZHZzJsTmNjdjhhbFZDWlhn?oc=5",
       "source": "알파경제",
       "published": "10-07 06:00",
       "published_iso": "2026-10-06T21:00:00+00:00",
