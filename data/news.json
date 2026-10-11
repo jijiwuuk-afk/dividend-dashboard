@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 13:23 KST",
+  "updated_at": "2026-10-11 14:22 KST",
   "items": [
     {
       "ticker": "GEV",
@@ -9,7 +9,7 @@
       "source": "TIKR.com",
       "published": "10-11 10:12",
       "published_iso": "2026-10-11T01:12:32+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "487230",
@@ -19,7 +19,7 @@
       "source": "IT조선",
       "published": "10-11 06:20",
       "published_iso": "2026-10-10T21:20:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "379780",
@@ -812,16 +812,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "QQQM",
-      "name": "Invesco NASDAQ 100 ETF",
-      "title": "번개 룰렛 온라인 무료 : 고급 전략과 기술 - 최신 트렌드 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tUmN1amFJUGdBMThTUWdwTDBmRjdDYmtMNzBRbl8yMzc0UUYzcmhMRGFZQ3FzMHJZd05iWWJLUkNRc3VicTVrS0ZOQXRYZTFvWHVKQ1loYkprMlI3RmdNel9HWkZqS1NnTndwQmxFN1pMbUtU?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-07 03:38",
-      "published_iso": "2026-10-06T18:38:28+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "게임 내 숫자가 갱신되는 시점은? 스트립 포커 게임 - Calgary Roughnecks",
@@ -929,7 +919,7 @@
       "source": "디지털데일리",
       "published": "10-06 14:16",
       "published_iso": "2026-10-06T05:16:36+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "379810",
@@ -939,7 +929,7 @@
       "source": "디지털데일리",
       "published": "10-06 14:16",
       "published_iso": "2026-10-06T05:16:36+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "005380",
@@ -999,6 +989,16 @@
       "source": "Simply Wall Street",
       "published": "10-05 22:52",
       "published_iso": "2026-10-05T13:52:04+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "브로드컴(AVGO) 고용 지표 랠리 후 다시 커진 저평가 기대 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWERGUTFSZ0lBT0JKZGRZMWdPVnNuRE04TEh0QUNuRGVFcTVYeVBoY0F2NEFSenQwOXVwUWpfUW03SkltUzllQlR3NW5lcXdtVk92X0hncVRzTWlQcDJhSmFJS0ZDZ004NzROOFNIVkRqVlMtazRYMm01djRmeTlxOTM4SWtUWWl5RzdtZkJ6Y20wb1BVd3Y00gGcAUFVX3lxTE90RkN1NzY5X1cycEtDa1JVc1FPbDNhNC1ZTTJKSXhzNTRfRVpidUt2akt6S2NZQUV5MWF2ZzFWRzlHc01aVDBKWE92MXMxa0N0aWdjWU9GbXQyN0cyLVVYXzNzYy1LZTVrVlVJUXVXeHo4WFpoa210eHZYU3B0ZFdmUW1jVnN0cG9fQzNNa2trdm1HT08zQ0tldVI3Qw?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-05 16:00",
+      "published_iso": "2026-10-05T07:00:00+00:00",
       "age": "5일 전"
     }
   ]
