@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 00:21 KST",
+  "updated_at": "2026-10-12 01:22 KST",
   "items": [
     {
       "ticker": "GEV",
@@ -9,7 +9,7 @@
       "source": "TIKR.com",
       "published": "10-11 10:12",
       "published_iso": "2026-10-11T01:12:32+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "AMD",
@@ -19,7 +19,7 @@
       "source": "Simply Wall Street",
       "published": "10-11 09:29",
       "published_iso": "2026-10-11T00:29:21+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "COST",
@@ -29,7 +29,7 @@
       "source": "아시아투데이",
       "published": "10-11 09:17",
       "published_iso": "2026-10-11T00:17:46+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "487230",
@@ -39,7 +39,7 @@
       "source": "IT조선",
       "published": "10-11 06:20",
       "published_iso": "2026-10-10T21:20:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "379810",
@@ -49,7 +49,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-11 06:01",
       "published_iso": "2026-10-10T21:01:58+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "368590",
@@ -79,7 +79,7 @@
       "source": "Traders Union",
       "published": "10-10 01:02",
       "published_iso": "2026-10-09T16:02:15+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "CAT",
@@ -682,16 +682,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "미래에셋자산운용, 미국 커버드콜 ETF 개인 순매수 1조 돌파...의미는? - 초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11cU5zVF9wZ2dseXJaeWFZS2VRcHZqQWdDVXRuY2Z4bXZmdFF3ZVc0Yjhha3pQNXZKeWFJX043bm44UTVGc3I3TG9TbTlpNEN1cW01QlZFWnh2bHBEM1RnV0NueFhOTE52Rlk3NWNPUdIBc0FVX3lxTE95ZVFoM2lPRXJXMzYtbHJDdV9nWlhNSnhJN0JvZFJONF8yeEJfRVdFVFJaUjQxRC1aN3gyZElFSGtrempxY2JBSVJDU0lHSzR3QmFlYWtzZEYxTzdGMmhBalNTZTRaempteDBrbnQ2TmFCaHM?oc=5",
-      "source": "초이스경제",
-      "published": "10-07 15:38",
-      "published_iso": "2026-10-07T06:38:32+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
       "title": "미래에셋자산운용, 미국 커버드콜 ETF 개인 순매수 1조 돌파...의미는? - 초이스경제",
@@ -849,7 +839,7 @@
       "source": "TIKR.com",
       "published": "10-07 00:22",
       "published_iso": "2026-10-06T15:22:30+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "AMD",
@@ -909,6 +899,16 @@
       "source": "매일경제 마켓",
       "published": "10-06 17:29",
       "published_iso": "2026-10-06T08:29:59+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "[ETF NOW] KB자산운용·한국투자신탁운용 - 위키리크스한국",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52dkdBTEhuby1YdlVlLWRRVUVGOVF5Y0lSUkZDcGEtaGpSYWl3M1A1NnRaUUJoTXVKMVFPZUpMUGVPZHBjaVpPWnB6XzE4dUViM0ljYnViOHVFa056b0hJTWdQTWxNaGJOLWx3aW5mODM?oc=5",
+      "source": "위키리크스한국",
+      "published": "10-06 17:25",
+      "published_iso": "2026-10-06T08:25:56+00:00",
       "age": "5일 전"
     },
     {
