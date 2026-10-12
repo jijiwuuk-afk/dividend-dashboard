@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-12 15:33 KST",
+  "updated_at": "2026-10-12 16:29 KST",
   "items": [
+    {
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "금값 21% 빠졌지만…투자자들은 금 ETF 담았다 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RNzVOdHdrTURCOFE5c0xDemsxajFaa0R2TEh1MUI0dXdYY3otM3hSVGNBbERlSllGSjBVa19pSnBQcW1hNXhwSm1TZ3MwZlVxaFVoZk5TYW1YdTg2QUNxMjFYOE9OTE5K0gFuQVVfeXFMT05KRERjMWstLXd2NTdaUVRITjFtbWZMdmpqSzMtMnVnM216MkVVNklRQnBPSjhaTGt1eVU3a296OUlhTGFkeTdTVmo0cHBoRlZ5TXRqUld1NjI5QnB5dU9Lbm05bF9vMTZDSUN1bHc?oc=5",
+      "source": "머니투데이",
+      "published": "10-12 16:18",
+      "published_iso": "2026-10-12T07:18:19+00:00",
+      "age": "10분 전"
+    },
     {
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
@@ -19,7 +29,7 @@
       "source": "IT조선",
       "published": "10-12 12:00",
       "published_iso": "2026-10-12T03:00:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "489250",
@@ -29,7 +39,7 @@
       "source": "IT조선",
       "published": "10-12 12:00",
       "published_iso": "2026-10-12T03:00:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "000660",
@@ -39,7 +49,7 @@
       "source": "Investing.com 한국어",
       "published": "10-12 10:04",
       "published_iso": "2026-10-12T01:04:00+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "005930",
@@ -49,7 +59,27 @@
       "source": "인사이트코리아",
       "published": "10-12 10:00",
       "published_iso": "2026-10-12T01:00:00+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "브로드컴(AVGO), 500억달러 AI 칩 부채 조달 주도 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUjQtVFF3RVVsaEo4Y1pKTHNBWHd6ZmRscmZrSWdfQW1BamI4S1g2RklzQ3BSVjRnSU1BbFR2RFJ5VUdpbHJGck0xUUJoNm5iSHM3czRPdlBhVG9takV3czNZbVJzWXZCdTZHVzZaRFoteGJ1QlRlS3pZSHJDSU5BdUh0aHRSaDdCczN6Z2lJMUppemdidEl0RkRaQzLSAZwBQVVfeXFMTVI0LVRRd0VVbGhKOGNaSkxzQVh3emZkbHJma0lnX0FtQWpiOEtYNkZJc0NwUlY0Z0lNQWxUdkRSeVVHaWxyRnJNMVFCaDZuYkhzN3M0T3ZQYVRvbWpFd3MzWW1Sc1l2QnU2R1c2WkRaLXhidUJUZUt6WUhyQ0lOQXVIdGh0Umg3QnMzemdpSTFKaXpnYnRJdEZEWkMy?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-12 08:43",
+      "published_iso": "2026-10-11T23:43:39+00:00",
+      "age": "7시간 전"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "AMD(NVDA) Velocity 2026 발표를 앞두고 아직 저평가 상태일까? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdU5WMEdwX0F1dTEzdWJfMkl6STROZzNHYmxWM1FRMVd4SjRwc3JjUUNxODRPVy1VSjRhdWdIUUU0Y21uUmE0b1hwQzNDdUJROTljUkJxM2trVThzdDhCZC10YjhzU3VFZ3VqNFM0UmxjR3drLUpEVGlFSDRFSkZrQUVaMU9Ba0ZmTzBIV0pmSVNDMzFWRlJGTy0wbWt6dUpkTGJhQUhHLW12N1dVZkHSAa4BQVVfeXFMTXVOVjBHcF9BdXUxM3ViXzJJekk0TmczR2JsVjNRUTFXeEo0cHNyY1FDcTg0T1ctVUo0YXVnSFFFNGNtblJhNG9YcEMzQ3VCUTk5Y1JCcTNra1U4c3Q4QmQtdGI4c1N1RWd1ajRTNFJsY0d3ay1KRFRpRUg0RUpGa0FFWjFPQWtGZk8wSFdKZklTQzMxVkZSRk8tMG1renVKZExiYUFIRy1tdjdXVWZB?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-12 07:20",
+      "published_iso": "2026-10-11T22:20:06+00:00",
+      "age": "9시간 전"
     },
     {
       "ticker": "VOO",
@@ -59,7 +89,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-12 05:43",
       "published_iso": "2026-10-11T20:43:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "QQQM",
@@ -69,7 +99,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-12 05:21",
       "published_iso": "2026-10-11T20:21:21+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "489250",
@@ -79,7 +109,7 @@
       "source": "브런치",
       "published": "10-12 00:56",
       "published_iso": "2026-10-11T15:56:53+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "GEV",
@@ -89,16 +119,6 @@
       "source": "TIKR.com",
       "published": "10-11 10:12",
       "published_iso": "2026-10-11T01:12:32+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "새로운 AI 수요 소식에 AMD(AMD) 주가가 적정 가치 수준에 근접한 것으로 보인다 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTU1ZUDBHN080cW1ZZE9KUExmNTJsVjRqczV0V29pZkZERFRmellwWjhNTmwzcGVVRXlfbzVSZk9NWEdkc0tyN3RUb3BhTTA2RGtOUGIwWW9sWDJnU2pKemVENV9VcXV3NGMyM1VrTENCQ0t4Tl9vQXFfU1k3SDhkTDZkaXJrZmN0N0tub3lLdFBCVVhQSXVlbGRiT05xNHlhSFFwYmFOZjI4T2t3a1HSAa4BQVVfeXFMTU1NWVAwRzdPNHFtWWRPSlBMZjUybFY0anM1dFdvaWZGRERUZnpZcFo4TU5sM3BlVUV5X281UmZPTVhHZHNLcjd0VG9wYU0wNkRrTlBiMFlvbFgyZ1NqSnplRDVfVXF1dzRjMjNVa0xDQkNLeE5fb0FxX1NZN0g4ZEw2ZGlya2ZjdDdLbm95S3RQQlVYUEl1ZWxkYk9OcTR5YUhRcGJhTmYyOE9rd2tR?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-11 09:29",
-      "published_iso": "2026-10-11T00:29:21+00:00",
       "age": "1일 전"
     },
     {
@@ -149,16 +169,6 @@
       "source": "Simply Wall Street",
       "published": "10-10 16:00",
       "published_iso": "2026-10-10T07:00:00+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "'파킹형' ETF 자금 유입 지속…증시 박스권 장세 영향 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LZjJyQ1NqMDhXUDhXamZYaFJRS2w0dU1iWHljWGJZeXRvRUU0THRWZFdMRmFPTnFwcHNFYWZpTEdPektCR0JGRmJKYzUxb2p0OVdjSXJIQXBxZkFhUmFWZdIBYEFVX3lxTE9LZjJyQ1NqMDhXUDhXamZYaFJRS2w0dU1iWHljWGJZeXRvRUU0THRWZFdMRmFPTnFwcHNFYWZpTEdPektCR0JGRmJKYzUxb2p0OVdjSXJIQXBxZkFhUmFWZQ?oc=5",
-      "source": "연합뉴스",
-      "published": "10-10 08:00",
-      "published_iso": "2026-10-09T23:00:01+00:00",
       "age": "2일 전"
     },
     {
@@ -239,7 +249,7 @@
       "source": "Mitrade",
       "published": "10-09 16:00",
       "published_iso": "2026-10-09T07:00:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "INTC",
@@ -249,7 +259,7 @@
       "source": "Simply Wall Street",
       "published": "10-09 16:00",
       "published_iso": "2026-10-09T07:00:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "379780",
@@ -259,7 +269,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 15:47",
       "published_iso": "2026-10-09T06:47:51+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "368590",
@@ -269,7 +279,17 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 15:47",
       "published_iso": "2026-10-09T06:47:51+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
+    },
+    {
+      "ticker": "SCHD",
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "title": "규칙을 한 항목씩 찾아 읽는 엔트리 파워볼 사다리 도움말 활용 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYm10X2I1NG8zS19BX1hDWmNRQi1KWlQ2RUx6NEMtMGhhMnRXUGliS09sTzRYM2oxcUltMXdtZlg4a2tzVTVLajZZSHZJWVZzaU5YOElNYmZXc0NVQmN4ZTNfR3ZNQmoxV3FHeGQwVGJaZ01acmlncHZ6S0h2WUttZy1MTE53c20wMV9LMDJQalpfNWFRUThLbmkyWGVfMUgtb0libDFLdUJkR2h6SWNxZW1STGRKbEMxYXhyWjhiUWFPV0xmQ3hLbzNRSDJ4RE1ESEM4R0kzak00XzFGcWstajNpenVsM1RKa1dmWXpGT1BwQQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-09 14:27",
+      "published_iso": "2026-10-09T05:27:08+00:00",
+      "age": "3일 전"
     },
     {
       "ticker": "AMD",
@@ -502,16 +522,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
-      "title": "플레이 순서를 놓쳤을 때 보는 파워볼 전완근 단계 안내 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DRGo4MEdtUmI5NWpmX0RtTFRIVnZfdldDcmR3WmJ0cWNxcm9MNDJnMmdKanFGUFU5dGhqMDIweU9fUFo0WDViNHRva05yNGNScnNUVkU3ajFZNmJhTHNYZjVIby1NUXZaZi1CTA?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-08 18:49",
-      "published_iso": "2026-10-08T09:49:42+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
       "title": "테마와 시스템을 함께 이해하는 파워볼 3분 - Calgary Roughnecks",
@@ -522,16 +532,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "SCHD",
-      "name": "Schwab U.S. Dividend Equity ETF",
-      "title": "토토 잭팟 의 모든 측면: 장점, 단점 및 활용 방법 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kTlpEelpaZUhVT09jZmlld0xNY1R3LWsyZWV2clgwLWZJbTljT3lhRzNkS3oxdDJqdEp4cGN4Y2U0M2tuVml3UkhtaUl3ajdVX0pGV0FHaS01Wm9xZmxBTDh0SV8tcndsUWhqX2VSamNnVU80eHpNZ3BIc3c?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-08 16:22",
-      "published_iso": "2026-10-08T07:22:46+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
       "title": "스트리밍 광고 재편에서 볼 종목 3선 Zeta Global과 AppLovin 주목 - Simply Wall Street",
@@ -539,7 +539,7 @@
       "source": "Simply Wall Street",
       "published": "10-08 16:00",
       "published_iso": "2026-10-08T07:00:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "SCHD",
@@ -549,7 +549,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 16:00",
       "published_iso": "2026-10-08T07:00:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "005930",
@@ -559,7 +559,7 @@
       "source": "경향신문",
       "published": "10-08 15:55",
       "published_iso": "2026-10-08T06:55:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "INTC",
@@ -769,7 +769,7 @@
       "source": "Mitrade",
       "published": "10-07 16:00",
       "published_iso": "2026-10-07T07:00:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "SNDK",
@@ -779,7 +779,7 @@
       "source": "Simply Wall Street",
       "published": "10-07 16:00",
       "published_iso": "2026-10-07T07:00:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "458730",
@@ -952,6 +952,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "[ETF NOW] KB자산운용·한국투자신탁운용 - 위키리크스한국",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52dkdBTEhuby1YdlVlLWRRVUVGOVF5Y0lSUkZDcGEtaGpSYWl3M1A1NnRaUUJoTXVKMVFPZUpMUGVPZHBjaVpPWnB6XzE4dUViM0ljYnViOHVFa056b0hJTWdQTWxNaGJOLWx3aW5mODM?oc=5",
+      "source": "위키리크스한국",
+      "published": "10-06 17:25",
+      "published_iso": "2026-10-06T08:25:56+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
       "title": "[ETF NOW] KB자산운용·한국투자신탁운용 - 위키리크스한국",
@@ -989,16 +999,6 @@
       "source": "디지털데일리",
       "published": "10-06 14:16",
       "published_iso": "2026-10-06T05:16:36+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "현대자동차그룹, 익스플로라토리움과 체험형 과학 전시 Have Fun with Science 개최 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWHhLVU9WcWpjcXlSS0FiZlRjeTJNZ3Nac09tYVpfWmowVkM4UzMtdVBhWVZTVFE5cG1STnk1S092QXB6OGI4dVhkbmlCcHlWcTk1cmFlRXFWZl8wa3FPZ1JKZFE2Y1dndTc4dlV2Vnlwend4N2UwUTNMN2pQYndsV2hCYWU2QWdfZTFhb2F1QVNOX2RhUEpnWmdQNHo2dw?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-06 13:00",
-      "published_iso": "2026-10-06T04:00:00+00:00",
       "age": "6일 전"
     }
   ]
