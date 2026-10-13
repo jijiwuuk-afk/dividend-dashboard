@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-13 18:27 KST",
+  "updated_at": "2026-10-13 19:27 KST",
   "items": [
+    {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
+      "title": "외국인, 올해 국내 주식 200조 넘게 팔았지만 ETF 계속 샀다(종합) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yVHlvaEJFbU1iVkduX1hDb0RmcGFmc3lSODQwQkRQaUlFRWhEVWt4NlhLZEtQNHVyMThRRzBtdmlJbFZkQnhCQkw3TWhQWE5JdnpiX1lpR0FXZHg1UmZtM9IBYEFVX3lxTE8yVHlvaEJFbU1iVkduX1hDb0RmcGFmc3lSODQwQkRQaUlFRWhEVWt4NlhLZEtQNHVyMThRRzBtdmlJbFZkQnhCQkw3TWhQWE5JdnpiX1lpR0FXZHg1UmZtMw?oc=5",
+      "source": "연합뉴스",
+      "published": "10-13 17:08",
+      "published_iso": "2026-10-13T08:08:57+00:00",
+      "age": "2시간 전"
+    },
     {
       "ticker": "487230",
       "name": "KODEX 미국AI전력핵심인프라",
@@ -9,7 +19,7 @@
       "source": "스마트투데이",
       "published": "10-13 17:07",
       "published_iso": "2026-10-13T08:07:54+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "487230",
@@ -19,7 +29,7 @@
       "source": "포춘코리아",
       "published": "10-13 16:33",
       "published_iso": "2026-10-13T07:33:01+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "379800",
@@ -29,16 +39,6 @@
       "source": "비즈니스포스트",
       "published": "10-13 16:30",
       "published_iso": "2026-10-13T07:30:38+00:00",
-      "age": "1시간 전"
-    },
-    {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "“박스피에 지쳤다”…국장 불안에 '파킹형 ETF'에 뭉칫돈 - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbjVSNFdmSWp5RURmTlpsZ2cwend2Mkp1SGxaemNfWmpVT1ZNdVBvMWR6b0tIcUxJTU93ZkVJM1c1S1J0VFpMeDFUZ3ZINEZBclZyc2dHYnFabUI4dVRrZHc4X205ZGFfanRIUFFRN21HUmNYZUhIZmtUU1lvYkp0ZQ?oc=5",
-      "source": "이데일리",
-      "published": "10-13 16:25",
-      "published_iso": "2026-10-13T07:25:14+00:00",
       "age": "2시간 전"
     },
     {
@@ -49,7 +49,7 @@
       "source": "TIKR.com",
       "published": "10-13 16:19",
       "published_iso": "2026-10-13T07:19:06+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "INTC",
@@ -59,7 +59,7 @@
       "source": "TIKR.com",
       "published": "10-13 16:19",
       "published_iso": "2026-10-13T07:19:06+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "005930",
@@ -69,7 +69,7 @@
       "source": "Seoul Economic Daily",
       "published": "10-13 15:49",
       "published_iso": "2026-10-13T06:49:16+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "SNDK",
@@ -79,7 +79,17 @@
       "source": "CoinDesk",
       "published": "10-13 15:03",
       "published_iso": "2026-10-13T06:03:08+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "AMD, AI 에이전트 전용 서버 공개…CPU 3만2000개 코어 탑재 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11bFo4dTZRTUt1VGp2N19nWVJRSXNHbFQ2RFVHM09QOUwxWHU5UHRIMzRMVWRWb0tPUWZDOWxvVldsTnp6dldxeEh1NDFQdw?oc=5",
+      "source": "매일경제",
+      "published": "10-13 13:50",
+      "published_iso": "2026-10-13T04:50:30+00:00",
+      "age": "5시간 전"
     },
     {
       "ticker": "489250",
@@ -89,7 +99,7 @@
       "source": "스마트투데이",
       "published": "10-13 10:35",
       "published_iso": "2026-10-13T01:35:41+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "458730",
@@ -99,7 +109,7 @@
       "source": "스마트투데이",
       "published": "10-13 09:55",
       "published_iso": "2026-10-13T00:55:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "487230",
@@ -109,7 +119,7 @@
       "source": "머니투데이",
       "published": "10-13 09:25",
       "published_iso": "2026-10-13T00:25:25+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "SNDK",
@@ -119,7 +129,7 @@
       "source": "연합인포맥스",
       "published": "10-13 09:23",
       "published_iso": "2026-10-13T00:23:28+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "487230",
@@ -129,7 +139,7 @@
       "source": "브릿지경제",
       "published": "10-13 09:22",
       "published_iso": "2026-10-13T00:22:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "379780",
@@ -139,7 +149,17 @@
       "source": "스마트투데이",
       "published": "10-13 08:15",
       "published_iso": "2026-10-12T23:15:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "Shinhan Securities Cuts Hyundai Motor Price Target by 19% to KRW 630,000, Maintains Buy Rating - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UOGU3TFFOUURKd0s4MllDalhIdWprSDRGR2dhRV9wY09yTE0zSnAtOVBCdU0zeFZSVkVYNTdMVFVoQndoZVE1QTA1S2lPNEdkaU9TUE8zU1Rtbmh2dHJpd1ZCeG1fYWsyRnBIVzNB?oc=5",
+      "source": "알파경제",
+      "published": "10-13 05:46",
+      "published_iso": "2026-10-12T20:46:11+00:00",
+      "age": "13시간 전"
     },
     {
       "ticker": "AVGO",
@@ -149,7 +169,7 @@
       "source": "TIKR.com",
       "published": "10-13 04:41",
       "published_iso": "2026-10-12T19:41:15+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "GOOG",
@@ -159,7 +179,7 @@
       "source": "TradingKey",
       "published": "10-13 04:04",
       "published_iso": "2026-10-12T19:04:21+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "INTC",
@@ -169,7 +189,7 @@
       "source": "TradingKey",
       "published": "10-12 23:16",
       "published_iso": "2026-10-12T14:16:04+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "GOOG",
@@ -179,7 +199,7 @@
       "source": "Traders Union",
       "published": "10-12 23:02",
       "published_iso": "2026-10-12T14:02:42+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "COST",
@@ -439,16 +459,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 14:27",
       "published_iso": "2026-10-09T05:27:08+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "[챗ICT]'아이돌인줄…' 리사 수에 열광한 까닭 - 비즈워치",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82dDRpcDh0LUIxY01MZmNKYTkyVi1RTDh1MC0wNTlJYTN2WUF5T1plNW5WYVVSdXpYSEF0S0tEdlpjMVpPX3pSc2VsVzctZ2s3bXhqNV9neEhXNHVWdGR6VHpoRTJ4enVHY3c?oc=5",
-      "source": "비즈워치",
-      "published": "10-09 13:00",
-      "published_iso": "2026-10-09T04:00:02+00:00",
       "age": "4일 전"
     },
     {
@@ -734,16 +744,6 @@
     {
       "ticker": "005380",
       "name": "현대자동차",
-      "title": "현대차그룹, 인도네시아·베트남서 현대점프스쿨 수료식 및 발대식 개최 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR1BSY2Y0MVJJY3RnNngyYW9yTHQzNVNsSU56RkNiQXJLVU11MVI0QXlzUkgybGRqM0JlQTRUbFd1Ui10eWx6X2tsM0dPQzg3UnJKbHloZkZkdnFMTDF0bmpjQ1Y1cGdpLUE3MnJta2NwUWgxbmJfZGdHeXhQb3FNbExfQlhuTlJDLXM0MTJmd29ISWpweHc?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-08 11:00",
-      "published_iso": "2026-10-08T02:00:00+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
       "title": "새로운 오프로드 탐험의 시작, ‘더 크루 모터페스트’ 속 현대자동차 크레이터 콘셉트 - hyundai.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNE1wY0VVUEctb29aQm42N3d2TGxSRHRndWFuXzlxVVJ2aWtrX1FRSnI4WlJSYm9ZMFl1eURkblpfUXA5T1g2TDZyS01tRWl2Slg1WEN5ZFZPMjFmVXpkcl84cFVYcjZVTHMzRTdmYTh4TFdsQlY0cmp0ZUVpd1dkNnlfVXBZQkNjem1B?oc=5",
       "source": "hyundai.com",
@@ -754,7 +754,7 @@
     {
       "ticker": "005380",
       "name": "현대자동차",
-      "title": "현대자동차, 글로벌 레이싱 게임 ‘더크루 모터페스트’서 ‘크레이터 콘셉트’ 공개 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "title": "현대자동차, 글로벌 레이싱 게임 ‘더 크루 모터페스트’서 ‘크레이터 콘셉트’ 공개 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTEkzLWdZVDFtZ0FxRGp2V1R5aE9uLUJ3a3BKN0xOaTZ3UzlWY0I1U1ZhWWx5Q240ZXpqTnQ4QXZuYVhQUXpqSUhqRlNDWTl0NE00eUc4R0ZibFJ2UDFJNjM1di02Z3B6Z0czQnZCMnpXb2NZNlRsUEZNUWN2ekpmczlLQl9ncjRDcm5uQ2xmLTl0M0w4OTlKaXB5dlFKdw?oc=5",
       "source": "Hyundai Motor Group",
       "published": "10-08 08:30",
