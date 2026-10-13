@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13 11:24 KST",
+  "updated_at": "2026-10-13 12:24 KST",
   "items": [
     {
       "ticker": "489250",
@@ -9,7 +9,7 @@
       "source": "스마트투데이",
       "published": "10-13 10:35",
       "published_iso": "2026-10-13T01:35:41+00:00",
-      "age": "48분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "487230",
@@ -19,7 +19,7 @@
       "source": "일간투데이",
       "published": "10-13 09:55",
       "published_iso": "2026-10-13T00:55:11+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "458730",
@@ -29,7 +29,7 @@
       "source": "스마트투데이",
       "published": "10-13 09:55",
       "published_iso": "2026-10-13T00:55:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "487230",
@@ -39,7 +39,7 @@
       "source": "뉴스드림",
       "published": "10-13 09:30",
       "published_iso": "2026-10-13T00:30:16+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "487230",
@@ -49,7 +49,17 @@
       "source": "머니투데이",
       "published": "10-13 09:25",
       "published_iso": "2026-10-13T00:25:25+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "샌디스크, 美 강세장 최대 수혜주 부상…상장 후 3,000% 폭등 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HMTBhaVFOYkVaNDU4cHRCUGpDcEctZG9CUGxvdVVXMFZZWG9zMWdzcnJadmluN1hMdkpRVkFqMFhJRDFNVGR3aUFWMnZRbTg5cmZneUtNdzY3OGR0QThPV0hUcEpfSG5mNWRrVDZjeEs4ZkFt0gF0QVVfeXFMTkcxMGFpUU5iRVo0NThwdEJQakNwRy1kb0JQbG91VVcwVllYb3MxZ3Nyclp2aW43WEx2SlFWQWowWElEMU1UZHdpQVYydlFtODlyZmd5S013Njc4ZHRBOE9XSFRwSl9IbmY1ZGtUNmN4SzhmQW0?oc=5",
+      "source": "연합인포맥스",
+      "published": "10-13 09:23",
+      "published_iso": "2026-10-13T00:23:28+00:00",
+      "age": "3시간 전"
     },
     {
       "ticker": "487230",
@@ -59,7 +69,7 @@
       "source": "마켓인",
       "published": "10-13 09:16",
       "published_iso": "2026-10-13T00:16:54+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "379780",
@@ -69,17 +79,7 @@
       "source": "스마트투데이",
       "published": "10-13 08:15",
       "published_iso": "2026-10-12T23:15:00+00:00",
-      "age": "3시간 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "샌디스크, 월요일 주가 6% 급락한 이유는? - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQb05NbkVHQ2FXdTFSaEt4aVpncGp3MnBGcVFyOHBjMjRQS2pHSGJWSzJ1MnNzVnZKU0RjOS0wak95OHN2dk9MMWFxOHZWWmJTVi1xTzhGR3hISWNFeG5wbXlrRzZaOTA3RlB5RzItVzZWekpabDVyZk5rS1h0cWkweUgzczJjUmh3ZF9WeGdHd243Q0liVDR1VFp4VTRBNWh4R0d5dW1EUFpDUkM1T2V4V3JseUZFYjB0ZnM3bUdtcml1MkN3LUxoa185bmhMOUxfOW5WemszX29TLTRQSGdaZlh2NmxPUTQ0RGFYd3ZCanhYb1JtQXU4dFE2elFGTFJ3dWRMMjdRV01HQ2luMDNuOQ?oc=5",
-      "source": "Benzinga",
-      "published": "10-13 08:09",
-      "published_iso": "2026-10-12T23:09:35+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "AVGO",
@@ -89,7 +89,7 @@
       "source": "TIKR.com",
       "published": "10-13 04:41",
       "published_iso": "2026-10-12T19:41:15+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "GOOG",
@@ -97,9 +97,9 @@
       "title": "GOOGL|Alphabet Inc Class A|가격:352.720|Chg%:+1.060 - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OVMxWGwxYl81M0J0S0c5bjBaOUpzalIxSXV1MXNsSHV5Mnh0Z1lldUNrVFFONFZkc1EybzAxT05XRzJ3RndOOUFQdjJfRjFzMWVUNDV6QlVySWhTYW5r?oc=5",
       "source": "TradingKey",
-      "published": "10-13 04:12",
-      "published_iso": "2026-10-12T19:12:29+00:00",
-      "age": "7시간 전"
+      "published": "10-13 04:10",
+      "published_iso": "2026-10-12T19:10:44+00:00",
+      "age": "8시간 전"
     },
     {
       "ticker": "INTC",
@@ -109,7 +109,7 @@
       "source": "TradingKey",
       "published": "10-12 23:16",
       "published_iso": "2026-10-12T14:16:04+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "GOOG",
@@ -119,7 +119,7 @@
       "source": "Traders Union",
       "published": "10-12 23:02",
       "published_iso": "2026-10-12T14:02:42+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "COST",
@@ -129,7 +129,7 @@
       "source": "Simply Wall Street",
       "published": "10-12 18:13",
       "published_iso": "2026-10-12T09:13:35+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "0072R0",
@@ -139,7 +139,7 @@
       "source": "머니투데이",
       "published": "10-12 16:18",
       "published_iso": "2026-10-12T07:18:19+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "QQQM",
@@ -149,7 +149,7 @@
       "source": "머니투데이",
       "published": "10-12 16:04",
       "published_iso": "2026-10-12T07:04:59+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "000660",
@@ -159,7 +159,7 @@
       "source": "Investing.com 한국어",
       "published": "10-12 14:01",
       "published_iso": "2026-10-12T05:01:00+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "QQQM",
@@ -169,7 +169,7 @@
       "source": "자본시장뉴스",
       "published": "10-12 13:30",
       "published_iso": "2026-10-12T04:30:00+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "379810",
@@ -179,7 +179,7 @@
       "source": "IT조선",
       "published": "10-12 12:00",
       "published_iso": "2026-10-12T03:00:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "489250",
@@ -189,7 +189,7 @@
       "source": "IT조선",
       "published": "10-12 12:00",
       "published_iso": "2026-10-12T03:00:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "ZETA",
@@ -374,16 +374,6 @@
     {
       "ticker": "000660",
       "name": "SK하이닉스",
-      "title": "SK Hynix(KOSE:A000660) 46% 저평가 가능성 AI 메모리 성장 내러티브는 유효할까 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTBTVGJPN00zUnl6dzdlRWoxMGt3dGJwY3BxX3VwVmplUWo0Y2tlcXpoNEJwRlg1WUVMc1VaNjdhdWdxTlJSOE9WT3UzN0Z6amtuQkxvSHk1VnRFeXMybkVPSzF1azFGOVhtbW5fSVJTMEg5SnZFeG5fQXluZnBRTmxIbDUwa1ZuQ0t3ek1wQXVOYlh4N203M0dqcVhJY090SmfSAacBQVVfeXFMTlRhcjZ0RFhYMF9INTBvci1NY0FSUWE5OWpKYVpSZ24yZ0l6UmZCVXMwRG5ZV1UzRFh5QTByQnpUbEtaNEJvazdGYWhqTHdGd3NmclNSSGxHSGRYUmo1a3MwRHFiMjV6VjlxeEF4R2lCTDdTUGdocno0cXZpWEhCRW9zRWtQTWFrZFFBM0RTN1VrUHpiU215djhGRXd0ODc2S3ZxVDBFRm8?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-09 16:00",
-      "published_iso": "2026-10-09T07:00:00+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "000660",
-      "name": "SK하이닉스",
       "title": "SK하이닉스 미국 상장(SKHY) 주가 전망 2026: 목표주가 $245.21, 본주 대비 프리미엄의 의미 - Mitrade",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdGc4VW4yZXRWWllhSVhHcmtIdTBhdk9wNXNVa1pXcFkwZjVPZ2pHNFdQTkRPTmUwZjg4bUtzU2RJc05INUgzaW10TEJ2d3VObDY4eVpOdXQyT2laZk5STjdBb05KVFkwNTUwdTZBQnlYRXJOWm5qa0NDUW5TRVB3SUhZQkxwQlMyMGRTMGhqQQ?oc=5",
       "source": "Mitrade",
@@ -492,6 +482,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "368590",
+      "name": "RISE 미국나스닥100",
+      "title": "[ETF머니플로우-10월1주] KODEX 200타겟위클리커버드콜 순매수 1위 탈환…TIGER 미국S&P500 2계단 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zcE9KSXgtQUlRY2JTV0xMa29uOGhHWlVSdllqTDBsUnpWa1otM1JzWVp1c1BrQVR1UjhvOXdHMm9SZG1hUndrTzE5akN6a2xZVlJzWEhtN29kOURnV1JJNEtMOF9OWmZCMnp2eTY1QjQ?oc=5",
+      "source": "신아일보",
+      "published": "10-09 08:00",
+      "published_iso": "2026-10-08T23:00:00+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
       "title": "[ETF머니플로우-10월1주] KODEX 200타겟위클리커버드콜 순매수 1위 탈환…TIGER 미국S&P500 2계단 - 신아일보",
@@ -559,6 +559,16 @@
       "source": "TradingKey",
       "published": "10-09 02:16",
       "published_iso": "2026-10-08T17:16:19+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "SK Hynix Grandchild Solidigm Prepares U.S. IPO Next Year - 동아비즈니스리뷰",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Cb0hPUkFOM3RITmY3M285bEJaUE94NlBELV8xOWVKNFFjNjh0Yl9HS1JVN1V0QTh5bWtNNWo3RlU0UUJiSE5CTkladmlwSDNjYTJZQzE3d0RLRnUxak9GYk1n?oc=5",
+      "source": "동아비즈니스리뷰",
+      "published": "10-09 01:40",
+      "published_iso": "2026-10-08T16:40:00+00:00",
       "age": "4일 전"
     },
     {
@@ -899,7 +909,7 @@
       "source": "코인리더스",
       "published": "10-07 12:10",
       "published_iso": "2026-10-07T03:10:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "458730",
@@ -909,7 +919,7 @@
       "source": "인포스탁데일리",
       "published": "10-07 11:28",
       "published_iso": "2026-10-07T02:28:32+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "JEPQ",
@@ -989,16 +999,6 @@
       "source": "TradingKey",
       "published": "10-07 00:16",
       "published_iso": "2026-10-06T15:16:20+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "브로드컴 (AVGO) 주식 움직였습니다 상승 3.74%에 10월6일: 전체 분석 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUE5sX2tLVktEd0liN1hWb2JsVmtUUFNoRjVNNFVoV2gzWXVELS1lbG1uRGRFb3o2YkcxazkzdGF6SkVUcE9zcFlJMS1PM3FBbC16RmZEQ2tPVGhKMlhIWm9jT2FieWdBWVp0VjJ3SVR2OXpKa1BSZExSTHJyRWhJTVRYdzJqZmtWZzdLM2IxOA?oc=5",
-      "source": "TradingKey",
-      "published": "10-06 23:15",
-      "published_iso": "2026-10-06T14:15:58+00:00",
       "age": "6일 전"
     }
   ]
