@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 21:42 KST",
+  "updated_at": "2026-10-14 22:40 KST",
   "items": [
     {
       "ticker": "TSLA",
@@ -9,7 +9,7 @@
       "source": "코인리더스",
       "published": "10-14 20:30",
       "published_iso": "2026-10-14T11:30:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "489250",
@@ -29,7 +29,7 @@
       "source": "머니투데이",
       "published": "10-14 15:10",
       "published_iso": "2026-10-14T06:10:55+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "000660",
@@ -39,7 +39,7 @@
       "source": "Investing.com 한국어",
       "published": "10-14 14:02",
       "published_iso": "2026-10-14T05:02:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "NVDA",
@@ -49,17 +49,17 @@
       "source": "코인리더스",
       "published": "10-14 04:30",
       "published_iso": "2026-10-13T19:30:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
-      "title": "GOOGL|Alphabet Inc Class A|가격:353.780|Chg%:+1.060 - TradingKey",
+      "title": "GOOGL|Alphabet Inc Class A|가격:356.230|Chg%:+2.450 - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OVMxWGwxYl81M0J0S0c5bjBaOUpzalIxSXV1MXNsSHV5Mnh0Z1lldUNrVFFONFZkc1EybzAxT05XRzJ3RndOOUFQdjJfRjFzMWVUNDV6QlVySWhTYW5r?oc=5",
       "source": "TradingKey",
-      "published": "10-14 02:37",
-      "published_iso": "2026-10-13T17:37:22+00:00",
-      "age": "19시간 전"
+      "published": "10-14 02:35",
+      "published_iso": "2026-10-13T17:35:52+00:00",
+      "age": "20시간 전"
     },
     {
       "ticker": "ZETA",
@@ -69,7 +69,7 @@
       "source": "Investing.com 한국어",
       "published": "10-14 00:24",
       "published_iso": "2026-10-13T15:24:00+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "CAT",
@@ -79,7 +79,7 @@
       "source": "TradingKey",
       "published": "10-14 00:15",
       "published_iso": "2026-10-13T15:15:56+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "000660",
@@ -89,7 +89,7 @@
       "source": "FinanceFeeds",
       "published": "10-13 23:26",
       "published_iso": "2026-10-13T14:26:52+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "000660",
@@ -99,7 +99,7 @@
       "source": "TIKR.com",
       "published": "10-13 22:51",
       "published_iso": "2026-10-13T13:51:44+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "SNDK",
@@ -109,7 +109,7 @@
       "source": "코인리더스",
       "published": "10-13 22:00",
       "published_iso": "2026-10-13T13:00:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "NVDA",
@@ -585,11 +585,11 @@
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "캐터필러(CAT) 주가는 미래 현금흐름을 고려할 때 저평가된 것으로 보인다 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmFEWXEzZEFFRnNjamNBd0MzMDd1aDAxVnFpV0NJTjRzZDJYZlRCVEwwdkdMWEpjRHJ2eU9YbW5GYjJOMjJGSVBtMkUtd3lvN19oUEZOemdiTFI2emZReFNTNmFZcWFxck94aUU1WmdwTkNrUlZENlRJUEdaTmd6WGhicmxCWTJka1BlQkViaXl1LWZ4dFlyVGowTdIBmwFBVV95cUxPQmFEWXEzZEFFRnNjamNBd0MzMDd1aDAxVnFpV0NJTjRzZDJYZlRCVEwwdkdMWEpjRHJ2eU9YbW5GYjJOMjJGSVBtMkUtd3lvN19oUEZOemdiTFI2emZReFNTNmFZcWFxck94aUU1WmdwTkNrUlZENlRJUEdaTmd6WGhicmxCWTJka1BlQkViaXl1LWZ4dFlyVGowTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc0hENFJvcDNqd1MtUzVTenFaWHAxaWYycldDOXFhOUxSNGhmQzNBZEpWU2NFa0ZJNDJpNjR0amxScUFDV212MkZkbndUTGJNV0NLRU5NTUl0UEh0QjJPN3dHcnU4VFFJUXhMbHkxTU9LdmZOTGNlTGI2aDJ2cEN0aFA0OUVDQ24wVldBQ1BNdVUwSUhFaXfSAZsBQVVfeXFMT0JhRFlxM2RBRUZzY2pjQXdDMzA3dWgwMVZxaVdDSU40c2QyWGZUQlRMMHZHTFhKY0RydnlPWG1uRmIyTjIyRklQbTJFLXd5bzdfaFBGTnpnYkxSNnpmUXhTUzZhWXFhcXJPeGlFNVpncE5Da1JWRDZUSVBHWk5nelhoYnJsQlkyZGtQZUJFYml5dS1meHRZclRqME0?oc=5",
       "source": "Simply Wall Street",
-      "published": "10-09 22:43",
-      "published_iso": "2026-10-09T13:43:48+00:00",
-      "age": "4일 전"
+      "published": "10-09 22:38",
+      "published_iso": "2026-10-09T13:38:44+00:00",
+      "age": "5일 전"
     },
     {
       "ticker": "379800",
@@ -599,7 +599,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 21:47",
       "published_iso": "2026-10-09T12:47:48+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "QQQM",
@@ -609,7 +609,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 21:47",
       "published_iso": "2026-10-09T12:47:48+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "379780",
@@ -839,7 +839,7 @@
       "source": "Investing.com 한국어",
       "published": "10-08 22:21",
       "published_iso": "2026-10-08T13:21:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "TSM",
