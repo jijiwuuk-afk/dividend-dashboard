@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-14 17:37 KST",
+  "updated_at": "2026-10-14 18:36 KST",
   "items": [
+    {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "\"SCHD 넘겠다\"… 삼성운용, 다우존스배당주ETF 출시 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VYm5zX0ZfZVhmbWFpNGpVUmZnZXQ5VEVrTTlSSkxpdUlobjN2MzdldmROb3lCQ2djc1hoOEZZMlp3WUsyQ29lMHZTYVhrZ2Y5cUE?oc=5",
+      "source": "매일경제 마켓",
+      "published": "10-14 17:40",
+      "published_iso": "2026-10-14T08:40:41+00:00",
+      "age": "55분 전"
+    },
     {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
@@ -9,7 +19,7 @@
       "source": "머니투데이",
       "published": "10-14 15:10",
       "published_iso": "2026-10-14T06:10:55+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "NVDA",
@@ -19,7 +29,17 @@
       "source": "코인리더스",
       "published": "10-14 04:30",
       "published_iso": "2026-10-13T19:30:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "GOOGL|Alphabet Inc Class A|가격:353.780|Chg%:+1.060 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OVMxWGwxYl81M0J0S0c5bjBaOUpzalIxSXV1MXNsSHV5Mnh0Z1lldUNrVFFONFZkc1EybzAxT05XRzJ3RndOOUFQdjJfRjFzMWVUNDV6QlVySWhTYW5r?oc=5",
+      "source": "TradingKey",
+      "published": "10-14 02:42",
+      "published_iso": "2026-10-13T17:42:11+00:00",
+      "age": "15시간 전"
     },
     {
       "ticker": "ZETA",
@@ -29,7 +49,7 @@
       "source": "Investing.com 한국어",
       "published": "10-14 00:24",
       "published_iso": "2026-10-13T15:24:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "CAT",
@@ -39,7 +59,7 @@
       "source": "TradingKey",
       "published": "10-14 00:15",
       "published_iso": "2026-10-13T15:15:56+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "000660",
@@ -49,7 +69,7 @@
       "source": "FinanceFeeds",
       "published": "10-13 23:26",
       "published_iso": "2026-10-13T14:26:52+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "000660",
@@ -59,7 +79,7 @@
       "source": "TIKR.com",
       "published": "10-13 22:51",
       "published_iso": "2026-10-13T13:51:44+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "SNDK",
@@ -69,7 +89,7 @@
       "source": "코인리더스",
       "published": "10-13 22:00",
       "published_iso": "2026-10-13T13:00:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "NVDA",
@@ -119,6 +139,16 @@
       "source": "TIKR.com",
       "published": "10-13 16:19",
       "published_iso": "2026-10-13T07:19:06+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "샌디스크(SNDK) 주가, 1년간의 급등세 이후 과대평가되었을 가능성 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUN5amh0WWpaVlZDT3JlNnJMWEttaE9DYTM1SlYwWnNMNDVxaEY1dTlIbDFMN1VVNUt2eHdsTVlCQ2s5eGlZbThhMW0yc3pvY0NrYXg3emlDSHA3ZDNFamFKazFBem41d1dFenJQckZtSFFwcGFVOWxtN2xaZl81TDk2SGNzWDNXLUJEQnJ30gGOAUFVX3lxTFA5Q3lqaHRZalpWVkNPcmU2ckxYS21oT0NhMzVKVjBac0w0NXFoRjV1OUhsMUw3VVU1S3Z4d2xNWUJDazl4aVltOGExbTJzem9jQ2theDd6aUNIcDdkM0VqYUprMUF6bjV3V0V6clByRm1IUXBwYVU5bG03bFpmXzVMOTZIY3NYM1ctQkRCcnc?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-13 16:00",
+      "published_iso": "2026-10-13T07:00:31+00:00",
       "age": "1일 전"
     },
     {
@@ -222,16 +252,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "JEPQ",
-      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-      "title": "발급일 기준인지 확인하는 스포티비 나우 한달 무료 쿠폰 유효기간 - www.actt.org.tt",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HMC1qblhZeWVyVnZqbnJIRHJwZkRUOUkwZ3NXcklMbUExVmcwaUNOSEtpcjlVTlVnUUxISFA1anBzbDdVWmhScHNNUmVRTWowV1dBc0R6QlBUSlBqaW1BeGlSR2QzUUtXNkFkbm1ta3lJbGpOS0NVRw?oc=5",
-      "source": "www.actt.org.tt",
-      "published": "10-13 06:03",
-      "published_iso": "2026-10-12T21:03:35+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "005380",
       "name": "현대자동차",
       "title": "Shinhan Securities Cuts Hyundai Motor Price Target by 19% to KRW 630,000, Maintains Buy Rating - 알파경제",
@@ -299,7 +319,7 @@
       "source": "Simply Wall Street",
       "published": "10-12 18:13",
       "published_iso": "2026-10-12T09:13:35+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "0072R0",
@@ -342,8 +362,8 @@
       "age": "2일 전"
     },
     {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
       "title": "코스닥·반도체 탈출한 개미들… 美 지수 ETF에 꽂혔다 - IT조선",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMaC1PZUM2N2tXdjJpVjZONXkxQ0VDaGQwQzdabWpsOE45T2dMcUpudFYtUWVzT0RBekNqNWJDV3N1YVRmcDBOSlRkeVRvZTRkOW5adTJKOE1VS2NxZVpHTTZMRjVhLW8wNHFlcTQ3MlNXSFRo0gF0QVVfeXFMUExoLU9lQzY3a1d2MmlWNk41eTFDRUNoZDBDN1ptamw4TjlPZ0xxSm50Vi1RZXNPREF6Q2o1YkNXc3VhVGZwME5KVGR5VG9lNGQ5blp1Mko4TVVLY3FlWkdNNkxGNWEtbzA0cWVxNDcyU1dIVGg?oc=5",
       "source": "IT조선",
@@ -354,6 +374,16 @@
     {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
+      "title": "코스닥·반도체 탈출한 개미들… 美 지수 ETF에 꽂혔다 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzUWdKZVoyeUdrOEZ4MW1JZHNmazZjRVRVdjduRHlRN2sycjhGT3BKX05sNFZwa3VBYWpXM2xlVDkxMkRIeHI3andVcjNIZkVJTVVVbFdaODNlWkxDNWthbEplSkIyV2lBZlZmU0FZdmvSAXRBVV95cUxQTGgtT2VDNjdrV3YyaVY2TjV5MUNFQ2hkMEM3Wm1qbDhOOU9nTHFKbnRWLVFlc09EQXpDajViQ1dzdWFUZnAwTkpUZHlUb2U0ZDluWnUySjhNVUtjcWVaR002TEY1YS1vMDRxZXE0NzJTV0hUaA?oc=5",
+      "source": "IT조선",
+      "published": "10-12 12:00",
+      "published_iso": "2026-10-12T03:00:00+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
       "title": "코스닥·반도체 탈출한 개미들… 美 지수 ETF에 꽂혔다 - IT조선",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzUWdKZVoyeUdrOEZ4MW1JZHNmazZjRVRVdjduRHlRN2sycjhGT3BKX05sNFZwa3VBYWpXM2xlVDkxMkRIeHI3andVcjNIZkVJTVVVbFdaODNlWkxDNWthbEplSkIyV2lBZlZmU0FZdmvSAXRBVV95cUxQTGgtT2VDNjdrV3YyaVY2TjV5MUNFQ2hkMEM3Wm1qbDhOOU9nTHFKbnRWLVFlc09EQXpDajViQ1dzdWFUZnAwTkpUZHlUb2U0ZDluWnUySjhNVUtjcWVaR002TEY1YS1vMDRxZXE0NzJTV0hUaA?oc=5",
       "source": "IT조선",
@@ -419,16 +449,6 @@
       "source": "FinanceFeeds",
       "published": "10-12 01:35",
       "published_iso": "2026-10-11T16:35:23+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "연습: 권투시합 - 브런치",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDdmhPMEtJQUYyTkM5dGlxRFlqQXFHRGFLX29WNTJ3dG5MNWlLbTZYZ3hsS215WlJwUXdPX3BZODU5UQ?oc=5",
-      "source": "브런치",
-      "published": "10-12 00:56",
-      "published_iso": "2026-10-11T15:56:53+00:00",
       "age": "2일 전"
     },
     {
@@ -525,10 +545,10 @@
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
       "title": "GE 베르노바 주식에 대한 투자자들의 반응: AI 데이터센터 수주 급증 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRi1mVlEtYjFJd1l2OGd5T0tWT1dMSXJJbW9UaDhyT2w1LTIxTlhkTElobnBVRFlmZFMzTVFzSHg2a1BmeFhNUTVmdWhKdklDTUtRaFNwMVEwX3Y4aEYwNDcyV1d2aDU5VEFhbGFSLU50QnBBWXVjTVRzSGtGeXJzcTFPdWpFNU5UWUgyQ3FrNFhjbml10gGaAUFVX3lxTE40S0FnVUQ1ckpRbGdza19wbnRPSDk3cW8tanBjSVIzX1BJNnNzS1AwVHgwYU5Nbm5ydkRNT0hrSEhKOFJSTDhuekpkTW9Oa1BURUdlWWtVdFZtMEl4aUJ2U3d3RVkwdlRMU1JET3NUWHRQcksyMUVtMEk1QXd3TTZQcXBMSGYxYmpvNGk5ZVZUN0RPQUJjVlhWNmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONEtBZ1VENXJKUWxnc2tfcG50T0g5N3FvLWpwY0lSM19QSTZzc0tQMFR4MGFOTW5ucnZETU9Ia0hISjhSUkw4bnpKZE1vTmtQVEVHZVlrVXRWbTBJeGlCdlN3d0VZMHZUTFNSRE9zVFh0UHJLMjFFbTBJNUF3d002UHFwTEhmMWJqbzRpOWVWVDdET0FCY1ZYVjZn0gGaAUFVX3lxTE40S0FnVUQ1ckpRbGdza19wbnRPSDk3cW8tanBjSVIzX1BJNnNzS1AwVHgwYU5Nbm5ydkRNT0hrSEhKOFJSTDhuekpkTW9Oa1BURUdlWWtVdFZtMEl4aUJ2U3d3RVkwdlRMU1JET3NUWHRQcksyMUVtMEk1QXd3TTZQcXBMSGYxYmpvNGk5ZVZUN0RPQUJjVlhWNmc?oc=5",
       "source": "Simply Wall Street",
       "published": "10-10 06:58",
-      "published_iso": "2026-10-09T21:58:24+00:00",
+      "published_iso": "2026-10-09T21:58:25+00:00",
       "age": "4일 전"
     },
     {
@@ -555,10 +575,10 @@
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "캐터필러(CAT) 주가는 미래 현금흐름을 고려할 때 저평가된 것으로 보인다 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmFEWXEzZEFFRnNjamNBd0MzMDd1aDAxVnFpV0NJTjRzZDJYZlRCVEwwdkdMWEpjRHJ2eU9YbW5GYjJOMjJGSVBtMkUtd3lvN19oUEZOemdiTFI2emZReFNTNmFZcWFxck94aUU1WmdwTkNrUlZENlRJUEdaTmd6WGhicmxCWTJka1BlQkViaXl1LWZ4dFlyVGowTdIBmwFBVV95cUxPQmFEWXEzZEFFRnNjamNBd0MzMDd1aDAxVnFpV0NJTjRzZDJYZlRCVEwwdkdMWEpjRHJ2eU9YbW5GYjJOMjJGSVBtMkUtd3lvN19oUEZOemdiTFI2emZReFNTNmFZcWFxck94aUU1WmdwTkNrUlZENlRJUEdaTmd6WGhicmxCWTJka1BlQkViaXl1LWZ4dFlyVGowTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc0hENFJvcDNqd1MtUzVTenFaWHAxaWYycldDOXFhOUxSNGhmQzNBZEpWU2NFa0ZJNDJpNjR0amxScUFDV212MkZkbndUTGJNV0NLRU5NTUl0UEh0QjJPN3dHcnU4VFFJUXhMbHkxTU9LdmZOTGNlTGI2aDJ2cEN0aFA0OUVDQ24wVldBQ1BNdVUwSUhFaXfSAZsBQVVfeXFMT0JhRFlxM2RBRUZzY2pjQXdDMzA3dWgwMVZxaVdDSU40c2QyWGZUQlRMMHZHTFhKY0RydnlPWG1uRmIyTjIyRklQbTJFLXd5bzdfaFBGTnpnYkxSNnpmUXhTUzZhWXFhcXJPeGlFNVpncE5Da1JWRDZUSVBHWk5nelhoYnJsQlkyZGtQZUJFYml5dS1meHRZclRqME0?oc=5",
       "source": "Simply Wall Street",
-      "published": "10-09 22:43",
-      "published_iso": "2026-10-09T13:43:48+00:00",
+      "published": "10-09 22:38",
+      "published_iso": "2026-10-09T13:38:44+00:00",
       "age": "4일 전"
     },
     {
@@ -602,6 +622,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "JEPQ",
+      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+      "title": "메뉴 깊이로 비교하는 c언어 룰렛 조작 편의 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbkNkdVpSMm85SGNPaWlJS1gxdnNJckkySWRBRXZwLWhWZXRjWUpNV2wxOVY0S3A3Z2tFeUZXNXd0MllEdkJ2eEx3UE43dk0yWkt3VWJQZHNCYkt3ekVVUlB0UlhOelpJSGh2ODRVTFpUd05GZW1UZDlqRU1uVzhHcHo0OFNURUdVVU8xRzhINVV3MWlrNTE0M0YwNEtaWVVsSk1fcmdqQnFWMV9reTN3ZmxTekxyeVpqOWRoV3hGNlZXeUZRQjFCMjNUa3NfMVdabE03R29kZ3owQUxScFItTlh3?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-09 13:38",
+      "published_iso": "2026-10-09T04:38:39+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
       "title": "[챗ICT]'아이돌인줄…' 리사 수에 열광한 까닭 - 비즈워치",
@@ -609,16 +639,6 @@
       "source": "비즈워치",
       "published": "10-09 13:00",
       "published_iso": "2026-10-09T04:00:02+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "샌디스크(SNDK), 지금 다시 시선이 쏠리는 이유는? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbUJoZk1QNGxQV0F6Z2FKZEtzUzR4Z0tPQ0NCeUo5X21sN1dIRl9RMHhaTFBYR1ZUUF95aDBaYVdZWTJiSy1pZTR1VFFhWTJWOEtLZkpON0VjeFI0UVVkZ1o1cUdpejNLcEZ0bnNtQ1ZoWVFYY0kzcVNkbHAwM2prTUdGM2F5YVN6YVBNNGlR0gGOAUFVX3lxTE9tQmhmTVA0bFBXQXpnYUpkS3NTNHhnS09DQ0J5SjlfbWw3V0hGX1EweFpMUFhHVlRQX3loMFphV1lZMmJLLWllNHVUUWFZMlY4S0tmSk43RWN4UjRRVWRnWjVxR2l6M0twRnRuc21DVmhZUVhjSTNxU2RscDAzamtNR0YzYXlhU3phUE00aVE?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-09 10:54",
-      "published_iso": "2026-10-09T01:54:36+00:00",
       "age": "5일 전"
     },
     {
@@ -769,16 +789,6 @@
       "source": "TradingKey",
       "published": "10-09 02:16",
       "published_iso": "2026-10-08T17:16:12+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "Alphabet 주가 전망: GOOGL, 횡보세 속 $344 지지선 유지 - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3U1YmdaNUtfZUJwOU1NY3hIYm1xZXROSTRoTklGM1RUSzZuUThRYldLZUVxd2RnOWFzTmFQTmJ6cy1HeldYR2phYW1qd2RySlZ0U1Z3TlNqUjZSV1FxOU9NZml3UExGVXVaeVEzampnQVZyU0ZHUVZCanFqVzBMaGRHT0dkUnRheElSM0ZPSHl4aTVT?oc=5",
-      "source": "Traders Union",
-      "published": "10-09 02:09",
-      "published_iso": "2026-10-08T17:09:07+00:00",
       "age": "5일 전"
     },
     {
@@ -989,16 +999,6 @@
       "source": "TradingKey",
       "published": "10-07 22:48",
       "published_iso": "2026-10-07T13:48:12+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "GEV",
-      "name": "GE Vernova Inc.",
-      "title": "Ge Vernova Inc (GEV) 주식 시작했습니다 하락 3.48%에 10월7일: 전체 분석 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYzV2bXdjNmFCMzBmTGZ4VFlnY3dCSGkzbnhKajJPWWpoUjZ6elFMVTBJSExyVW9DcC1GQ01JWTZJSXBsdFp4T1FSeFNZWW96UFJFWTlQZWpMV1VyWDFfSjljcVBaX0xsUDVGWFdueXFjZkpSQnZ0RGplLXJPLTRhQ3hxdm9iNVJKVHg5Z2x3?oc=5",
-      "source": "TradingKey",
-      "published": "10-07 22:48",
-      "published_iso": "2026-10-07T13:48:01+00:00",
       "age": "6일 전"
     }
   ]
