@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-10-14 14:34 KST",
+  "updated_at": "2026-10-14 15:42 KST",
   "items": [
-    {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "삼성·미래에셋운용 ETF 자금 흐름...머니마켓·미국 지수로, 반도체선 이탈 - 이지경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vVmNTUEdwY3VxNTY2aDVaTXJnNTJNU2FjSU00cnRHQkFmOVRmTXI0SFpIVWFiWXdaLW1hQ1gxMlhtRG9UNXA0Y2tVV2JFal9wdndIYk5fZ1JSbkpVZEZJR1RPNzc1alFDcERVeGpn?oc=5",
-      "source": "이지경제",
-      "published": "10-14 09:00",
-      "published_iso": "2026-10-14T00:00:00+00:00",
-      "age": "5시간 전"
-    },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
@@ -19,7 +9,7 @@
       "source": "코인리더스",
       "published": "10-14 04:30",
       "published_iso": "2026-10-13T19:30:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "GOOG",
@@ -27,9 +17,9 @@
       "title": "GOOGL|Alphabet Inc Class A|가격:353.780|Chg%:+1.060 - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OVMxWGwxYl81M0J0S0c5bjBaOUpzalIxSXV1MXNsSHV5Mnh0Z1lldUNrVFFONFZkc1EybzAxT05XRzJ3RndOOUFQdjJfRjFzMWVUNDV6QlVySWhTYW5r?oc=5",
       "source": "TradingKey",
-      "published": "10-14 02:46",
-      "published_iso": "2026-10-13T17:46:32+00:00",
-      "age": "11시간 전"
+      "published": "10-14 02:44",
+      "published_iso": "2026-10-13T17:44:52+00:00",
+      "age": "12시간 전"
     },
     {
       "ticker": "ZETA",
@@ -39,7 +29,7 @@
       "source": "Investing.com 한국어",
       "published": "10-14 00:24",
       "published_iso": "2026-10-13T15:24:00+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "CAT",
@@ -49,7 +39,7 @@
       "source": "TradingKey",
       "published": "10-14 00:15",
       "published_iso": "2026-10-13T15:15:56+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "000660",
@@ -59,7 +49,7 @@
       "source": "FinanceFeeds",
       "published": "10-13 23:26",
       "published_iso": "2026-10-13T14:26:52+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "000660",
@@ -69,7 +59,7 @@
       "source": "TIKR.com",
       "published": "10-13 22:51",
       "published_iso": "2026-10-13T13:51:44+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "SNDK",
@@ -79,7 +69,7 @@
       "source": "코인리더스",
       "published": "10-13 22:00",
       "published_iso": "2026-10-13T13:00:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "NVDA",
@@ -89,7 +79,17 @@
       "source": "Simply Wall Street",
       "published": "10-13 18:36",
       "published_iso": "2026-10-13T09:36:55+00:00",
-      "age": "19시간 전"
+      "age": "21시간 전"
+    },
+    {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
+      "title": "외국인, 올해 국내 주식 200조 넘게 팔았지만 ETF 계속 샀다(종합) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yVHlvaEJFbU1iVkduX1hDb0RmcGFmc3lSODQwQkRQaUlFRWhEVWt4NlhLZEtQNHVyMThRRzBtdmlJbFZkQnhCQkw3TWhQWE5JdnpiX1lpR0FXZHg1UmZtM9IBYEFVX3lxTE8yVHlvaEJFbU1iVkduX1hDb0RmcGFmc3lSODQwQkRQaUlFRWhEVWt4NlhLZEtQNHVyMThRRzBtdmlJbFZkQnhCQkw3TWhQWE5JdnpiX1lpR0FXZHg1UmZtMw?oc=5",
+      "source": "연합뉴스",
+      "published": "10-13 17:08",
+      "published_iso": "2026-10-13T08:08:57+00:00",
+      "age": "22시간 전"
     },
     {
       "ticker": "487230",
@@ -99,7 +99,7 @@
       "source": "포춘코리아",
       "published": "10-13 16:33",
       "published_iso": "2026-10-13T07:33:01+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "379800",
@@ -109,7 +109,7 @@
       "source": "비즈니스포스트",
       "published": "10-13 16:30",
       "published_iso": "2026-10-13T07:30:38+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "INTC",
@@ -119,7 +119,7 @@
       "source": "TIKR.com",
       "published": "10-13 16:19",
       "published_iso": "2026-10-13T07:19:06+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "005380",
@@ -129,7 +129,7 @@
       "source": "더구루",
       "published": "10-13 15:06",
       "published_iso": "2026-10-13T06:06:26+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "000660",
@@ -352,18 +352,28 @@
       "age": "2일 전"
     },
     {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
       "title": "코스닥·반도체 탈출한 개미들… 美 지수 ETF에 꽂혔다 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzUWdKZVoyeUdrOEZ4MW1JZHNmazZjRVRVdjduRHlRN2sycjhGT3BKX05sNFZwa3VBYWpXM2xlVDkxMkRIeHI3andVcjNIZkVJTVVVbFdaODNlWkxDNWthbEplSkIyV2lBZlZmU0FZdmvSAXRBVV95cUxQTGgtT2VDNjdrV3YyaVY2TjV5MUNFQ2hkMEM3Wm1qbDhOOU9nTHFKbnRWLVFlc09EQXpDajViQ1dzdWFUZnAwTkpUZHlUb2U0ZDluWnUySjhNVUtjcWVaR002TEY1YS1vMDRxZXE0NzJTV0hUaA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMaC1PZUM2N2tXdjJpVjZONXkxQ0VDaGQwQzdabWpsOE45T2dMcUpudFYtUWVzT0RBekNqNWJDV3N1YVRmcDBOSlRkeVRvZTRkOW5adTJKOE1VS2NxZVpHTTZMRjVhLW8wNHFlcTQ3MlNXSFRo0gF0QVVfeXFMUExoLU9lQzY3a1d2MmlWNk41eTFDRUNoZDBDN1ptamw4TjlPZ0xxSm50Vi1RZXNPREF6Q2o1YkNXc3VhVGZwME5KVGR5VG9lNGQ5blp1Mko4TVVLY3FlWkdNNkxGNWEtbzA0cWVxNDcyU1dIVGg?oc=5",
       "source": "IT조선",
-      "published": "10-12 12:00",
-      "published_iso": "2026-10-12T03:00:00+00:00",
+      "published": "10-12 12:02",
+      "published_iso": "2026-10-12T03:02:21+00:00",
       "age": "2일 전"
     },
     {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
+      "title": "코스닥·반도체 탈출한 개미들… 美 지수 ETF에 꽂혔다 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMaC1PZUM2N2tXdjJpVjZONXkxQ0VDaGQwQzdabWpsOE45T2dMcUpudFYtUWVzT0RBekNqNWJDV3N1YVRmcDBOSlRkeVRvZTRkOW5adTJKOE1VS2NxZVpHTTZMRjVhLW8wNHFlcTQ3MlNXSFRo0gF0QVVfeXFMUExoLU9lQzY3a1d2MmlWNk41eTFDRUNoZDBDN1ptamw4TjlPZ0xxSm50Vi1RZXNPREF6Q2o1YkNXc3VhVGZwME5KVGR5VG9lNGQ5blp1Mko4TVVLY3FlWkdNNkxGNWEtbzA0cWVxNDcyU1dIVGg?oc=5",
+      "source": "IT조선",
+      "published": "10-12 12:02",
+      "published_iso": "2026-10-12T03:02:21+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
       "title": "코스닥·반도체 탈출한 개미들… 美 지수 ETF에 꽂혔다 - IT조선",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzUWdKZVoyeUdrOEZ4MW1JZHNmazZjRVRVdjduRHlRN2sycjhGT3BKX05sNFZwa3VBYWpXM2xlVDkxMkRIeHI3andVcjNIZkVJTVVVbFdaODNlWkxDNWthbEplSkIyV2lBZlZmU0FZdmvSAXRBVV95cUxQTGgtT2VDNjdrV3YyaVY2TjV5MUNFQ2hkMEM3Wm1qbDhOOU9nTHFKbnRWLVFlc09EQXpDajViQ1dzdWFUZnAwTkpUZHlUb2U0ZDluWnUySjhNVUtjcWVaR002TEY1YS1vMDRxZXE0NzJTV0hUaA?oc=5",
       "source": "IT조선",
@@ -480,6 +490,16 @@
       "published": "10-11 05:31",
       "published_iso": "2026-10-10T20:31:45+00:00",
       "age": "3일 전"
+    },
+    {
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
+      "title": "미래에셋운용 'TIGER 미국 타겟데일리커버드콜' 3종, 개인 순매수 1조 넘어 - 비즈월드",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lSnpTWm5LTmlJbmZHcmM1MHVxNE5xX2cxVURIUVE5ekd0TE5JXzdVVGpJR3g1Y0h0ZHZPWndTN0w1ODUyRVBWS2NPc2o3ck5XcFE5cE9wYk9aVWZvajIwbVhndEdPczJhYVE?oc=5",
+      "source": "비즈월드",
+      "published": "10-10 13:48",
+      "published_iso": "2026-10-10T04:48:00+00:00",
+      "age": "4일 전"
     },
     {
       "ticker": "368590",
@@ -799,7 +819,7 @@
       "source": "코인리더스",
       "published": "10-08 14:50",
       "published_iso": "2026-10-08T05:50:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "379810",
@@ -979,26 +999,6 @@
       "source": "인더스트리뉴스",
       "published": "10-07 18:26",
       "published_iso": "2026-10-07T09:26:02+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "JEPQ",
-      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-      "title": "선택한 설정을 되돌리는 강원 랜드 아줌마 옵션 안내 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50SE1zaHRfVkVaM19SZG9URUVISl9MNWc3eDJEckxnbmgxV0g1eEw1SWtmaEw1QlRySXk0bHpTWW1HOEhCYkJEVE1lb2plQ0paU1kwV3Y5dG5TZkhWLU1qUDc4bThLVi0xRHRKQ1JpNUx4S1Qy?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-07 17:59",
-      "published_iso": "2026-10-07T08:59:20+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "SCHD",
-      "name": "Schwab U.S. Dividend Equity ETF",
-      "title": "[김철운 칼럼] SCHD는 과연 은퇴자의 최적 투자상품인가? - 경상매일신문",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4eXVwNVhtbU5iY24zY0hSN0NybWowUEpYQjVSV0oyeENlMW5PdVVjTU1ob1VjbjlEMWxOalo0c0ctcDBySndaSjlUbnN0Q0NfdjZZeFJqS0NpRDNZNXJR?oc=5",
-      "source": "경상매일신문",
-      "published": "10-07 16:33",
-      "published_iso": "2026-10-07T07:33:45+00:00",
       "age": "6일 전"
     }
   ]
