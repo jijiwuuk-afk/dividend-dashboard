@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 05:32 KST",
+  "updated_at": "2026-10-15 06:34 KST",
   "items": [
     {
       "ticker": "COST",
@@ -9,7 +9,7 @@
       "source": "데이터투자",
       "published": "10-15 05:22",
       "published_iso": "2026-10-14T20:22:36+00:00",
-      "age": "9분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "TSM",
@@ -19,7 +19,7 @@
       "source": "TradingKey",
       "published": "10-15 03:16",
       "published_iso": "2026-10-14T18:16:28+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "SNDK",
@@ -29,7 +29,7 @@
       "source": "TradingKey",
       "published": "10-15 02:16",
       "published_iso": "2026-10-14T17:16:17+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "NVDA",
@@ -39,7 +39,7 @@
       "source": "Investing.com 한국어",
       "published": "10-14 23:28",
       "published_iso": "2026-10-14T14:28:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "TSLA",
@@ -49,7 +49,7 @@
       "source": "Investing.com 한국어",
       "published": "10-14 23:21",
       "published_iso": "2026-10-14T14:21:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "AMD",
@@ -59,7 +59,7 @@
       "source": "TradingKey",
       "published": "10-14 23:16",
       "published_iso": "2026-10-14T14:16:06+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "GEV",
@@ -69,17 +69,17 @@
       "source": "TradingKey",
       "published": "10-14 23:16",
       "published_iso": "2026-10-14T14:16:05+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
-      "title": "GOOGL|Alphabet Inc Class A|가격:347.040|Chg%:-6.740 - TradingKey",
+      "title": "GOOGL|Alphabet Inc Class A|가격:348.110|Chg%:-5.670 - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OVMxWGwxYl81M0J0S0c5bjBaOUpzalIxSXV1MXNsSHV5Mnh0Z1lldUNrVFFONFZkc1EybzAxT05XRzJ3RndOOUFQdjJfRjFzMWVUNDV6QlVySWhTYW5r?oc=5",
       "source": "TradingKey",
-      "published": "10-14 20:33",
-      "published_iso": "2026-10-14T11:33:12+00:00",
-      "age": "8시간 전"
+      "published": "10-14 21:31",
+      "published_iso": "2026-10-14T12:31:27+00:00",
+      "age": "9시간 전"
     },
     {
       "ticker": "TSLA",
@@ -89,7 +89,7 @@
       "source": "코인리더스",
       "published": "10-14 20:30",
       "published_iso": "2026-10-14T11:30:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "489250",
@@ -99,7 +99,7 @@
       "source": "매일경제 마켓",
       "published": "10-14 17:40",
       "published_iso": "2026-10-14T08:40:41+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "379810",
@@ -109,7 +109,7 @@
       "source": "머니투데이",
       "published": "10-14 15:10",
       "published_iso": "2026-10-14T06:10:55+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "005930",
@@ -119,7 +119,7 @@
       "source": "매일경제",
       "published": "10-14 14:40",
       "published_iso": "2026-10-14T05:40:03+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "000660",
@@ -129,7 +129,7 @@
       "source": "Investing.com 한국어",
       "published": "10-14 14:02",
       "published_iso": "2026-10-14T05:02:00+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "379810",
@@ -139,7 +139,7 @@
       "source": "PRESS9",
       "published": "10-14 13:41",
       "published_iso": "2026-10-14T04:41:21+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "005380",
@@ -149,7 +149,7 @@
       "source": "알파경제",
       "published": "10-14 06:00",
       "published_iso": "2026-10-13T21:00:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "NVDA",
@@ -292,6 +292,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "삼성운용, ‘KODEX 미국AI에이전트액티브’ ETF 상장…메타·팔란티어 등 투자 - 팍스경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hbk9hZ1Z3Q3FXZl9CV3dsaktydkV1Y2hheXJSdUxsbkxmT2FXZFpnTlhwd0tDLUJYTDcwM2VyaDc0bEJySjBEbmpPSXRMZkc3VjlzLXRtc1BmTlZYRzhjWm10VmEtekJ0?oc=5",
+      "source": "팍스경제TV",
+      "published": "10-13 13:57",
+      "published_iso": "2026-10-13T04:57:36+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
       "title": "AMD, AI 에이전트 전용 서버 공개…CPU 3만2000개 코어 탑재 - 매일경제",
@@ -352,16 +362,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "삼성운용, ‘KODEX 미국AI에이전트액티브’ ETF 상장 - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZSEs3WDVlTzI2ak1Ya3BFUmNKamZtT2NOSi1UdGxKcE94Vk9Cb3JteXlFcjVzWTVucUw5dUQ1SlJPcTRKdFRwemc2MWFTeTJod3fSAVNBVV95cUxNT05XcEV2N1F2b0w5VGNUVlpqUHpBbEJHMm51WmlVaGNyY2RfOElPSWdQYWRZeHZhMnZ3c3k2OW1KbzVhdXRNQWtVZ1FYLUZBVVdmQQ?oc=5",
-      "source": "서울경제",
-      "published": "10-13 09:15",
-      "published_iso": "2026-10-13T00:15:42+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
       "title": "[표] KB자산운용 RISE 월중 배당 ETF 10월 분배금 내역 - 스마트투데이",
@@ -399,6 +399,16 @@
       "source": "머니투데이",
       "published": "10-13 04:00",
       "published_iso": "2026-10-12T19:00:00+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "Alphabet, Flo Health 계약으로 헬스테크 사업 확장: GOOGL은 최근 상승분을 유지할 수 있을까? - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc204RzR3NzhfVHNPdnpqd05mSTJTVW50Z3RiNGpYMWYyV2hqV1phNlB3SVFZLU5xcHk2MnhIU2R6RWx5bU9QckJJdGx3WFB5cGpRSGJHcFBaeUw0Q3ctZXpVc3Z5LWJzb21BczBSamxmemN5LTBENC1VRjhlRzVjdmxYTzV6ZENpRWF2S2lFMDM4MWc?oc=5",
+      "source": "Traders Union",
+      "published": "10-13 01:17",
+      "published_iso": "2026-10-12T16:17:47+00:00",
       "age": "2일 전"
     },
     {
@@ -449,16 +459,6 @@
       "source": "머니투데이",
       "published": "10-12 16:04",
       "published_iso": "2026-10-12T07:04:59+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "Alphabet Inc Class C(GOOG) 기술 분석: 지지선, 저항선, 지표 및 이동 평균 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4aWVGMWM3T0hZVldjaEtjaUoxOVVrMmdtRV8zUHVYcS16ekt3UWxBQXZ1a1pfUlplb0hSdG5jbFVxakpfRjd6bkFjNTg2Vmk4WVUzbDllZG1QRkh3UDJxcWlLWjZGaHlmcWtn?oc=5",
-      "source": "TradingKey",
-      "published": "10-12 16:00",
-      "published_iso": "2026-10-12T07:00:00+00:00",
       "age": "2일 전"
     },
     {
@@ -552,6 +552,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "Samsung Electronics Foreign Ownership Falls to 18-Year Low Despite Record KRW 107.4 Trillion Quarterly Profit - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HblN1bnIzUkNGSjRocHdsUzlMUEYyNVdiS2VDNmNQeXd2b01CSFB5SEtUNUFEd0dndFVyZWtZd3NxZWVBc1ZMQ0lsdVVTV3R4UWxFanVBalNlSkswV0FqaXpRUVhjMVhTTXl1R05n?oc=5",
+      "source": "알파경제",
+      "published": "10-12 06:00",
+      "published_iso": "2026-10-11T21:00:00+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "VOO",
       "name": "Vanguard S&P 500 ETF",
       "title": "숫자가 올라가는 연출과 최종 표시, 도박 공익광고 화면 해설 - Calgary Roughnecks",
@@ -559,7 +569,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-12 05:43",
       "published_iso": "2026-10-11T20:43:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "QQQM",
@@ -859,7 +869,7 @@
       "source": "TIKR.com",
       "published": "10-09 05:37",
       "published_iso": "2026-10-08T20:37:30+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "NVDA",
@@ -989,16 +999,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 12:34",
       "published_iso": "2026-10-08T03:34:05+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
-      "title": "알림창을 닫기 전 읽어야 할 온 카지노 주소 내용 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DZmtpYjllX3pIeWpiU1hBVDl5N1dFWXVhY1lOa2lCajM2UTZJWWpXZ1oxUnM2VjVVdEZranpmUkF3cXBPb2lkaXhYbFNFVjZlREhSaFNKN2xUelZfMFEzb05BWmZ4Zw?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-08 12:22",
-      "published_iso": "2026-10-08T03:22:18+00:00",
       "age": "6일 전"
     }
   ]
