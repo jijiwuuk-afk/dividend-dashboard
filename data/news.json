@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-14 19:35 KST",
+  "updated_at": "2026-10-14 20:35 KST",
   "items": [
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "title": "테슬라(TSLA), 1년간 10% 올랐는데...2배 레버리지 ETF는 15% 하락 - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvNnNCSHZJcV9JX1hscTNVN2RuV2FTTlNOQU83Q05DRlI3R0RiaU1PTmh1QlVSVHlhVFhjdTU4c2tMOTcxVzFvOQ?oc=5",
+      "source": "코인리더스",
+      "published": "10-14 20:30",
+      "published_iso": "2026-10-14T11:30:00+00:00",
+      "age": "5분 전"
+    },
     {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
@@ -9,7 +19,7 @@
       "source": "매일경제 마켓",
       "published": "10-14 17:40",
       "published_iso": "2026-10-14T08:40:41+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "379810",
@@ -19,7 +29,17 @@
       "source": "머니투데이",
       "published": "10-14 15:10",
       "published_iso": "2026-10-14T06:10:55+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "Samsung Electronics, SK hynix rebound after sharp sell-off - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zdEp0YmxJT05iOTMzYVpZVHhZemRoLUdvWXZWWldScjhCOGg2WHdQMTdvMzNfWmFLSzBuUEtYZWhUVWN2R3FFSVRJT2hkYjBzOUZB?oc=5",
+      "source": "매일경제",
+      "published": "10-14 14:40",
+      "published_iso": "2026-10-14T05:40:03+00:00",
+      "age": "5시간 전"
     },
     {
       "ticker": "NVDA",
@@ -29,7 +49,7 @@
       "source": "코인리더스",
       "published": "10-14 04:30",
       "published_iso": "2026-10-13T19:30:00+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "GOOG",
@@ -38,8 +58,8 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OVMxWGwxYl81M0J0S0c5bjBaOUpzalIxSXV1MXNsSHV5Mnh0Z1lldUNrVFFONFZkc1EybzAxT05XRzJ3RndOOUFQdjJfRjFzMWVUNDV6QlVySWhTYW5r?oc=5",
       "source": "TradingKey",
       "published": "10-14 02:40",
-      "published_iso": "2026-10-13T17:40:24+00:00",
-      "age": "16시간 전"
+      "published_iso": "2026-10-13T17:40:25+00:00",
+      "age": "17시간 전"
     },
     {
       "ticker": "ZETA",
@@ -49,7 +69,7 @@
       "source": "Investing.com 한국어",
       "published": "10-14 00:24",
       "published_iso": "2026-10-13T15:24:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "CAT",
@@ -59,7 +79,7 @@
       "source": "TradingKey",
       "published": "10-14 00:15",
       "published_iso": "2026-10-13T15:15:56+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "000660",
@@ -69,17 +89,7 @@
       "source": "FinanceFeeds",
       "published": "10-13 23:26",
       "published_iso": "2026-10-13T14:26:52+00:00",
-      "age": "20시간 전"
-    },
-    {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "SK Hynix Plunges 9% on China DRAM Scare: “A Clear Trigger for the Selloff” - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWRZWHU0bmE3bFJVbUw2WldIcGd1MjRNam1rVGx1ejFhSzMzc2xxbGt2di0wRGhwR0k4TkRaSXg4MDgzTzRJZnBMNkZHUGFEWXRHNTJyUjAzM3JjSHB6dlZUSlgyVkdnRWNvQUZqNmtKdjduRTNfSFVoUzdoc3ZtZ3lXM0JWZ2g0NGxVaDVRTThTZndoX0kxajdzT1NGSXdu?oc=5",
-      "source": "TIKR.com",
-      "published": "10-13 22:51",
-      "published_iso": "2026-10-13T13:51:44+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "SNDK",
@@ -89,7 +99,7 @@
       "source": "코인리더스",
       "published": "10-13 22:00",
       "published_iso": "2026-10-13T13:00:00+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "NVDA",
@@ -139,6 +149,16 @@
       "source": "TIKR.com",
       "published": "10-13 16:19",
       "published_iso": "2026-10-13T07:19:06+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "샌디스크(SNDK) 주가, 1년간의 급등세 이후 과대평가되었을 가능성 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUN5amh0WWpaVlZDT3JlNnJMWEttaE9DYTM1SlYwWnNMNDVxaEY1dTlIbDFMN1VVNUt2eHdsTVlCQ2s5eGlZbThhMW0yc3pvY0NrYXg3emlDSHA3ZDNFamFKazFBem41d1dFenJQckZtSFFwcGFVOWxtN2xaZl81TDk2SGNzWDNXLUJEQnJ30gGOAUFVX3lxTFA5Q3lqaHRZalpWVkNPcmU2ckxYS21oT0NhMzVKVjBac0w0NXFoRjV1OUhsMUw3VVU1S3Z4d2xNWUJDazl4aVltOGExbTJzem9jQ2theDd6aUNIcDdkM0VqYUprMUF6bjV3V0V6clByRm1IUXBwYVU5bG03bFpmXzVMOTZIY3NYM1ctQkRCcnc?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-13 16:00",
+      "published_iso": "2026-10-13T07:00:31+00:00",
       "age": "1일 전"
     },
     {
@@ -329,6 +349,16 @@
       "source": "Mitrade",
       "published": "10-12 16:00",
       "published_iso": "2026-10-12T07:00:00+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "포세이돈 슬롯 무료 결과를 강조하는 시각 효과 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OTWxvZ1ZtNGY2WkhUN3VUUEtsM0tJQ1RLazRBSFdKUzNqUnNoZzNfczYxc2w0Z1hLa292cFIwUkdRcmxMVWRlQWpLR1FURG51V2ZlbS1oQURvNHBjY0tEY25qSmZSMTA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-12 15:23",
+      "published_iso": "2026-10-12T06:23:04+00:00",
       "age": "2일 전"
     },
     {
@@ -535,20 +565,10 @@
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
       "title": "GE 베르노바 주식에 대한 투자자들의 반응: AI 데이터센터 수주 급증 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRi1mVlEtYjFJd1l2OGd5T0tWT1dMSXJJbW9UaDhyT2w1LTIxTlhkTElobnBVRFlmZFMzTVFzSHg2a1BmeFhNUTVmdWhKdklDTUtRaFNwMVEwX3Y4aEYwNDcyV1d2aDU5VEFhbGFSLU50QnBBWXVjTVRzSGtGeXJzcTFPdWpFNU5UWUgyQ3FrNFhjbml10gGaAUFVX3lxTE40S0FnVUQ1ckpRbGdza19wbnRPSDk3cW8tanBjSVIzX1BJNnNzS1AwVHgwYU5Nbm5ydkRNT0hrSEhKOFJSTDhuekpkTW9Oa1BURUdlWWtVdFZtMEl4aUJ2U3d3RVkwdlRMU1JET3NUWHRQcksyMUVtMEk1QXd3TTZQcXBMSGYxYmpvNGk5ZVZUN0RPQUJjVlhWNmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONEtBZ1VENXJKUWxnc2tfcG50T0g5N3FvLWpwY0lSM19QSTZzc0tQMFR4MGFOTW5ucnZETU9Ia0hISjhSUkw4bnpKZE1vTmtQVEVHZVlrVXRWbTBJeGlCdlN3d0VZMHZUTFNSRE9zVFh0UHJLMjFFbTBJNUF3d002UHFwTEhmMWJqbzRpOWVWVDdET0FCY1ZYVjZn0gGaAUFVX3lxTE40S0FnVUQ1ckpRbGdza19wbnRPSDk3cW8tanBjSVIzX1BJNnNzS1AwVHgwYU5Nbm5ydkRNT0hrSEhKOFJSTDhuekpkTW9Oa1BURUdlWWtVdFZtMEl4aUJ2U3d3RVkwdlRMU1JET3NUWHRQcksyMUVtMEk1QXd3TTZQcXBMSGYxYmpvNGk5ZVZUN0RPQUJjVlhWNmc?oc=5",
       "source": "Simply Wall Street",
       "published": "10-10 06:58",
-      "published_iso": "2026-10-09T21:58:24+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "title": "[美특징주]테슬라, 유럽서 FSD 명칭 '주행 보조'로 변경…독일 규제당국 지적 수용 - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTFJoR0lnaWZPbUdseHdPUmVJQzZUN3U1aUExNkZFcXFEaEM1LU5udUdiRU1IYTdoVk94bmI3cVpRMmlBODcySFZ2UVZZSFRKalJDb3RQUV9QQVBiTEoyYmFPQ1NBVkFWc0FDTkZLdk02R3Y5b0pYMHo4VkR3RHczQw?oc=5",
-      "source": "이데일리",
-      "published": "10-10 04:48",
-      "published_iso": "2026-10-09T19:48:44+00:00",
+      "published_iso": "2026-10-09T21:58:25+00:00",
       "age": "4일 전"
     },
     {
@@ -565,10 +585,10 @@
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "캐터필러(CAT) 주가는 미래 현금흐름을 고려할 때 저평가된 것으로 보인다 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc0hENFJvcDNqd1MtUzVTenFaWHAxaWYycldDOXFhOUxSNGhmQzNBZEpWU2NFa0ZJNDJpNjR0amxScUFDV212MkZkbndUTGJNV0NLRU5NTUl0UEh0QjJPN3dHcnU4VFFJUXhMbHkxTU9LdmZOTGNlTGI2aDJ2cEN0aFA0OUVDQ24wVldBQ1BNdVUwSUhFaXfSAZsBQVVfeXFMT0JhRFlxM2RBRUZzY2pjQXdDMzA3dWgwMVZxaVdDSU40c2QyWGZUQlRMMHZHTFhKY0RydnlPWG1uRmIyTjIyRklQbTJFLXd5bzdfaFBGTnpnYkxSNnpmUXhTUzZhWXFhcXJPeGlFNVpncE5Da1JWRDZUSVBHWk5nelhoYnJsQlkyZGtQZUJFYml5dS1meHRZclRqME0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmFEWXEzZEFFRnNjamNBd0MzMDd1aDAxVnFpV0NJTjRzZDJYZlRCVEwwdkdMWEpjRHJ2eU9YbW5GYjJOMjJGSVBtMkUtd3lvN19oUEZOemdiTFI2emZReFNTNmFZcWFxck94aUU1WmdwTkNrUlZENlRJUEdaTmd6WGhicmxCWTJka1BlQkViaXl1LWZ4dFlyVGowTdIBmwFBVV95cUxPQmFEWXEzZEFFRnNjamNBd0MzMDd1aDAxVnFpV0NJTjRzZDJYZlRCVEwwdkdMWEpjRHJ2eU9YbW5GYjJOMjJGSVBtMkUtd3lvN19oUEZOemdiTFI2emZReFNTNmFZcWFxck94aUU1WmdwTkNrUlZENlRJUEdaTmd6WGhicmxCWTJka1BlQkViaXl1LWZ4dFlyVGowTQ?oc=5",
       "source": "Simply Wall Street",
-      "published": "10-09 22:38",
-      "published_iso": "2026-10-09T13:38:44+00:00",
+      "published": "10-09 22:43",
+      "published_iso": "2026-10-09T13:43:48+00:00",
       "age": "4일 전"
     },
     {
@@ -629,16 +649,6 @@
       "source": "비즈워치",
       "published": "10-09 13:00",
       "published_iso": "2026-10-09T04:00:02+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "샌디스크(SNDK), 지금 다시 시선이 쏠리는 이유는? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbUJoZk1QNGxQV0F6Z2FKZEtzUzR4Z0tPQ0NCeUo5X21sN1dIRl9RMHhaTFBYR1ZUUF95aDBaYVdZWTJiSy1pZTR1VFFhWTJWOEtLZkpON0VjeFI0UVVkZ1o1cUdpejNLcEZ0bnNtQ1ZoWVFYY0kzcVNkbHAwM2prTUdGM2F5YVN6YVBNNGlR0gGOAUFVX3lxTE9tQmhmTVA0bFBXQXpnYUpkS3NTNHhnS09DQ0J5SjlfbWw3V0hGX1EweFpMUFhHVlRQX3loMFphV1lZMmJLLWllNHVUUWFZMlY4S0tmSk43RWN4UjRRVWRnWjVxR2l6M0twRnRuc21DVmhZUVhjSTNxU2RscDAzamtNR0YzYXlhU3phUE00aVE?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-09 10:54",
-      "published_iso": "2026-10-09T01:54:36+00:00",
       "age": "5일 전"
     },
     {
@@ -829,7 +839,7 @@
       "source": "Investing.com 한국어",
       "published": "10-08 19:39",
       "published_iso": "2026-10-08T10:39:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "ZETA",
@@ -989,16 +999,6 @@
       "source": "Investing.com 한국어",
       "published": "10-07 23:25",
       "published_iso": "2026-10-07T14:25:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "Caterpillar Inc (CAT) 주식 시작했습니다 하락 3.62%에 10월7일: 핵심 원인 공개 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUlR4Q1NPOVdiZW91Z3BvZHRVUHkwTDJ4MVJPckxDV1RhU2FEclhMZlhlX3IxYnF5OFRuaEhpTGdqSm1IX0M5NU9VNzMyM2dXUjloZC1iMkxKWjRVWFhqbWd4MmhhdFRmZHc2WGMwTTVyNVp3VGFXQjhRTWxkSlhyUEFjUVhadFdsS0tjWDl3?oc=5",
-      "source": "TradingKey",
-      "published": "10-07 22:48",
-      "published_iso": "2026-10-07T13:48:12+00:00",
       "age": "6일 전"
     }
   ]
