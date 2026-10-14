@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 03:42 KST",
+  "updated_at": "2026-10-15 04:37 KST",
   "items": [
     {
       "ticker": "TSM",
@@ -9,7 +9,17 @@
       "source": "TradingKey",
       "published": "10-15 03:16",
       "published_iso": "2026-10-14T18:16:28+00:00",
-      "age": "25분 전"
+      "age": "1시간 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "SanDisk Corporation (SNDK) 주식 움직였습니다 하락 4.22%에 10월14일: 핵심 원인 공개 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRUF1SWZTYmRXRmVnOFlzb2hJMlR5Q3FzNURxOWF5T1paYU9KWlhwMFRZS0QtVTJnd0FtM3F2T0E2ZWhObkIzUXNnWGwxTGtDM0c2eGx4bzJOUnhnWFBRTWtIUVFHZXZyYndxTWRMTzRvVWZ0QU1RS0N4U0d5VkdFT3ZtaGl4cldlQ3VZRkJ4dw?oc=5",
+      "source": "TradingKey",
+      "published": "10-15 02:16",
+      "published_iso": "2026-10-14T17:16:17+00:00",
+      "age": "2시간 전"
     },
     {
       "ticker": "TSLA",
@@ -19,7 +29,7 @@
       "source": "Investing.com 한국어",
       "published": "10-14 23:21",
       "published_iso": "2026-10-14T14:21:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "AMD",
@@ -29,7 +39,7 @@
       "source": "TradingKey",
       "published": "10-14 23:16",
       "published_iso": "2026-10-14T14:16:06+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "GEV",
@@ -39,7 +49,7 @@
       "source": "TradingKey",
       "published": "10-14 23:16",
       "published_iso": "2026-10-14T14:16:05+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "TSLA",
@@ -49,16 +59,16 @@
       "source": "코인리더스",
       "published": "10-14 20:30",
       "published_iso": "2026-10-14T11:30:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "NVDA|NVIDIA Corp|가격:221.930|Chg%:-6.590 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXTkFCZkJobDNPc1Z3bG5WZVY2VlZjX2RqTGE3eTNBMEYzOHNVcUlBbWpNWmdLQ2pVdWJKam0zRnp1MWhPZjhjaVlXelN5RHdQWHFneVA5cHRzazJYU1E?oc=5",
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "GOOGL|Alphabet Inc Class A|가격:348.830|Chg%:-4.950 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OVMxWGwxYl81M0J0S0c5bjBaOUpzalIxSXV1MXNsSHV5Mnh0Z1lldUNrVFFONFZkc1EybzAxT05XRzJ3RndOOUFQdjJfRjFzMWVUNDV6QlVySWhTYW5r?oc=5",
       "source": "TradingKey",
-      "published": "10-14 18:16",
-      "published_iso": "2026-10-14T09:16:04+00:00",
+      "published": "10-14 19:33",
+      "published_iso": "2026-10-14T10:33:23+00:00",
       "age": "9시간 전"
     },
     {
@@ -72,16 +82,6 @@
       "age": "10시간 전"
     },
     {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "GOOGL|Alphabet Inc Class A|가격:353.730|Chg%:-0.050 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OVMxWGwxYl81M0J0S0c5bjBaOUpzalIxSXV1MXNsSHV5Mnh0Z1lldUNrVFFONFZkc1EybzAxT05XRzJ3RndOOUFQdjJfRjFzMWVUNDV6QlVySWhTYW5r?oc=5",
-      "source": "TradingKey",
-      "published": "10-14 17:34",
-      "published_iso": "2026-10-14T08:34:44+00:00",
-      "age": "10시간 전"
-    },
-    {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
       "title": "AI·반도체 ETF 쏟아지는데…돈은 '파킹형'으로 대피 - 머니투데이 - 머니투데이",
@@ -89,7 +89,7 @@
       "source": "머니투데이",
       "published": "10-14 15:10",
       "published_iso": "2026-10-14T06:10:55+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "005930",
@@ -109,7 +109,17 @@
       "source": "Investing.com 한국어",
       "published": "10-14 14:02",
       "published_iso": "2026-10-14T05:02:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
+    },
+    {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
+      "title": "삼성자산운용, ‘KODEX 머니마켓액티브’ 1개월 2조5105억원 유입…ETF 1위 - PRESS9",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DZUZUcUU1V3V6bkhIYU1iSWtraDg4N0xPcVZ0OTdwSlhKXzFTbGFLbWYxZ0tMS2MweVNQU3dHckY2d3BxYnNhV1hBYV9uNGF4aVBFZWs0VXQ4WDBIZC10ejViSEMzQQ?oc=5",
+      "source": "PRESS9",
+      "published": "10-14 13:41",
+      "published_iso": "2026-10-14T04:41:21+00:00",
+      "age": "14시간 전"
     },
     {
       "ticker": "005380",
@@ -119,7 +129,7 @@
       "source": "알파경제",
       "published": "10-14 06:00",
       "published_iso": "2026-10-13T21:00:00+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "NVDA",
@@ -129,7 +139,7 @@
       "source": "코인리더스",
       "published": "10-14 04:30",
       "published_iso": "2026-10-13T19:30:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "ZETA",
@@ -149,16 +159,6 @@
       "source": "TradingKey",
       "published": "10-14 00:15",
       "published_iso": "2026-10-13T15:15:56+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "SanDisk Corporation (SNDK) 주식 움직였습니다 하락 3.10%에 10월13일: 어떤 신호인가요? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSG1meHVDdm8wTkhoellteHZIY1pZdHdiQWZqY01hcWtqenZJVXB1ZmJHWWxTd241emhoWnZwZk5OY1YyQ3VleUVyU0Q1YWR0S0h4RGQxMnJwaGJnUHl5YlN1eUNzbElSeWJMYXlSTmlLX1lnMDZ6bUhXYVJQU0wwelRpMllLWG1PaS12OTdZSQ?oc=5",
-      "source": "TradingKey",
-      "published": "10-14 00:15",
-      "published_iso": "2026-10-13T15:15:47+00:00",
       "age": "1일 전"
     },
     {
@@ -332,16 +332,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "삼성운용, KODEX 미국AI에이전트액티브 13일 상장 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TQmR1MkJKS0FLb2lCQkhibnVxOGxrWmJZWlFRTmJpTGxuMjhlWlJzV1laRXRRbmVmdXRORUZubzlRY2JidFhWb3NhZ0JzbUVLNU5zbDlwWGE2OU1MbHEwbWVVNGVBNmJyM0V1MGtR0gFuQVVfeXFMTlNCZHUyQkpLQUtvaUJCSGJudXE4bGtaYllaUVFOYmlMbG4yOGVaUnNXWVpFdFFuZWZ1dE5FRm5vOVFjYmJ0WFZvc2FnQnNtRUs1TnNsOXBYYTY5TUxscTBtZVU0ZUE2YnIzRXUwa1E?oc=5",
-      "source": "머니투데이",
-      "published": "10-13 09:25",
-      "published_iso": "2026-10-13T00:25:25+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
       "title": "샌디스크, 美 강세장 최대 수혜주 부상…상장 후 3,000% 폭등 - 연합인포맥스",
@@ -349,6 +339,16 @@
       "source": "연합인포맥스",
       "published": "10-13 09:23",
       "published_iso": "2026-10-13T00:23:28+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "삼성운용, ‘KODEX 미국AI에이전트액티브’ ETF 상장 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZSEs3WDVlTzI2ak1Ya3BFUmNKamZtT2NOSi1UdGxKcE94Vk9Cb3JteXlFcjVzWTVucUw5dUQ1SlJPcTRKdFRwemc2MWFTeTJod3fSAVNBVV95cUxNT05XcEV2N1F2b0w5VGNUVlpqUHpBbEJHMm51WmlVaGNyY2RfOElPSWdQYWRZeHZhMnZ3c3k2OW1KbzVhdXRNQWtVZ1FYLUZBVVdmQQ?oc=5",
+      "source": "서울경제",
+      "published": "10-13 09:15",
+      "published_iso": "2026-10-13T00:15:42+00:00",
       "age": "1일 전"
     },
     {
@@ -389,7 +389,17 @@
       "source": "머니투데이",
       "published": "10-13 04:00",
       "published_iso": "2026-10-12T19:00:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "Alphabet, Flo Health 계약으로 헬스테크 사업 확장: GOOGL은 최근 상승분을 유지할 수 있을까? - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc204RzR3NzhfVHNPdnpqd05mSTJTVW50Z3RiNGpYMWYyV2hqV1phNlB3SVFZLU5xcHk2MnhIU2R6RWx5bU9QckJJdGx3WFB5cGpRSGJHcFBaeUw0Q3ctZXpVc3Z5LWJzb21BczBSamxmemN5LTBENC1VRjhlRzVjdmxYTzV6ZENpRWF2S2lFMDM4MWc?oc=5",
+      "source": "Traders Union",
+      "published": "10-13 01:17",
+      "published_iso": "2026-10-12T16:17:47+00:00",
+      "age": "2일 전"
     },
     {
       "ticker": "INTC",
@@ -439,16 +449,6 @@
       "source": "머니투데이",
       "published": "10-12 16:04",
       "published_iso": "2026-10-12T07:04:59+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "Alphabet Inc Class C(GOOG) 기술 분석: 지지선, 저항선, 지표 및 이동 평균 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4aWVGMWM3T0hZVldjaEtjaUoxOVVrMmdtRV8zUHVYcS16ekt3UWxBQXZ1a1pfUlplb0hSdG5jbFVxakpfRjd6bkFjNTg2Vmk4WVUzbDllZG1QRkh3UDJxcWlLWjZGaHlmcWtn?oc=5",
-      "source": "TradingKey",
-      "published": "10-12 16:00",
-      "published_iso": "2026-10-12T07:00:00+00:00",
       "age": "2일 전"
     },
     {
@@ -509,6 +509,16 @@
       "source": "IT조선",
       "published": "10-12 12:00",
       "published_iso": "2026-10-12T03:00:00+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "기본 구조가 간결한지 살펴보는 토토원정대 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaHBNWnZSS2U3TWd6UUFJcFg3a3diUXd3V0tfMDNkNGRtbThvVElNVWNGNHRJVW80WldOQTJSSmpLcHlHc3p4TTM5UGNyQUtxRENub0w3M3NfMWlONVZIdUJ5VXB3N3U2RVdtOTlmTlhsN0JPNVdIUGdWYVB0MUdqbTVadnpoYkVhTUppeHIyR3BwMmtBd0g4M1UtMV8yQWV3NnladmNBaFRMV1lPM2h6RFFEY0RJZEl6VEJEQV90MUF5Ty0tTURTOE5kQVhZd0ZmdTBHM0ZKQUtZUQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-12 10:00",
+      "published_iso": "2026-10-12T01:00:10+00:00",
       "age": "2일 전"
     },
     {
@@ -655,10 +665,10 @@
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "캐터필러(CAT) 주가는 미래 현금흐름을 고려할 때 저평가된 것으로 보인다 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc0hENFJvcDNqd1MtUzVTenFaWHAxaWYycldDOXFhOUxSNGhmQzNBZEpWU2NFa0ZJNDJpNjR0amxScUFDV212MkZkbndUTGJNV0NLRU5NTUl0UEh0QjJPN3dHcnU4VFFJUXhMbHkxTU9LdmZOTGNlTGI2aDJ2cEN0aFA0OUVDQ24wVldBQ1BNdVUwSUhFaXfSAZsBQVVfeXFMT0JhRFlxM2RBRUZzY2pjQXdDMzA3dWgwMVZxaVdDSU40c2QyWGZUQlRMMHZHTFhKY0RydnlPWG1uRmIyTjIyRklQbTJFLXd5bzdfaFBGTnpnYkxSNnpmUXhTUzZhWXFhcXJPeGlFNVpncE5Da1JWRDZUSVBHWk5nelhoYnJsQlkyZGtQZUJFYml5dS1meHRZclRqME0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmFEWXEzZEFFRnNjamNBd0MzMDd1aDAxVnFpV0NJTjRzZDJYZlRCVEwwdkdMWEpjRHJ2eU9YbW5GYjJOMjJGSVBtMkUtd3lvN19oUEZOemdiTFI2emZReFNTNmFZcWFxck94aUU1WmdwTkNrUlZENlRJUEdaTmd6WGhicmxCWTJka1BlQkViaXl1LWZ4dFlyVGowTdIBmwFBVV95cUxPQmFEWXEzZEFFRnNjamNBd0MzMDd1aDAxVnFpV0NJTjRzZDJYZlRCVEwwdkdMWEpjRHJ2eU9YbW5GYjJOMjJGSVBtMkUtd3lvN19oUEZOemdiTFI2emZReFNTNmFZcWFxck94aUU1WmdwTkNrUlZENlRJUEdaTmd6WGhicmxCWTJka1BlQkViaXl1LWZ4dFlyVGowTQ?oc=5",
       "source": "Simply Wall Street",
-      "published": "10-09 22:38",
-      "published_iso": "2026-10-09T13:38:44+00:00",
+      "published": "10-09 22:43",
+      "published_iso": "2026-10-09T13:43:48+00:00",
       "age": "5일 전"
     },
     {
@@ -812,16 +822,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "[ETF머니플로우-10월1주] KODEX 200타겟위클리커버드콜 순매수 1위 탈환…TIGER 미국S&P500 2계단 - 신아일보",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zcE9KSXgtQUlRY2JTV0xMa29uOGhHWlVSdllqTDBsUnpWa1otM1JzWVp1c1BrQVR1UjhvOXdHMm9SZG1hUndrTzE5akN6a2xZVlJzWEhtN29kOURnV1JJNEtMOF9OWmZCMnp2eTY1QjQ?oc=5",
-      "source": "신아일보",
-      "published": "10-09 08:00",
-      "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "COST",
       "name": "Costco Wholesale Corporation",
       "title": "Costco’s September Sales Jumped 13%. How Much of That Was Gas? - TIKR.com",
@@ -850,6 +850,16 @@
       "published": "10-09 05:37",
       "published_iso": "2026-10-08T20:37:30+00:00",
       "age": "5일 전"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "NVIDIA Corp (NVDA) 주식 움직였습니다 하락 3.06%에 10월8일: 어떤 신호인가요? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0U4RVh5cGZrR01MRUlraVk4RFRGby1fSm5Hc1g5OXE4eEJZZHlySGNDTFJ4elJWSEhxS044YkRVTWl4N1pkcXNjUjRObGtBb2QzZTFyd0d4OW5pTVBfLUkyNHFkM1ZzOGNHVVdYN0laS2FsaUlzVW9peUhPZEVrVXVjcm5wRm9GUUJQeVRhTQ?oc=5",
+      "source": "TradingKey",
+      "published": "10-09 04:16",
+      "published_iso": "2026-10-08T19:16:18+00:00",
+      "age": "6일 전"
     },
     {
       "ticker": "TSM",
@@ -989,16 +999,6 @@
       "source": "Benzinga",
       "published": "10-08 11:03",
       "published_iso": "2026-10-08T02:03:36+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "새로운 오프로드 탐험의 시작, ‘더 크루 모터페스트’ 속 현대자동차 크레이터 콘셉트 - hyundai.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNE1wY0VVUEctb29aQm42N3d2TGxSRHRndWFuXzlxVVJ2aWtrX1FRSnI4WlJSYm9ZMFl1eURkblpfUXA5T1g2TDZyS01tRWl2Slg1WEN5ZFZPMjFmVXpkcl84cFVYcjZVTHMzRTdmYTh4TFdsQlY0cmp0ZUVpd1dkNnlfVXBZQkNjem1B?oc=5",
-      "source": "hyundai.com",
-      "published": "10-08 10:15",
-      "published_iso": "2026-10-08T01:15:20+00:00",
       "age": "6일 전"
     }
   ]
