@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 08:29 KST",
+  "updated_at": "2026-10-14 09:43 KST",
   "items": [
     {
       "ticker": "000660",
@@ -9,7 +9,7 @@
       "source": "알파경제",
       "published": "10-14 06:00",
       "published_iso": "2026-10-13T21:00:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "005380",
@@ -19,7 +19,7 @@
       "source": "알파경제",
       "published": "10-14 06:00",
       "published_iso": "2026-10-13T21:00:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "NVDA",
@@ -29,7 +29,7 @@
       "source": "코인리더스",
       "published": "10-14 04:30",
       "published_iso": "2026-10-13T19:30:00+00:00",
-      "age": "3시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "GOOG",
@@ -37,19 +37,29 @@
       "title": "GOOGL|Alphabet Inc Class A|가격:353.780|Chg%:+1.060 - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OVMxWGwxYl81M0J0S0c5bjBaOUpzalIxSXV1MXNsSHV5Mnh0Z1lldUNrVFFONFZkc1EybzAxT05XRzJ3RndOOUFQdjJfRjFzMWVUNDV6QlVySWhTYW5r?oc=5",
       "source": "TradingKey",
-      "published": "10-14 02:52",
-      "published_iso": "2026-10-13T17:52:20+00:00",
-      "age": "5시간 전"
+      "published": "10-14 02:50",
+      "published_iso": "2026-10-13T17:50:39+00:00",
+      "age": "6시간 전"
     },
     {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
-      "title": "Zeta Global Holdings Corp 주가, 52주 최고치 34.83달러 기록 By Investing.com - Investing.com 한국어",
+      "title": "Zeta Global Holdings Corp 주가, 52주 최고치 34.83달러 기록 - Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0V0FOS2dwRVBCYlhRbUNJR05xekkxY0xLVTF3ZGJNWXRmb1AyNVRRZ25acHNfUnBGa3BVZTFVWHRFRGFwZ1VnUjRGVUZmMHpSYW9ITUhVVFQzRkw5Yl80T3g1eXpxRkFGZ0JPVkQzeks?oc=5",
       "source": "Investing.com 한국어",
       "published": "10-14 00:24",
       "published_iso": "2026-10-13T15:24:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "Caterpillar Inc (CAT) 주식 움직였습니다 하락 4.19%에 10월13일: 핵심 원인 공개 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTi1kQnhRYXhTaDBLV1ZQUWcwbHZoVVk5OUV0MERzbW1wQU9ocWZtekZkQzZyRFpfamRtbEJaOFRxSWU3akVwX3dtb0RWd3FSV1F0Z2tDa3hETm9ZdnJyR0hmemg3OTdmdzdTNTVaUnM0Q21lelB0MjVmLWRDS0RCWlRUMnltWWFyUWNoT1RB?oc=5",
+      "source": "TradingKey",
+      "published": "10-14 00:15",
+      "published_iso": "2026-10-13T15:15:56+00:00",
+      "age": "9시간 전"
     },
     {
       "ticker": "000660",
@@ -59,7 +69,7 @@
       "source": "FinanceFeeds",
       "published": "10-13 23:26",
       "published_iso": "2026-10-13T14:26:52+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "000660",
@@ -69,7 +79,7 @@
       "source": "TIKR.com",
       "published": "10-13 22:51",
       "published_iso": "2026-10-13T13:51:44+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "SNDK",
@@ -79,7 +89,7 @@
       "source": "코인리더스",
       "published": "10-13 22:00",
       "published_iso": "2026-10-13T13:00:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "NVDA",
@@ -89,7 +99,7 @@
       "source": "Simply Wall Street",
       "published": "10-13 18:36",
       "published_iso": "2026-10-13T09:36:55+00:00",
-      "age": "13시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "379810",
@@ -99,7 +109,7 @@
       "source": "연합뉴스",
       "published": "10-13 17:08",
       "published_iso": "2026-10-13T08:08:57+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "487230",
@@ -109,7 +119,7 @@
       "source": "포춘코리아",
       "published": "10-13 16:33",
       "published_iso": "2026-10-13T07:33:01+00:00",
-      "age": "15시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "379800",
@@ -119,7 +129,7 @@
       "source": "비즈니스포스트",
       "published": "10-13 16:30",
       "published_iso": "2026-10-13T07:30:38+00:00",
-      "age": "15시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "INTC",
@@ -129,7 +139,7 @@
       "source": "TIKR.com",
       "published": "10-13 16:19",
       "published_iso": "2026-10-13T07:19:06+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "000660",
@@ -139,7 +149,7 @@
       "source": "Investing.com 한국어",
       "published": "10-13 14:04",
       "published_iso": "2026-10-13T05:04:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "487230",
@@ -149,7 +159,7 @@
       "source": "팍스경제TV",
       "published": "10-13 13:57",
       "published_iso": "2026-10-13T04:57:36+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "AMD",
@@ -159,17 +169,7 @@
       "source": "매일경제",
       "published": "10-13 13:50",
       "published_iso": "2026-10-13T04:50:30+00:00",
-      "age": "18시간 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "AMD(AMD), 주요 고객 매출 전망 하향에 AI 인프라 수요 우려 확대 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlMwYnVDbVlZaTBBMUdRLVVNckJ3b21FZWhFTEM5NnoxUTNyeHFYcnk5cXdHTnhwUlZBdFRaaU9UZjAyZnl0UUNSb0VvRkJKaDRVYzJzeFJmOXh1ZE9MNjBlWDRGa1Q1SGRyWjhiaFZQMlh2cTBRbjQ4SEZ5UkhzMmdYNjdhVnNFUm10eG1Wa0h1YUpVMVF4OTdnUkQ4cThlM2J0ZGZyRWZyaG1ZZGfSAa4BQVVfeXFMUGJTMGJ1Q21ZWWkwQTFHUS1VTXJCd29tRWVoRUxDOTZ6MVEzcnhxWHJ5OXF3R054cFJWQXRUWmlPVGYwMmZ5dFFDUm9Fb0ZCSmg0VWMyc3hSZjl4dWRPTDYwZVg0RmtUNUhkclo4YmhWUDJYdnEwUW40OEhGeVJIczJnWDY3YVZzRVJtdHhtVmtIdWFKVTFReDk3Z1JEOHE4ZTNidGRmckVmcmhtWWRn?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-13 11:25",
-      "published_iso": "2026-10-13T02:25:02+00:00",
-      "age": "21시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "487230",
@@ -179,7 +179,7 @@
       "source": "스마트투데이",
       "published": "10-13 11:09",
       "published_iso": "2026-10-13T02:09:00+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "489250",
@@ -189,7 +189,7 @@
       "source": "스마트투데이",
       "published": "10-13 10:35",
       "published_iso": "2026-10-13T01:35:41+00:00",
-      "age": "21시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "458730",
@@ -199,7 +199,7 @@
       "source": "스마트투데이",
       "published": "10-13 09:55",
       "published_iso": "2026-10-13T00:55:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "487230",
@@ -209,7 +209,7 @@
       "source": "머니투데이",
       "published": "10-13 09:25",
       "published_iso": "2026-10-13T00:25:25+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "SNDK",
@@ -219,7 +219,7 @@
       "source": "연합인포맥스",
       "published": "10-13 09:23",
       "published_iso": "2026-10-13T00:23:28+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "379780",
@@ -232,6 +232,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "Broadcom CEO Identifies Massive Capital Constraints as AI Scales Fast - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOTEyTG43VXpLeWNkUzRrOXVUdlRySmctVExyNWhaT1oxVE1SMndWV0F5aV9SeVRzU1RFVjlXaWpYeXdvRU4xb3RTbzJjdU1XSkM1Y0pYQU5xOGlXRmZYM21NYVNyemtadFM0WGtnbmxOUGdvWlQxcDQyS3h4cXU4Q3l5N19IZw?oc=5",
+      "source": "TIKR.com",
+      "published": "10-13 04:41",
+      "published_iso": "2026-10-12T19:41:15+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
       "title": "Alphabet, Flo Health 계약으로 헬스테크 사업 확장: GOOGL은 최근 상승분을 유지할 수 있을까? - Traders Union",
@@ -239,16 +249,6 @@
       "source": "Traders Union",
       "published": "10-13 01:17",
       "published_iso": "2026-10-12T16:17:47+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "Broadcom CEO Identifies Massive Capital Constraints as AI Scales Fast - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTTJ3QkxsOExGMHc2dy1MSVZqT090bkFsR2NyeGZnWmo4bHpmMlItT3BidHVKVkd2N3BxckJFc1BsLUZNT3FpQTU5cDlnZXJQZnJHdDhiX08zNzRnOG95UnRMS29FeU9VUkIzelZ4TU5oamZDd3pNU2ZDYm5JeHRZLUVBNzhJUG8?oc=5",
-      "source": "TIKR.com",
-      "published": "10-13 00:05",
-      "published_iso": "2026-10-12T15:05:53+00:00",
       "age": "1일 전"
     },
     {
@@ -359,7 +359,7 @@
       "source": "Simply Wall Street",
       "published": "10-12 08:43",
       "published_iso": "2026-10-11T23:43:39+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "VOO",
@@ -382,6 +382,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "OpenAI 할라피뇨 칩 vs 엔비디아 블랙웰: 수치 비교 - FinanceFeeds",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBibUcxMTREYk1rU2VWUkVyMDRPU3VsVWJISU5MQWcyb3Y4MGNXdUFCNEVxekVNNm9WR3RDVTI4YzMwR19lNXF1OWIzMzFlbGhDVU9MdjdoMmV4eVBXejdVNkFEWHRBcWZNdXZpcWR6WHpza29Cemp5N0pDSDY?oc=5",
+      "source": "FinanceFeeds",
+      "published": "10-12 01:35",
+      "published_iso": "2026-10-11T16:35:23+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
       "title": "연습: 권투시합 - 브런치",
@@ -399,6 +409,16 @@
       "source": "뉴스워치",
       "published": "10-11 18:48",
       "published_iso": "2026-10-11T09:48:37+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "AMD(AMD), 주요 고객 매출 전망 하향에 AI 인프라 수요 우려 확대 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTVBZYnNzWDRKT0s0TmYwRVhqQ0czQk9SZ2pNRGFtQzFwbjY4RF9NVG1tSnJCUTVFU3FKMVJrYjBwcVVfdHJxWnFXZVgtcG1CRE5RUWJLRGxNRDdBdXpOeF92YmVfLTZRU2FYb3NzTGg3YUwtNVVFQXhmMHpxZlRja1UtR01hekVfOU5ZSWo5cnBxNEdncXpDS3BBYWtyenY4REZ1M0UtNm3SAa4BQVVfeXFMUGJTMGJ1Q21ZWWkwQTFHUS1VTXJCd29tRWVoRUxDOTZ6MVEzcnhxWHJ5OXF3R054cFJWQXRUWmlPVGYwMmZ5dFFDUm9Fb0ZCSmg0VWMyc3hSZjl4dWRPTDYwZVg0RmtUNUhkclo4YmhWUDJYdnEwUW40OEhGeVJIczJnWDY3YVZzRVJtdHhtVmtIdWFKVTFReDk3Z1JEOHE4ZTNidGRmckVmcmhtWWRn?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-11 16:00",
+      "published_iso": "2026-10-11T07:00:00+00:00",
       "age": "2일 전"
     },
     {
@@ -429,7 +449,7 @@
       "source": "아시아투데이",
       "published": "10-11 09:17",
       "published_iso": "2026-10-11T00:17:46+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "VOO",
@@ -462,6 +482,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "title": "[美특징주]테슬라, 유럽서 FSD 명칭 '주행 보조'로 변경…독일 규제당국 지적 수용 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTFJoR0lnaWZPbUdseHdPUmVJQzZUN3U1aUExNkZFcXFEaEM1LU5udUdiRU1IYTdoVk94bmI3cVpRMmlBODcySFZ2UVZZSFRKalJDb3RQUV9QQVBiTEoyYmFPQ1NBVkFWc0FDTkZLdk02R3Y5b0pYMHo4VkR3RHczQw?oc=5",
+      "source": "이데일리",
+      "published": "10-10 04:48",
+      "published_iso": "2026-10-09T19:48:44+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
       "title": "Gemini 확장으로 Alphabet 전망 강화되며 Google 주가 상승 - Traders Union",
@@ -489,16 +519,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-09 21:47",
       "published_iso": "2026-10-09T12:47:48+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "[美특징주]캐터필러, AI 데이터센터·인프라 투자 수혜 기대...개장 전↑ - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3RJLW04U013T01ZaTM1SUdicnc1aDN4MmtMYm5fdTl4cWpGc2kxYmFWdkN1TmFIVmdsQXE1RW9LQVBuQjZUYjhtZDVQVnhkWEFQdi1MNGc0Z1paSVJTT3ZLRzZDakNDZ3Y3UVVISlZBYmlQOEFMaTY2ZWFoTXlWSw?oc=5",
-      "source": "이데일리",
-      "published": "10-09 21:14",
-      "published_iso": "2026-10-09T12:14:12+00:00",
       "age": "4일 전"
     },
     {
@@ -539,7 +559,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "368590",
@@ -549,7 +569,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "0072R0",
@@ -559,7 +579,7 @@
       "source": "뉴시스",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "379800",
@@ -569,7 +589,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "379780",
@@ -809,7 +829,7 @@
       "source": "경향신문",
       "published": "10-08 09:37",
       "published_iso": "2026-10-08T00:37:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "005380",
@@ -819,7 +839,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-08 08:30",
       "published_iso": "2026-10-07T23:30:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "TSM",
@@ -922,16 +942,6 @@
       "age": "6일 전"
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "OpenAI 할라피뇨 칩 vs 엔비디아 블랙웰: 수치 비교 - FinanceFeeds",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBibUcxMTREYk1rU2VWUkVyMDRPU3VsVWJISU5MQWcyb3Y4MGNXdUFCNEVxekVNNm9WR3RDVTI4YzMwR19lNXF1OWIzMzFlbGhDVU9MdjdoMmV4eVBXejdVNkFEWHRBcWZNdXZpcWR6WHpza29Cemp5N0pDSDY?oc=5",
-      "source": "FinanceFeeds",
-      "published": "10-07 19:50",
-      "published_iso": "2026-10-07T10:50:28+00:00",
-      "age": "6일 전"
-    },
-    {
       "ticker": "JEPQ",
       "name": "JPMorgan Nasdaq Equity Premium Income ETF",
       "title": "선택한 설정을 되돌리는 강원 랜드 아줌마 옵션 안내 - Calgary Roughnecks",
@@ -979,16 +989,6 @@
       "source": "매일일보",
       "published": "10-07 15:33",
       "published_iso": "2026-10-07T06:33:15+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "title": "[미국 특징주] 테슬라, 파리 모터쇼에서 '사이버캡' 첫 유럽 공개 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90dFFGbHdST3JUV3RtTjNnVDNjT2lMYlVGTzJGcnYyUTZzNmxUMFVGOHQydWp1TnQ2YVFkWi1XRVFaWlNDanR6X3lLYjBGaVpJdlZMS3M4VFM5Sjht?oc=5",
-      "source": "뉴스핌",
-      "published": "10-07 13:30",
-      "published_iso": "2026-10-07T04:30:00+00:00",
       "age": "6일 전"
     },
     {
