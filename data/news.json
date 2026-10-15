@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-15 08:30 KST",
+  "updated_at": "2026-10-15 09:43 KST",
   "items": [
+    {
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
+      "title": "미래에셋운용, 'TIGER 미국배당다우존스' 동종 유형 연초 이후 개인 순매수 1위 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94M0xwMU1IdzZhOXVnblNGSng2Zk13emdESnR4eFFpMVVyLXptRHNkMHVaYnh2bnRhU0tPTkN4LXhKcTEyVDlzOU9RT19hNi1lNDJiR2lfdV84ZnZt?oc=5",
+      "source": "뉴스핌",
+      "published": "10-15 09:31",
+      "published_iso": "2026-10-15T00:31:00+00:00",
+      "age": "11분 전"
+    },
+    {
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
+      "title": "미래에셋운용, TIGER 미국배당다우존스 ETF 동종 유형 연초 이후 개인 순매수 1위 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nM2IxN2FNTmJSX0Vhc2ZmbzRrMWMwbS0yTVNQT09sRExTcmRxMldDanpvQ2xPQ0RUN0JjMWpBWDhRc2lMNnFpeUdVcFN6c2FYalZ2WHVOQ0w1d28xWHBSSGxB?oc=5",
+      "source": "아시아경제",
+      "published": "10-15 09:20",
+      "published_iso": "2026-10-15T00:20:00+00:00",
+      "age": "22분 전"
+    },
+    {
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
+      "title": "TIGER 미국배당다우존스 ETF, 동종 유형 개인 순매수 '1위' - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLVU0YWRLT0xJM0xjUHptWjVUS3FGMDJwR3o4N0RLMWo0WWN6TElNbGExYnZST3cwT09vRFVQeVh2RlhVcGdwTk1mMXJXQWpHWnB0SUJTNmVBV2czR2NGR1hTWURGRTdycVlqb1VpaEdDRHdfYWhVam9UNTNkRkQtRGpzZnFRQXVL?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "10-15 09:14",
+      "published_iso": "2026-10-15T00:14:50+00:00",
+      "age": "28분 전"
+    },
+    {
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
+      "title": "미래에셋운용 TIGER 미국배당다우존스, 개인 순매수 1위 - 이지경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0a1NXcjRwLTlBc2VVVThKUFZwQ05JTGJGU0l6YXZaRGUycXVWWmhWUm5fQTlPNVZ3YjNGRG15eURacTRkdWJSLWVTNFFOVldlb1cxaV9oMEdXYU1jMkN4RU1Cdnlqa3hPcGFncm5R?oc=5",
+      "source": "이지경제",
+      "published": "10-15 09:13",
+      "published_iso": "2026-10-15T00:13:28+00:00",
+      "age": "29분 전"
+    },
     {
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
@@ -9,7 +49,7 @@
       "source": "아시아경제",
       "published": "10-15 06:41",
       "published_iso": "2026-10-14T21:41:00+00:00",
-      "age": "1시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "COST",
@@ -19,7 +59,7 @@
       "source": "데이터투자",
       "published": "10-15 05:22",
       "published_iso": "2026-10-14T20:22:36+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "TSM",
@@ -29,7 +69,7 @@
       "source": "TradingKey",
       "published": "10-15 03:16",
       "published_iso": "2026-10-14T18:16:28+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "CAT",
@@ -39,7 +79,7 @@
       "source": "TradingKey",
       "published": "10-15 02:16",
       "published_iso": "2026-10-14T17:16:19+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "SNDK",
@@ -49,7 +89,17 @@
       "source": "TradingKey",
       "published": "10-15 02:16",
       "published_iso": "2026-10-14T17:16:17+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "GOOGL|Alphabet Inc Class A|가격:347.640|Chg%:-6.140 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OVMxWGwxYl81M0J0S0c5bjBaOUpzalIxSXV1MXNsSHV5Mnh0Z1lldUNrVFFONFZkc1EybzAxT05XRzJ3RndOOUFQdjJfRjFzMWVUNDV6QlVySWhTYW5r?oc=5",
+      "source": "TradingKey",
+      "published": "10-15 01:27",
+      "published_iso": "2026-10-14T16:27:00+00:00",
+      "age": "8시간 전"
     },
     {
       "ticker": "NVDA",
@@ -59,17 +109,7 @@
       "source": "Investing.com 한국어",
       "published": "10-14 23:28",
       "published_iso": "2026-10-14T14:28:00+00:00",
-      "age": "9시간 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "GOOGL|Alphabet Inc Class A|가격:347.640|Chg%:-6.140 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OVMxWGwxYl81M0J0S0c5bjBaOUpzalIxSXV1MXNsSHV5Mnh0Z1lldUNrVFFONFZkc1EybzAxT05XRzJ3RndOOUFQdjJfRjFzMWVUNDV6QlVySWhTYW5r?oc=5",
-      "source": "TradingKey",
-      "published": "10-14 23:27",
-      "published_iso": "2026-10-14T14:27:54+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "TSLA",
@@ -79,7 +119,7 @@
       "source": "Investing.com 한국어",
       "published": "10-14 23:21",
       "published_iso": "2026-10-14T14:21:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "AMD",
@@ -89,7 +129,7 @@
       "source": "TradingKey",
       "published": "10-14 23:16",
       "published_iso": "2026-10-14T14:16:06+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "GEV",
@@ -99,7 +139,7 @@
       "source": "TradingKey",
       "published": "10-14 23:16",
       "published_iso": "2026-10-14T14:16:05+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "TSLA",
@@ -109,7 +149,7 @@
       "source": "코인리더스",
       "published": "10-14 20:30",
       "published_iso": "2026-10-14T11:30:00+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "489250",
@@ -119,7 +159,7 @@
       "source": "매일경제 마켓",
       "published": "10-14 17:40",
       "published_iso": "2026-10-14T08:40:41+00:00",
-      "age": "14시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "379810",
@@ -129,7 +169,7 @@
       "source": "머니투데이",
       "published": "10-14 15:10",
       "published_iso": "2026-10-14T06:10:55+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "005930",
@@ -139,7 +179,7 @@
       "source": "매일경제",
       "published": "10-14 14:40",
       "published_iso": "2026-10-14T05:40:03+00:00",
-      "age": "17시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "000660",
@@ -149,7 +189,7 @@
       "source": "Investing.com 한국어",
       "published": "10-14 14:02",
       "published_iso": "2026-10-14T05:02:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "379810",
@@ -159,7 +199,7 @@
       "source": "PRESS9",
       "published": "10-14 13:41",
       "published_iso": "2026-10-14T04:41:21+00:00",
-      "age": "18시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "005380",
@@ -332,13 +372,13 @@
       "age": "1일 전"
     },
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "AMD, AI 에이전트 전용 서버 공개…CPU 3만2000개 코어 탑재 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11bFo4dTZRTUt1VGp2N19nWVJRSXNHbFQ2RFVHM09QOUwxWHU5UHRIMzRMVWRWb0tPUWZDOWxvVldsTnp6dldxeEh1NDFQdw?oc=5",
-      "source": "매일경제",
-      "published": "10-13 13:50",
-      "published_iso": "2026-10-13T04:50:30+00:00",
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "삼성운용, ‘KODEX 미국AI에이전트액티브’ ETF 상장…메타·팔란티어 등 투자 - 팍스경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hbk9hZ1Z3Q3FXZl9CV3dsaktydkV1Y2hheXJSdUxsbkxmT2FXZFpnTlhwd0tDLUJYTDcwM2VyaDc0bEJySjBEbmpPSXRMZkc3VjlzLXRtc1BmTlZYRzhjWm10VmEtekJ0?oc=5",
+      "source": "팍스경제TV",
+      "published": "10-13 13:57",
+      "published_iso": "2026-10-13T04:57:36+00:00",
       "age": "1일 전"
     },
     {
@@ -372,16 +412,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "458730",
-      "name": "TIGER 미국배당다우존스",
-      "title": "[표]미래에셋 TIGER 월중 배당 ETF 10월 분배금 내역 - 스마트투데이",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlczZVS3JZeHk4TmFCQ2xvLXpLQ2toZTdoeDhfcFVkZXZYT00xUXVfeHJiUUZRS0dNZERfdGZqR0x2Vml4TjZtb08wR1RVUW1zWjl1dDQwaTcwZVZ1ZTRF?oc=5",
-      "source": "스마트투데이",
-      "published": "10-13 09:55",
-      "published_iso": "2026-10-13T00:55:00+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "487230",
       "name": "KODEX 미국AI전력핵심인프라",
       "title": "삼성운용, KODEX 미국AI에이전트액티브 13일 상장 - 머니투데이 - 머니투데이",
@@ -389,7 +419,7 @@
       "source": "머니투데이",
       "published": "10-13 09:25",
       "published_iso": "2026-10-13T00:25:25+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "SNDK",
@@ -399,17 +429,7 @@
       "source": "연합인포맥스",
       "published": "10-13 09:23",
       "published_iso": "2026-10-13T00:23:28+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "삼성운용, ‘KODEX 미국AI에이전트액티브’ ETF 상장 - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZSEs3WDVlTzI2ak1Ya3BFUmNKamZtT2NOSi1UdGxKcE94Vk9Cb3JteXlFcjVzWTVucUw5dUQ1SlJPcTRKdFRwemc2MWFTeTJod3fSAVNBVV95cUxNT05XcEV2N1F2b0w5VGNUVlpqUHpBbEJHMm51WmlVaGNyY2RfOElPSWdQYWRZeHZhMnZ3c3k2OW1KbzVhdXRNQWtVZ1FYLUZBVVdmQQ?oc=5",
-      "source": "서울경제",
-      "published": "10-13 09:15",
-      "published_iso": "2026-10-13T00:15:42+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "379780",
@@ -459,6 +479,16 @@
       "source": "Traders Union",
       "published": "10-13 01:17",
       "published_iso": "2026-10-12T16:17:47+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "Advanced Micro Devices Inc (AMD) 주식 움직였습니다 하락 3.41%에 10월12일: 변동을 뒷받침하는 사실 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUEgtR1FodWJvN2FCYTREMzFGUXpvcmhmcHowb0xkNVYyZXZTZHdaVlBUTDdUcWowaFUxdnJjLWdkNWdydlhiWE5iY0o4UjZ2TDRJME96N0ZVT0s4cjFkbHVjS2JmUFdzYlBfYWlla01KNFVXZkpHLVQxbHBjRUNBWEJVenB3S3NuN1VZSWJB?oc=5",
+      "source": "TradingKey",
+      "published": "10-13 00:16",
+      "published_iso": "2026-10-12T15:16:12+00:00",
       "age": "2일 전"
     },
     {
@@ -542,16 +572,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "458730",
-      "name": "TIGER 미국배당다우존스",
-      "title": "코스닥·반도체 탈출한 개미들… 美 지수 ETF에 꽂혔다 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzUWdKZVoyeUdrOEZ4MW1JZHNmazZjRVRVdjduRHlRN2sycjhGT3BKX05sNFZwa3VBYWpXM2xlVDkxMkRIeHI3andVcjNIZkVJTVVVbFdaODNlWkxDNWthbEplSkIyV2lBZlZmU0FZdmvSAXRBVV95cUxQTGgtT2VDNjdrV3YyaVY2TjV5MUNFQ2hkMEM3Wm1qbDhOOU9nTHFKbnRWLVFlc09EQXpDajViQ1dzdWFUZnAwTkpUZHlUb2U0ZDluWnUySjhNVUtjcWVaR002TEY1YS1vMDRxZXE0NzJTV0hUaA?oc=5",
-      "source": "IT조선",
-      "published": "10-12 12:00",
-      "published_iso": "2026-10-12T03:00:00+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
       "title": "코스닥·반도체 탈출한 개미들… 美 지수 ETF에 꽂혔다 - IT조선",
@@ -599,7 +619,7 @@
       "source": "Simply Wall Street",
       "published": "10-12 08:43",
       "published_iso": "2026-10-11T23:43:39+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "005930",
@@ -652,14 +672,14 @@
       "age": "3일 전"
     },
     {
-      "ticker": "458730",
-      "name": "TIGER 미국배당다우존스",
-      "title": "규칙 설명 속 최소 개수를 읽는 토토 그게 왜 니돈이야 판정 안내 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaHRsWjdtemJ4Y2VJTVVObmxXeVd1UVNPTndST2c1T3ZDMHdtZ3Y1UFZwOUZLd0ZSRTZ5TW9yZGJQN2tCNmtiVERqU0JPdzJncmpaYlpzVHZybDc5SzhmQ2cxSFpiTk1EOTdGd1R0YjRLQkhUQU5kUkI2ZTh2ci0zM3dqWFJHcG1NYnE0MUtpVEdybXY4cnUxWl9sNDZ0aXlqWGlidDdLWlBFbXk3?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-11 09:18",
-      "published_iso": "2026-10-11T00:18:44+00:00",
-      "age": "3일 전"
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "청주시 코스트코 유치 새 국면…제3부지 물색·미국 본사 직접 접촉 - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OMmhVcUYwcWdOLWZWcXV1aHpUMHg2VGkzOGVVQnA0X3hRTmhKQVBvLVBhTHJjVHlRQnVQR214OHBpTWhWMFgybnJQSHhGd0hGOGZBV1NFUGFpenNhYlVjbGhPSDY4ZmVSQjFXbTFB?oc=5",
+      "source": "아시아투데이",
+      "published": "10-11 09:17",
+      "published_iso": "2026-10-11T00:17:46+00:00",
+      "age": "4일 전"
     },
     {
       "ticker": "VOO",
@@ -669,16 +689,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-11 05:31",
       "published_iso": "2026-10-10T20:31:45+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "458730",
-      "name": "TIGER 미국배당다우존스",
-      "title": "미래에셋운용 'TIGER 미국 타겟데일리커버드콜' 3종, 개인 순매수 1조 넘어 - 비즈월드",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lSnpTWm5LTmlJbmZHcmM1MHVxNE5xX2cxVURIUVE5ekd0TE5JXzdVVGpJR3g1Y0h0ZHZPWndTN0w1ODUyRVBWS2NPc2o3ck5XcFE5cE9wYk9aVWZvajIwbVhndEdPczJhYVE?oc=5",
-      "source": "비즈월드",
-      "published": "10-10 13:48",
-      "published_iso": "2026-10-10T04:48:00+00:00",
       "age": "4일 전"
     },
     {
@@ -792,16 +802,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "[챗ICT]'아이돌인줄…' 리사 수에 열광한 까닭 - 비즈워치",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82dDRpcDh0LUIxY01MZmNKYTkyVi1RTDh1MC0wNTlJYTN2WUF5T1plNW5WYVVSdXpYSEF0S0tEdlpjMVpPX3pSc2VsVzctZ2s3bXhqNV9neEhXNHVWdGR6VHpoRTJ4enVHY3c?oc=5",
-      "source": "비즈워치",
-      "published": "10-09 13:00",
-      "published_iso": "2026-10-09T04:00:02+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
       "title": "美증시 ETF에 한 달 새 2조 유입…S&P500, 환율이 수익률 갈랐다 [마켓시그널] - 서울경제",
@@ -809,7 +809,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "368590",
@@ -819,7 +819,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "0072R0",
@@ -829,7 +829,7 @@
       "source": "뉴시스",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "379800",
@@ -839,7 +839,7 @@
       "source": "서울경제",
       "published": "10-09 09:00",
       "published_iso": "2026-10-09T00:00:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "379780",
@@ -952,16 +952,6 @@
       "age": "6일 전"
     },
     {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "베어드, 코스트코 9월 매출 호조에 주식 등급 유지 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wUjdfTF9yaUZ6akFnUm5oNnRhbWUyVy1TYjNxMUNkZ2ZwQXR3VExocjNMSHZBLWhCUmpLTmxaaGxoSE53eEJ6YWNUZ1J5ZWlOM3hiZHdGTXRzeUxmaGp4NkloRF8yQ09pLW45bDQ1cUlxNUk1?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-08 21:13",
-      "published_iso": "2026-10-08T12:13:00+00:00",
-      "age": "6일 전"
-    },
-    {
       "ticker": "SCHD",
       "name": "Schwab U.S. Dividend Equity ETF",
       "title": "토토 잭팟 의 모든 측면: 장점, 단점 및 활용 방법 - Calgary Roughnecks",
@@ -969,6 +959,16 @@
       "source": "Calgary Roughnecks",
       "published": "10-08 16:22",
       "published_iso": "2026-10-08T07:22:46+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "AMD(NVDA) Velocity 2026 발표를 앞두고 아직 저평가 상태일까? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFNqMHhRLXZobEZrWjR2OWRWUHV4M2FPeXBMeGN0bTRfZlN4QnBpSnhOMEltSkVtaWZBSzRjdGhoa29PWVV5NVprdDUtVXQ1QlpGUUs3bmNVam1yR0J6RVJxWHFqZjZkbndwbDVOS0ZLWldEeHd2RFVpb01CczE2RjBPVThDbFd6LUl6M0VhOHc3bjhCVHotSWtqeThESmpUR3gxZko0N2vSAa4BQVVfeXFMTXVOVjBHcF9BdXUxM3ViXzJJekk0TmczR2JsVjNRUTFXeEo0cHNyY1FDcTg0T1ctVUo0YXVnSFFFNGNtblJhNG9YcEMzQ3VCUTk5Y1JCcTNra1U4c3Q4QmQtdGI4c1N1RWd1ajRTNFJsY0d3ay1KRFRpRUg0RUpGa0FFWjFPQWtGZk8wSFdKZklTQzMxVkZSRk8tMG1renVKZExiYUFIRy1tdjdXVWZB?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-08 16:00",
+      "published_iso": "2026-10-08T07:00:00+00:00",
       "age": "6일 전"
     },
     {
