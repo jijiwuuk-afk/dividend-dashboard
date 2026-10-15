@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-15 14:33 KST",
+  "updated_at": "2026-10-15 15:42 KST",
   "items": [
+    {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "KB자산운용, ‘RISE 미국천연가스밸류체인’ ETF 1주 6.01%…수익률 1위 - PRESS9",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jZERXMHBZZFZMNC01eG9ka05pbHcxN05CeWVKRGpPcUM2WFJnN1ZKSm1YMDNtNnVWSlJGSnI5Q3hnQl9JalBKdDNPLUZCZ1BYbXREMGR0SzBOa2NFVHVrUEZsZVA?oc=5",
+      "source": "PRESS9",
+      "published": "10-15 15:05",
+      "published_iso": "2026-10-15T06:05:09+00:00",
+      "age": "36분 전"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대차, 인도 푸네공장 준공…연 100만대 생산 체제 구축 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xM0lXZ1U3NE8tajJNWHo0NDdSdXFJVGs4ci00NkI0YXVQd1h0UWpxUzdxS2x4VXlJcEc1a0JLTTlSN2NnVjVWM3p0VEpmNkNWcHFza2ZFVkVkYTk2Qjc4SzF4WVBTbW05TFE?oc=5",
+      "source": "한겨레",
+      "published": "10-15 14:43",
+      "published_iso": "2026-10-15T05:43:00+00:00",
+      "age": "58분 전"
+    },
     {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
@@ -9,7 +29,7 @@
       "source": "머니투데이",
       "published": "10-15 13:44",
       "published_iso": "2026-10-15T04:44:44+00:00",
-      "age": "48분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "379810",
@@ -19,7 +39,7 @@
       "source": "매일일보",
       "published": "10-15 13:44",
       "published_iso": "2026-10-15T04:44:17+00:00",
-      "age": "49분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "458730",
@@ -29,7 +49,7 @@
       "source": "메트로신문",
       "published": "10-15 11:49",
       "published_iso": "2026-10-15T02:49:15+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "379800",
@@ -39,7 +59,7 @@
       "source": "뉴스투데이",
       "published": "10-15 11:31",
       "published_iso": "2026-10-15T02:31:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "379810",
@@ -49,7 +69,7 @@
       "source": "전자신문",
       "published": "10-15 11:02",
       "published_iso": "2026-10-15T02:02:02+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "368590",
@@ -59,7 +79,7 @@
       "source": "파이낸셜뉴스",
       "published": "10-15 10:47",
       "published_iso": "2026-10-15T01:47:55+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "0072R0",
@@ -69,7 +89,7 @@
       "source": "매일신문",
       "published": "10-15 10:44",
       "published_iso": "2026-10-15T01:44:59+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "458730",
@@ -79,7 +99,7 @@
       "source": "연합뉴스",
       "published": "10-15 10:14",
       "published_iso": "2026-10-15T01:14:13+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "489250",
@@ -89,7 +109,7 @@
       "source": "연합뉴스",
       "published": "10-15 10:14",
       "published_iso": "2026-10-15T01:14:13+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "368590",
@@ -99,7 +119,7 @@
       "source": "초이스경제",
       "published": "10-15 10:12",
       "published_iso": "2026-10-15T01:12:19+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "489250",
@@ -109,7 +129,7 @@
       "source": "브릿지경제",
       "published": "10-15 10:06",
       "published_iso": "2026-10-15T01:06:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "379810",
@@ -119,7 +139,7 @@
       "source": "뉴스핌",
       "published": "10-15 09:47",
       "published_iso": "2026-10-15T00:47:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "458730",
@@ -129,7 +149,7 @@
       "source": "뉴스핌",
       "published": "10-15 09:31",
       "published_iso": "2026-10-15T00:31:00+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "458730",
@@ -139,17 +159,7 @@
       "source": "글로벌이코노믹",
       "published": "10-15 09:14",
       "published_iso": "2026-10-15T00:14:50+00:00",
-      "age": "5시간 전"
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "글로벌 회원제 창고형 할인매장의 절대강자, 강력한 멤버십 충성도와 고물가 시대 방어력을 증명하는 - 코스트코(COST) - 네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ2ctM2lfdDVYaUozVHUyQ0JoUWJKRHlZenlNMEtkRkdiUkY5ZVBfQU1tejQ3R3RtQm9aZFZlRGVOQTNFSnlkeDVtcllpNXNpVldYOE5rQWlZdWxiczJGR3ZUZE5mZlRmaTBfak45V29pcUkybmljRGtTV01RSkJENEVFaXM5QQ?oc=5",
-      "source": "네이버 프리미엄콘텐츠",
-      "published": "10-15 08:51",
-      "published_iso": "2026-10-14T23:51:00+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "TSM",
@@ -159,7 +169,7 @@
       "source": "재경일보",
       "published": "10-15 07:47",
       "published_iso": "2026-10-14T22:47:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "QQQM",
@@ -169,7 +179,7 @@
       "source": "아시아경제",
       "published": "10-15 07:07",
       "published_iso": "2026-10-14T22:07:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "COST",
@@ -179,7 +189,7 @@
       "source": "데이터투자",
       "published": "10-15 05:22",
       "published_iso": "2026-10-14T20:22:36+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "TSM",
@@ -189,7 +199,7 @@
       "source": "TradingKey",
       "published": "10-15 03:16",
       "published_iso": "2026-10-14T18:16:28+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "CAT",
@@ -199,7 +209,7 @@
       "source": "TradingKey",
       "published": "10-15 02:16",
       "published_iso": "2026-10-14T17:16:19+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "SNDK",
@@ -209,7 +219,17 @@
       "source": "TradingKey",
       "published": "10-15 02:16",
       "published_iso": "2026-10-14T17:16:17+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "Costco 주간 주가 전망: 최근 상승세 유지, 좁은 거래 범위로 추가 상승 제한 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRHBKN2tERTRSd0x6M0ozMmZENV81eDNlSjVXMU9kSVNnUnJiaVBhbnRlb0JKZ2RvWjB4c3JFaWc0YlluTDZJMlNIWTVUWkktTFU2REdXclZfTXBPaFNkcXZ5eXNOLTRWZF80a3piTWxVaGFuN0VvYmluZTFybHNZWk9KNlRFMzNiaWpFRi0wMFJzdw?oc=5",
+      "source": "Traders Union",
+      "published": "10-14 23:25",
+      "published_iso": "2026-10-14T14:25:03+00:00",
+      "age": "16시간 전"
     },
     {
       "ticker": "TSLA",
@@ -219,7 +239,7 @@
       "source": "Investing.com 한국어",
       "published": "10-14 23:21",
       "published_iso": "2026-10-14T14:21:00+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "AMD",
@@ -229,7 +249,7 @@
       "source": "TradingKey",
       "published": "10-14 23:16",
       "published_iso": "2026-10-14T14:16:06+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "GEV",
@@ -239,7 +259,7 @@
       "source": "TradingKey",
       "published": "10-14 23:16",
       "published_iso": "2026-10-14T14:16:05+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "TSLA",
@@ -249,7 +269,7 @@
       "source": "코인리더스",
       "published": "10-14 20:30",
       "published_iso": "2026-10-14T11:30:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "489250",
@@ -259,7 +279,7 @@
       "source": "매일경제 마켓",
       "published": "10-14 17:40",
       "published_iso": "2026-10-14T08:40:41+00:00",
-      "age": "20시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "005930",
@@ -269,16 +289,6 @@
       "source": "매일경제",
       "published": "10-14 14:40",
       "published_iso": "2026-10-14T05:40:03+00:00",
-      "age": "23시간 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "현대차·기아 ‘2026 RD 협력사 테크 데이’ | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWFxazcwRWR4bnpFQWY1YlU1UmVIMUxxWVdmamZocm5fQVREWEp3TjV5ZnBkNkk0YWs2VVJ0RUlVeTl6VjNiNWl2NUNaTEpJOHFhSjlrd3dZYnpYR3Z0TWFvR1ZUc1ZGVHFMYmJ2Y2hEVmhfZmZ1NEx2MDhOTzBHaURkX2FPVkxSSkRacUd6MVlTbUw5OHJncg?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-14 10:40",
-      "published_iso": "2026-10-14T01:40:00+00:00",
       "age": "1일 전"
     },
     {
@@ -512,16 +522,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "[표] KB자산운용 RISE 월중 배당 ETF 10월 분배금 내역 - 스마트투데이",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tNVlueEpmaEI4ZEM3X1RjNTEzbXIyNnBRTDhzajFaU1RWTnpJUDhidExyWW9Nd2haLWlRVERUeG82eW4tX01Vd1pEdFp4cWpMcnNxaUtkYzkxcTRvdzJj?oc=5",
-      "source": "스마트투데이",
-      "published": "10-13 08:15",
-      "published_iso": "2026-10-12T23:15:00+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
       "title": "Broadcom CEO Identifies Massive Capital Constraints as AI Scales Fast - TIKR.com",
@@ -542,13 +542,13 @@
       "age": "2일 전"
     },
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "Advanced Micro Devices Inc (AMD) 주식 움직였습니다 하락 3.41%에 10월12일: 변동을 뒷받침하는 사실 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUEgtR1FodWJvN2FCYTREMzFGUXpvcmhmcHowb0xkNVYyZXZTZHdaVlBUTDdUcWowaFUxdnJjLWdkNWdydlhiWE5iY0o4UjZ2TDRJME96N0ZVT0s4cjFkbHVjS2JmUFdzYlBfYWlla01KNFVXZkpHLVQxbHBjRUNBWEJVenB3S3NuN1VZSWJB?oc=5",
-      "source": "TradingKey",
-      "published": "10-13 00:16",
-      "published_iso": "2026-10-12T15:16:12+00:00",
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "인텔, OCP 서밋서 AI 추론용 GPU D-시리즈 공개 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MMkt4bTRwTUs2MkNka3VJOVdmWFhVM1FQWGhTTWlOc2dWb3ZqeU8xYjR6Q3lVcC1zb3ZZOVZTYlVua2hUdUtiODltaXBrMmhnVkhTUGUtRVFPeXhCUWNEVHRwcHdYQVFEaU1pelYteUs?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-13 04:37",
+      "published_iso": "2026-10-12T19:37:00+00:00",
       "age": "2일 전"
     },
     {
@@ -629,7 +629,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-12 15:23",
       "published_iso": "2026-10-12T06:23:04+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "ZETA",
@@ -862,6 +862,16 @@
       "age": "6일 전"
     },
     {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "[챗ICT]'아이돌인줄…' 리사 수에 열광한 까닭 - 비즈워치",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82dDRpcDh0LUIxY01MZmNKYTkyVi1RTDh1MC0wNTlJYTN2WUF5T1plNW5WYVVSdXpYSEF0S0tEdlpjMVpPX3pSc2VsVzctZ2s3bXhqNV9neEhXNHVWdGR6VHpoRTJ4enVHY3c?oc=5",
+      "source": "비즈워치",
+      "published": "10-09 13:00",
+      "published_iso": "2026-10-09T04:00:02+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "VOO",
       "name": "Vanguard S&P 500 ETF",
       "title": "순서대로 따라 읽는 게임 하기 좋은 삼성 폰 한 판 설명 - Calgary Roughnecks",
@@ -989,16 +999,6 @@
       "source": "Investing.com 한국어",
       "published": "10-08 22:21",
       "published_iso": "2026-10-08T13:21:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "GEV",
-      "name": "GE Vernova Inc.",
-      "title": "베트남 최초로 액화천연가스(LNG)를 연료로 사용하는 발전소. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWV1dlFWOThVX3VlUHNwTUhQR2FId29fUkpqNW5NRmtzWDJJdjFCQ2xydUdjLWhfUzdRMWZBVWU2QTZxQXF5LW0xREg0ZXgtbk9vT2VObGxkU1VhRjRFSDNzaDR0RVNtXzNQSW1Zcnc5SGpvTUxBdmJ4aU1oc21sRlMxbzR3elhoYzFBTjRiNUJVeGpyVjdiWUdLb0dScHFvNVptQ2JURjlWcmE5dXc?oc=5",
-      "source": "Vietnam.vn",
-      "published": "10-08 21:28",
-      "published_iso": "2026-10-08T12:28:53+00:00",
       "age": "6일 전"
     }
   ]
