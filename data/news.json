@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-15 12:34 KST",
+  "updated_at": "2026-10-15 13:33 KST",
   "items": [
+    {
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
+      "title": "‘TIGER 미국배당다우존스’, 동일지수 ETF 중 개인 순매수 선두 - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kNkhGRzlkREZic2hybXhxSUl2OG9jcEo1S0dJVVNYbE9oSGpGUDlzc3hJcVphOWtPZC0wUmJuQVZmdkZCbEk2R2FHWk5wV2d0ZGo4bDFvX3ZRcXZhenotMA?oc=5",
+      "source": "메트로신문",
+      "published": "10-15 11:49",
+      "published_iso": "2026-10-15T02:49:15+00:00",
+      "age": "1시간 전"
+    },
     {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
@@ -9,7 +19,17 @@
       "source": "뉴스투데이",
       "published": "10-15 11:31",
       "published_iso": "2026-10-15T02:31:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
+    },
+    {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
+      "title": "삼성자산운용, KODEX 미국나스닥100 순자산 10조 돌파 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tWG5VbzFkM0FhaWlJVU41Q0NnNVpYOUdsa3k3eXNNa0tjYXF3dW1fSDVjelBxYV9JM0VaWFgzaVhnTC1RQ2JNS2ZjZUR0Zw?oc=5",
+      "source": "전자신문",
+      "published": "10-15 11:02",
+      "published_iso": "2026-10-15T02:02:02+00:00",
+      "age": "2시간 전"
     },
     {
       "ticker": "379810",
@@ -19,7 +39,17 @@
       "source": "인더스트리뉴스",
       "published": "10-15 10:59",
       "published_iso": "2026-10-15T01:59:17+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
+    },
+    {
+      "ticker": "368590",
+      "name": "RISE 미국나스닥100",
+      "title": "개인 자금 3.3조 몰렸다…'KODEX 미국나스닥100' 순자산 10조 돌파 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94eF93Mnc0ZzBIenpBdW9ELUw0Q3k1NnFkaG9tRU9lR0pubFpqUTZVVERmclJ3dEoyYkpjVmFWMmNSYk5YVTBtWDFjcWl5Vi1MNVZJTVpPVGtpUQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "10-15 10:47",
+      "published_iso": "2026-10-15T01:47:55+00:00",
+      "age": "2시간 전"
     },
     {
       "ticker": "0072R0",
@@ -29,26 +59,6 @@
       "source": "매일신문",
       "published": "10-15 10:44",
       "published_iso": "2026-10-15T01:44:59+00:00",
-      "age": "1시간 전"
-    },
-    {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "KODEX 미국나스닥100, 순자산 10조 돌파…국내 동종 ETF 중 최단기간 - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Xc2pfcEdqR3hsMmNzX25kNVFPRE56ckMxTXM2bS1BWkFUSmN0UTZ6NG53cnl5LWVvcWlfQUV0Q1JGSXdRUnp6aTN0c0FSMXNUdVHSAVNBVV95cUxPcnlHdTFJY0RkSnJqV0kzWno3UzEtTUVBN2xNcXUxV2lHYzZNZ3BWZkxSUzZZUk10YUItNnMySGxyOW5yaGtPd1lxNzRsZUVVdTR1TQ?oc=5",
-      "source": "서울경제",
-      "published": "10-15 10:37",
-      "published_iso": "2026-10-15T01:37:30+00:00",
-      "age": "1시간 전"
-    },
-    {
-      "ticker": "458730",
-      "name": "TIGER 미국배당다우존스",
-      "title": "미래에셋 美배당다우존스, 개인 순매수 1.3조…동종 ETF 최대 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pN2hRTk5mYWdFYy1jS21YREc0NU1pRFB3M1ZZaWxfUm13Yk5CZktoenRwNFBjbnFTWlJlVWM5UjFwTDlzcXBYMEJZV3ExNGpXdHRuS05hTDlJR3k1N2t1aNIBYEFVX3lxTE9pN2hRTk5mYWdFYy1jS21YREc0NU1pRFB3M1ZZaWxfUm13Yk5CZktoenRwNFBjbnFTWlJlVWM5UjFwTDlzcXBYMEJZV3ExNGpXdHRuS05hTDlJR3k1N2t1aA?oc=5",
-      "source": "연합뉴스",
-      "published": "10-15 10:14",
-      "published_iso": "2026-10-15T01:14:13+00:00",
       "age": "2시간 전"
     },
     {
@@ -59,7 +69,7 @@
       "source": "연합뉴스",
       "published": "10-15 10:14",
       "published_iso": "2026-10-15T01:14:13+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "368590",
@@ -69,7 +79,7 @@
       "source": "초이스경제",
       "published": "10-15 10:12",
       "published_iso": "2026-10-15T01:12:19+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "489250",
@@ -79,7 +89,7 @@
       "source": "브릿지경제",
       "published": "10-15 10:06",
       "published_iso": "2026-10-15T01:06:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "379810",
@@ -89,7 +99,7 @@
       "source": "뉴스핌",
       "published": "10-15 09:47",
       "published_iso": "2026-10-15T00:47:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "379810",
@@ -99,7 +109,7 @@
       "source": "아시아경제",
       "published": "10-15 09:42",
       "published_iso": "2026-10-15T00:42:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "458730",
@@ -109,7 +119,7 @@
       "source": "뉴스핌",
       "published": "10-15 09:31",
       "published_iso": "2026-10-15T00:31:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "458730",
@@ -119,7 +129,7 @@
       "source": "아시아경제",
       "published": "10-15 09:20",
       "published_iso": "2026-10-15T00:20:08+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "458730",
@@ -129,7 +139,17 @@
       "source": "글로벌이코노믹",
       "published": "10-15 09:14",
       "published_iso": "2026-10-15T00:14:50+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "title": "[미국 특징주`] 바클레이스 \"테슬라-스페이스X 합병 연내 발표 예상\" - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2SGpnV2VJM3BKenR6Q3ZaUkx5NmZtSkVsWm5sanJEOTdyY05EOWFVWGNsYnJRelFGemVuaWZBODB1RTYwMDdlbUY5RFRPeDdIMzNOUWc2dFNOeVZ2?oc=5",
+      "source": "뉴스핌",
+      "published": "10-15 09:02",
+      "published_iso": "2026-10-15T00:02:00+00:00",
+      "age": "4시간 전"
     },
     {
       "ticker": "COST",
@@ -139,7 +159,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "published": "10-15 08:51",
       "published_iso": "2026-10-14T23:51:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "TSM",
@@ -149,17 +169,17 @@
       "source": "재경일보",
       "published": "10-15 07:47",
       "published_iso": "2026-10-14T22:47:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
-      "title": "'극과 극' 서학개미…반도체 3배에 美국채·배당주 몰려 - 아시아경제",
+      "title": "\"반도체 3배에 1조원 넘게 몰렸다\"…그런데 2·3위는 뜻밖의 상품 - 아시아경제",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4ySnBQMHRhaHJtN1NtdVlzSnZhdUdyRERrYmpHaWktWjh2Yk9oYzFuNWg4RFFyQjZRT2Y0d3l1T0E3NzE3MXFxaXhjUkpXNWRGWUhwMGEydXhqTVVIOEtrbEF3?oc=5",
       "source": "아시아경제",
-      "published": "10-15 06:41",
-      "published_iso": "2026-10-14T21:41:00+00:00",
-      "age": "5시간 전"
+      "published": "10-15 07:07",
+      "published_iso": "2026-10-14T22:07:00+00:00",
+      "age": "6시간 전"
     },
     {
       "ticker": "COST",
@@ -169,7 +189,7 @@
       "source": "데이터투자",
       "published": "10-15 05:22",
       "published_iso": "2026-10-14T20:22:36+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "TSM",
@@ -179,7 +199,7 @@
       "source": "TradingKey",
       "published": "10-15 03:16",
       "published_iso": "2026-10-14T18:16:28+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "CAT",
@@ -189,7 +209,7 @@
       "source": "TradingKey",
       "published": "10-15 02:16",
       "published_iso": "2026-10-14T17:16:19+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "SNDK",
@@ -199,17 +219,7 @@
       "source": "TradingKey",
       "published": "10-15 02:16",
       "published_iso": "2026-10-14T17:16:17+00:00",
-      "age": "10시간 전"
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "title": "테슬라, 10월 22일 실적 발표에 주가 5.1% 변동 가능성 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80REx0MkxUZnA1Q00zeDFfUHJScFY5OEM0MUt6eVlCRnBJaGVvb2NYVXJKM0wycGtib2lraW5BWnpHTDRyRDNHRi1XOWtBdllRMTF1ZWlOdFdTWmJZaGxrV1VkWGYwRzRpYlRaeFBnTXNLMmJzNEZB?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-14 23:21",
-      "published_iso": "2026-10-14T14:21:00+00:00",
-      "age": "13시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "AMD",
@@ -219,7 +229,7 @@
       "source": "TradingKey",
       "published": "10-14 23:16",
       "published_iso": "2026-10-14T14:16:06+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "GEV",
@@ -229,7 +239,7 @@
       "source": "TradingKey",
       "published": "10-14 23:16",
       "published_iso": "2026-10-14T14:16:05+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "TSLA",
@@ -239,7 +249,7 @@
       "source": "코인리더스",
       "published": "10-14 20:30",
       "published_iso": "2026-10-14T11:30:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "489250",
@@ -249,7 +259,7 @@
       "source": "매일경제 마켓",
       "published": "10-14 17:40",
       "published_iso": "2026-10-14T08:40:41+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "005930",
@@ -259,16 +269,16 @@
       "source": "매일경제",
       "published": "10-14 14:40",
       "published_iso": "2026-10-14T05:40:03+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "005380",
       "name": "현대자동차",
-      "title": "현대자동차그룹, 학대피해 아동 위한 아이케어 카 i-CARE CAR 기증 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFBxS1Qxa0p3bGdvc21GdEkzWTFXY2RiaWdQbzRWVHhJSjBLRnhXUjQyQlVfWHM3LUVicW5DcndzbmE1QllvaEpOT3BqVEpjTmRoSU1pSlB1UjNZUl9XbzVNeXAxLV96MWU3UEdwTjM3c0xhQkt4Xy1Ra2VtTXlvb2toeFF0RVE0dThDeGV5bFRJaVVnWllFZnZ5bDZXaU1OVVow?oc=5",
+      "title": "현대차·기아 ‘2026 RD 협력사 테크 데이’ | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWFxazcwRWR4bnpFQWY1YlU1UmVIMUxxWVdmamZocm5fQVREWEp3TjV5ZnBkNkk0YWs2VVJ0RUlVeTl6VjNiNWl2NUNaTEpJOHFhSjlrd3dZYnpYR3Z0TWFvR1ZUc1ZGVHFMYmJ2Y2hEVmhfZmZ1NEx2MDhOTzBHaURkX2FPVkxSSkRacUd6MVlTbUw5OHJncg?oc=5",
       "source": "Hyundai Motor Group",
-      "published": "10-14 08:30",
-      "published_iso": "2026-10-13T23:30:00+00:00",
+      "published": "10-14 10:40",
+      "published_iso": "2026-10-14T01:40:00+00:00",
       "age": "1일 전"
     },
     {
@@ -432,6 +442,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "삼성운용, ‘KODEX 미국AI에이전트액티브’ ETF 상장…메타·팔란티어 등 투자 - 팍스경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hbk9hZ1Z3Q3FXZl9CV3dsaktydkV1Y2hheXJSdUxsbkxmT2FXZFpnTlhwd0tDLUJYTDcwM2VyaDc0bEJySjBEbmpPSXRMZkc3VjlzLXRtc1BmTlZYRzhjWm10VmEtekJ0?oc=5",
+      "source": "팍스경제TV",
+      "published": "10-13 13:57",
+      "published_iso": "2026-10-13T04:57:36+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
       "title": "AMD, AI 에이전트 전용 서버 공개…CPU 3만2000개 코어 탑재 - 매일경제",
@@ -449,7 +469,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-13 13:12",
       "published_iso": "2026-10-13T04:12:26+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "487230",
@@ -489,16 +509,6 @@
       "source": "연합인포맥스",
       "published": "10-13 09:23",
       "published_iso": "2026-10-13T00:23:28+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "삼성운용, ‘KODEX 미국AI에이전트액티브’ ETF 상장 - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZSEs3WDVlTzI2ak1Ya3BFUmNKamZtT2NOSi1UdGxKcE94Vk9Cb3JteXlFcjVzWTVucUw5dUQ1SlJPcTRKdFRwemc2MWFTeTJod3fSAVNBVV95cUxNT05XcEV2N1F2b0w5VGNUVlpqUHpBbEJHMm51WmlVaGNyY2RfOElPSWdQYWRZeHZhMnZ3c3k2OW1KbzVhdXRNQWtVZ1FYLUZBVVdmQQ?oc=5",
-      "source": "서울경제",
-      "published": "10-13 09:15",
-      "published_iso": "2026-10-13T00:15:42+00:00",
       "age": "2일 전"
     },
     {
@@ -592,16 +602,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "Alphabet Inc Class C(GOOG) 기술 분석: 지지선, 저항선, 지표 및 이동 평균 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4aWVGMWM3T0hZVldjaEtjaUoxOVVrMmdtRV8zUHVYcS16ekt3UWxBQXZ1a1pfUlplb0hSdG5jbFVxakpfRjd6bkFjNTg2Vmk4WVUzbDllZG1QRkh3UDJxcWlLWjZGaHlmcWtn?oc=5",
-      "source": "TradingKey",
-      "published": "10-12 16:00",
-      "published_iso": "2026-10-12T07:00:00+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "SCHD",
       "name": "Schwab U.S. Dividend Equity ETF",
       "title": "미국 ETF 추천: 초보자도 시작할 수 있는 대표 ETF 5선 - Mitrade",
@@ -639,12 +639,12 @@
       "source": "자본시장뉴스",
       "published": "10-12 13:30",
       "published_iso": "2026-10-12T04:30:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "000660",
       "name": "SK하이닉스",
-      "title": "SK Hynix, RSI 16 극단적 과매도: 매시간 업데이트 - Investing.com 한국어",
+      "title": "SK Hynix, RSI 16 극단적 과매도: 매시간 업데이트 By Investing.com - Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xUnZiNzRuY01iMWZHVW5MRVVuQ2FWV1NuX09iZEZuT0YyZk16S1RqQU13Rnduc1ZRbXFrMFBPUXNDa3ZfZ2RHWFdoQ0szVHlVcmxtNWhGRjNKWG5BS0sxdWx2bG9sVEgzYnE3UkY2RFctb0QwSDNZ?oc=5",
       "source": "Investing.com 한국어",
       "published": "10-12 10:04",
@@ -699,6 +699,16 @@
       "source": "Calgary Roughnecks",
       "published": "10-12 05:43",
       "published_iso": "2026-10-11T20:43:00+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "아이렌, 앤트로픽 클라우드 서비스 계약 체결, 주가 9% 가까이 급등하며 컴퓨팅 섹터 상승 주도 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdFktRElOTDlNTy1YLVhBaWFUVFpUNUJHTkZQd1ZfNjlSeTl2aHRaQlFzZWpOQ3R6a3NRbkNXTVY5Y2czcmpMRTl6RTh6X2FTS1ZWNGQ0aTk0UWluRmN0aW42OEl1V0paX0g1bWs3enJJci1rSTlnVnVNaDIyckJOSjR3UVRLWG5LQ0ZOaDA3NE9pZzByT3ItUUVIX3ZqYlFXRWxHNDUxTQ?oc=5",
+      "source": "TradingKey",
+      "published": "10-11 22:54",
+      "published_iso": "2026-10-11T13:54:00+00:00",
       "age": "3일 전"
     },
     {
@@ -849,7 +859,7 @@
       "source": "비즈워치",
       "published": "10-09 13:00",
       "published_iso": "2026-10-09T04:00:02+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "379780",
@@ -884,16 +894,6 @@
     {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
-      "title": "[ETF머니플로우-10월1주] KODEX 200타겟위클리커버드콜 순매수 1위 탈환…TIGER 미국S&P500 2계단 - 신아일보",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zcE9KSXgtQUlRY2JTV0xMa29uOGhHWlVSdllqTDBsUnpWa1otM1JzWVp1c1BrQVR1UjhvOXdHMm9SZG1hUndrTzE5akN6a2xZVlJzWEhtN29kOURnV1JJNEtMOF9OWmZCMnp2eTY1QjQ?oc=5",
-      "source": "신아일보",
-      "published": "10-09 08:00",
-      "published_iso": "2026-10-08T23:00:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "368590",
-      "name": "RISE 미국나스닥100",
       "title": "[ETF머니플로우-10월1주] KODEX 200타겟위클리커버드콜 순매수 1위 탈환…TIGER 미국S&P500 2계단 - 신아일보",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zcE9KSXgtQUlRY2JTV0xMa29uOGhHWlVSdllqTDBsUnpWa1otM1JzWVp1c1BrQVR1UjhvOXdHMm9SZG1hUndrTzE5akN6a2xZVlJzWEhtN29kOURnV1JJNEtMOF9OWmZCMnp2eTY1QjQ?oc=5",
       "source": "신아일보",
