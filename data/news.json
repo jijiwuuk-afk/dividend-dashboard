@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 18:36 KST",
+  "updated_at": "2026-10-15 19:36 KST",
   "items": [
     {
       "ticker": "458730",
@@ -9,7 +9,17 @@
       "source": "코리아리포트",
       "published": "10-15 18:17",
       "published_iso": "2026-10-15T09:17:10+00:00",
-      "age": "19분 전"
+      "age": "1시간 전"
+    },
+    {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "원/엔 '18년 만에 최저'…엔화 노출 ETF 수익률 줄줄이 마이너스 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WdFRaODZwR0RHY3hvbVBweTBqazMyN3JSWEpjMzdCakk0U2V6RmYyODlNUjVvSXBhMmFWcEpEcWNLTXpqR19ibHpNZXFlODF4eWxUaHM5RU1FbzJzXzRaMnlQOVM4ay1rb0c3bndB0gFuQVVfeXFMT1Z0VFo4NnBHREdjeG9tUHB5MGprMzI3clJYSmMzN0JqSTRTZXpGZjI4OU1SNW9JcGEyYVZwSkRxY0tNempHX2Jsek1lcWU4MXh5bFRoczlFTUVvMnNfNFoyeVA5UzhrLWtvRzdud0E?oc=5",
+      "source": "머니투데이",
+      "published": "10-15 17:07",
+      "published_iso": "2026-10-15T08:07:25+00:00",
+      "age": "2시간 전"
     },
     {
       "ticker": "379810",
@@ -19,7 +29,7 @@
       "source": "www.ebn.co.kr",
       "published": "10-15 16:57",
       "published_iso": "2026-10-15T07:57:35+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "379800",
@@ -29,7 +39,7 @@
       "source": "머니투데이",
       "published": "10-15 16:15",
       "published_iso": "2026-10-15T07:15:45+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "489250",
@@ -39,7 +49,17 @@
       "source": "머니투데이",
       "published": "10-15 16:15",
       "published_iso": "2026-10-15T07:15:45+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
+    },
+    {
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
+      "title": "미래에셋 ‘TIGER 미국배당다우존스 ETF’, 동종 유형 연초 이후 개인 순매수 1위 - 인포스탁데일리",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jV3RMelBKNXZ4dUJfZHZhempaWnhXSXFrZXpYcDFxRDBrRVExY1p2Wkw2RTZZaGFEdWNvMUNtZGxQNW5KOGZxanNCWkxOVzhhZEdQdTFHb0RqRzBPc294bG80ZkdjdGotdkNOQXAxbk9jQ2NlMVE?oc=5",
+      "source": "인포스탁데일리",
+      "published": "10-15 15:58",
+      "published_iso": "2026-10-15T06:58:30+00:00",
+      "age": "3시간 전"
     },
     {
       "ticker": "379780",
@@ -49,7 +69,7 @@
       "source": "PRESS9",
       "published": "10-15 15:05",
       "published_iso": "2026-10-15T06:05:09+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "379810",
@@ -59,7 +79,7 @@
       "source": "머니투데이",
       "published": "10-15 13:44",
       "published_iso": "2026-10-15T04:44:44+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "379800",
@@ -69,7 +89,7 @@
       "source": "뉴스투데이",
       "published": "10-15 11:31",
       "published_iso": "2026-10-15T02:31:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "379810",
@@ -79,7 +99,7 @@
       "source": "전자신문",
       "published": "10-15 11:02",
       "published_iso": "2026-10-15T02:02:02+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "379810",
@@ -89,7 +109,7 @@
       "source": "인더스트리뉴스",
       "published": "10-15 10:59",
       "published_iso": "2026-10-15T01:59:17+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "0072R0",
@@ -99,16 +119,6 @@
       "source": "매일신문",
       "published": "10-15 10:44",
       "published_iso": "2026-10-15T01:44:59+00:00",
-      "age": "7시간 전"
-    },
-    {
-      "ticker": "458730",
-      "name": "TIGER 미국배당다우존스",
-      "title": "미래에셋 美배당다우존스, 개인 순매수 1.3조…동종 ETF 최대 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pN2hRTk5mYWdFYy1jS21YREc0NU1pRFB3M1ZZaWxfUm13Yk5CZktoenRwNFBjbnFTWlJlVWM5UjFwTDlzcXBYMEJZV3ExNGpXdHRuS05hTDlJR3k1N2t1aNIBYEFVX3lxTE9pN2hRTk5mYWdFYy1jS21YREc0NU1pRFB3M1ZZaWxfUm13Yk5CZktoenRwNFBjbnFTWlJlVWM5UjFwTDlzcXBYMEJZV3ExNGpXdHRuS05hTDlJR3k1N2t1aA?oc=5",
-      "source": "연합뉴스",
-      "published": "10-15 10:14",
-      "published_iso": "2026-10-15T01:14:13+00:00",
       "age": "8시간 전"
     },
     {
@@ -119,7 +129,7 @@
       "source": "연합뉴스",
       "published": "10-15 10:14",
       "published_iso": "2026-10-15T01:14:13+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "368590",
@@ -129,7 +139,7 @@
       "source": "초이스경제",
       "published": "10-15 10:12",
       "published_iso": "2026-10-15T01:12:19+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "489250",
@@ -139,7 +149,7 @@
       "source": "브릿지경제",
       "published": "10-15 10:06",
       "published_iso": "2026-10-15T01:06:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "368590",
@@ -149,7 +159,7 @@
       "source": "메트로신문",
       "published": "10-15 09:59",
       "published_iso": "2026-10-15T00:59:18+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "458730",
@@ -159,7 +169,7 @@
       "source": "뉴스핌",
       "published": "10-15 09:31",
       "published_iso": "2026-10-15T00:31:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "458730",
@@ -169,7 +179,17 @@
       "source": "글로벌이코노믹",
       "published": "10-15 09:14",
       "published_iso": "2026-10-15T00:14:50+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "글로벌 회원제 창고형 할인매장의 절대강자, 강력한 멤버십 충성도와 고물가 시대 방어력을 증명하는 - 코스트코(COST) - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ2ctM2lfdDVYaUozVHUyQ0JoUWJKRHlZenlNMEtkRkdiUkY5ZVBfQU1tejQ3R3RtQm9aZFZlRGVOQTNFSnlkeDVtcllpNXNpVldYOE5rQWlZdWxiczJGR3ZUZE5mZlRmaTBfak45V29pcUkybmljRGtTV01RSkJENEVFaXM5QQ?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "10-15 08:51",
+      "published_iso": "2026-10-14T23:51:00+00:00",
+      "age": "10시간 전"
     },
     {
       "ticker": "TSM",
@@ -179,7 +199,7 @@
       "source": "재경일보",
       "published": "10-15 07:47",
       "published_iso": "2026-10-14T22:47:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "QQQM",
@@ -189,7 +209,7 @@
       "source": "아시아경제",
       "published": "10-15 07:07",
       "published_iso": "2026-10-14T22:07:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "COST",
@@ -199,7 +219,7 @@
       "source": "데이터투자",
       "published": "10-15 05:22",
       "published_iso": "2026-10-14T20:22:36+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "TSM",
@@ -209,7 +229,17 @@
       "source": "TradingKey",
       "published": "10-15 03:16",
       "published_iso": "2026-10-14T18:16:28+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "브로드컴 (AVGO) 주식 움직였습니다 하락 3.22%에 10월14일: 투자자가 알아야 할 정보 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnV4RF8yVUp0N09ud1hxOGNvQ2MyZGtpOWN4SjlieWFWNF9jX2xFX0h1dV9ITXZfV21lT0pOeWQzVVBiMzRiNjNmeVJucndnNXdycXZBUFN4OEI0MmhqSS1OemxJMmhJaENQa1dLYkNiRElJS2psdE9JMS05UnUwQkl3ZEUyUHZtUWxsZWk1dw?oc=5",
+      "source": "TradingKey",
+      "published": "10-15 03:16",
+      "published_iso": "2026-10-14T18:16:22+00:00",
+      "age": "16시간 전"
     },
     {
       "ticker": "CAT",
@@ -219,7 +249,7 @@
       "source": "TradingKey",
       "published": "10-15 02:16",
       "published_iso": "2026-10-14T17:16:19+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "SNDK",
@@ -229,17 +259,7 @@
       "source": "TradingKey",
       "published": "10-15 02:16",
       "published_iso": "2026-10-14T17:16:17+00:00",
-      "age": "16시간 전"
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "Costco 주간 주가 전망: 최근 상승세 유지, 좁은 거래 범위로 추가 상승 제한 - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRHBKN2tERTRSd0x6M0ozMmZENV81eDNlSjVXMU9kSVNnUnJiaVBhbnRlb0JKZ2RvWjB4c3JFaWc0YlluTDZJMlNIWTVUWkktTFU2REdXclZfTXBPaFNkcXZ5eXNOLTRWZF80a3piTWxVaGFuN0VvYmluZTFybHNZWk9KNlRFMzNiaWpFRi0wMFJzdw?oc=5",
-      "source": "Traders Union",
-      "published": "10-14 23:25",
-      "published_iso": "2026-10-14T14:25:03+00:00",
-      "age": "19시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "TSLA",
@@ -249,7 +269,7 @@
       "source": "Investing.com 한국어",
       "published": "10-14 23:21",
       "published_iso": "2026-10-14T14:21:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "AMD",
@@ -259,7 +279,7 @@
       "source": "TradingKey",
       "published": "10-14 23:16",
       "published_iso": "2026-10-14T14:16:06+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "GEV",
@@ -269,7 +289,7 @@
       "source": "TradingKey",
       "published": "10-14 23:16",
       "published_iso": "2026-10-14T14:16:05+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "TSLA",
@@ -279,7 +299,7 @@
       "source": "코인리더스",
       "published": "10-14 20:30",
       "published_iso": "2026-10-14T11:30:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "005930",
@@ -309,16 +329,6 @@
       "source": "Simply Wall Street",
       "published": "10-14 06:14",
       "published_iso": "2026-10-13T21:14:27+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "Hyundai Motor Chairman Chung Marks Six Years as Tesla Gains Ground in South Korea - 알파경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FdXpMTVdCZUdJTlB4MklHbEhIWjZFNW9xcERRZ2RwbVBWZ2gwUE9PRllTZjJsZW9IVDNMM3h3Umx3bGl3NlllWEY4LUhDZkZ6M09uOFQwbVhkeWNwTktmUnBROURZY0VmY29BQmNB?oc=5",
-      "source": "알파경제",
-      "published": "10-14 06:00",
-      "published_iso": "2026-10-13T21:00:00+00:00",
       "age": "1일 전"
     },
     {
@@ -389,7 +399,7 @@
       "source": "Simply Wall Street",
       "published": "10-13 18:36",
       "published_iso": "2026-10-13T09:36:55+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "AVGO",
@@ -512,16 +522,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "삼성운용, KODEX 미국AI에이전트액티브 13일 상장 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TQmR1MkJKS0FLb2lCQkhibnVxOGxrWmJZWlFRTmJpTGxuMjhlWlJzV1laRXRRbmVmdXRORUZubzlRY2JidFhWb3NhZ0JzbUVLNU5zbDlwWGE2OU1MbHEwbWVVNGVBNmJyM0V1MGtR0gFuQVVfeXFMTlNCZHUyQkpLQUtvaUJCSGJudXE4bGtaYllaUVFOYmlMbG4yOGVaUnNXWVpFdFFuZWZ1dE5FRm5vOVFjYmJ0WFZvc2FnQnNtRUs1TnNsOXBYYTY5TUxscTBtZVU0ZUE2YnIzRXUwa1E?oc=5",
-      "source": "머니투데이",
-      "published": "10-13 09:25",
-      "published_iso": "2026-10-13T00:25:25+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
       "title": "샌디스크, 美 강세장 최대 수혜주 부상…상장 후 3,000% 폭등 - 연합인포맥스",
@@ -532,13 +532,23 @@
       "age": "2일 전"
     },
     {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "[표] KB자산운용 RISE 월중 배당 ETF 10월 분배금 내역 - 스마트투데이",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tNVlueEpmaEI4ZEM3X1RjNTEzbXIyNnBRTDhzajFaU1RWTnpJUDhidExyWW9Nd2haLWlRVERUeG82eW4tX01Vd1pEdFp4cWpMcnNxaUtkYzkxcTRvdzJj?oc=5",
-      "source": "스마트투데이",
-      "published": "10-13 08:15",
-      "published_iso": "2026-10-12T23:15:00+00:00",
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "삼성운용, ‘KODEX 미국AI에이전트액티브’ ETF 상장 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZSEs3WDVlTzI2ak1Ya3BFUmNKamZtT2NOSi1UdGxKcE94Vk9Cb3JteXlFcjVzWTVucUw5dUQ1SlJPcTRKdFRwemc2MWFTeTJod3fSAVNBVV95cUxNT05XcEV2N1F2b0w5VGNUVlpqUHpBbEJHMm51WmlVaGNyY2RfOElPSWdQYWRZeHZhMnZ3c3k2OW1KbzVhdXRNQWtVZ1FYLUZBVVdmQQ?oc=5",
+      "source": "서울경제",
+      "published": "10-13 09:15",
+      "published_iso": "2026-10-13T00:15:42+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "Shinhan Securities Cuts Hyundai Motor Price Target by 19% to KRW 630,000, Maintains Buy Rating - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UOGU3TFFOUURKd0s4MllDalhIdWprSDRGR2dhRV9wY09yTE0zSnAtOVBCdU0zeFZSVkVYNTdMVFVoQndoZVE1QTA1S2lPNEdkaU9TUE8zU1Rtbmh2dHJpd1ZCeG1fYWsyRnBIVzNB?oc=5",
+      "source": "알파경제",
+      "published": "10-13 05:46",
+      "published_iso": "2026-10-12T20:46:11+00:00",
       "age": "2일 전"
     },
     {
@@ -989,16 +999,6 @@
       "source": "TIKR.com",
       "published": "10-09 05:37",
       "published_iso": "2026-10-08T20:37:30+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "NVIDIA Corp (NVDA) 주식 움직였습니다 하락 3.06%에 10월8일: 어떤 신호인가요? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0U4RVh5cGZrR01MRUlraVk4RFRGby1fSm5Hc1g5OXE4eEJZZHlySGNDTFJ4elJWSEhxS044YkRVTWl4N1pkcXNjUjRObGtBb2QzZTFyd0d4OW5pTVBfLUkyNHFkM1ZzOGNHVVdYN0laS2FsaUlzVW9peUhPZEVrVXVjcm5wRm9GUUJQeVRhTQ?oc=5",
-      "source": "TradingKey",
-      "published": "10-09 04:16",
-      "published_iso": "2026-10-08T19:16:18+00:00",
       "age": "6일 전"
     }
   ]
