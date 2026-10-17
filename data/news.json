@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-17 14:30 KST",
+  "updated_at": "2026-10-17 15:37 KST",
   "items": [
+    {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "[금융가 이모저모] TIME 지나간 자리에 KODEX…돌아온 '미국배당액티브' - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHeTBKTjFiaFZ1bW5SdUFfSFNpWVF0YjM4NDBYT0IyUFFRNXhwUF96NzVNMFNEcGdQUE1LM3hWRElGSDFWMU1iSTVhcEU4dlFCdEJMUHZhYTRUbTM2UDlzaUpwOWlXc0VJT2c3bjV1UHlkZw?oc=5",
+      "source": "KB Think",
+      "published": "10-17 15:27",
+      "published_iso": "2026-10-17T06:27:23+00:00",
+      "age": "9분 전"
+    },
     {
       "ticker": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
@@ -9,7 +19,7 @@
       "source": "Naver Blog",
       "published": "10-17 10:19",
       "published_iso": "2026-10-17T01:19:06+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "JEPI",
@@ -19,7 +29,7 @@
       "source": "뉴스핌",
       "published": "10-17 08:01",
       "published_iso": "2026-10-16T23:01:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "JEPQ",
@@ -29,7 +39,7 @@
       "source": "뉴스핌",
       "published": "10-17 08:01",
       "published_iso": "2026-10-16T23:01:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "379800",
@@ -39,7 +49,7 @@
       "source": "신아일보",
       "published": "10-17 08:00",
       "published_iso": "2026-10-16T23:00:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "GEV",
@@ -49,7 +59,7 @@
       "source": "TIKR.com",
       "published": "10-17 06:06",
       "published_iso": "2026-10-16T21:06:36+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "ZETA",
@@ -59,7 +69,7 @@
       "source": "데이터투자",
       "published": "10-17 06:02",
       "published_iso": "2026-10-16T21:02:41+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "COST",
@@ -69,7 +79,7 @@
       "source": "데이터투자",
       "published": "10-17 05:56",
       "published_iso": "2026-10-16T20:56:22+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "VOO",
@@ -79,7 +89,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-17 03:58",
       "published_iso": "2026-10-16T18:58:23+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "SCHD",
@@ -89,7 +99,7 @@
       "source": "www.icaremn.com",
       "published": "10-17 01:28",
       "published_iso": "2026-10-16T16:28:50+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "AMD",
@@ -99,7 +109,7 @@
       "source": "TradingKey",
       "published": "10-17 00:16",
       "published_iso": "2026-10-16T15:16:08+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "COST",
@@ -109,7 +119,17 @@
       "source": "코인리더스",
       "published": "10-16 23:00",
       "published_iso": "2026-10-16T14:00:00+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
+    },
+    {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "Truist, Zeta Global 매수 의견 유지…목표주가 38달러 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Sa3dYSWtXRlhRQ2pTVDFlblQwU3hFNDFKTWxzNG1PQzA0aFBJaDRWVUY2Y2pjcmlyTURXRmljN3ZQZElhUjd4NzhOa1lPLV83MnFoZEMzN3FJcmxuYVZ5S2RxSXFEWFhOZWljdHNBREtlOWZY?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-16 22:53",
+      "published_iso": "2026-10-16T13:53:00+00:00",
+      "age": "16시간 전"
     },
     {
       "ticker": "SCHD",
@@ -119,27 +139,7 @@
       "source": "EBC Financial Group",
       "published": "10-16 22:38",
       "published_iso": "2026-10-16T13:38:00+00:00",
-      "age": "15시간 전"
-    },
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "골드만삭스, Zeta 매수 상향·Klaviyo 중립 하향 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSDVBT1BFREFULWpkOVVKamd4Vlo1ekswSFZQdV9NRnJ1bDljWGRLWnVtanZ3dHNWbmtPRTNSMWozLTU1ZzVFN3VZb2xZZHpEX1dmMTlSNVdXU0ZfWHQ2UU5LYzV2RU5qZzVtU2lzZlU?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-16 22:16",
-      "published_iso": "2026-10-16T13:16:00+00:00",
       "age": "16시간 전"
-    },
-    {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "기본 설명이 충분한지 따져보는 미니 슬롯머신 저금통 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOeDd6dmstU0dYbll0MVhucmFYbWIzUHFiRkVWU2VranhvOFN5QXhQRXRzdXZUZHVGLXBrdnZENG50R3RhY0l5OG5kYUNseHRQMTlIRmNTeWtQcTNZWFBERjFxamdSdWVFSS1lQ0dzcDZTSHV2cUZLdlJ3TFI4bjRRMDB0d3dOa0FwQ2RVZUpVT1BSU2t4cXZJS1M3a2ZkR2pDcU01NUlZUXotZm90WDdLYi1IUmRtSHVKOHJwQVhSZldxN3lLTF9Kd1BGNURuMmhxUV9oTkZHODJiZE1KejFUZkVxUG9Fd0xTQkRpbXJCSk1PSm9VZ0k4QmJlYnRMcVJMMEd5cDhqbHBTUUJpa1EzT3JNdlNLZm1pd09sVHBRS2R3UQ?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-16 21:04",
-      "published_iso": "2026-10-16T12:04:26+00:00",
-      "age": "17시간 전"
     },
     {
       "ticker": "368590",
@@ -149,7 +149,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-16 21:04",
       "published_iso": "2026-10-16T12:04:26+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "ZETA",
@@ -159,7 +159,7 @@
       "source": "Investing.com 한국어",
       "published": "10-16 20:07",
       "published_iso": "2026-10-16T11:07:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "0072R0",
@@ -169,17 +169,17 @@
       "source": "화이트페이퍼",
       "published": "10-16 19:42",
       "published_iso": "2026-10-16T10:42:37+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "[ETF 언박싱] 삼성운용, 미국배당다우존스 라인업 확대…액티브로 차별화 - 딜사이트",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvbVc3MEtSZGgxUjVpSFhtdHZ2ZUxlV3A5M0VmdjdjY1lIOHZuc0ZhY3QxcGZrUjRVeTRYb25sY25sN2NzQkVvMWdkUW5YdmM?oc=5",
-      "source": "딜사이트",
-      "published": "10-16 17:08",
-      "published_iso": "2026-10-16T08:08:48+00:00",
-      "age": "21시간 전"
+      "ticker": "368590",
+      "name": "RISE 미국나스닥100",
+      "title": "매달 현금이 따박따박…‘변동장 피난처’ 떠오른 커버드콜 ETF [S머니+] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZ3Jxa3IyR2JFSGhWbnZHdlE0WGMxamo3OHBPRl9UQ3JPdjJsQmlZT3RuV1RfQm5rdEZyMFpMbFVndzlTaV8zVDJJMHZiY1hySkHSAVNBVV95cUxOUTFSeXVUdUpTVDQ2akVhY0FmTERGR3E3VGdwSWlzeThwMl9TNjJIN1V3TTMzSTV2b180Q1hCMFNscnBEVDFxS2haYi1lV283bURvQQ?oc=5",
+      "source": "서울경제",
+      "published": "10-16 17:25",
+      "published_iso": "2026-10-16T08:25:36+00:00",
+      "age": "22시간 전"
     },
     {
       "ticker": "VOO",
@@ -189,7 +189,7 @@
       "source": "뉴스핌",
       "published": "10-16 16:19",
       "published_iso": "2026-10-16T07:19:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "TSM",
@@ -199,7 +199,7 @@
       "source": "Investing.com 한국어",
       "published": "10-16 16:07",
       "published_iso": "2026-10-16T07:07:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "489250",
@@ -209,6 +209,16 @@
       "source": "뉴스투데이",
       "published": "10-16 11:08",
       "published_iso": "2026-10-16T02:08:00+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
+      "title": "[운용 & Now] KODEX 미국나스닥100, 순자산 10조원 돌파 등 By EBN - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4SGM3b2dTRm1mN3FOUzNiZWRFUUk3djhtY1hmaFdQelJvVVRCalExRmxUT29Wc0M4NkxGWHlrQ0F1MDV1cnFaSFZiMkFHTTZKeXdPeG9fa1BqaVY2YTNfTmVheEI4cTF3MkNxQncyc0E?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-16 07:40",
+      "published_iso": "2026-10-15T22:40:00+00:00",
       "age": "1일 전"
     },
     {
@@ -322,16 +332,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "[운용 & Now] KODEX 미국나스닥100, 순자산 10조원 돌파 등 - www.ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oMkFremwxUmpoSUk3ZG5OcFpJY2tSdmtTS2FhbmwtQnQtdWJBOTBBTFdITEtsVWxzZDJIOXJLVVNHd2ZtS3Fubkk5RGo3cl9mR0tXekZSNldUeEV2V252dk1aWHR1VDN0?oc=5",
-      "source": "www.ebn.co.kr",
-      "published": "10-15 16:57",
-      "published_iso": "2026-10-15T07:57:35+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
       "title": "'25%p 초과성과' 비결은 액티브? SCHD액티브로 이어지나 - 머니투데이 - 머니투데이",
@@ -369,7 +369,7 @@
       "source": "PRESS9",
       "published": "10-15 15:05",
       "published_iso": "2026-10-15T06:05:09+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "379810",
@@ -422,16 +422,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "KODEX 미국나스닥100, 순자산 10조원 돌파…상장 ETF 중 최단기 - 인더스트리뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xZGdHZnZYaFBUbEZDQjl6V2ZvNTIwQ3dUeXZMZ21Hc25FTnZOMTJqMm50U0Uxak4waTZJOGhnRnJjSXJyRmNoeFZlRUROSlZKaUhtc1B6WFRkTGRITUdicm5TSHpRczJKbGRDNzVMbGx2Zw?oc=5",
-      "source": "인더스트리뉴스",
-      "published": "10-15 10:59",
-      "published_iso": "2026-10-15T01:59:17+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "고점서 26%나 하락한 금값…금 ETF 수익률도 `뚝` - 매일신문",
@@ -462,13 +452,23 @@
       "age": "2일 전"
     },
     {
-      "ticker": "368590",
-      "name": "RISE 미국나스닥100",
-      "title": "삼성운용 ‘KODEX 미국나스닥100’, 순자산 10조원 돌파 - 메트로신문",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95NUUxM2xDZ3BGa1JXbjRnaV9PdzVJY2NjQUVzblFONWxPMk5lOE9TWEFwQldKck5COTdTd0M0c1o1LWpvYmhRUEptRjhWUnNBLWhScFFYV0dOejFBY2l4bg?oc=5",
-      "source": "메트로신문",
-      "published": "10-15 09:59",
-      "published_iso": "2026-10-15T00:59:18+00:00",
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "왜 샌디스크(SNDK)는 메모리 경쟁 우려로 다시 주목받고 있나? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRy1URzM0NDhPcHJoUjhBUzBuQkU4TVBGdWdTT0t1cXA0TktydExTeXVmdk9aNG9pVnc5VEJjVEZCb0l0RUw4d200d0xNU2lhQTg3SEFtRG1ScTB1eDEtalExeWRZSDZLOW5SZEVZOHdVNk5oeUNUMDJRVE42cHM3Z3dlZVpZSGx6aDItcXR30gGOAUFVX3lxTE1HLVRHMzQ0OE9wcmhSOEFTMG5CRThNUEZ1Z1NPS3VxcDROS3J0TFN5dWZ2T1o0b2lWdzlUQmNURkJvSXRFTDh3bTR3TE1TaWFBODdIQW1EbVJxMHV4MS1qUTF5ZFlINks5blJkRVk4d1U2Tmh5Q1QwMlFUTjZwczdnd2VlWllIbHpoMi1xdHc?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-15 09:45",
+      "published_iso": "2026-10-15T00:45:11+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
+      "title": "삼성운용 'KODEX 미국나스닥100', 순자산 10조 돌파 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDU1pKM2NJZDJPeTFoYUYxa2duS242TGYxSkZlZWg0MDhWYTN0SUhHNVNicVVTRG1Yc3RPOGFicU5PN3hxcllhcDRaMW9WM2VzUmlqUm10dGJqT3ZjUUEyVWVn?oc=5",
+      "source": "아시아경제",
+      "published": "10-15 09:42",
+      "published_iso": "2026-10-15T00:42:42+00:00",
       "age": "2일 전"
     },
     {
@@ -744,22 +744,12 @@
     {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
-      "title": "샌디스크(SNDK) 주가, 1년간의 급등세 이후 과대평가되었을 가능성 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUN5amh0WWpaVlZDT3JlNnJMWEttaE9DYTM1SlYwWnNMNDVxaEY1dTlIbDFMN1VVNUt2eHdsTVlCQ2s5eGlZbThhMW0yc3pvY0NrYXg3emlDSHA3ZDNFamFKazFBem41d1dFenJQckZtSFFwcGFVOWxtN2xaZl81TDk2SGNzWDNXLUJEQnJ30gGOAUFVX3lxTFA5Q3lqaHRZalpWVkNPcmU2ckxYS21oT0NhMzVKVjBac0w0NXFoRjV1OUhsMUw3VVU1S3Z4d2xNWUJDazl4aVltOGExbTJzem9jQ2theDd6aUNIcDdkM0VqYUprMUF6bjV3V0V6clByRm1IUXBwYVU5bG03bFpmXzVMOTZIY3NYM1ctQkRCcnc?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-13 16:00",
-      "published_iso": "2026-10-13T07:00:31+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
       "title": "토큰화된 SanDisk 베팅이 아시아 반도체 시장 폭락으로 8억 달러가 사라지면서 XRP보다 더 많은 청산을 기록했다 - CoinDesk",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc012SXZnT0xoR3NmS1haRkNxeE9lSWkyUmJfVVZZOFF3XzFHQ0VibTdCVHlZeEx6cVM5TDhOZW5UbzIyNjlURV8wanF1QWgtRWpTYjl3U3ZTSDh3SmNPRmpBZWx2Wi1Ub1FNOHEzUVdPRUNJQVdjdUZtZmg4cjFudGZyQ0dmanBXV2stdFZoSE5KU21XSm5fWVgyM2l0WnM2Z1RmLUhPQUZFb0V4ZV9TYWh1cnFXMUtmUnVuVEtNenRUU2gwWnp3R0xSR1cxTS1kRFptNzQ2TjMzaHZsS1E?oc=5",
       "source": "CoinDesk",
       "published": "10-13 15:03",
       "published_iso": "2026-10-13T06:03:08+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "AMD",
@@ -809,6 +799,16 @@
       "source": "머니투데이",
       "published": "10-13 09:25",
       "published_iso": "2026-10-13T00:25:25+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "'TIGER 미국S&P500타겟데일리커버드콜' ETF, 10월 분배금 115원 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rV3RwZ0F3bC1BUEc3emIyNTNQY3hTVm11YllFYnlPamNYZDZWRmxPSHNyc2hiZ1RzbWdwZWFlQ2xVcXY1TWV4NUZFanRING5VX0wydk40QWNmWFVxUHBDSA?oc=5",
+      "source": "아시아경제",
+      "published": "10-13 09:23",
+      "published_iso": "2026-10-13T00:23:03+00:00",
       "age": "4일 전"
     },
     {
@@ -902,6 +902,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "미국 ETF 추천: 초보자도 시작할 수 있는 대표 ETF 5선 - Mitrade",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04NGphTUZMZ0VPa0tzb29SQ0w4dHh0RU0tTVc5VEsyMFVXSE5OQnZ4T3kwUXJnTng5N0ZHM1A4YUZXMFNHbEhMa2lEcl9HLW82RGdGOHVIdzBYV1h3UnYxU3ZvYlp5cTBFLWNINzNVZkR2dw?oc=5",
+      "source": "Mitrade",
+      "published": "10-12 16:00",
+      "published_iso": "2026-10-12T07:00:00+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "SCHD",
       "name": "Schwab U.S. Dividend Equity ETF",
       "title": "미국 ETF 추천: 초보자도 시작할 수 있는 대표 ETF 5선 - Mitrade",
@@ -929,7 +939,7 @@
       "source": "Aju Press",
       "published": "10-12 14:32",
       "published_iso": "2026-10-12T05:32:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "ZETA",
@@ -989,16 +999,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-12 05:43",
       "published_iso": "2026-10-11T20:43:00+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "QQQM",
-      "name": "Invesco NASDAQ 100 ETF",
-      "title": "규칙을 읽다가 막히는 부분, 바카라 검증 업체 용어 풀이 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZFExbXhoNk5wbTdCZWI2OHJmOXpfWDJKeGh1ZGUyT2cxeVItSHFlRWdERmdLaDdqc3pNbzhkWE9WZkk4QWFDZURBQlVPdlJGQ2tleFItMW5TUS1tclgwbW5ON1VRRnVzMGZHS1BIb1hvWXA2VC1SOTd1bU5WLUQwd21GRjEyaXpEU1JrMUpqdTFSb3JPcXBFQkhPSWoxc3owQXNRV0hQdWlLLVE4d1pxaHIxNnY1TnJOOERR?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-12 05:21",
-      "published_iso": "2026-10-11T20:21:21+00:00",
       "age": "5일 전"
     }
   ]
