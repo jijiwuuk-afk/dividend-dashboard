@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 04:27 KST",
+  "updated_at": "2026-10-18 05:30 KST",
   "items": [
     {
       "ticker": "489250",
@@ -9,17 +9,7 @@
       "source": "KB Think",
       "published": "10-17 15:27",
       "published_iso": "2026-10-17T06:27:23+00:00",
-      "age": "13시간 전"
-    },
-    {
-      "ticker": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
-      "title": "TSMC 사상 최대 실적…K반도체에 ‘수요 신호’ - 블로그",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtcHFQQy1IbnJmRkU1MFpQcl9xNy1jbDdmTkJ3TTdPaER6dUlZU0daSmFfb3MyVTRSUWp3UTV5c0lzVk4xM1lTUExCVTB3anpVZ3ZkcTd1cC1SUQ?oc=5",
-      "source": "블로그",
-      "published": "10-17 15:15",
-      "published_iso": "2026-10-17T06:15:53+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "GEV",
@@ -29,7 +19,17 @@
       "source": "TIKR.com",
       "published": "10-17 13:52",
       "published_iso": "2026-10-17T04:52:30+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "TSMC 사상 최대 실적…K반도체에 ‘수요 신호’ - 블로그",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzTTluaTdQWExLNUExNDhxT1VEVk1vVVkwLUlaUTRUN09YaTd2djJhb25hNnR1SWdhcWNhSGJ3c2s5WFN6TTBncEE2N1B2a1R1enFNcGE5NXd1bjBBVWxLNXQ3R1pFQXBzT0o1OC1jUFdVaWJqdUowN093RWt4S2M?oc=5",
+      "source": "블로그",
+      "published": "10-17 11:15",
+      "published_iso": "2026-10-17T02:15:53+00:00",
+      "age": "18시간 전"
     },
     {
       "ticker": "JEPI",
@@ -39,7 +39,7 @@
       "source": "뉴스핌",
       "published": "10-17 08:01",
       "published_iso": "2026-10-16T23:01:00+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "JEPQ",
@@ -49,7 +49,7 @@
       "source": "뉴스핌",
       "published": "10-17 08:01",
       "published_iso": "2026-10-16T23:01:00+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "379800",
@@ -59,7 +59,7 @@
       "source": "신아일보",
       "published": "10-17 08:00",
       "published_iso": "2026-10-16T23:00:00+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "ZETA",
@@ -69,7 +69,7 @@
       "source": "데이터투자",
       "published": "10-17 06:02",
       "published_iso": "2026-10-16T21:02:41+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "VOO",
@@ -249,7 +249,7 @@
       "source": "데이터투자",
       "published": "10-16 04:35",
       "published_iso": "2026-10-15T19:35:12+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "CAT",
@@ -395,10 +395,10 @@
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
       "title": "삼성운용, 美 대표지수 ETF 나란히 10조…'KODEX 나스닥100'도 합류 - 뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Nd1p4Rzdxa0Z4VlV4bmpDMVRVU1BKRExUaXdQNE4tdEExMlNFUWFobjBMYlJqcnlHNjVXa3JUN25OdVNURmV3Z2pJSEliV1Zfczl3WlgwT1E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KcWR4ZGJ4VHUzT1oxUGVqLXhKNjR1aTMwZVA5Rk1fNUI3eGFhNm5kN2s2WFlmYTdFTERGMjVNck52OHhXdHNQNHo5TlJBVFVzdlMtX3liZWVuTHEzdWc?oc=5",
       "source": "뉴스투데이",
-      "published": "10-15 11:30",
-      "published_iso": "2026-10-15T02:30:41+00:00",
+      "published": "10-15 11:31",
+      "published_iso": "2026-10-15T02:31:00+00:00",
       "age": "2일 전"
     },
     {
@@ -482,6 +482,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "알파벳 C(구글)(GOOG) 미국 주식 주가·차트·기업정보 - 주달",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12WndqdERtMWJuanRVSWxpVF82VF9ZNkRETDA5R3lGRmMyd1ZLMzF3MlRlZmJDbjI1T1ZGRzVsT3hjSmFNNVQ1aVRNWF83SUFtLXNVQXJ3?oc=5",
+      "source": "주달",
+      "published": "10-15 07:40",
+      "published_iso": "2026-10-14T22:40:00+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
       "title": "\"반도체 3배에 1조원 넘게 몰렸다\"…그런데 2·3위는 뜻밖의 상품 - 아시아경제",
@@ -499,7 +509,7 @@
       "source": "데이터투자",
       "published": "10-15 05:22",
       "published_iso": "2026-10-14T20:22:36+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "TSM",
@@ -539,16 +549,6 @@
       "source": "TradingKey",
       "published": "10-15 02:16",
       "published_iso": "2026-10-14T17:16:19+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "사기 혐의가 Alphabet 주가를 압박하는 가운데 매수세는 단기 지지선 방어 - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTN4UldOVlpHUlo1Y2h2STk2RzNvcDR3a0JNNjhjNzFPWXZUTVF5cjJHNm5ZVG84dFViQkFyYWp3SWpuMVZIaXVTbGpMbjlCZkRuWG95bmlZeC1QQVpWS3gtcEhPY01CNmhLbDJadkVuVk0wYllxZE5qc2ViZjlod1M1NmFsN0VfOE5taEhBdzBQOEU0dzFPSg?oc=5",
-      "source": "Traders Union",
-      "published": "10-15 01:26",
-      "published_iso": "2026-10-14T16:26:01+00:00",
       "age": "3일 전"
     },
     {
@@ -642,16 +642,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "005930",
-      "name": "삼성전자",
-      "title": "Samsung Electronics, SK hynix rebound after sharp sell-off - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zdEp0YmxJT05iOTMzYVpZVHhZemRoLUdvWXZWWldScjhCOGg2WHdQMTdvMzNfWmFLSzBuUEtYZWhUVWN2R3FFSVRJT2hkYjBzOUZB?oc=5",
-      "source": "매일경제",
-      "published": "10-14 14:40",
-      "published_iso": "2026-10-14T05:40:03+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "005380",
       "name": "현대자동차",
       "title": "현대차·기아 ‘2026 RD 협력사 테크 데이’ | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
@@ -659,6 +649,16 @@
       "source": "Hyundai Motor Group",
       "published": "10-14 10:40",
       "published_iso": "2026-10-14T01:40:00+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "코스트코 홀세일(COST) 9월 매출 급증과 디지털 성장, 프리미엄 거래는 정당화될까? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbk5qTkJ0YkNVb2pjcXFYc0ZzTXh2dmdlclR0TGFIYUREMUJjZllfNV9NdmlCVVFvT2ZUaDgwWkd2QTYtOHVPLTRLLUFydV9RVVdYa2RES2ZpTkxBR1VneFo4b3dDVWtrdk9FUzJORmJtelVkcW83SlFZUXJGRmZhR1d3YjNMZUVUREQzeF9vTDlqY21fTGNiUkx6ampWcEVJZ09CSlh6cG44SE4y0gGsAUFVX3lxTFBuTmpOQnRiQ1VvamNxcVhzRnNNeHZ2Z2VyVHRMYUhhREQxQmNmWV81X012aUJVUW9PZlRoODBaR3ZBNi04dU8tNEstQXJ1X1FVV1hrZERLZmlOTEFHVWd4Wjhvd0NVa2t2T0VTMk5GYm16VWRxbzdKUVlRckZGZmFHV3diM0xlRVRERDN4X29MOWpjbV9MY2JSTHpqalZwRUlnT0JKWHpwbjhITjI?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-14 08:45",
+      "published_iso": "2026-10-13T23:45:33+00:00",
       "age": "3일 전"
     },
     {
@@ -699,7 +699,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-14 05:25",
       "published_iso": "2026-10-13T20:25:36+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "NVDA",
@@ -709,7 +709,7 @@
       "source": "코인리더스",
       "published": "10-14 04:30",
       "published_iso": "2026-10-13T19:30:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "000660",
@@ -879,7 +879,7 @@
       "source": "TIKR.com",
       "published": "10-13 04:46",
       "published_iso": "2026-10-12T19:46:54+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "AMD",
@@ -909,16 +909,6 @@
       "source": "Traders Union",
       "published": "10-12 23:02",
       "published_iso": "2026-10-12T14:02:42+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "9월 매출 호조가 코스트코(COST) 투자자들에게 어떤 조치를 요구할까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPanZqRktOWlJZUUlRUzRWRk1mYnJnVWxObFA1SHYyN0o3N1pwdUNJUWY5QjdmM0NLYk4yU3dZdV81bmtvVHNCV1JjWVN1MGlGZFhySHpyT1RQVlZmMXd1dTR6bkNGQWJzclplQ2dIVlRtSUo1R0xwanV5XzRGOXhwSklRWEVpeHR0cHhLQ3lDbFgwRlZkUDdQeEptdHZjZ3gxbzI3cjB5c0piX2Z30gGsAUFVX3lxTE9qdmpGS05aUllRSVFTNFZGTWZicmdVbE5sUDVIdjI3Sjc3WnB1Q0lRZjlCN2YzQ0tiTjJTd1l1XzVua29Uc0JXUmNZU3UwaUZkWHJIenJPVFBWVmYxd3V1NHpuQ0ZBYnNyWmVDZ0hWVG1JSjVHTHBqdXlfNEY5eHBKSVFYRWl4dHRweEtDeUNsWDBGVmRQN1B4Sm10dmNneDFvMjdyMHlzSmJfZnc?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-12 18:13",
-      "published_iso": "2026-10-12T09:13:35+00:00",
       "age": "5일 전"
     },
     {
@@ -959,6 +949,16 @@
       "source": "Mitrade",
       "published": "10-12 16:00",
       "published_iso": "2026-10-12T07:00:00+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "Samsung Life Insurance Anticipates Major Dividend from Samsung Electronics - Aju Press",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KQmlfOWRFYWlrOU1VQlRyWnFtYUo0YjBoZmx6bmtQeTg4dFpxWDBxc0ZNX1FIRF9nWEh4VDU0WTdTNU8xYzlsQWZsak1fOGtyb3V6SlFlQUJYVkE?oc=5",
+      "source": "Aju Press",
+      "published": "10-12 14:32",
+      "published_iso": "2026-10-12T05:32:00+00:00",
       "age": "5일 전"
     },
     {
