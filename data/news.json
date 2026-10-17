@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-17 21:35 KST",
+  "updated_at": "2026-10-17 22:31 KST",
   "items": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "세계 최고 분기 영업이익 기업은? 삼성전자가 Nvidia 앞질러 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51UTJVNnlDU19xVFFSTUhOYlFnWmVaZDBkb09ZTVh5WEZMWWxBZWRweWJHS3VLdkxlUUtoZ1J5SWV6U2llMm1fcnR6azUzd1lTMkdnV2F0ckJtRm95bFNCaWIyT053NzlTYU1hd1E1bDQ?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-17 22:12",
+      "published_iso": "2026-10-17T13:12:00+00:00",
+      "age": "19분 전"
+    },
     {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
@@ -9,17 +19,7 @@
       "source": "KB Think",
       "published": "10-17 15:27",
       "published_iso": "2026-10-17T06:27:23+00:00",
-      "age": "6시간 전"
-    },
-    {
-      "ticker": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
-      "title": "TSMC 사상 최대 실적…K반도체에 ‘수요 신호’ - 블로그",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtcHFQQy1IbnJmRkU1MFpQcl9xNy1jbDdmTkJ3TTdPaER6dUlZU0daSmFfb3MyVTRSUWp3UTV5c0lzVk4xM1lTUExCVTB3anpVZ3ZkcTd1cC1SUQ?oc=5",
-      "source": "블로그",
-      "published": "10-17 15:15",
-      "published_iso": "2026-10-17T06:15:53+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "GEV",
@@ -29,7 +29,17 @@
       "source": "TIKR.com",
       "published": "10-17 13:52",
       "published_iso": "2026-10-17T04:52:30+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "TSMC 사상 최대 실적…K반도체에 ‘수요 신호’ : 네이버 블로그 - Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeTAzRGtNYzhfNnlqWjRNSHNwWk1mZHJzb0JSRE9mX1VBcF9YMndtVkpNenM2Z0QzRmtrSktWejhCYXhxMmVfakdEc1NBaU1MeFYtRUI2a3ZhaFBxc3ZoUkZBVkZPTHRtV1p4aThWUEFGc21XVjdISXVpS3ZKZGdrdWhfSGlTWU5jUFNpMGE1WQ?oc=5",
+      "source": "Naver Blog",
+      "published": "10-17 10:19",
+      "published_iso": "2026-10-17T01:19:06+00:00",
+      "age": "12시간 전"
     },
     {
       "ticker": "JEPI",
@@ -39,7 +49,7 @@
       "source": "뉴스핌",
       "published": "10-17 08:01",
       "published_iso": "2026-10-16T23:01:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "JEPQ",
@@ -49,7 +59,7 @@
       "source": "뉴스핌",
       "published": "10-17 08:01",
       "published_iso": "2026-10-16T23:01:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "379800",
@@ -59,7 +69,7 @@
       "source": "신아일보",
       "published": "10-17 08:00",
       "published_iso": "2026-10-16T23:00:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "ZETA",
@@ -69,17 +79,17 @@
       "source": "데이터투자",
       "published": "10-17 06:02",
       "published_iso": "2026-10-16T21:02:41+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "공원 토토 사이트 게임 내 언어 설정 확인 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JVkFWSDFRbWlfeDZpNTlhYkE4a1FILWZ5MTJ4VS1DNks1MG9rTmFRLU5rSHB5eGZOVnpvX0E1X01KdTZTbURmR01rX2hyUm9sN3dWN3BZN2VoRkdydTk1OTJYR3pST2l2ZTU2a2VSOGxzdw?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-17 03:58",
-      "published_iso": "2026-10-16T18:58:23+00:00",
-      "age": "17시간 전"
+      "ticker": "SCHD",
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "title": "자주 묻는 조작 질문에 답하는 강수연 블랙잭 - www.icaremn.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oZkgzQ2ZOekwzSlkzbmQyYnc4YkQ1dUhrQTlPaC1KWFB5QjZVVTBUNHlxcC1tYldkaG1Xb0xTWVlpbDh4OXBMMFhycFNWRFdJTHMzZmZtNkZtZw?oc=5",
+      "source": "www.icaremn.com",
+      "published": "10-17 01:28",
+      "published_iso": "2026-10-16T16:28:50+00:00",
+      "age": "21시간 전"
     },
     {
       "ticker": "AMD",
@@ -89,7 +99,7 @@
       "source": "TradingKey",
       "published": "10-17 00:16",
       "published_iso": "2026-10-16T15:16:08+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "COST",
@@ -99,17 +109,7 @@
       "source": "코인리더스",
       "published": "10-16 23:00",
       "published_iso": "2026-10-16T14:00:00+00:00",
-      "age": "22시간 전"
-    },
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "Truist, Zeta Global 매수 의견 유지…목표주가 38달러 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Sa3dYSWtXRlhRQ2pTVDFlblQwU3hFNDFKTWxzNG1PQzA0aFBJaDRWVUY2Y2pjcmlyTURXRmljN3ZQZElhUjd4NzhOa1lPLV83MnFoZEMzN3FJcmxuYVZ5S2RxSXFEWFhOZWljdHNBREtlOWZY?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-16 22:53",
-      "published_iso": "2026-10-16T13:53:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "SCHD",
@@ -119,7 +119,17 @@
       "source": "EBC Financial Group",
       "published": "10-16 22:38",
       "published_iso": "2026-10-16T13:38:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
+    },
+    {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "골드만삭스, Zeta 매수 상향·Klaviyo 중립 하향 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSDVBT1BFREFULWpkOVVKamd4Vlo1ekswSFZQdV9NRnJ1bDljWGRLWnVtanZ3dHNWbmtPRTNSMWozLTU1ZzVFN3VZb2xZZHpEX1dmMTlSNVdXU0ZfWHQ2UU5LYzV2RU5qZzVtU2lzZlU?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-16 22:16",
+      "published_iso": "2026-10-16T13:16:00+00:00",
+      "age": "1일 전"
     },
     {
       "ticker": "379780",
@@ -159,6 +169,16 @@
       "source": "화이트페이퍼",
       "published": "10-16 19:42",
       "published_iso": "2026-10-16T10:42:37+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "Exynas Collaborates with SK Hynix on AI Memory Technology… Unveils CXL-Based Inference Solution at 'OCP Global Summit' - 벤처스퀘어",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02VTUtU2hrcUxfZ0ItMUZfV0V2eDZERzlVbUktbWVZbFE2Zl8yb3licWVvOWoyRW5CbDF0Mmh3c251c0JmclU5U2xOT3NzSTkwWnBz?oc=5",
+      "source": "벤처스퀘어",
+      "published": "10-16 19:06",
+      "published_iso": "2026-10-16T10:06:39+00:00",
       "age": "1일 전"
     },
     {
@@ -314,11 +334,11 @@
     {
       "ticker": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
-      "title": "Lynx Equity, AI 수요 전망에 TSMC 목표주가 유지 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KOEpQQVZNd2tMRHJCSVMxMF9ITTE5dEw2SFNaSXY3dm9wYi1oNVE4XzhtekxPV2tUTTlMT2tZQnlvSll6WjFtT0hWN0U0V1lkOXh5NmFlU3Z6ZTMwSkJiZDhMd211Tjhwa0szWVNXYlp5QXd6?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-15 21:03",
-      "published_iso": "2026-10-15T12:03:00+00:00",
+      "title": "TSMC Posts a Sixth Straight Record Quarter, and Its Q4 Guide Says the AI Boom Isn’t Slowing. Here’s the Fuller Picture - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeTZycU45REJkOUhHSmNpYnA5Vk13VThha3dKcmR2X2NOZkNSWktuYnFtRnlIdmNDY1IyVnhVMW5ueGMtMG5zaHI5X0syNFA3LXNGcHhDYjYwTTVVUWlEb012cFVOZktILUFHUUxmRWN2TzVabmtoeXRXQV9seFloLWlveEhQdlhYUGFwWlJlbXRIZ1V1WVYtbGFlT0FFM3RCU29oMUJPY3lmRUU2NmJoTDJ3TTF1NnhLcEJJU3JwektxWVI5QWk3Q3N2ak5ZaHpGNXJ5bEx2MmlabVE?oc=5",
+      "source": "TIKR.com",
+      "published": "10-15 18:56",
+      "published_iso": "2026-10-15T09:56:15+00:00",
       "age": "2일 전"
     },
     {
@@ -674,32 +694,12 @@
     {
       "ticker": "000660",
       "name": "SK하이닉스",
-      "title": "SK hynix 1,443,000원, 10.09% 하락: 강세 2,334,000원·약세 631,000원. 4F2 주장이 매도세를 불렀나 - FinanceFeeds",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVllLNGg2ZHlmYmxldS0xRHNIYzNhWlpQQjBYR3k2bTdGUXN2VlE3bXFGcG51RWJnNlJ6OUFjNURHcGYtczRsaFpjUDc4ZDdZWHZiVUh6MGZIdEF2WlBqcFJUbTNGUjN1ZjdjaGQ0OF9FLXhydHZPdzNjankyVERqdTJqeHlpSVA4SDV4bFVtWS0?oc=5",
-      "source": "FinanceFeeds",
-      "published": "10-13 23:26",
-      "published_iso": "2026-10-13T14:26:52+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "000660",
-      "name": "SK하이닉스",
       "title": "SK Hynix Plunges 9% on China DRAM Scare: “A Clear Trigger for the Selloff” - TIKR.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWRZWHU0bmE3bFJVbUw2WldIcGd1MjRNam1rVGx1ejFhSzMzc2xxbGt2di0wRGhwR0k4TkRaSXg4MDgzTzRJZnBMNkZHUGFEWXRHNTJyUjAzM3JjSHB6dlZUSlgyVkdnRWNvQUZqNmtKdjduRTNfSFVoUzdoc3ZtZ3lXM0JWZ2g0NGxVaDVRTThTZndoX0kxajdzT1NGSXdu?oc=5",
       "source": "TIKR.com",
       "published": "10-13 22:51",
       "published_iso": "2026-10-13T13:51:44+00:00",
       "age": "3일 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "엔비디아(NVDA) 미국 연구 투자 소식에 지금 저평가된 주식일까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORl8xMVFjSFN6RmhJSE9FeVF4QUh6ZlVZSGs4dWJ5Q0dUZVNBWEN3aHpVenNwYWJxeG0tOU55V0pEaHdvMTFuNXg5aDh2MXdsYjdpNl9ONms5Z21qVVJzLWVDQmFIUk9xQXdCeDFCYU1odXpjalVoN1VGOTEwNl9iMU1tamljbnlEdTc3ZjhoZkFITUNEU25LZDRR0gGaAUFVX3lxTE5GXzExUWNIU3pGaElIT0V5UXhBSHpmVVlIazh1YnlDR1RlU0FYQ3doelV6c3BhYnF4bS05TnlXSkRod28xMW41eDloOHYxd2xiN2k2X042azlnbWpVUnMtZUNCYUhST3FBd0J4MUJhTWh1emNqVWg3VUY5MTA2X2IxTW1qaWNueUR1NzdmOGhmQUhNQ0RTbktkNFE?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-13 18:36",
-      "published_iso": "2026-10-13T09:36:55+00:00",
-      "age": "4일 전"
     },
     {
       "ticker": "005380",
@@ -745,10 +745,10 @@
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
       "title": "샌디스크(SNDK) 주가, 1년간의 급등세 이후 과대평가되었을 가능성 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUN5amh0WWpaVlZDT3JlNnJMWEttaE9DYTM1SlYwWnNMNDVxaEY1dTlIbDFMN1VVNUt2eHdsTVlCQ2s5eGlZbThhMW0yc3pvY0NrYXg3emlDSHA3ZDNFamFKazFBem41d1dFenJQckZtSFFwcGFVOWxtN2xaZl81TDk2SGNzWDNXLUJEQnJ30gGOAUFVX3lxTFA5Q3lqaHRZalpWVkNPcmU2ckxYS21oT0NhMzVKVjBac0w0NXFoRjV1OUhsMUw3VVU1S3Z4d2xNWUJDazl4aVltOGExbTJzem9jQ2theDd6aUNIcDdkM0VqYUprMUF6bjV3V0V6clByRm1IUXBwYVU5bG03bFpmXzVMOTZIY3NYM1ctQkRCcnc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObEZGMGZoWEswTUlfeXpHSWdGV0Qwc0poU2VJVDR5NDQ4VkdBWG1wdFE3MU1mNE5CSE5NRFN1dmd4T2NJeU1mbFR4RjhXX3ozNGI4NktqTG9ic2xGbTlsRngxRXU4WUNzbm5HYzRTd2lrbk5tcU02TVhEOWNxdzNodTBjckpuZVpG0gGOAUFVX3lxTFA5Q3lqaHRZalpWVkNPcmU2ckxYS21oT0NhMzVKVjBac0w0NXFoRjV1OUhsMUw3VVU1S3Z4d2xNWUJDazl4aVltOGExbTJzem9jQ2theDd6aUNIcDdkM0VqYUprMUF6bjV3V0V6clByRm1IUXBwYVU5bG03bFpmXzVMOTZIY3NYM1ctQkRCcnc?oc=5",
       "source": "Simply Wall Street",
       "published": "10-13 16:00",
-      "published_iso": "2026-10-13T07:00:31+00:00",
+      "published_iso": "2026-10-13T07:00:29+00:00",
       "age": "4일 전"
     },
     {
