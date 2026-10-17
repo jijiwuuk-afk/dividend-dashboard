@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17 08:28 KST",
+  "updated_at": "2026-10-17 09:44 KST",
   "items": [
     {
       "ticker": "JEPI",
@@ -9,7 +9,7 @@
       "source": "뉴스핌",
       "published": "10-17 08:01",
       "published_iso": "2026-10-16T23:01:00+00:00",
-      "age": "27분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "JEPQ",
@@ -19,7 +19,7 @@
       "source": "뉴스핌",
       "published": "10-17 08:01",
       "published_iso": "2026-10-16T23:01:00+00:00",
-      "age": "27분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "379800",
@@ -29,7 +29,7 @@
       "source": "신아일보",
       "published": "10-17 08:00",
       "published_iso": "2026-10-16T23:00:00+00:00",
-      "age": "28분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "GEV",
@@ -39,7 +39,7 @@
       "source": "TIKR.com",
       "published": "10-17 06:06",
       "published_iso": "2026-10-16T21:06:36+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "ZETA",
@@ -49,7 +49,7 @@
       "source": "데이터투자",
       "published": "10-17 06:02",
       "published_iso": "2026-10-16T21:02:41+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "COST",
@@ -59,7 +59,7 @@
       "source": "데이터투자",
       "published": "10-17 05:56",
       "published_iso": "2026-10-16T20:56:22+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "VOO",
@@ -69,7 +69,17 @@
       "source": "Calgary Roughnecks",
       "published": "10-17 03:58",
       "published_iso": "2026-10-16T18:58:23+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "Advanced Micro Devices Inc (AMD) 주식 움직였습니다 하락 3.79%에 10월16일: 변동을 뒷받침하는 사실 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDFadEJfbEgtVEJxNjh4N1lWQUJwcVM5LWpOWGJHNHlHcVNUVFJ3MGtxX2hGNDF5Qy03Qm1tSWlkejVrcGEwNGZjSktpM1htbXNOMzV5eGlTOVFTVk1yVnRCemJXZ0oxNDJzMVJzODVtQkd0azBEM0tfVWtGVmx4ZVdTZG5meEw5eWFsd0d3?oc=5",
+      "source": "TradingKey",
+      "published": "10-17 00:16",
+      "published_iso": "2026-10-16T15:16:08+00:00",
+      "age": "9시간 전"
     },
     {
       "ticker": "COST",
@@ -79,7 +89,17 @@
       "source": "코인리더스",
       "published": "10-16 23:00",
       "published_iso": "2026-10-16T14:00:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
+    },
+    {
+      "ticker": "SCHD",
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "title": "배당 ETF, 분배율보다 총수익과 현금 사용처가 중요한 이유 - EBC Financial Group",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HSEd4TzJuU2pwU1BTSkRPUlVKSTRKQVdJYkxBOGt5SjR6bjNVQjB1LS1VckNwN1doc29iZnJFbWs1RnpjbDQ5eEtpNUtaNjE1dEE?oc=5",
+      "source": "EBC Financial Group",
+      "published": "10-16 22:38",
+      "published_iso": "2026-10-16T13:38:00+00:00",
+      "age": "11시간 전"
     },
     {
       "ticker": "ZETA",
@@ -89,7 +109,7 @@
       "source": "Investing.com 한국어",
       "published": "10-16 22:16",
       "published_iso": "2026-10-16T13:16:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "379780",
@@ -99,7 +119,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-16 21:04",
       "published_iso": "2026-10-16T12:04:26+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "368590",
@@ -109,7 +129,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-16 21:04",
       "published_iso": "2026-10-16T12:04:26+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "ZETA",
@@ -119,7 +139,7 @@
       "source": "Investing.com 한국어",
       "published": "10-16 20:07",
       "published_iso": "2026-10-16T11:07:00+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "0072R0",
@@ -129,7 +149,7 @@
       "source": "화이트페이퍼",
       "published": "10-16 19:42",
       "published_iso": "2026-10-16T10:42:37+00:00",
-      "age": "12시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "489250",
@@ -139,7 +159,7 @@
       "source": "딜사이트",
       "published": "10-16 17:08",
       "published_iso": "2026-10-16T08:08:48+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "VOO",
@@ -149,7 +169,7 @@
       "source": "뉴스핌",
       "published": "10-16 16:19",
       "published_iso": "2026-10-16T07:19:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "TSM",
@@ -159,7 +179,7 @@
       "source": "Investing.com 한국어",
       "published": "10-16 16:07",
       "published_iso": "2026-10-16T07:07:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "489250",
@@ -169,7 +189,7 @@
       "source": "뉴스투데이",
       "published": "10-16 11:08",
       "published_iso": "2026-10-16T02:08:00+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "CAT",
@@ -459,7 +479,7 @@
       "source": "뉴스핌",
       "published": "10-15 09:31",
       "published_iso": "2026-10-15T00:31:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "COST",
@@ -469,7 +489,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "published": "10-15 08:51",
       "published_iso": "2026-10-14T23:51:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "GOOG",
@@ -522,16 +542,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
-      "title": "기능 개수보다 작동 방식을 보는 드라마 카지노 폰트 비교 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDNPMm5FeVRFOTVBVzVJR2sxUWR2Q05NVmlNdzVzVEplbkU0WW9NcEJJVGtEeXJXX3Z0Y1JZUm0tRkpMXzNTR1N0S3pDQmNYaTBzVFZvVjVWN2NTQ1FXSW1UcTlsd2hzVWJJb1ZXXzZ3X2ZSdnhZUEU4Q0xlSzY2WEhVSmJQSlBWYllHN0gtUQ?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-15 03:08",
-      "published_iso": "2026-10-14T18:08:19+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "Caterpillar Inc (CAT) 주식 움직였습니다 하락 3.05%에 10월14일: 투자자가 알아야 할 정보 - TradingKey",
@@ -549,16 +559,6 @@
       "source": "Investing.com 한국어",
       "published": "10-14 23:21",
       "published_iso": "2026-10-14T14:21:00+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "Advanced Micro Devices Inc (AMD) 주식 움직였습니다 하락 3.47%에 10월14일: 투자자가 알아야 할 정보 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZEMyUTFvUDd3eWpURjRrbm9DRHlpa1VHdXlxaUtXLWlmWGdhVkVqd3FPbnlxN3BmYmVIUVFlTjZ6NGc0R2ZJckt4aFRaWUxaRmk2Zm9hTFI1cEM3cGl4b3ZIVnZSRU9WX1NpaU9XN3VKQU12Y3lHUXJjMk1mcGk4c0VfcDZYbzVwdlo2cHBn?oc=5",
-      "source": "TradingKey",
-      "published": "10-14 23:16",
-      "published_iso": "2026-10-14T14:16:06+00:00",
       "age": "2일 전"
     },
     {
@@ -612,16 +612,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "Dow Jones Industrial Average gives back a 500-point earnings jump - tmgm.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVNUM0pMYVF6TDVYS2FmbGRwM3AyV2FtQ1ZOblVTOW9EQWFiTXNCbnNrTlVrN2lfejFjZlhYVUR2NURMM2pOaWgwcW8xanhTZWtkOXFWUWlOZHlFNVpfQmtVQmRuWUJIZm5DN3lMU2hKQmhYMVJVZ2lwR2NNUUFFMGhrZDFKVDU4Z3d5WkVtSWUzZEt6SHlfWnpOZTdsTjB5dC05U1NJbGxzR0YxY1QwRHh2ck1BWmt6aDdOSTVZaXEtejZvNDVOVmVuNA?oc=5",
-      "source": "tmgm.com",
-      "published": "10-14 08:54",
-      "published_iso": "2026-10-13T23:54:27+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "005380",
       "name": "현대자동차",
       "title": "현대차그룹 제로원, ‘2026 제로원 데모데이’ 개최 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
@@ -629,7 +619,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-14 08:30",
       "published_iso": "2026-10-13T23:30:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "INTC",
@@ -642,6 +632,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "게임 소개와 FAQ를 연결하는 토토 그래프 꽁머니 제로 질문 안내 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaGYzSV9QVUtjTFlReDEyZEZNLXdxcHpUT29TY281U2JidmJSdlNBR1o5MmUxOUM4MVdORU14OEFCOUQtOUFHN3Z1N0wwZENMdXpaWGt6Y3hvMXcyaTYzbV9XQ3FJVmk2ZFRUeVZGMWJvNi1jY19fbU5xNnliT25fOU5fYUpVOXBtRnpoV0pJN3VQRzNKX2ZNeXgyVFNSdw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-14 05:25",
+      "published_iso": "2026-10-13T20:25:36+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "title": "엔비디아(NVDA), 중국 출하 44% 급감...화웨이 턱밑 추격 - 코인리더스",
@@ -649,6 +649,16 @@
       "source": "코인리더스",
       "published": "10-14 04:30",
       "published_iso": "2026-10-13T19:30:00+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "Caterpillar Inc (CAT) 주식 움직였습니다 하락 4.19%에 10월13일: 핵심 원인 공개 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTi1kQnhRYXhTaDBLV1ZQUWcwbHZoVVk5OUV0MERzbW1wQU9ocWZtekZkQzZyRFpfamRtbEJaOFRxSWU3akVwX3dtb0RWd3FSV1F0Z2tDa3hETm9ZdnJyR0hmemg3OTdmdzdTNTVaUnM0Q21lelB0MjVmLWRDS0RCWlRUMnltWWFyUWNoT1RB?oc=5",
+      "source": "TradingKey",
+      "published": "10-14 00:15",
+      "published_iso": "2026-10-13T15:15:56+00:00",
       "age": "3일 전"
     },
     {
@@ -799,7 +809,7 @@
       "source": "머니투데이",
       "published": "10-13 09:25",
       "published_iso": "2026-10-13T00:25:25+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "487230",
@@ -809,7 +819,7 @@
       "source": "서울경제",
       "published": "10-13 09:15",
       "published_iso": "2026-10-13T00:15:42+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "379780",
@@ -989,16 +999,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-12 05:43",
       "published_iso": "2026-10-11T20:43:00+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "QQQM",
-      "name": "Invesco NASDAQ 100 ETF",
-      "title": "규칙을 읽다가 막히는 부분, 바카라 검증 업체 용어 풀이 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZFExbXhoNk5wbTdCZWI2OHJmOXpfWDJKeGh1ZGUyT2cxeVItSHFlRWdERmdLaDdqc3pNbzhkWE9WZkk4QWFDZURBQlVPdlJGQ2tleFItMW5TUS1tclgwbW5ON1VRRnVzMGZHS1BIb1hvWXA2VC1SOTd1bU5WLUQwd21GRjEyaXpEU1JrMUpqdTFSb3JPcXBFQkhPSWoxc3owQXNRV0hQdWlLLVE4d1pxaHIxNnY1TnJOOERR?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-12 05:21",
-      "published_iso": "2026-10-11T20:21:21+00:00",
       "age": "5일 전"
     }
   ]
