@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-18 21:35 KST",
+  "updated_at": "2026-10-18 22:31 KST",
   "items": [
-    {
-      "ticker": "QQQM",
-      "name": "Invesco NASDAQ 100 ETF",
-      "title": "테마보다 구조가 먼저 궁금한 분을 위한 파월 암호화폐 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kQVF2NnZXZ2hiVHdweEdsNnVZWWNGMk5hb0FuR3Nwal9rVzRyRGc3Q3MzOERwUGxoNExoLVFZblliWTBpcmZzZW1VR0YwR2UwU2VGMXFhbi1LS3FCOXotV3lMTlFRS2dOSVVvYzBtbHFKbklo?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-18 18:31",
-      "published_iso": "2026-10-18T09:31:11+00:00",
-      "age": "3시간 전"
-    },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "title": "세계 최고 분기 영업이익 기업은? 삼성전자가 Nvidia 앞질러 - Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51UTJVNnlDU19xVFFSTUhOYlFnWmVaZDBkb09ZTVh5WEZMWWxBZWRweWJHS3VLdkxlUUtoZ1J5SWV6U2llMm1fcnR6azUzd1lTMkdnV2F0ckJtRm95bFNCaWIyT053NzlTYU1hd1E1bDQ?oc=5",
       "source": "Investing.com 한국어",
-      "published": "10-18 16:38",
-      "published_iso": "2026-10-18T07:38:59+00:00",
-      "age": "4시간 전"
+      "published": "10-18 07:41",
+      "published_iso": "2026-10-17T22:41:05+00:00",
+      "age": "14시간 전"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "브로드컴(AVGO), AI 사이버 위협 겨냥한 하이퍼아머 공개한 이유는 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWFJHaXB3UnBkWEx6dm44Nnp2U2E5NTQ3NkZycTlJMmktRlJlaTZPZXN1STJVbjBSTkQ0RUJ3TWw3NXRkaG9hQ2JFeDVORGMxbU9BU3JsUUVSNGdUS3dfUHp3NFllZmMtUmlWa3Y3Q0RlSkwtaTE3ejVReWV4clRRZkpTX0ZfRmpNQzVTSWhPUHFSSzhhOG8tTFNWZzfSAZwBQVVfeXFMTlhSR2lwd1JwZFhMenZuODZ6dlNhOTU0NzZGcnE5STJpLUZSZWk2T2VzdUkyVW4wUk5ENEVCd01sNzV0ZGhvYUNiRXg1TkRjMW1PQVNybFFFUjRnVEt3X1B6dzRZZWZjLVJpVmt2N0NEZUpMLWkxN3o1UXlleHJUUWZKU19GX0ZqTUM1U0loT1BxUks4YThvLUxTVmc3?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-18 06:05",
+      "published_iso": "2026-10-17T21:05:12+00:00",
+      "age": "16시간 전"
     },
     {
       "ticker": "TSLA",
@@ -29,7 +29,17 @@
       "source": "Simply Wall Street",
       "published": "10-18 06:05",
       "published_iso": "2026-10-17T21:05:02+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
+    },
+    {
+      "ticker": "JEPQ",
+      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+      "title": "릴이 확장되는 기능이 있다면 읽어볼 슬롯나라 주소 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTRkQ3Fmbkk3eUNDMzFpR1VNX0tnUUZSdFhKU24xS1BLSDU3QTlkUzlJc0lnSkZxTldaNGhTVUxkeGVSWmpXMWxiRFJmY1pNbmhJUVZBaENZWHBBOGhmT3RIMUE2dUpYSGpTekd2aDUwOEdGODFuVHU4dTJYT0Z1SFJTVDY5UnVyX1BuSWtLaXYzYU0ybjlFU3lHczU4X1FoR3E4Yg?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-18 00:11",
+      "published_iso": "2026-10-17T15:11:50+00:00",
+      "age": "22시간 전"
     },
     {
       "ticker": "GOOG",
@@ -39,7 +49,7 @@
       "source": "TradingKey",
       "published": "10-18 00:00",
       "published_iso": "2026-10-17T15:00:00+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "TSLA",
@@ -312,26 +322,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "인텔(INTC), AI 인프라 기대는 커지는데 지금도 매수할 만한가? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdTVnZkg3cDFwQ3RRcGJXbzZsdnZ3bktDUVpuZWpqdms0S3hfZmtzbFhXTGFNYXZrZkFCcGp6VnB6SWEybWVGREpTQ2k3SFZINzFVSGFxcHlpUVBMNHlYZ0REQmpXc3o1ZE16RTVMTHphRmhLa1ZUc3kyTlpZREYxZ2VYdHdWLTAwc1FaUFoxcFQwMUXSAZgBQVVfeXFMUEJKd2NLOFFBeHczWUMwY19veFdDdi1xQTBYWklWZ1M4N24ydW5oZHJ6aHdMZUZmdlZfc080OXk3Xzh4MEtWNDZJdlRTV0hNaVBwUEpYaDdBZGtQM0UwMS1ob3F3WFRsVzgxTnhpTkRPSm9YQkFCbFBqOGJ0N21pOUp1SERtNEdMUEtpc3A0TWI0dlc4YlBfYTA?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-16 16:00",
-      "published_iso": "2026-10-16T07:00:00+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "브로드컴(AVGO), AI 사이버 위협 겨냥한 하이퍼아머 공개한 이유는 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWxrbWFBMGJkd0NOdVZ6LV9tUUVmaVNicnhvQU4zRVpnY1pMV2hzVWNDOVF2TzdaX1c2Y3JLTHRvbDBoajc3V3l2MmJ3alRRaXBQWXdxendfYmR3VGlxQjJIbldhVDEwOE5HNGZZc3YzVTg3djZkNXhYWGI5N0MyVGppTVJvMWN4aE9ZODV3cHlEUmIxcUpR0gGcAUFVX3lxTE5YUkdpcHdScGRYTHp2bjg2enZTYTk1NDc2RnJxOUkyaS1GUmVpNk9lc3VJMlVuMFJORDRFQndNbDc1dGRob2FDYkV4NU5EYzFtT0FTcmxRRVI0Z1RLd19Qenc0WWVmYy1SaVZrdjdDRGVKTC1pMTd6NVF5ZXhyVFFmSlNfRl9Gak1DNVNJaE9QcVJLOGE4by1MU1ZnNw?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-16 16:00",
-      "published_iso": "2026-10-16T07:00:00+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
       "title": "삼성자산운용, 8.4조 美배당다우존스 ETF 시장에 ‘액티브’ 승부수 - 뉴스투데이",
@@ -379,6 +369,16 @@
       "source": "대한경제",
       "published": "10-16 07:00",
       "published_iso": "2026-10-15T22:00:16+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "캐터필러, 리소스 인더스트리 수장 교체…솔라 터빈스 사장 데릭 요크 임명 - 데이터투자",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoa1FDSEQ0WV9ERXA5MVRkY2w3U3QyV3R2TC1YYVBfa0ZvaFJiaExock11Tl9UM2dGSzFmN2JTNVBtUDh3dHZZc3lpVGVGTE5sYUJvSFE0al9hVE8wTmFrNEtKY1FyWDhidUVuQzlZUTlLeEk?oc=5",
+      "source": "데이터투자",
+      "published": "10-16 04:35",
+      "published_iso": "2026-10-15T19:35:12+00:00",
       "age": "2일 전"
     },
     {
@@ -672,6 +672,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "기능 개수보다 작동 방식을 보는 드라마 카지노 폰트 비교 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDNPMm5FeVRFOTVBVzVJR2sxUWR2Q05NVmlNdzVzVEplbkU0WW9NcEJJVGtEeXJXX3Z0Y1JZUm0tRkpMXzNTR1N0S3pDQmNYaTBzVFZvVjVWN2NTQ1FXSW1UcTlsd2hzVWJJb1ZXXzZ3X2ZSdnhZUEU4Q0xlSzY2WEhVSmJQSlBWYllHN0gtUQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-15 03:08",
+      "published_iso": "2026-10-14T18:08:19+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "Caterpillar Inc (CAT) 주식 움직였습니다 하락 3.05%에 10월14일: 투자자가 알아야 할 정보 - TradingKey",
@@ -752,16 +762,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "Dow Jones Industrial Average gives back a 500-point earnings jump - tmgm.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVNUM0pMYVF6TDVYS2FmbGRwM3AyV2FtQ1ZOblVTOW9EQWFiTXNCbnNrTlVrN2lfejFjZlhYVUR2NURMM2pOaWgwcW8xanhTZWtkOXFWUWlOZHlFNVpfQmtVQmRuWUJIZm5DN3lMU2hKQmhYMVJVZ2lwR2NNUUFFMGhrZDFKVDU4Z3d5WkVtSWUzZEt6SHlfWnpOZTdsTjB5dC05U1NJbGxzR0YxY1QwRHh2ck1BWmt6aDdOSTVZaXEtejZvNDVOVmVuNA?oc=5",
-      "source": "tmgm.com",
-      "published": "10-14 08:54",
-      "published_iso": "2026-10-13T23:54:27+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "005380",
       "name": "현대자동차",
       "title": "현대차그룹 제로원, ‘2026 제로원 데모데이’ 개최 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
@@ -772,6 +772,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "AI 캐피털의 경고에 따라 인텔(INTC) 주가가 31% 과대평가되었을 가능성 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdWhRQzZhZDAxc3RvNHJwQ1Z5amplVEpfcUhPaVRmTk9nM2QzM3YyOEYwSmQza1Zmcl9wbm9BdV9BUk1SSkZaQjY3MEF4Wmh1SFcwNG5VVF9DVFZ6aW9ucTBidjlRRXJQOTFlYVA5Q1lMRTRWY054YWFxS01URFpKRWFhNjVUN1l3QTRNVGh5QmxqdWvSAZgBQVVfeXFMT2VvVGRTaVhwdUlzWEJwQk4wcWZ5Q2QxeVlDNHA1NGpTN1VLenZhbW93RWcydnA1MF8xN3NzNjV6QjJudU1jaFhJWXNFY0cwX0hiQnM5NENNdkNUUnNld2l6dFdPWnhQbnN2NU5EdDJoejUxYU1kblRXb01ldVBOTkQ3THVEdVFVWUNUTE5YdXVSaks2WGFRRDU?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-14 06:14",
+      "published_iso": "2026-10-13T21:14:25+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "000660",
       "name": "SK하이닉스",
       "title": "Samsung, SK Hynix and Micron Shares Plunge as China's CXMT Unveils Next-Generation DRAM Technology - 알파경제",
@@ -779,16 +789,6 @@
       "source": "알파경제",
       "published": "10-14 06:00",
       "published_iso": "2026-10-13T21:00:00+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
-      "title": "게임 소개와 FAQ를 연결하는 토토 그래프 꽁머니 제로 질문 안내 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaGYzSV9QVUtjTFlReDEyZEZNLXdxcHpUT29TY281U2JidmJSdlNBR1o5MmUxOUM4MVdORU14OEFCOUQtOUFHN3Z1N0wwZENMdXpaWGt6Y3hvMXcyaTYzbV9XQ3FJVmk2ZFRUeVZGMWJvNi1jY19fbU5xNnliT25fOU5fYUpVOXBtRnpoV0pJN3VQRzNKX2ZNeXgyVFNSdw?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-14 05:25",
-      "published_iso": "2026-10-13T20:25:36+00:00",
       "age": "4일 전"
     },
     {
@@ -859,16 +859,6 @@
       "source": "매일경제",
       "published": "10-13 13:50",
       "published_iso": "2026-10-13T04:50:30+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "JEPQ",
-      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-      "title": "게임 이해를 돕는 짧은 문답, 프롬 토토 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BeWxWRGZuRFo3SDUzZDhCZ3JMa1NDSnprZmJSN3dncGNDRWlFMGhVLXNyVnUtQlljTVlnSnEzS1VVUko2dlhZVjZlNldSdDQ3OFZYaHFpcjZ0VzVNZi1xOG8wY3BGX1U?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-13 13:12",
-      "published_iso": "2026-10-13T04:12:26+00:00",
       "age": "5일 전"
     },
     {
@@ -959,6 +949,16 @@
       "source": "Simply Wall Street",
       "published": "10-12 18:13",
       "published_iso": "2026-10-12T09:13:07+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "QQQM",
+      "name": "Invesco NASDAQ 100 ETF",
+      "title": "주제별로 연결해 읽는 토토 통장 대여 게임 해설 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWEtCTnViYzhiYjdkVDMyNmFMOUxUU2tSZFhXLUZITTBrNUlQM0lRV3JJT0k1RW5vV3FKcmRmOWFrY1dKc2hRYW1heU9TMjFKaU5Ybll6VFVuc3dUNkk0amtoa3NLc3MzNWoxVWlIc0s3azhWUWFhWFZuQk9zTzFET1AtWGEwbVZJQkQwWm5HNGRIcW9iZUVaZng4ZE9TaHB4b0NQN1hsQ0tEcm43LXNpcm1VemZITnhVUWtfa1dzbl9TQmh4SUdBdHktVjEtUQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-12 17:48",
+      "published_iso": "2026-10-12T08:48:10+00:00",
       "age": "6일 전"
     },
     {
