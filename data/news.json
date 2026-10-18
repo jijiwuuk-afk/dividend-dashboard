@@ -1,25 +1,15 @@
 {
-  "updated_at": "2026-10-19 00:28 KST",
+  "updated_at": "2026-10-19 01:30 KST",
   "items": [
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "미국 증시, 39년 만에 '블랙 먼데이' 재현되나? 10월 19일 월가 초긴장 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wV0VCdndZWWdkRFVVTDFTYkJYZHFIMG1tanJ6OE1oWElaZmtCOWJMckprRXNkSmlvSTdfTFk4Z0hDQzhHZWY2M1N3?oc=5",
-      "source": "코인리더스",
-      "published": "10-18 19:45",
-      "published_iso": "2026-10-18T10:45:00+00:00",
-      "age": "4시간 전"
-    },
-    {
-      "ticker": "QQQM",
-      "name": "Invesco NASDAQ 100 ETF",
-      "title": "테마보다 구조가 먼저 궁금한 분을 위한 파월 암호화폐 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kQVF2NnZXZ2hiVHdweEdsNnVZWWNGMk5hb0FuR3Nwal9rVzRyRGc3Q3MzOERwUGxoNExoLVFZblliWTBpcmZzZW1VR0YwR2UwU2VGMXFhbi1LS3FCOXotV3lMTlFRS2dOSVVvYzBtbHFKbklo?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-18 18:31",
-      "published_iso": "2026-10-18T09:31:11+00:00",
-      "age": "5시간 전"
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "세계 최고 분기 영업이익 기업은? 삼성전자가 Nvidia 앞질러 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51UTJVNnlDU19xVFFSTUhOYlFnWmVaZDBkb09ZTVh5WEZMWWxBZWRweWJHS3VLdkxlUUtoZ1J5SWV6U2llMm1fcnR6azUzd1lTMkdnV2F0ckJtRm95bFNCaWIyT053NzlTYU1hd1E1bDQ?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-18 22:40",
+      "published_iso": "2026-10-18T13:40:33+00:00",
+      "age": "2시간 전"
     },
     {
       "ticker": "INTC",
@@ -29,17 +19,17 @@
       "source": "Simply Wall Street",
       "published": "10-18 12:56",
       "published_iso": "2026-10-18T03:56:10+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "세계 최고 분기 영업이익 기업은? 삼성전자가 Nvidia 앞질러 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51UTJVNnlDU19xVFFSTUhOYlFnWmVaZDBkb09ZTVh5WEZMWWxBZWRweWJHS3VLdkxlUUtoZ1J5SWV6U2llMm1fcnR6azUzd1lTMkdnV2F0ckJtRm95bFNCaWIyT053NzlTYU1hd1E1bDQ?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-18 07:41",
-      "published_iso": "2026-10-17T22:41:05+00:00",
-      "age": "16시간 전"
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "AMD(NVDA) 42% 저평가 가능성 금리 부담 속 AI 투자 우려가 변수 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN3RDWXpYSkVwaERrcVByRzdIZ1lEVW00Tm9FM2dsQkRldXlvaWZod24yaFZvUGVXN3JkMzVpb1FoUWdPOFZwaU9XWDh4Skh2X3lYZzFxdm5tSkNGVDlFcEItMERrZEZ5ZFBWQXVkMWhNTmJCZFFFZ2lBRkhpTnJUWjEybThYUVBEZmVEU2RPeXptOXJfTVQtaVFSVWVvcFNfWmVqQVRmVjEzaWZQT0HSAa4BQVVfeXFMUDd0Q1l6WEpFcGhEa3FQckc3SGdZRFVtNE5vRTNnbEJEZXV5b2lmaHduMmhWb1BlVzdyZDM1aW9RaFFnTzhWcGlPV1g4eEpIdl95WGcxcXZubUpDRlQ5RXBCLTBEa2RGeWRQVkF1ZDFoTU5iQmRRRWdpQUZIaU5yVFoxMm04WFFQRGZlRFNkT3l6bTlyX01ULWlRUlVlb3BTX1plakFUZlYxM2lmUE9B?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-18 06:34",
+      "published_iso": "2026-10-17T21:34:15+00:00",
+      "age": "18시간 전"
     },
     {
       "ticker": "TSLA",
@@ -49,7 +39,7 @@
       "source": "Simply Wall Street",
       "published": "10-18 06:05",
       "published_iso": "2026-10-17T21:05:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "JEPQ",
@@ -199,7 +189,7 @@
       "source": "www.icaremn.com",
       "published": "10-17 01:28",
       "published_iso": "2026-10-16T16:28:50+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "GOOG",
@@ -209,7 +199,7 @@
       "source": "Traders Union",
       "published": "10-17 00:44",
       "published_iso": "2026-10-16T15:44:33+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "AMD",
@@ -219,6 +209,16 @@
       "source": "TradingKey",
       "published": "10-17 00:16",
       "published_iso": "2026-10-16T15:16:08+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "D.A. Davidson, 호실적에 TSMC 매수 의견 재확인 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UNmFvZG1fYURnTHRHZTNZY0NzMDd1RHE2NzVhMUlIYjZWamxmSmlCMjhFUHhpc2d6TTBpaUxaTW9GNUtNMWhOOXc5dHZ1WXM3VHF1dkNGVnFUUGRwcXRZa0tlUjdBSHdTQ1dudkRYZnNFWUJx?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-17 00:11",
+      "published_iso": "2026-10-16T15:11:00+00:00",
       "age": "2일 전"
     },
     {
@@ -319,16 +319,6 @@
       "source": "Investing.com 한국어",
       "published": "10-16 16:07",
       "published_iso": "2026-10-16T07:07:00+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "AMD(NVDA) 42% 저평가 가능성 금리 부담 속 AI 투자 우려가 변수 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPemtJTXhKbTI2eVZ1dzVpYk1BeURNdFpYcHBSZ09WTkdSN3J1R2NWQ2VaQ0lPbkJGZjh2RHdIalp2U2tlT1hQSFJTazFtTDl1QnViYkt3d05wOU1ZeTAydmtYbGxaTHN3WVJlblFqcmVlNnEwR045QUE2ckctb0JjRjd6WnZFQlh4cmpsN2MwQ28tZ05TQW1qTVVyNGNsWjNMaHpRd1JYakfSAa4BQVVfeXFMUDd0Q1l6WEpFcGhEa3FQckc3SGdZRFVtNE5vRTNnbEJEZXV5b2lmaHduMmhWb1BlVzdyZDM1aW9RaFFnTzhWcGlPV1g4eEpIdl95WGcxcXZubUpDRlQ5RXBCLTBEa2RGeWRQVkF1ZDFoTU5iQmRRRWdpQUZIaU5yVFoxMm04WFFQRGZlRFNkT3l6bTlyX01ULWlRUlVlb3BTX1plakFUZlYxM2lmUE9B?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-16 16:00",
-      "published_iso": "2026-10-16T07:00:00+00:00",
       "age": "2일 전"
     },
     {
@@ -525,7 +515,7 @@
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
       "title": "KODEX 미국나스닥100, 순자산 10조 돌파… 상장 후 5년 6개월 만 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UWW5hVGtfS01TY1BoazMwZU05YktNUGNNTElBZFdmT193QmlDLXE2V2piMTNiREdlZ2I4OTAyc19ZQlJmV2t0eUtHTjJzWWRrUjNEbW9XaUtCR0MxUUplZHpBcEQ2X05xdkd3c2tsUTU2d0xzN2fSAXtBVV95cUxPRGdPRl9Ea1JHd2tsV1pyMkpWMW1nMWE3WHRQWXJJSHNjOUF3Q2U2bmpLXzhuTXl4TW5lOXdhNG82TWtqNHFMZndOS3lOaG8yclYzLWxXdW5XeDVncFhWSEV6TjdBT0JLSFlja3FjSzBQM2ZmdFYzRG9uZFE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XamdRWHRqa0F6aW1QRGRPaGxtNy05UC0wdkNEelo3OU10X3U5M2ZiZVl6b0tXd0ZvU0JJTzlhamRLTS1YWllLTEllbUF5MG16d1N3RWt3cHBzc1pENTBDX0pqVVpqd3Q50gFuQVVfeXFMUEZvSFVrcnJyTWJJQ1pqNVBrZWZyWjFvMUEtMWs3WTFUNmVubXBZWl9UREJyVUlEVjBCUWQ0Tkl4UkhoVDc0N0haYmVGVkNDd1ZjLTB2V2g4ZlpJZHpQOEc5WDFzdG1iazZOZzREM1E?oc=5",
       "source": "머니투데이",
       "published": "10-15 13:44",
       "published_iso": "2026-10-15T04:44:44+00:00",
@@ -632,16 +622,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
-      "title": "실적 발표 앞둔 TSMC, 뉴욕 증시서 3.4% 하락 마감 : 기업주식정보 - 재경일보",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41Vlh4SW1XMkxoZE9ZcXpXNTFOWTFEN1dVMDB1NThMR19kelhYVU8tUGlaMi1CbENvUU11bHk2YTM4QXUtYWJyanN4Zw?oc=5",
-      "source": "재경일보",
-      "published": "10-15 07:47",
-      "published_iso": "2026-10-14T22:47:00+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
       "title": "\"반도체 3배에 1조원 넘게 몰렸다\"…그런데 2·3위는 뜻밖의 상품 - 아시아경제",
@@ -689,6 +669,16 @@
       "source": "TradingKey",
       "published": "10-15 03:16",
       "published_iso": "2026-10-14T18:16:22+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "기능 개수보다 작동 방식을 보는 드라마 카지노 폰트 비교 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDNPMm5FeVRFOTVBVzVJR2sxUWR2Q05NVmlNdzVzVEplbkU0WW9NcEJJVGtEeXJXX3Z0Y1JZUm0tRkpMXzNTR1N0S3pDQmNYaTBzVFZvVjVWN2NTQ1FXSW1UcTlsd2hzVWJJb1ZXXzZ3X2ZSdnhZUEU4Q0xlSzY2WEhVSmJQSlBWYllHN0gtUQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-15 03:08",
+      "published_iso": "2026-10-14T18:08:19+00:00",
       "age": "3일 전"
     },
     {
@@ -809,16 +799,6 @@
       "source": "알파경제",
       "published": "10-14 06:00",
       "published_iso": "2026-10-13T21:00:00+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
-      "title": "게임 소개와 FAQ를 연결하는 토토 그래프 꽁머니 제로 질문 안내 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaGYzSV9QVUtjTFlReDEyZEZNLXdxcHpUT29TY281U2JidmJSdlNBR1o5MmUxOUM4MVdORU14OEFCOUQtOUFHN3Z1N0wwZENMdXpaWGt6Y3hvMXcyaTYzbV9XQ3FJVmk2ZFRUeVZGMWJvNi1jY19fbU5xNnliT25fOU5fYUpVOXBtRnpoV0pJN3VQRzNKX2ZNeXgyVFNSdw?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-14 05:25",
-      "published_iso": "2026-10-13T20:25:36+00:00",
       "age": "4일 전"
     },
     {
@@ -982,6 +962,16 @@
       "age": "6일 전"
     },
     {
+      "ticker": "QQQM",
+      "name": "Invesco NASDAQ 100 ETF",
+      "title": "주제별로 연결해 읽는 토토 통장 대여 게임 해설 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWEtCTnViYzhiYjdkVDMyNmFMOUxUU2tSZFhXLUZITTBrNUlQM0lRV3JJT0k1RW5vV3FKcmRmOWFrY1dKc2hRYW1heU9TMjFKaU5Ybll6VFVuc3dUNkk0amtoa3NLc3MzNWoxVWlIc0s3azhWUWFhWFZuQk9zTzFET1AtWGEwbVZJQkQwWm5HNGRIcW9iZUVaZng4ZE9TaHB4b0NQN1hsQ0tEcm43LXNpcm1VemZITnhVUWtfa1dzbl9TQmh4SUdBdHktVjEtUQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-12 17:48",
+      "published_iso": "2026-10-12T08:48:10+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "\"금값 -21%\" 곡소리 날 때 줍줍, ETF 몰렸다...반등은 언제? - 머니투데이 - 머니투데이",
@@ -994,6 +984,16 @@
     {
       "ticker": "VOO",
       "name": "Vanguard S&P 500 ETF",
+      "title": "미국 ETF 추천: 초보자도 시작할 수 있는 대표 ETF 5선 - Mitrade",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04NGphTUZMZ0VPa0tzb29SQ0w4dHh0RU0tTVc5VEsyMFVXSE5OQnZ4T3kwUXJnTng5N0ZHM1A4YUZXMFNHbEhMa2lEcl9HLW82RGdGOHVIdzBYV1h3UnYxU3ZvYlp5cTBFLWNINzNVZkR2dw?oc=5",
+      "source": "Mitrade",
+      "published": "10-12 16:00",
+      "published_iso": "2026-10-12T07:00:00+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "SCHD",
+      "name": "Schwab U.S. Dividend Equity ETF",
       "title": "미국 ETF 추천: 초보자도 시작할 수 있는 대표 ETF 5선 - Mitrade",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04NGphTUZMZ0VPa0tzb29SQ0w4dHh0RU0tTVc5VEsyMFVXSE5OQnZ4T3kwUXJnTng5N0ZHM1A4YUZXMFNHbEhMa2lEcl9HLW82RGdGOHVIdzBYV1h3UnYxU3ZvYlp5cTBFLWNINzNVZkR2dw?oc=5",
       "source": "Mitrade",
