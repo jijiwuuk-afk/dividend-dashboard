@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-19 17:42 KST",
+  "updated_at": "2026-10-19 18:40 KST",
   "items": [
+    {
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "증시 출렁이자 다시 빛나는 금…ETF 거래대금 20% 증가 - 한국일보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3UE00emZ5ZkNHRHVFRHB2eDJFUzNtZkNXQTFsVFZyQjNLY2lVS2tOSTBNNWdPR0I5SFcwdU95RGNlSm5qMWxnS2xtd3hhRHV0MkYyTHZwQ1BRa1owM0FHRF85ZEV5WnRkbFVHV2ZB0gFzQVVfeXFMUE8zS2w1d3QwYnVPaS12NEI2ZFNCbTRSQXZkWUp1NlMwdFU0VURYQWhkbDN0ZGRUTmFZbTNuQk1XYmZoaWdSekIwcnFsSFo0VUNTRHJoZTQtRlZ4aXp0X1RwNEdhd1RlUzMzcVNHOVZqLXRqUQ?oc=5",
+      "source": "한국일보",
+      "published": "10-19 17:30",
+      "published_iso": "2026-10-19T08:30:00+00:00",
+      "age": "1시간 전"
+    },
     {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
@@ -9,7 +19,7 @@
       "source": "코인리더스",
       "published": "10-19 16:30",
       "published_iso": "2026-10-19T07:30:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "489250",
@@ -19,7 +29,7 @@
       "source": "한국경제",
       "published": "10-19 15:49",
       "published_iso": "2026-10-19T06:49:12+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "489250",
@@ -29,7 +39,7 @@
       "source": "글로벌이코노믹",
       "published": "10-19 15:33",
       "published_iso": "2026-10-19T06:33:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "489250",
@@ -39,7 +49,7 @@
       "source": "아시아경제",
       "published": "10-19 09:00",
       "published_iso": "2026-10-19T00:00:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "489250",
@@ -49,7 +59,17 @@
       "source": "연합뉴스",
       "published": "10-19 08:57",
       "published_iso": "2026-10-18T23:57:14+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대자동차, ‘2026 현대 모빌리티 플레이그라운드 시즌 2’ 성료 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTZmSjByeEhLSWJGLUdUSng1a2ZqZWxJel8zN3RveUxSYWl3d09FRDVBZHJ1bU91N0dtMkR3emg4b3RMMFpwOHEwSE9UZGZEZWZHZGZTLUNYX1ZuajlObEVrUzFpTzFnVGhiM25mU01nMEI3b2V4RV9pUUhrR0ZlajF0N1E1SzhrWllOOV95MHdPUXlYc2c0TVM2cm1GQQ?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-19 08:30",
+      "published_iso": "2026-10-18T23:30:00+00:00",
+      "age": "10시간 전"
     },
     {
       "ticker": "TSLA",
@@ -59,16 +79,6 @@
       "source": "연합인포맥스",
       "published": "10-19 07:54",
       "published_iso": "2026-10-18T22:54:18+00:00",
-      "age": "9시간 전"
-    },
-    {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
-      "title": "급락장에 ETF 순위 '지각변동'…TIGER, KODEX 제치고 1위 탈환 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YNGtvTW9CcTRIV2RyVk5vZHNnRTA2MFRFYlFqTkxiQUF1RFpSeFhEWVJIUERZNFc4X3g5NWxIa2RxTUdIQ3l0QmcteVEyNWhpTU5xUEVsVkdFTE1XQnNhT9IBYEFVX3lxTE5YNGtvTW9CcTRIV2RyVk5vZHNnRTA2MFRFYlFqTkxiQUF1RFpSeFhEWVJIUERZNFc4X3g5NWxIa2RxTUdIQ3l0QmcteVEyNWhpTU5xUEVsVkdFTE1XQnNhTw?oc=5",
-      "source": "연합뉴스",
-      "published": "10-19 07:00",
-      "published_iso": "2026-10-18T22:00:03+00:00",
       "age": "10시간 전"
     },
     {
@@ -79,7 +89,7 @@
       "source": "알파경제",
       "published": "10-19 06:00",
       "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "000660",
@@ -89,7 +99,7 @@
       "source": "알파경제",
       "published": "10-19 06:00",
       "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "VOO",
@@ -99,7 +109,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-18 22:34",
       "published_iso": "2026-10-18T13:34:21+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "QQQM",
@@ -109,7 +119,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-18 18:31",
       "published_iso": "2026-10-18T09:31:11+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "005380",
@@ -412,16 +422,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "기아, 판교서 PV5 기반 원격 운전 카셰어링 시범 서비스 개시 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0tIUW93TTh4dHF6WGdwWFhUMC1vQlJSWEJ1V2l1V0NPckZCQ3kwaWNvclJ5ZmZyTU1WbF9ENHVfZGoyYjRmWGt2bXZScTJ3aExyNFBkTWFaOUdXQkpSN2tBZjlSTlVzWkQ3R0hGbEJENmdBSlFOSWktMV9SZDVWNEdPVzNKVERwZTUxYWJseDVBVHlCQzdSVnd2cw?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-16 08:30",
-      "published_iso": "2026-10-15T23:30:00+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "10억달러 공장 투자로 주목받는 캐터필러 주식 (CAT) - Simply Wall Street",
@@ -469,16 +469,6 @@
       "source": "TradingKey",
       "published": "10-16 03:16",
       "published_iso": "2026-10-15T18:16:11+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
-      "title": "올해 사상 최고치 찍은 금값 하락세…ETF 수익률도 부진이어가 - 강원일보",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1faUk0T25GOHNqcmk1MEhyWThhUHNOZk9TSzFpdzJodmNCVEtoYVdoS1FRenFJNHNNRkc2RGhVWUZZYUZNbFZ4MlNRVTRoWDVrUFFMVnlndVcxNEk?oc=5",
-      "source": "강원일보",
-      "published": "10-16 00:00",
-      "published_iso": "2026-10-15T15:00:00+00:00",
       "age": "3일 전"
     },
     {
@@ -559,6 +549,16 @@
       "source": "머니투데이",
       "published": "10-15 13:44",
       "published_iso": "2026-10-15T04:44:44+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
+      "title": "삼성운용 KODEX 미국나스닥100 순자산 10조 돌파 : 금융 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xNE9WNnA0dDl6bV9VTjJyOEg5emVnMzN6ZHJxb0JWdVZmOWNTUTZuNnVYSEtwSE1kOUgxMmhyakh0dDZEeTQtQnB3NA?oc=5",
+      "source": "재경일보",
+      "published": "10-15 13:30",
+      "published_iso": "2026-10-15T04:30:16+00:00",
       "age": "4일 전"
     },
     {
@@ -752,6 +752,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "코스트코(COST) 주가, 9월 매출 호조에도 불구하고 공정가치보다 21% 높을 수 있다 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUh6TW9lODdnUTgwT0pUMTBmMVFqMWdkcWR2ZWktRkhBalNlYnhDbjc3N0xjdUJzaG9OMjBFa3VQMUdLdzJrSzRfWUl6MUxsSlZLcmtBamt3a0Z4ZDJGNDZQX3RWbE1ORWZsNEF6Y0NaaXJFS1Qzenh1VU1OTElzTVZfQ1duejhSaXJSRFV1em5YMmhCQTdNZFM0c19tSU9VYXJFWm4wONIBrAFBVV95cUxNX2dvQjkxTTc3aGU4MWh4WnUzbVNZTXl6UUtRMFBUX3ZMaFJ5UGE5WmYzamhxMGczejItNDdVTDZTd0dnbFByWEpqb29WR01nRFhBRG1rOTAtdHBCVzBiTWNUYXp3dG5zalhpaEpMdWcxN0UwRUYwX01nSTYxV1RHV19vWGtFcEd0RWp2X0FMVW5BT2NNT2JicXh3WUstRjNnX3g0aV9UeDRXbXVK?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-14 08:48",
+      "published_iso": "2026-10-13T23:48:56+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "005380",
       "name": "현대자동차",
       "title": "현대차그룹 제로원, ‘2026 제로원 데모데이’ 개최 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
@@ -764,11 +774,11 @@
     {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
-      "title": "금 ETF 수익률 ‘털썩’… 안전자산 믿어도 될까 [경제 레이더] - 세계일보",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wQ0xyNVBKUFJDM1pnaEZucWRxUzYxZGVEbmRyWFJyeXpTQ2FpclZqSGZSc21ucFEwSFgtZndwNW9UcTZCX28zTjdhbmJ5cW9yRUk3R2lXMWPSAVRBVV95cUxPY0hBQ1FGSjB1N1pqelBzaHRjVzFJLWpBZlBqTkpXYVpmVm1mbWRRVEw4QjdXTzJacy1YNmtpQWJMc2VGQjgyd2pOVmp1MWcyMGt2REU?oc=5",
-      "source": "세계일보",
-      "published": "10-14 05:00",
-      "published_iso": "2026-10-13T20:00:00+00:00",
+      "title": "게임 소개와 FAQ를 연결하는 토토 그래프 꽁머니 제로 질문 안내 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaGYzSV9QVUtjTFlReDEyZEZNLXdxcHpUT29TY281U2JidmJSdlNBR1o5MmUxOUM4MVdORU14OEFCOUQtOUFHN3Z1N0wwZENMdXpaWGt6Y3hvMXcyaTYzbV9XQ3FJVmk2ZFRUeVZGMWJvNi1jY19fbU5xNnliT25fOU5fYUpVOXBtRnpoV0pJN3VQRzNKX2ZNeXgyVFNSdw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-14 05:25",
+      "published_iso": "2026-10-13T20:25:36+00:00",
       "age": "5일 전"
     },
     {
@@ -952,16 +962,6 @@
       "age": "6일 전"
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "Broadcom CEO Identifies Massive Capital Constraints as AI Scales Fast - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOTEyTG43VXpLeWNkUzRrOXVUdlRySmctVExyNWhaT1oxVE1SMndWV0F5aV9SeVRzU1RFVjlXaWpYeXdvRU4xb3RTbzJjdU1XSkM1Y0pYQU5xOGlXRmZYM21NYVNyemtadFM0WGtnbmxOUGdvWlQxcDQyS3h4cXU4Q3l5N19IZw?oc=5",
-      "source": "TIKR.com",
-      "published": "10-13 04:46",
-      "published_iso": "2026-10-12T19:46:54+00:00",
-      "age": "6일 전"
-    },
-    {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "반등하나 했는데 '뚝'…\"줍줍 기회\" 수익률 마이너스 금ETF로 우르르 - 머니투데이 - 머니투데이",
@@ -982,6 +982,16 @@
       "age": "6일 전"
     },
     {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "Broadcom CEO Identifies Massive Capital Constraints as AI Scales Fast - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTTJ3QkxsOExGMHc2dy1MSVZqT090bkFsR2NyeGZnWmo4bHpmMlItT3BidHVKVkd2N3BxckJFc1BsLUZNT3FpQTU5cDlnZXJQZnJHdDhiX08zNzRnOG95UnRMS29FeU9VUkIzelZ4TU5oamZDd3pNU2ZDYm5JeHRZLUVBNzhJUG8?oc=5",
+      "source": "TIKR.com",
+      "published": "10-13 00:05",
+      "published_iso": "2026-10-12T15:05:53+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "INTC",
       "name": "Intel Corporation",
       "title": "Intel Corp (INTC) 주식 움직였습니다 하락 3.02%에 10월12일: 변동 원인 - TradingKey",
@@ -989,16 +999,6 @@
       "source": "TradingKey",
       "published": "10-12 23:16",
       "published_iso": "2026-10-12T14:16:04+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "Alphabet 주간 주가 전망: Berkshire 지분 투자와 Google Cloud 성장에 힘입은 긍정적 분위기 - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXVNcGxBLURUdTk4WXREc0VoMVY4NE90NGZPcTdyT0NSNWVBREhUN0R4UU14dkxFVUFLaHFCOGo3aHJ3eEc1SXBrNWhOcV80Mm5EYVAyY1AzWEpZdW5EWmMzaEYzZkdaNE42Mm5IZ1kyRi1DWDk5QXhBaUJEYU5hWkJrUmxzNWI4VThpWlA3aFpfd1U?oc=5",
-      "source": "Traders Union",
-      "published": "10-12 23:02",
-      "published_iso": "2026-10-12T14:02:42+00:00",
       "age": "6일 전"
     }
   ]
