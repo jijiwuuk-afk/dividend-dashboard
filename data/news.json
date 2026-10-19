@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 12:35 KST",
+  "updated_at": "2026-10-19 13:36 KST",
   "items": [
     {
       "ticker": "379800",
@@ -9,7 +9,7 @@
       "source": "매일경제 마켓",
       "published": "10-19 11:12",
       "published_iso": "2026-10-19T02:12:59+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "489250",
@@ -19,7 +19,7 @@
       "source": "머니투데이",
       "published": "10-19 09:41",
       "published_iso": "2026-10-19T00:41:46+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "489250",
@@ -29,7 +29,7 @@
       "source": "아시아경제",
       "published": "10-19 09:00",
       "published_iso": "2026-10-19T00:00:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "489250",
@@ -39,7 +39,7 @@
       "source": "연합뉴스",
       "published": "10-19 08:57",
       "published_iso": "2026-10-18T23:57:14+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "TSLA",
@@ -49,7 +49,7 @@
       "source": "연합인포맥스",
       "published": "10-19 07:54",
       "published_iso": "2026-10-18T22:54:18+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "005930",
@@ -59,7 +59,7 @@
       "source": "알파경제",
       "published": "10-19 06:00",
       "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "000660",
@@ -69,7 +69,7 @@
       "source": "알파경제",
       "published": "10-19 06:00",
       "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "JEPQ",
@@ -79,7 +79,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-19 04:32",
       "published_iso": "2026-10-18T19:32:35+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "VOO",
@@ -89,7 +89,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-18 22:34",
       "published_iso": "2026-10-18T13:34:21+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "QQQM",
@@ -99,7 +99,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-18 18:31",
       "published_iso": "2026-10-18T09:31:11+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "TSLA",
@@ -180,16 +180,6 @@
       "published": "10-17 13:52",
       "published_iso": "2026-10-17T04:52:30+00:00",
       "age": "1일 전"
-    },
-    {
-      "ticker": "JEPI",
-      "name": "JPMorgan Equity Premium Income ETF",
-      "title": "[금리 리셋] ⑤ '10% 배당' 사모대출·커버드콜 ETF의 두 얼굴 - ㊦ - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yRGVDOUpFSWh2R0NIcXVDczVvVFVzSGlFd3ZZN08tcy03QjlLX25tVG5sYVFQNTdwMzNIa29ndlBvVTJUcGdLTFZSSm0zN3hySmlLVXdyZllKOTRN?oc=5",
-      "source": "뉴스핌",
-      "published": "10-17 08:01",
-      "published_iso": "2026-10-16T23:01:00+00:00",
-      "age": "2일 전"
     },
     {
       "ticker": "JEPQ",
@@ -899,7 +889,7 @@
       "source": "비즈월드",
       "published": "10-13 13:11",
       "published_iso": "2026-10-13T04:11:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "487230",
@@ -952,6 +942,16 @@
       "age": "6일 전"
     },
     {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "Broadcom CEO Identifies Massive Capital Constraints as AI Scales Fast - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOTEyTG43VXpLeWNkUzRrOXVUdlRySmctVExyNWhaT1oxVE1SMndWV0F5aV9SeVRzU1RFVjlXaWpYeXdvRU4xb3RTbzJjdU1XSkM1Y0pYQU5xOGlXRmZYM21NYVNyemtadFM0WGtnbmxOUGdvWlQxcDQyS3h4cXU4Q3l5N19IZw?oc=5",
+      "source": "TIKR.com",
+      "published": "10-13 04:46",
+      "published_iso": "2026-10-12T19:46:54+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
       "title": "Advanced Micro Devices Inc (AMD) 주식 움직였습니다 하락 3.41%에 10월12일: 변동을 뒷받침하는 사실 - TradingKey",
@@ -959,16 +959,6 @@
       "source": "TradingKey",
       "published": "10-13 00:16",
       "published_iso": "2026-10-12T15:16:12+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "Broadcom CEO Identifies Massive Capital Constraints as AI Scales Fast - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTTJ3QkxsOExGMHc2dy1MSVZqT090bkFsR2NyeGZnWmo4bHpmMlItT3BidHVKVkd2N3BxckJFc1BsLUZNT3FpQTU5cDlnZXJQZnJHdDhiX08zNzRnOG95UnRMS29FeU9VUkIzelZ4TU5oamZDd3pNU2ZDYm5JeHRZLUVBNzhJUG8?oc=5",
-      "source": "TIKR.com",
-      "published": "10-13 00:05",
-      "published_iso": "2026-10-12T15:05:53+00:00",
       "age": "6일 전"
     },
     {
@@ -999,6 +989,16 @@
       "source": "Calgary Roughnecks",
       "published": "10-12 17:48",
       "published_iso": "2026-10-12T08:48:10+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "\"금값 -21%\" 곡소리 날 때 줍줍, ETF 몰렸다...반등은 언제? - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RNzVOdHdrTURCOFE5c0xDemsxajFaa0R2TEh1MUI0dXdYY3otM3hSVGNBbERlSllGSjBVa19pSnBQcW1hNXhwSm1TZ3MwZlVxaFVoZk5TYW1YdTg2QUNxMjFYOE9OTE5K0gFuQVVfeXFMT05KRERjMWstLXd2NTdaUVRITjFtbWZMdmpqSzMtMnVnM216MkVVNklRQnBPSjhaTGt1eVU3a296OUlhTGFkeTdTVmo0cHBoRlZ5TXRqUld1NjI5QnB5dU9Lbm05bF9vMTZDSUN1bHc?oc=5",
+      "source": "머니투데이",
+      "published": "10-12 16:18",
+      "published_iso": "2026-10-12T07:18:19+00:00",
       "age": "6일 전"
     }
   ]
