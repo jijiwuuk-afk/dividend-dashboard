@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 13:36 KST",
+  "updated_at": "2026-10-19 14:35 KST",
   "items": [
     {
       "ticker": "379800",
@@ -9,7 +9,7 @@
       "source": "매일경제 마켓",
       "published": "10-19 11:12",
       "published_iso": "2026-10-19T02:12:59+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "489250",
@@ -19,7 +19,7 @@
       "source": "머니투데이",
       "published": "10-19 09:41",
       "published_iso": "2026-10-19T00:41:46+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "489250",
@@ -29,7 +29,7 @@
       "source": "아시아경제",
       "published": "10-19 09:00",
       "published_iso": "2026-10-19T00:00:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "489250",
@@ -39,7 +39,7 @@
       "source": "연합뉴스",
       "published": "10-19 08:57",
       "published_iso": "2026-10-18T23:57:14+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "TSLA",
@@ -49,7 +49,7 @@
       "source": "연합인포맥스",
       "published": "10-19 07:54",
       "published_iso": "2026-10-18T22:54:18+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "005930",
@@ -59,7 +59,7 @@
       "source": "알파경제",
       "published": "10-19 06:00",
       "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "000660",
@@ -69,17 +69,7 @@
       "source": "알파경제",
       "published": "10-19 06:00",
       "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "7시간 전"
-    },
-    {
-      "ticker": "JEPQ",
-      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-      "title": "보너스 유형에 따라 달라지는 토토 사이트 먹튀 슈퍼맨 화면 구성 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qWkhCY1dTM3ZSTHhuVThXWW02RG0zeW1idnlMSTBoZFU1elJmOVBtSnAyQ0dySTlpWUpQcjY2YW02b0pxR3MyeW9RRDgwMlNmeW42SWFXVVVnLXdEeGlYMVNFRlREYXcyaXpocExZcW0?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-19 04:32",
-      "published_iso": "2026-10-18T19:32:35+00:00",
-      "age": "9시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "VOO",
@@ -89,7 +79,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-18 22:34",
       "published_iso": "2026-10-18T13:34:21+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "QQQM",
@@ -99,7 +89,17 @@
       "source": "Calgary Roughnecks",
       "published": "10-18 18:31",
       "published_iso": "2026-10-18T09:31:11+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대차·기아, ‘이포레스트 테크데이 2026’ 개최 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM1RDbThhV1NBenBwQlpmNXRhZGlOWmVZVnhYX0xsc1lEZE95OV9LUzJDTkhONHJQSjFSM3VWMzJRWHQyZFZZdkpaNXgzUTNFc0xFZXhxRllRSzNXOEsxcE5FdGF3RUpVR1FNLV9qSjF0STFFckVuTFR2dWhhMkVnbXBjTFhXeUhJZDRuUE5oUWxLd0E?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-18 09:00",
+      "published_iso": "2026-10-18T00:00:00+00:00",
+      "age": "1일 전"
     },
     {
       "ticker": "TSLA",
@@ -109,6 +109,16 @@
       "source": "Simply Wall Street",
       "published": "10-18 06:05",
       "published_iso": "2026-10-17T21:05:02+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "JEPQ",
+      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+      "title": "릴이 확장되는 기능이 있다면 읽어볼 슬롯나라 주소 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTRkQ3Fmbkk3eUNDMzFpR1VNX0tnUUZSdFhKU24xS1BLSDU3QTlkUzlJc0lnSkZxTldaNGhTVUxkeGVSWmpXMWxiRFJmY1pNbmhJUVZBaENZWHBBOGhmT3RIMUE2dUpYSGpTekd2aDUwOEdGODFuVHU4dTJYT0Z1SFJTVDY5UnVyX1BuSWtLaXYzYU0ybjlFU3lHczU4X1FoR3E4Yg?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-18 00:11",
+      "published_iso": "2026-10-17T15:11:50+00:00",
       "age": "1일 전"
     },
     {
@@ -179,16 +189,6 @@
       "source": "TIKR.com",
       "published": "10-17 13:52",
       "published_iso": "2026-10-17T04:52:30+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "JEPQ",
-      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-      "title": "[금리 리셋] ⑤ '10% 배당' 사모대출·커버드콜 ETF의 두 얼굴 - ㊦ - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yRGVDOUpFSWh2R0NIcXVDczVvVFVzSGlFd3ZZN08tcy03QjlLX25tVG5sYVFQNTdwMzNIa29ndlBvVTJUcGdLTFZSSm0zN3hySmlLVXdyZllKOTRN?oc=5",
-      "source": "뉴스핌",
-      "published": "10-17 08:01",
-      "published_iso": "2026-10-16T23:01:00+00:00",
       "age": "2일 전"
     },
     {
@@ -412,16 +412,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "기아, 판교서 PV5 기반 원격 운전 카셰어링 시범 서비스 개시 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0tIUW93TTh4dHF6WGdwWFhUMC1vQlJSWEJ1V2l1V0NPckZCQ3kwaWNvclJ5ZmZyTU1WbF9ENHVfZGoyYjRmWGt2bXZScTJ3aExyNFBkTWFaOUdXQkpSN2tBZjlSTlVzWkQ3R0hGbEJENmdBSlFOSWktMV9SZDVWNEdPVzNKVERwZTUxYWJseDVBVHlCQzdSVnd2cw?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-16 08:30",
-      "published_iso": "2026-10-15T23:30:00+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "10억달러 공장 투자로 주목받는 캐터필러 주식 (CAT) - Simply Wall Street",
@@ -559,7 +549,7 @@
       "source": "머니투데이",
       "published": "10-15 13:44",
       "published_iso": "2026-10-15T04:44:44+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "379800",
@@ -792,6 +782,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "천옌순 BOE 회장, 노태문 삼성전자 사장과 회동 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51cU1xaTk4MFBBZ3dtN21mM0JpLWVlWU1pMWcyeml5VjM2cjRiWklERmhjTHVQOGlHdUtRYW9jbGxOZVVfemloZEdubUJCLVdzVEUwZzN2Y203NkdMNUNLdDF3a1FGdw?oc=5",
+      "source": "디일렉",
+      "published": "10-14 07:56",
+      "published_iso": "2026-10-13T22:56:18+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "title": "엔비디아(NVDA), 중국 출하 44% 급감...화웨이 턱밑 추격 - 코인리더스",
@@ -879,7 +879,7 @@
       "source": "매일경제",
       "published": "10-13 13:50",
       "published_iso": "2026-10-13T04:50:30+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "379780",
@@ -992,13 +992,13 @@
       "age": "6일 전"
     },
     {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
-      "title": "\"금값 -21%\" 곡소리 날 때 줍줍, ETF 몰렸다...반등은 언제? - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RNzVOdHdrTURCOFE5c0xDemsxajFaa0R2TEh1MUI0dXdYY3otM3hSVGNBbERlSllGSjBVa19pSnBQcW1hNXhwSm1TZ3MwZlVxaFVoZk5TYW1YdTg2QUNxMjFYOE9OTE5K0gFuQVVfeXFMT05KRERjMWstLXd2NTdaUVRITjFtbWZMdmpqSzMtMnVnM216MkVVNklRQnBPSjhaTGt1eVU3a296OUlhTGFkeTdTVmo0cHBoRlZ5TXRqUld1NjI5QnB5dU9Lbm05bF9vMTZDSUN1bHc?oc=5",
-      "source": "머니투데이",
-      "published": "10-12 16:18",
-      "published_iso": "2026-10-12T07:18:19+00:00",
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "스캐터랩, AI 플랫폼 '제타' 청소년 보호 정책 강화한다 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZSnFUeDlocHk1Yl9CR2NhdS12QlVieWRfQTRXakxJUlpYRk5YaHZMbUlnSmJfX3BDZ19QdzNmaUpHLXZYSG9qMWJ2OXo4UQ?oc=5",
+      "source": "전자신문",
+      "published": "10-12 16:25",
+      "published_iso": "2026-10-12T07:25:28+00:00",
       "age": "6일 전"
     }
   ]
