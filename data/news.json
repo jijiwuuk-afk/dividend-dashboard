@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 01:37 KST",
+  "updated_at": "2026-10-20 02:34 KST",
   "items": [
     {
       "ticker": "TSM",
@@ -9,7 +9,7 @@
       "source": "TradingKey",
       "published": "10-20 00:16",
       "published_iso": "2026-10-19T15:16:11+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "SNDK",
@@ -19,7 +19,7 @@
       "source": "TradingKey",
       "published": "10-19 23:15",
       "published_iso": "2026-10-19T14:15:53+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "AMD",
@@ -29,7 +29,7 @@
       "source": "TradingKey",
       "published": "10-19 22:47",
       "published_iso": "2026-10-19T13:47:58+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "0072R0",
@@ -39,7 +39,7 @@
       "source": "한국일보",
       "published": "10-19 17:30",
       "published_iso": "2026-10-19T08:30:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "TSLA",
@@ -49,7 +49,7 @@
       "source": "코인리더스",
       "published": "10-19 16:30",
       "published_iso": "2026-10-19T07:30:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "COST",
@@ -59,7 +59,7 @@
       "source": "매일경제",
       "published": "10-19 16:01",
       "published_iso": "2026-10-19T07:01:10+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "489250",
@@ -69,7 +69,7 @@
       "source": "한국경제",
       "published": "10-19 15:49",
       "published_iso": "2026-10-19T06:49:12+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "489250",
@@ -79,7 +79,7 @@
       "source": "글로벌이코노믹",
       "published": "10-19 15:33",
       "published_iso": "2026-10-19T06:33:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "489250",
@@ -89,7 +89,17 @@
       "source": "매일일보",
       "published": "10-19 14:02",
       "published_iso": "2026-10-19T05:02:04+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
+    },
+    {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "최태성 도박 게임 내 언어 설정 확인 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVFBBX2ZfRklvSjVDb1FzbzgtQjB3SVU2dlhCSWY5OUwyd0tKTVRwRS1BczlmLW9ETkJiYVNjcmhaMXdBMkQySGJHVjJTRmhUMVJjdUJoUUZBcVdLWWJnLTBaNEpoMG50czFLWHEtM3JyNjhjTlVFdWVNc3NyRnpnNlpJMGxFd1A2Z2hBVHpBekpiOThLZVktSFNqQTF6aGNWODRzVVFjOA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-19 10:34",
+      "published_iso": "2026-10-19T01:34:26+00:00",
+      "age": "16시간 전"
     },
     {
       "ticker": "489250",
@@ -99,7 +109,7 @@
       "source": "연합뉴스",
       "published": "10-19 08:57",
       "published_iso": "2026-10-18T23:57:14+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "005380",
@@ -109,7 +119,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-19 08:30",
       "published_iso": "2026-10-18T23:30:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "TSLA",
@@ -119,7 +129,17 @@
       "source": "연합인포맥스",
       "published": "10-19 07:54",
       "published_iso": "2026-10-18T22:54:18+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
+    },
+    {
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
+      "title": "급락장에 ETF 순위 '지각변동'…TIGER, KODEX 제치고 1위 탈환 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YNGtvTW9CcTRIV2RyVk5vZHNnRTA2MFRFYlFqTkxiQUF1RFpSeFhEWVJIUERZNFc4X3g5NWxIa2RxTUdIQ3l0QmcteVEyNWhpTU5xUEVsVkdFTE1XQnNhT9IBYEFVX3lxTE5YNGtvTW9CcTRIV2RyVk5vZHNnRTA2MFRFYlFqTkxiQUF1RFpSeFhEWVJIUERZNFc4X3g5NWxIa2RxTUdIQ3l0QmcteVEyNWhpTU5xUEVsVkdFTE1XQnNhTw?oc=5",
+      "source": "연합뉴스",
+      "published": "10-19 07:00",
+      "published_iso": "2026-10-18T22:00:03+00:00",
+      "age": "19시간 전"
     },
     {
       "ticker": "005930",
@@ -129,7 +149,7 @@
       "source": "알파경제",
       "published": "10-19 06:00",
       "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "000660",
@@ -139,7 +159,7 @@
       "source": "알파경제",
       "published": "10-19 06:00",
       "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "368590",
@@ -149,7 +169,7 @@
       "source": "TradingKey",
       "published": "10-19 05:00",
       "published_iso": "2026-10-18T20:00:00+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "JEPQ",
@@ -159,7 +179,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-19 04:32",
       "published_iso": "2026-10-18T19:32:35+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "VOO",
@@ -594,21 +614,11 @@
     {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
-      "title": "삼성운용 KODEX 미국나스닥100 순자산 10조 돌파 : 금융 - 재경일보",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xNE9WNnA0dDl6bV9VTjJyOEg5emVnMzN6ZHJxb0JWdVZmOWNTUTZuNnVYSEtwSE1kOUgxMmhyakh0dDZEeTQtQnB3NA?oc=5",
-      "source": "재경일보",
-      "published": "10-15 13:30",
-      "published_iso": "2026-10-15T04:30:16+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
       "title": "삼성운용, 美 대표지수 ETF 나란히 10조…'KODEX 나스닥100'도 합류 - 뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Nd1p4Rzdxa0Z4VlV4bmpDMVRVU1BKRExUaXdQNE4tdEExMlNFUWFobjBMYlJqcnlHNjVXa3JUN25OdVNURmV3Z2pJSEliV1Zfczl3WlgwT1E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KcWR4ZGJ4VHUzT1oxUGVqLXhKNjR1aTMwZVA5Rk1fNUI3eGFhNm5kN2s2WFlmYTdFTERGMjVNck52OHhXdHNQNHo5TlJBVFVzdlMtX3liZWVuTHEzdWc?oc=5",
       "source": "뉴스투데이",
-      "published": "10-15 11:30",
-      "published_iso": "2026-10-15T02:30:41+00:00",
+      "published": "10-15 11:31",
+      "published_iso": "2026-10-15T02:31:00+00:00",
       "age": "4일 전"
     },
     {
@@ -749,7 +759,7 @@
       "source": "TradingKey",
       "published": "10-15 02:16",
       "published_iso": "2026-10-14T17:16:19+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "GOOG",
@@ -842,6 +852,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "SanDisk Corporation (SNDK) 주식 움직였습니다 하락 3.10%에 10월13일: 어떤 신호인가요? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSG1meHVDdm8wTkhoellteHZIY1pZdHdiQWZqY01hcWtqenZJVXB1ZmJHWWxTd241emhoWnZwZk5OY1YyQ3VleUVyU0Q1YWR0S0h4RGQxMnJwaGJnUHl5YlN1eUNzbElSeWJMYXlSTmlLX1lnMDZ6bUhXYVJQU0wwelRpMllLWG1PaS12OTdZSQ?oc=5",
+      "source": "TradingKey",
+      "published": "10-14 00:15",
+      "published_iso": "2026-10-13T15:15:47+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "000660",
       "name": "SK하이닉스",
       "title": "SK hynix 1,443,000원, 10.09% 하락: 강세 2,334,000원·약세 631,000원. 4F2 주장이 매도세를 불렀나 - FinanceFeeds",
@@ -859,16 +879,6 @@
       "source": "TIKR.com",
       "published": "10-13 22:51",
       "published_iso": "2026-10-13T13:51:44+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "마이크론(MU)·샌디스크(SNDK), 주가 동반 폭락...\"싸도 거품은 거품\" - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tTW9lVlJnNnJqcFdfeHJDUG5ZQXJjcmY0ak1nSU9xTklCcHl4Y2wzbVdrZnRxTUl0V3Vybzh1bWh3aTdKX0VLN2tB?oc=5",
-      "source": "코인리더스",
-      "published": "10-13 22:00",
-      "published_iso": "2026-10-13T13:00:00+00:00",
       "age": "6일 전"
     },
     {
@@ -902,16 +912,6 @@
       "age": "6일 전"
     },
     {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "특수 기능이 이어지는 순서를 보는 무료 슬롯 머신 불타는 상자 진행 해설 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ucUwtcHEtNDFGamRCbUJpWm9RZXlHdXZaOUZ0SHdGMHRIMi1idjBRLUxpb0NKNUZjOTFmS3A1eU9ha0VhanpZaS1ON2s4X2pDS0lkQlJoek9lRVg2Q2lIQ181YWQzTVRTVi1LeTE4R2FPcm1Y?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-13 16:56",
-      "published_iso": "2026-10-13T07:56:30+00:00",
-      "age": "6일 전"
-    },
-    {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "title": "NVIDIA, Cisco와 AI 팩토리 확장을 위한 새로운 플러그형 광학 폼 팩터 발표 - NVIDIA",
@@ -942,6 +942,16 @@
       "age": "6일 전"
     },
     {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "삼성운용, ‘KODEX 미국AI에이전트액티브’ ETF 상장…메타·팔란티어 등 투자 - 팍스경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hbk9hZ1Z3Q3FXZl9CV3dsaktydkV1Y2hheXJSdUxsbkxmT2FXZFpnTlhwd0tDLUJYTDcwM2VyaDc0bEJySjBEbmpPSXRMZkc3VjlzLXRtc1BmTlZYRzhjWm10VmEtekJ0?oc=5",
+      "source": "팍스경제TV",
+      "published": "10-13 13:57",
+      "published_iso": "2026-10-13T04:57:36+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
       "title": "AMD, AI 에이전트 전용 서버 공개…CPU 3만2000개 코어 탑재 - 매일경제",
@@ -969,16 +979,6 @@
       "source": "samsung.com",
       "published": "10-13 10:00",
       "published_iso": "2026-10-13T01:00:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "삼성자산운용, 'KODEX 미국AI에이전트액티브' ETF 신규 상장 - 일간투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uVVNmQnE2OGpkS1hPZUFGZ2RWZHdvNl9XUmhySG1Ydi1WMkFxYldfRnNmR1c5Q192OWRBOUZQNTI3UFpNb1BoRHQydzhfUkxTaVFTcERDeWdXMmk3SHlFRVVmanRLRm9yYWVF?oc=5",
-      "source": "일간투데이",
-      "published": "10-13 09:55",
-      "published_iso": "2026-10-13T00:55:11+00:00",
       "age": "6일 전"
     },
     {
