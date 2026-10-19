@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-19 10:37 KST",
+  "updated_at": "2026-10-19 11:33 KST",
   "items": [
+    {
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
+      "title": "개미의 이민 본격화되나…S&P500 투자 TIGER, 코스피 200 투자 KODEX 제치고 순자산 1위 등극 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aMExmNllCVFVDV2lCV1dWcS12Ty1TSU1BeTZ4RFdlZEp5T1NjbHJCWW1TcmhlbTl0Q25ReHdNWTNVNkVWckI0anBZU2Y3ZHpGVlE?oc=5",
+      "source": "매일경제 마켓",
+      "published": "10-19 11:12",
+      "published_iso": "2026-10-19T02:12:59+00:00",
+      "age": "20분 전"
+    },
     {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
@@ -9,7 +19,7 @@
       "source": "머니투데이",
       "published": "10-19 09:41",
       "published_iso": "2026-10-19T00:41:46+00:00",
-      "age": "55분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "489250",
@@ -19,7 +29,7 @@
       "source": "아시아경제",
       "published": "10-19 09:00",
       "published_iso": "2026-10-19T00:00:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "489250",
@@ -29,7 +39,7 @@
       "source": "연합뉴스",
       "published": "10-19 08:57",
       "published_iso": "2026-10-18T23:57:14+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "TSLA",
@@ -39,16 +49,6 @@
       "source": "연합인포맥스",
       "published": "10-19 07:54",
       "published_iso": "2026-10-18T22:54:18+00:00",
-      "age": "2시간 전"
-    },
-    {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
-      "title": "급락장에 ETF 순위 '지각변동'…TIGER, KODEX 제치고 1위 탈환 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YNGtvTW9CcTRIV2RyVk5vZHNnRTA2MFRFYlFqTkxiQUF1RFpSeFhEWVJIUERZNFc4X3g5NWxIa2RxTUdIQ3l0QmcteVEyNWhpTU5xUEVsVkdFTE1XQnNhT9IBYEFVX3lxTE5YNGtvTW9CcTRIV2RyVk5vZHNnRTA2MFRFYlFqTkxiQUF1RFpSeFhEWVJIUERZNFc4X3g5NWxIa2RxTUdIQ3l0QmcteVEyNWhpTU5xUEVsVkdFTE1XQnNhTw?oc=5",
-      "source": "연합뉴스",
-      "published": "10-19 07:00",
-      "published_iso": "2026-10-18T22:00:03+00:00",
       "age": "3시간 전"
     },
     {
@@ -59,17 +59,17 @@
       "source": "알파경제",
       "published": "10-19 06:00",
       "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "000660",
       "name": "SK하이닉스",
-      "title": "Foreign Investors Dump $9.5 Billion in Samsung Electronics and SK Hynix Shares While Buying Shipbuilding and Semiconductor Stocks - 알파경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ibVMyYW9FUGRSSGdMV01VWHZPckZvOE9RaTlXeTRkbU1YT2FQRm91TkwxYXBhUGQ4SnQ1RkEya2pOZHEyUEJtY1czUEQ3NTVfWUVBQ0JCVDdnZXNtXzlEWFFJbmltWGJDOGNxOXdB?oc=5",
+      "title": "SK Hynix Faces Shareholder Value Concerns Over Solidigm's Potential $150 Billion U.S. IPO - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uQV8wekQtWVBYOTRJa01CRDF5ZVNPMEV4dFRhZHhVNElGTVBXLUMtSjNVeWxRMWJUcGRWV01PUGVrSjBpd0poUExlbGNYd21RTXBBNFctTGJleXJTeTkyeVpTbnRfZkN4emE0TVRB?oc=5",
       "source": "알파경제",
       "published": "10-19 06:00",
       "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "VOO",
@@ -89,7 +89,17 @@
       "source": "Calgary Roughnecks",
       "published": "10-18 18:31",
       "published_iso": "2026-10-18T09:31:11+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "인텔(INTC), AI 인프라 기대는 커지는데 지금도 매수할 만한가? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkp3Y0s4UUF4dzNZQzBjX294V0N2LXFBMFhaSVZnUzg3bjJ1bmhkcnpod0xlRmZ2Vl9zTzQ5eTdfOHgwS1Y0Nkl2VFNXSE1pUHBQSlhoN0Fka1AzRTAxLWhvcXdYVGxXODFOeGlORE9Kb1hCQUJsUGo4YnQ3bWk5SnVIRG00R0xQS2lzcDRNYjR2VzhiUF9hMNIBmAFBVV95cUxQQkp3Y0s4UUF4dzNZQzBjX294V0N2LXFBMFhaSVZnUzg3bjJ1bmhkcnpod0xlRmZ2Vl9zTzQ5eTdfOHgwS1Y0Nkl2VFNXSE1pUHBQSlhoN0Fka1AzRTAxLWhvcXdYVGxXODFOeGlORE9Kb1hCQUJsUGo4YnQ3bWk5SnVIRG00R0xQS2lzcDRNYjR2VzhiUF9hMA?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-18 12:56",
+      "published_iso": "2026-10-18T03:56:10+00:00",
+      "age": "22시간 전"
     },
     {
       "ticker": "TSLA",
@@ -332,16 +342,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "Exynas Collaborates with SK Hynix on AI Memory Technology… Unveils CXL-Based Inference Solution at 'OCP Global Summit' - 벤처스퀘어",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02VTUtU2hrcUxfZ0ItMUZfV0V2eDZERzlVbUktbWVZbFE2Zl8yb3licWVvOWoyRW5CbDF0Mmh3c251c0JmclU5U2xOT3NzSTkwWnBz?oc=5",
-      "source": "벤처스퀘어",
-      "published": "10-16 19:06",
-      "published_iso": "2026-10-16T10:06:39+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
       "title": "매달 현금이 따박따박…‘변동장 피난처’ 떠오른 커버드콜 ETF [S머니+] - 서울경제",
@@ -376,16 +376,6 @@
       "name": "Advanced Micro Devices, Inc.",
       "title": "AMD(NVDA) 42% 저평가 가능성 금리 부담 속 AI 투자 우려가 변수 - Simply Wall Street",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPemtJTXhKbTI2eVZ1dzVpYk1BeURNdFpYcHBSZ09WTkdSN3J1R2NWQ2VaQ0lPbkJGZjh2RHdIalp2U2tlT1hQSFJTazFtTDl1QnViYkt3d05wOU1ZeTAydmtYbGxaTHN3WVJlblFqcmVlNnEwR045QUE2ckctb0JjRjd6WnZFQlh4cmpsN2MwQ28tZ05TQW1qTVVyNGNsWjNMaHpRd1JYakfSAa4BQVVfeXFMUDd0Q1l6WEpFcGhEa3FQckc3SGdZRFVtNE5vRTNnbEJEZXV5b2lmaHduMmhWb1BlVzdyZDM1aW9RaFFnTzhWcGlPV1g4eEpIdl95WGcxcXZubUpDRlQ5RXBCLTBEa2RGeWRQVkF1ZDFoTU5iQmRRRWdpQUZIaU5yVFoxMm04WFFQRGZlRFNkT3l6bTlyX01ULWlRUlVlb3BTX1plakFUZlYxM2lmUE9B?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-16 16:00",
-      "published_iso": "2026-10-16T07:00:00+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "인텔(INTC), AI 인프라 기대는 커지는데 지금도 매수할 만한가? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdTVnZkg3cDFwQ3RRcGJXbzZsdnZ3bktDUVpuZWpqdms0S3hfZmtzbFhXTGFNYXZrZkFCcGp6VnB6SWEybWVGREpTQ2k3SFZINzFVSGFxcHlpUVBMNHlYZ0REQmpXc3o1ZE16RTVMTHphRmhLa1ZUc3kyTlpZREYxZ2VYdHdWLTAwc1FaUFoxcFQwMUXSAZgBQVVfeXFMUEJKd2NLOFFBeHczWUMwY19veFdDdi1xQTBYWklWZ1M4N24ydW5oZHJ6aHdMZUZmdlZfc080OXk3Xzh4MEtWNDZJdlRTV0hNaVBwUEpYaDdBZGtQM0UwMS1ob3F3WFRsVzgxTnhpTkRPSm9YQkFCbFBqOGJ0N21pOUp1SERtNEdMUEtpc3A0TWI0dlc4YlBfYTA?oc=5",
       "source": "Simply Wall Street",
       "published": "10-16 16:00",
       "published_iso": "2026-10-16T07:00:00+00:00",
@@ -502,6 +492,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "원/엔 '18년 만에 최저'…엔화 노출 ETF 수익률 줄줄이 마이너스 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiWmQ3b3pHbUtLSDZLQzJzVUZjVi1HZG9fNzdkVGtZUERfV2xJeU51YlNCbUYxMTVRSVFhUnFBQ3Q1UVcxVVF2aktuRnpVQXZTVkRELTVmWVphVG1qQXNUY0VBTHd4WVpo0gFuQVVfeXFMT1Z0VFo4NnBHREdjeG9tUHB5MGprMzI3clJYSmMzN0JqSTRTZXpGZjI4OU1SNW9JcGEyYVZwSkRxY0tNempHX2Jsek1lcWU4MXh5bFRoczlFTUVvMnNfNFoyeVA5UzhrLWtvRzdud0E?oc=5",
+      "source": "머니투데이",
+      "published": "10-15 17:07",
+      "published_iso": "2026-10-15T08:07:25+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
       "title": "'25%p 초과성과' 비결은 액티브? SCHD액티브로 이어지나 - 머니투데이 - 머니투데이",
@@ -554,11 +554,11 @@
     {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
-      "title": "삼성운용 KODEX 미국나스닥100 순자산 10조 돌파 : 금융 - 재경일보",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xNE9WNnA0dDl6bV9VTjJyOEg5emVnMzN6ZHJxb0JWdVZmOWNTUTZuNnVYSEtwSE1kOUgxMmhyakh0dDZEeTQtQnB3NA?oc=5",
-      "source": "재경일보",
-      "published": "10-15 13:30",
-      "published_iso": "2026-10-15T04:30:16+00:00",
+      "title": "코스피, 서킷브레이커 발동..코스피·코스닥, 매매 일시 중단 - 스마트투데이",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Va2haMVhabkVYSzUyVFhLUDU4bUpHUnZXd1F5QlFUM3hzNVBhUE5GNnBqWmgtb1ZzQ3ptZldWY1dwU2tpTXRUYU1jVEk3dkZQcHRyV3FoYUwxZEVlVFc4?oc=5",
+      "source": "스마트투데이",
+      "published": "10-15 12:40",
+      "published_iso": "2026-10-15T03:40:00+00:00",
       "age": "3일 전"
     },
     {
@@ -579,7 +579,7 @@
       "source": "뉴스투데이",
       "published": "10-15 11:30",
       "published_iso": "2026-10-15T02:30:41+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "379810",
@@ -589,7 +589,7 @@
       "source": "전자신문",
       "published": "10-15 11:02",
       "published_iso": "2026-10-15T02:02:02+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "0072R0",
@@ -599,7 +599,7 @@
       "source": "매일신문",
       "published": "10-15 10:44",
       "published_iso": "2026-10-15T01:44:59+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "379810",
@@ -609,7 +609,7 @@
       "source": "서울경제",
       "published": "10-15 10:37",
       "published_iso": "2026-10-15T01:37:30+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "458730",
@@ -804,6 +804,16 @@
     {
       "ticker": "000660",
       "name": "SK하이닉스",
+      "title": "SK hynix 1,443,000원, 10.09% 하락: 강세 2,334,000원·약세 631,000원. 4F2 주장이 매도세를 불렀나 - FinanceFeeds",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVllLNGg2ZHlmYmxldS0xRHNIYzNhWlpQQjBYR3k2bTdGUXN2VlE3bXFGcG51RWJnNlJ6OUFjNURHcGYtczRsaFpjUDc4ZDdZWHZiVUh6MGZIdEF2WlBqcFJUbTNGUjN1ZjdjaGQ0OF9FLXhydHZPdzNjankyVERqdTJqeHlpSVA4SDV4bFVtWS0?oc=5",
+      "source": "FinanceFeeds",
+      "published": "10-13 23:26",
+      "published_iso": "2026-10-13T14:26:52+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
       "title": "SK Hynix Plunges 9% on China DRAM Scare: “A Clear Trigger for the Selloff” - TIKR.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWRZWHU0bmE3bFJVbUw2WldIcGd1MjRNam1rVGx1ejFhSzMzc2xxbGt2di0wRGhwR0k4TkRaSXg4MDgzTzRJZnBMNkZHUGFEWXRHNTJyUjAzM3JjSHB6dlZUSlgyVkdnRWNvQUZqNmtKdjduRTNfSFVoUzdoc3ZtZ3lXM0JWZ2g0NGxVaDVRTThTZndoX0kxajdzT1NGSXdu?oc=5",
       "source": "TIKR.com",
@@ -872,16 +882,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "미래에셋, ‘TIGER 미국S&P500타겟데일리커버드콜’ 10월 분배금 115원 지급 - 비즈월드",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1od3RTMmZLSWtfX25xZ0p3LTFkZERHNnM2dThjclY1cGNKYjZtWXhtSEE3alB3V1FkNmdBcTQyajNuLWZ1bFFfeGRZRzJ4aXZqb0Zuc2d6RkRoUmFRRXR2LTZ4TzJkaW9Eemc?oc=5",
-      "source": "비즈월드",
-      "published": "10-13 13:11",
-      "published_iso": "2026-10-13T04:11:00+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "487230",
       "name": "KODEX 미국AI전력핵심인프라",
       "title": "삼성운용, 'KODEX 미국AI에이전트액티브' 출시 - 스마트투데이",
@@ -889,7 +889,7 @@
       "source": "스마트투데이",
       "published": "10-13 11:09",
       "published_iso": "2026-10-13T02:09:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "005930",
