@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-19 20:36 KST",
+  "updated_at": "2026-10-19 21:44 KST",
   "items": [
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "title": "인텔, 네비우스, 스페이스X, 테슬라 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQOVI2MFg4SFU3WFZDZXVQdmRmT294OFVBeUE5ZEtQQnlEZEMtYUVLNlJZeGdqUmZ4ZUpjUngzcnpYVmVyYXBPcVowSVRmRjlfcWdKSm15UURPS3BVWndpUGNSUUIyV19Ta2w5c3BpbUUzVk0?oc=5",
+      "source": "마켓인",
+      "published": "10-19 21:16",
+      "published_iso": "2026-10-19T12:16:56+00:00",
+      "age": "27분 전"
+    },
     {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
@@ -9,7 +19,7 @@
       "source": "한국일보",
       "published": "10-19 17:30",
       "published_iso": "2026-10-19T08:30:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "TSLA",
@@ -19,7 +29,7 @@
       "source": "코인리더스",
       "published": "10-19 16:30",
       "published_iso": "2026-10-19T07:30:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "COST",
@@ -29,7 +39,7 @@
       "source": "매일경제",
       "published": "10-19 16:01",
       "published_iso": "2026-10-19T07:01:10+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "489250",
@@ -39,7 +49,7 @@
       "source": "한국경제",
       "published": "10-19 15:49",
       "published_iso": "2026-10-19T06:49:12+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "489250",
@@ -49,7 +59,7 @@
       "source": "글로벌이코노믹",
       "published": "10-19 15:33",
       "published_iso": "2026-10-19T06:33:00+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "489250",
@@ -59,7 +69,7 @@
       "source": "매일일보",
       "published": "10-19 14:02",
       "published_iso": "2026-10-19T05:02:04+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "489250",
@@ -69,7 +79,7 @@
       "source": "연합뉴스",
       "published": "10-19 08:57",
       "published_iso": "2026-10-18T23:57:14+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "005380",
@@ -79,17 +89,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-19 08:30",
       "published_iso": "2026-10-18T23:30:00+00:00",
-      "age": "12시간 전"
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "title": "'AI 수익성vs고유가 악재'…메타·테슬라·넷플릭스 이번 주 실적 시험대 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DZmtFTWczcExOUFNMei1BOVg5djBVYTVSWGxlMXdnQnlaZklmS1E2amVsM0VXc0NSRFZ5Q2QzZTNHSmpPVE9nWk1yY3p1RURNS25wdk0teDd1SmJtNUdGYkFJQklwWFpoTzBDWXpHVjHSAXRBVV95cUxPQURNbXZhVnpnLWFZd2xqdlAxRG5SR1BVZHJBYXNvQVU0WlFtZmRlck92V3Zmc0l1NlhnUE50d0M1VnFpTkg0ckxkeFljU1dOMF82V3U5MkxpS2FDemg1bUlESk13VzItZXF4VUFFSU91Ul85Wg?oc=5",
-      "source": "연합인포맥스",
-      "published": "10-19 07:54",
-      "published_iso": "2026-10-18T22:54:18+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "005930",
@@ -99,26 +99,16 @@
       "source": "알파경제",
       "published": "10-19 06:00",
       "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "SK Hynix Faces Shareholder Value Concerns Over Solidigm's Potential $150 Billion U.S. IPO - 알파경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uQV8wekQtWVBYOTRJa01CRDF5ZVNPMEV4dFRhZHhVNElGTVBXLUMtSjNVeWxRMWJUcGRWV01PUGVrSjBpd0poUExlbGNYd21RTXBBNFctTGJleXJTeTkyeVpTbnRfZkN4emE0TVRB?oc=5",
-      "source": "알파경제",
-      "published": "10-19 06:00",
-      "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "14시간 전"
-    },
-    {
-      "ticker": "JEPQ",
-      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-      "title": "보너스 유형에 따라 달라지는 토토 사이트 먹튀 슈퍼맨 화면 구성 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qWkhCY1dTM3ZSTHhuVThXWW02RG0zeW1idnlMSTBoZFU1elJmOVBtSnAyQ0dySTlpWUpQcjY2YW02b0pxR3MyeW9RRDgwMlNmeW42SWFXVVVnLXdEeGlYMVNFRlREYXcyaXpocExZcW0?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-19 04:32",
-      "published_iso": "2026-10-18T19:32:35+00:00",
+      "ticker": "368590",
+      "name": "RISE 미국나스닥100",
+      "title": "【미 증시 개장 전】 트럼프 대러 제재 완화, 유가 하락; 인텔 4% 이상 상승, 마이크론과 샌디스크 메모리 반도체주 주도 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZmR3a1RGdXNHQnVFWHItQUlxclRUcUFBWG5qcGFXbmZXUjVEMG92YUprbkk1YmxUM3NYb1pBX0FGd1plMWRZTDB5Wk1QaGpzV3NUckJRRGlIVWstNlNCaUpoNzR3eXFQZ1ZmWk5adXhkTWh6cUVxMDViMDJPY1pOYU81cUVpZ3lfUzBIU1JabGFldkdza1J2WFg3ay10TTRpZjlmNlg3MG5zcDFWYVZvNjE2N3NNbDVEdDBVVXgxTWRkUlFqRlUyRHlPbkt1WWt3eXRxQkVRdWt3d0VaTzFVX3RXc0thWk1pbEgtbkthVTU4N2c?oc=5",
+      "source": "TradingKey",
+      "published": "10-19 05:00",
+      "published_iso": "2026-10-18T20:00:00+00:00",
       "age": "16시간 전"
     },
     {
@@ -129,7 +119,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-18 22:34",
       "published_iso": "2026-10-18T13:34:21+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "QQQM",
@@ -142,13 +132,13 @@
       "age": "1일 전"
     },
     {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "현대차·기아, ‘이포레스트 테크데이 2026’ 개최 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM1RDbThhV1NBenBwQlpmNXRhZGlOWmVZVnhYX0xsc1lEZE95OV9LUzJDTkhONHJQSjFSM3VWMzJRWHQyZFZZdkpaNXgzUTNFc0xFZXhxRllRSzNXOEsxcE5FdGF3RUpVR1FNLV9qSjF0STFFckVuTFR2dWhhMkVnbXBjTFhXeUhJZDRuUE5oUWxLd0E?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-18 09:00",
-      "published_iso": "2026-10-18T00:00:00+00:00",
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "롯데마트 제타, 10월 ‘월간제타’ 진행 - 글로벌뉴스통신GNA",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByTzhPbkJ1bmVRbkNFN1pTZFBjME9saERLNG1qMUg4aXl5bmh3UkxLQXZRVkpHOFVEV0FIZDVjQWhzel9BWGw1Slo5MnFOS2JxTFJZRG56Y1A1TTJHbWUzTUhrdjVqUWpPQUxBZ0VUSGFQbmhw?oc=5",
+      "source": "글로벌뉴스통신GNA",
+      "published": "10-18 10:45",
+      "published_iso": "2026-10-18T01:45:02+00:00",
       "age": "1일 전"
     },
     {
@@ -159,6 +149,16 @@
       "source": "Simply Wall Street",
       "published": "10-18 06:05",
       "published_iso": "2026-10-17T21:05:02+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "JEPQ",
+      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+      "title": "릴이 확장되는 기능이 있다면 읽어볼 슬롯나라 주소 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTRkQ3Fmbkk3eUNDMzFpR1VNX0tnUUZSdFhKU24xS1BLSDU3QTlkUzlJc0lnSkZxTldaNGhTVUxkeGVSWmpXMWxiRFJmY1pNbmhJUVZBaENZWHBBOGhmT3RIMUE2dUpYSGpTekd2aDUwOEdGODFuVHU4dTJYT0Z1SFJTVDY5UnVyX1BuSWtLaXYzYU0ybjlFU3lHczU4X1FoR3E4Yg?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-18 00:11",
+      "published_iso": "2026-10-17T15:11:50+00:00",
       "age": "1일 전"
     },
     {
@@ -212,26 +212,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "JEPI",
-      "name": "JPMorgan Equity Premium Income ETF",
-      "title": "[금리 리셋] ⑤ '10% 배당' 사모대출·커버드콜 ETF의 두 얼굴 - ㊦ - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yRGVDOUpFSWh2R0NIcXVDczVvVFVzSGlFd3ZZN08tcy03QjlLX25tVG5sYVFQNTdwMzNIa29ndlBvVTJUcGdLTFZSSm0zN3hySmlLVXdyZllKOTRN?oc=5",
-      "source": "뉴스핌",
-      "published": "10-17 08:01",
-      "published_iso": "2026-10-16T23:01:00+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "JEPQ",
-      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-      "title": "[금리 리셋] ⑤ '10% 배당' 사모대출·커버드콜 ETF의 두 얼굴 - ㊦ - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yRGVDOUpFSWh2R0NIcXVDczVvVFVzSGlFd3ZZN08tcy03QjlLX25tVG5sYVFQNTdwMzNIa29ndlBvVTJUcGdLTFZSSm0zN3hySmlLVXdyZllKOTRN?oc=5",
-      "source": "뉴스핌",
-      "published": "10-17 08:01",
-      "published_iso": "2026-10-16T23:01:00+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
       "title": "[ETF머니플로우-10월2주] KODEX 200 순매수 1위…TIGER 미국S&P500 6계단↓ - 신아일보",
@@ -282,6 +262,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "양자컴퓨팅 혁신과 시장 변동성 속 Alphabet 주가 $343 부근 유지 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWlNoUnRTakVmU0xrRkg1OGVQVkdKQ2w2VU9EUFVaekF5NExGY3JDVGlEOWxBbEEwUGxlUkFNZ2I3Yk84Uy1xb2R6QWtPRWNacFZyRjlXMThkM1BfLU84OElJdF96R0Y4M1BTWHNrdkpGVklEVnRXRnBpcjV2NEhMVmRfeGZOS1dBYTQ2YnJrVG5hMVRIR21ZVmphNlhCdlNWdGE3WGNlNUY2TTg?oc=5",
+      "source": "Traders Union",
+      "published": "10-17 00:44",
+      "published_iso": "2026-10-16T15:44:33+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
       "title": "Advanced Micro Devices Inc (AMD) 주식 움직였습니다 하락 3.79%에 10월16일: 변동을 뒷받침하는 사실 - TradingKey",
@@ -329,17 +319,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-16 21:04",
       "published_iso": "2026-10-16T12:04:26+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "368590",
-      "name": "RISE 미국나스닥100",
-      "title": "기본 설명이 충분한지 따져보는 미니 슬롯머신 저금통 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOeDd6dmstU0dYbll0MVhucmFYbWIzUHFiRkVWU2VranhvOFN5QXhQRXRzdXZUZHVGLXBrdnZENG50R3RhY0l5OG5kYUNseHRQMTlIRmNTeWtQcTNZWFBERjFxamdSdWVFSS1lQ0dzcDZTSHV2cUZLdlJ3TFI4bjRRMDB0d3dOa0FwQ2RVZUpVT1BSU2t4cXZJS1M3a2ZkR2pDcU01NUlZUXotZm90WDdLYi1IUmRtSHVKOHJwQVhSZldxN3lLTF9Kd1BGNURuMmhxUV9oTkZHODJiZE1KejFUZkVxUG9Fd0xTQkRpbXJCSk1PSm9VZ0k4QmJlYnRMcVJMMEd5cDhqbHBTUUJpa1EzT3JNdlNLZm1pd09sVHBRS2R3UQ?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-16 21:04",
-      "published_iso": "2026-10-16T12:04:26+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "ZETA",
@@ -409,6 +389,26 @@
       "source": "Simply Wall Street",
       "published": "10-16 16:00",
       "published_iso": "2026-10-16T07:00:00+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "JEPI",
+      "name": "JPMorgan Equity Premium Income ETF",
+      "title": "[금리 리셋] ⑤ '10% 배당' 사모대출·커버드콜 ETF의 두 얼굴 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBseGVLOWlZX2xORjFGZFR2ZENoWXRnRHhYNGNVcEx6THA0ZHBWSGxDRnJuMGlRMkdPN3FjTkxMdElBOEZmRUhjc3plV3pCMmFWRVNNQzRQUVBlS04x?oc=5",
+      "source": "뉴스핌",
+      "published": "10-16 13:00",
+      "published_iso": "2026-10-16T04:00:00+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "JEPQ",
+      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+      "title": "[금리 리셋] ⑤ '10% 배당' 사모대출·커버드콜 ETF의 두 얼굴 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBseGVLOWlZX2xORjFGZFR2ZENoWXRnRHhYNGNVcEx6THA0ZHBWSGxDRnJuMGlRMkdPN3FjTkxMdElBOEZmRUhjc3plV3pCMmFWRVNNQzRQUVBlS04x?oc=5",
+      "source": "뉴스핌",
+      "published": "10-16 13:00",
+      "published_iso": "2026-10-16T04:00:00+00:00",
       "age": "3일 전"
     },
     {
@@ -652,6 +652,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대차 팰리세이드 하이브리드, 워즈오토 ‘최고 10대 엔진 및 동력 시스템’ 수상 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHpCRDRqYlVzV2gwVFNJZHd6ckh6YzJMUHZhcFFyVVFVTHd6UVdzeUpCWHdFc1BqSGxFMENXSDY1WjB4azFmX3J6d0Z5cnZWUFROUlk1cmRZVHJIOHFHbVhOTDRldDVBQzcwRlZoZ1ZlQS1jYmVVX3R2bEVBaTR0dENOV1daUVBOQVdSLUdzaDRmQ2JaV09BVGZ6X1RoV1RZU0hkYm55elA?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-15 08:30",
+      "published_iso": "2026-10-14T23:30:00+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
       "title": "\"반도체 3배에 1조원 넘게 몰렸다\"…그런데 2·3위는 뜻밖의 상품 - 아시아경제",
@@ -699,16 +709,6 @@
       "source": "TradingKey",
       "published": "10-15 02:16",
       "published_iso": "2026-10-14T17:16:19+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "사기 혐의가 Alphabet 주가를 압박하는 가운데 매수세는 단기 지지선 방어 - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTN4UldOVlpHUlo1Y2h2STk2RzNvcDR3a0JNNjhjNzFPWXZUTVF5cjJHNm5ZVG84dFViQkFyYWp3SWpuMVZIaXVTbGpMbjlCZkRuWG95bmlZeC1QQVpWS3gtcEhPY01CNmhLbDJadkVuVk0wYllxZE5qc2ViZjlod1M1NmFsN0VfOE5taEhBdzBQOEU0dzFPSg?oc=5",
-      "source": "Traders Union",
-      "published": "10-15 01:26",
-      "published_iso": "2026-10-14T16:26:01+00:00",
       "age": "4일 전"
     },
     {
@@ -764,6 +764,16 @@
     {
       "ticker": "005930",
       "name": "삼성전자",
+      "title": "Samsung Electronics, SK hynix rebound after sharp sell-off - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zdEp0YmxJT05iOTMzYVpZVHhZemRoLUdvWXZWWldScjhCOGg2WHdQMTdvMzNfWmFLSzBuUEtYZWhUVWN2R3FFSVRJT2hkYjBzOUZB?oc=5",
+      "source": "매일경제",
+      "published": "10-14 14:40",
+      "published_iso": "2026-10-14T05:40:03+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
       "title": "Samsung Electronics, SK hynix rebound after sharp sell-off - 매일경제",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zdEp0YmxJT05iOTMzYVpZVHhZemRoLUdvWXZWWldScjhCOGg2WHdQMTdvMzNfWmFLSzBuUEtYZWhUVWN2R3FFSVRJT2hkYjBzOUZB?oc=5",
       "source": "매일경제",
@@ -989,16 +999,6 @@
       "source": "TIKR.com",
       "published": "10-13 04:46",
       "published_iso": "2026-10-12T19:46:54+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
-      "title": "반등하나 했는데 '뚝'…\"줍줍 기회\" 수익률 마이너스 금ETF로 우르르 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkelpvUXVDSVJKci1YVjduM0pKbEZuamFSaWJKb1RJT3NRbFJJNTZSNjNFT1k1WXNZNTN6Zm1YQVVaRjNKVkl0eWNwaE1qMmEzblotYnFjd3RTbC16SzJXR05GeDFnSC1G0gFuQVVfeXFMUHBfQ3JGMUtUZXZXajY5akxpMGpWSlRrM1lJTEREWmhfd090LV9TYU9CSk1OODNtejVMdk95RnFoaEJQV0RUM1E3T2FqVHVTMmVBalJ1TFh1WkJvSjUwQmFJYTAwMzNJQ0dBRnE3QVE?oc=5",
-      "source": "머니투데이",
-      "published": "10-13 04:00",
-      "published_iso": "2026-10-12T19:00:00+00:00",
       "age": "6일 전"
     }
   ]
