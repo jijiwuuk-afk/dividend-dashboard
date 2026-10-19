@@ -1,15 +1,35 @@
 {
-  "updated_at": "2026-10-19 08:27 KST",
+  "updated_at": "2026-10-19 09:44 KST",
   "items": [
     {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "title": "테슬라(TSLA.O), 공중 부양하는 신형 '로드스터' 공개…스페이스X와 합병설 재점화 - 알파경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CQXV5VXBwN3RZNnNYMXltY1RlN0tSTzFyQlh1cEJnMG10aWpvUzQ4RGtGeEdzRWVhUU03THJRbUZyV1VyQ3NOWWVIbHJCN0lNdFphUUZFeTMzNkZmdW5yNFp0UEg5SFliU19lQUhn?oc=5",
-      "source": "알파경제",
-      "published": "10-19 07:56",
-      "published_iso": "2026-10-18T22:56:39+00:00",
-      "age": "30분 전"
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "삼성자산운용, ‘KODEX 미국배당다우존스액티브’ 출시…수시 종목 조정 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Tb2JZQzAzczZhZ0pseXk5SUlZUmlpOGY5U0F0TURtb3dhb25rWVVnNE5oOERGaWVXQjJxdTF2NXR4b2swR3hva1VJREFDNld0SS11dUMyd3U4QQ?oc=5",
+      "source": "브릿지경제",
+      "published": "10-19 09:07",
+      "published_iso": "2026-10-19T00:07:00+00:00",
+      "age": "37분 전"
+    },
+    {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "삼성운용, KODEX 미국배당다우존스액티브 신규 상장 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aY0tfd1FaWXVXd3BEM05NeTZNdWdMMEluSG5YOU5OcmhjQXlXOXA5dFFGRFZuVnZrYUZlNHA0TkExbTREQ1NUZl96T0xpRm8wR0RwX2NCR0FIMnFhMVJJN0tR?oc=5",
+      "source": "아시아경제",
+      "published": "10-19 09:00",
+      "published_iso": "2026-10-19T00:00:00+00:00",
+      "age": "44분 전"
+    },
+    {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "삼성운용, 'KODEX 미국 배당다우존스액티브' 20일 상장 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44RmtWS0lmbFFfTUhubk5jVkdoTGFnd3Z3UkgxWmRkQTJoa2ExN25sQmhNa1NvLWVQbEZUenJEX0hLSE5FbjRwSVNSQ3dHQ1hsOXZiSm1KcmQ4RFXSAWBBVV95cUxPb1N1REFUQjJycXlXbjVKYllEc2I0eEpyaG5Hbm14cDZhR2VNc01KY3FmYXdtQk05Z2IxYS1SSVpCalN0SkZJZm1KMjhBLXU3T3dvd3ZWNTB6RzNLZnFYejg?oc=5",
+      "source": "연합뉴스",
+      "published": "10-19 08:57",
+      "published_iso": "2026-10-18T23:57:14+00:00",
+      "age": "47분 전"
     },
     {
       "ticker": "TSLA",
@@ -19,7 +39,17 @@
       "source": "연합인포맥스",
       "published": "10-19 07:54",
       "published_iso": "2026-10-18T22:54:18+00:00",
-      "age": "33분 전"
+      "age": "1시간 전"
+    },
+    {
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
+      "title": "급락장에 ETF 순위 '지각변동'…TIGER, KODEX 제치고 1위 탈환 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YNGtvTW9CcTRIV2RyVk5vZHNnRTA2MFRFYlFqTkxiQUF1RFpSeFhEWVJIUERZNFc4X3g5NWxIa2RxTUdIQ3l0QmcteVEyNWhpTU5xUEVsVkdFTE1XQnNhT9IBYEFVX3lxTE5YNGtvTW9CcTRIV2RyVk5vZHNnRTA2MFRFYlFqTkxiQUF1RFpSeFhEWVJIUERZNFc4X3g5NWxIa2RxTUdIQ3l0QmcteVEyNWhpTU5xUEVsVkdFTE1XQnNhTw?oc=5",
+      "source": "연합뉴스",
+      "published": "10-19 07:00",
+      "published_iso": "2026-10-18T22:00:03+00:00",
+      "age": "2시간 전"
     },
     {
       "ticker": "005930",
@@ -29,7 +59,17 @@
       "source": "알파경제",
       "published": "10-19 06:00",
       "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "Foreign Investors Dump $9.5 Billion in Samsung Electronics and SK Hynix Shares While Buying Shipbuilding and Semiconductor Stocks - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ibVMyYW9FUGRSSGdMV01VWHZPckZvOE9RaTlXeTRkbU1YT2FQRm91TkwxYXBhUGQ4SnQ1RkEya2pOZHEyUEJtY1czUEQ3NTVfWUVBQ0JCVDdnZXNtXzlEWFFJbmltWGJDOGNxOXdB?oc=5",
+      "source": "알파경제",
+      "published": "10-19 06:00",
+      "published_iso": "2026-10-18T21:00:00+00:00",
+      "age": "3시간 전"
     },
     {
       "ticker": "NVDA",
@@ -39,7 +79,7 @@
       "source": "Investing.com 한국어",
       "published": "10-19 04:46",
       "published_iso": "2026-10-18T19:46:15+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "VOO",
@@ -49,7 +89,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-18 22:34",
       "published_iso": "2026-10-18T13:34:21+00:00",
-      "age": "9시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "QQQM",
@@ -59,7 +99,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-18 18:31",
       "published_iso": "2026-10-18T09:31:11+00:00",
-      "age": "13시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "TSLA",
@@ -89,6 +129,16 @@
       "source": "TradingKey",
       "published": "10-18 00:00",
       "published_iso": "2026-10-17T15:00:00+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "title": "테슬라·스페이스X 합병 현실화하나? 머스크의 'Tesla x SpaceX' 메시지에 월가 주목 - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fNk5xRlA1N2RDLXo0S3BxbXJPdXpYbF9GYXpFZnN6Uml2YkRWNWJ4MmVNazlUd24yS1E1V0RSMEpwMVRZWnhHSw?oc=5",
+      "source": "코인리더스",
+      "published": "10-17 20:06",
+      "published_iso": "2026-10-17T11:06:00+00:00",
       "age": "1일 전"
     },
     {
@@ -372,16 +422,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "삼성자산운용, 8.4조 美배당다우존스 ETF 시장에 ‘액티브’ 승부수 - 뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mN0tCUW5LbTNTWVVfbWtJUUs2OTQ0QUxoa3Jxck10X091MWZIRzN0eWJaTTdlWXV3Mll3R2tmOXVHZk0wVzFhYlp3am1pQXlnU1k4bE04cWZkengxMXc?oc=5",
-      "source": "뉴스투데이",
-      "published": "10-16 11:08",
-      "published_iso": "2026-10-16T02:08:00+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
       "title": "[운용 & Now] KODEX 미국나스닥100, 순자산 10조원 돌파 등 By EBN - Investing.com 한국어",
@@ -419,16 +459,6 @@
       "source": "대한경제",
       "published": "10-16 07:00",
       "published_iso": "2026-10-15T22:00:16+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "캐터필러, 리소스 인더스트리 수장 교체…솔라 터빈스 사장 데릭 요크 임명 - 데이터투자",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoa1FDSEQ0WV9ERXA5MVRkY2w3U3QyV3R2TC1YYVBfa0ZvaFJiaExock11Tl9UM2dGSzFmN2JTNVBtUDh3dHZZc3lpVGVGTE5sYUJvSFE0al9hVE8wTmFrNEtKY1FyWDhidUVuQzlZUTlLeEk?oc=5",
-      "source": "데이터투자",
-      "published": "10-16 04:35",
-      "published_iso": "2026-10-15T19:35:12+00:00",
       "age": "3일 전"
     },
     {
@@ -502,16 +532,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "'25%p 초과성과' 비결은 액티브? SCHD액티브로 이어지나 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tc1lhazY3QVRqOVYzd3NmQUNlSTVQaGUyaDV3Vzc4T1p0d283RnZmSDFaOTNWbWxZMDYzYlgxM3N6WmppZGZEemZscnROOTZsOWM4dkNJckxMcUJJX1lYN01WTHRPSV9M0gFuQVVfeXFMTThTZUlKN2ZULWZYdF95UHRKbVNEUmozd0g3SUZBSVRrU0FlbzE2dTFiWWFTUjJhLWNEOFVQa2M5MWk5MXpLeWlWN2puVnBZN296UDJIT3BYOFNfbEJQeTJHc09ZbkxrVHA5NFgybFE?oc=5",
-      "source": "머니투데이",
-      "published": "10-15 16:15",
-      "published_iso": "2026-10-15T07:15:45+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
       "title": "샌디스크(SNDK), CXMT 메모리 뉴스 이후에도 여전히 저평가일까? - Simply Wall Street",
@@ -554,16 +574,6 @@
     {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
-      "title": "삼성운용 KODEX 미국나스닥100 순자산 10조 돌파 : 금융 - 재경일보",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xNE9WNnA0dDl6bV9VTjJyOEg5emVnMzN6ZHJxb0JWdVZmOWNTUTZuNnVYSEtwSE1kOUgxMmhyakh0dDZEeTQtQnB3NA?oc=5",
-      "source": "재경일보",
-      "published": "10-15 13:30",
-      "published_iso": "2026-10-15T04:30:16+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
       "title": "삼성운용 KODEX 미국나스닥100 순자산 10조 돌파 : 금융 - 재경일보",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xNE9WNnA0dDl6bV9VTjJyOEg5emVnMzN6ZHJxb0JWdVZmOWNTUTZuNnVYSEtwSE1kOUgxMmhyakh0dDZEeTQtQnB3NA?oc=5",
       "source": "재경일보",
@@ -639,7 +649,17 @@
       "source": "뉴스핌",
       "published": "10-15 09:31",
       "published_iso": "2026-10-15T00:31:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대차 팰리세이드 하이브리드, 워즈오토 ‘최고 10대 엔진 및 동력 시스템’ 수상 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHpCRDRqYlVzV2gwVFNJZHd6ckh6YzJMUHZhcFFyVVFVTHd6UVdzeUpCWHdFc1BqSGxFMENXSDY1WjB4azFmX3J6d0Z5cnZWUFROUlk1cmRZVHJIOHFHbVhOTDRldDVBQzcwRlZoZ1ZlQS1jYmVVX3R2bEVBaTR0dENOV1daUVBOQVdSLUdzaDRmQ2JaV09BVGZ6X1RoV1RZU0hkYm55elA?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-15 08:30",
+      "published_iso": "2026-10-14T23:30:00+00:00",
+      "age": "4일 전"
     },
     {
       "ticker": "QQQM",
@@ -679,16 +699,6 @@
       "source": "TradingKey",
       "published": "10-15 03:16",
       "published_iso": "2026-10-14T18:16:22+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
-      "title": "기능 개수보다 작동 방식을 보는 드라마 카지노 폰트 비교 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDNPMm5FeVRFOTVBVzVJR2sxUWR2Q05NVmlNdzVzVEplbkU0WW9NcEJJVGtEeXJXX3Z0Y1JZUm0tRkpMXzNTR1N0S3pDQmNYaTBzVFZvVjVWN2NTQ1FXSW1UcTlsd2hzVWJJb1ZXXzZ3X2ZSdnhZUEU4Q0xlSzY2WEhVSmJQSlBWYllHN0gtUQ?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-15 03:08",
-      "published_iso": "2026-10-14T18:08:19+00:00",
       "age": "4일 전"
     },
     {
@@ -732,16 +742,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "\"SCHD 넘겠다\"… 삼성운용, 다우존스배당주ETF 출시 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VYm5zX0ZfZVhmbWFpNGpVUmZnZXQ5VEVrTTlSSkxpdUlobjN2MzdldmROb3lCQ2djc1hoOEZZMlp3WUsyQ29lMHZTYVhrZ2Y5cUE?oc=5",
-      "source": "매일경제 마켓",
-      "published": "10-14 17:40",
-      "published_iso": "2026-10-14T08:40:41+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
       "title": "GE Vernova(GEV), AI 전력 수요와 가이던스 상향에 지금도 저평가일까? - Simply Wall Street",
@@ -762,14 +762,14 @@
       "age": "4일 전"
     },
     {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "현대차·기아 ‘2026 RD 협력사 테크 데이’ | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWFxazcwRWR4bnpFQWY1YlU1UmVIMUxxWVdmamZocm5fQVREWEp3TjV5ZnBkNkk0YWs2VVJ0RUlVeTl6VjNiNWl2NUNaTEpJOHFhSjlrd3dZYnpYR3Z0TWFvR1ZUc1ZGVHFMYmJ2Y2hEVmhfZmZ1NEx2MDhOTzBHaURkX2FPVkxSSkRacUd6MVlTbUw5OHJncg?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-14 10:40",
-      "published_iso": "2026-10-14T01:40:00+00:00",
-      "age": "4일 전"
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "Dow Jones Industrial Average gives back a 500-point earnings jump - tmgm.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVNUM0pMYVF6TDVYS2FmbGRwM3AyV2FtQ1ZOblVTOW9EQWFiTXNCbnNrTlVrN2lfejFjZlhYVUR2NURMM2pOaWgwcW8xanhTZWtkOXFWUWlOZHlFNVpfQmtVQmRuWUJIZm5DN3lMU2hKQmhYMVJVZ2lwR2NNUUFFMGhrZDFKVDU4Z3d5WkVtSWUzZEt6SHlfWnpOZTdsTjB5dC05U1NJbGxzR0YxY1QwRHh2ck1BWmt6aDdOSTVZaXEtejZvNDVOVmVuNA?oc=5",
+      "source": "tmgm.com",
+      "published": "10-14 08:54",
+      "published_iso": "2026-10-13T23:54:27+00:00",
+      "age": "5일 전"
     },
     {
       "ticker": "005380",
@@ -779,7 +779,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-14 08:30",
       "published_iso": "2026-10-13T23:30:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "005380",
@@ -789,16 +789,16 @@
       "source": "Hyundai Motor Group",
       "published": "10-14 08:30",
       "published_iso": "2026-10-13T23:30:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "Samsung, SK Hynix and Micron Shares Plunge as China's CXMT Unveils Next-Generation DRAM Technology - 알파경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83d0FiTjVoRFRTTExYd2tuWjhtS3dUUm9IYkVaN1hWMUNpenZ3d3pFQVR4bzM4Rm9KMGhNTC1QTHpaamdZU01Pa0hPWFhzT1Q4T1oxdXJvMXB0VFE3N3Z5QUFGQUlmSkdZT2ZoeVJB?oc=5",
-      "source": "알파경제",
-      "published": "10-14 06:00",
-      "published_iso": "2026-10-13T21:00:00+00:00",
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "게임 소개와 FAQ를 연결하는 토토 그래프 꽁머니 제로 질문 안내 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaGYzSV9QVUtjTFlReDEyZEZNLXdxcHpUT29TY281U2JidmJSdlNBR1o5MmUxOUM4MVdORU14OEFCOUQtOUFHN3Z1N0wwZENMdXpaWGt6Y3hvMXcyaTYzbV9XQ3FJVmk2ZFRUeVZGMWJvNi1jY19fbU5xNnliT25fOU5fYUpVOXBtRnpoV0pJN3VQRzNKX2ZNeXgyVFNSdw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-14 05:25",
+      "published_iso": "2026-10-13T20:25:36+00:00",
       "age": "5일 전"
     },
     {
@@ -939,7 +939,7 @@
       "source": "머니투데이",
       "published": "10-13 09:25",
       "published_iso": "2026-10-13T00:25:25+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "379780",
