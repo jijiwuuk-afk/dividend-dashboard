@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 18:40 KST",
+  "updated_at": "2026-10-19 19:36 KST",
   "items": [
     {
       "ticker": "0072R0",
@@ -9,7 +9,7 @@
       "source": "한국일보",
       "published": "10-19 17:30",
       "published_iso": "2026-10-19T08:30:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "TSLA",
@@ -19,7 +19,17 @@
       "source": "코인리더스",
       "published": "10-19 16:30",
       "published_iso": "2026-10-19T07:30:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "냉동창고·계산대·엘레베이터 다 멈춰…코스트코 양재점 무슨 일? - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwMVVQS3llRFVJV012Q2F2eTNlaS10cUd4SVE0NnNySlEyYlN0YUVHUnJIZ0V3eVNoRVdIc2dZdnRyVHoya3FGS05KT0ZuNGlzSWJQV21n?oc=5",
+      "source": "매일경제",
+      "published": "10-19 16:01",
+      "published_iso": "2026-10-19T07:01:10+00:00",
+      "age": "3시간 전"
     },
     {
       "ticker": "489250",
@@ -29,7 +39,7 @@
       "source": "한국경제",
       "published": "10-19 15:49",
       "published_iso": "2026-10-19T06:49:12+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "489250",
@@ -39,7 +49,7 @@
       "source": "글로벌이코노믹",
       "published": "10-19 15:33",
       "published_iso": "2026-10-19T06:33:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "489250",
@@ -49,7 +59,7 @@
       "source": "아시아경제",
       "published": "10-19 09:00",
       "published_iso": "2026-10-19T00:00:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "489250",
@@ -59,7 +69,7 @@
       "source": "연합뉴스",
       "published": "10-19 08:57",
       "published_iso": "2026-10-18T23:57:14+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "005380",
@@ -69,7 +79,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-19 08:30",
       "published_iso": "2026-10-18T23:30:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "TSLA",
@@ -79,7 +89,7 @@
       "source": "연합인포맥스",
       "published": "10-19 07:54",
       "published_iso": "2026-10-18T22:54:18+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "005930",
@@ -89,7 +99,7 @@
       "source": "알파경제",
       "published": "10-19 06:00",
       "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "000660",
@@ -99,7 +109,7 @@
       "source": "알파경제",
       "published": "10-19 06:00",
       "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "VOO",
@@ -109,7 +119,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-18 22:34",
       "published_iso": "2026-10-18T13:34:21+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "QQQM",
@@ -202,6 +212,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "JEPI",
+      "name": "JPMorgan Equity Premium Income ETF",
+      "title": "[금리 리셋] ⑤ '10% 배당' 사모대출·커버드콜 ETF의 두 얼굴 - ㊦ - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yRGVDOUpFSWh2R0NIcXVDczVvVFVzSGlFd3ZZN08tcy03QjlLX25tVG5sYVFQNTdwMzNIa29ndlBvVTJUcGdLTFZSSm0zN3hySmlLVXdyZllKOTRN?oc=5",
+      "source": "뉴스핌",
+      "published": "10-17 08:01",
+      "published_iso": "2026-10-16T23:01:00+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
       "title": "[ETF머니플로우-10월2주] KODEX 200 순매수 1위…TIGER 미국S&P500 6계단↓ - 신아일보",
@@ -209,16 +229,6 @@
       "source": "신아일보",
       "published": "10-17 08:00",
       "published_iso": "2026-10-16T23:00:00+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "[오늘장특징주]코어위브, 애플, 코스트코 - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMy1ZR3Z4cFZINGwwVHk1ampqSHFCWWRKdTY1Rjl6VEd6NkJmcmlER1VjbEpoeDZ5b3pTQkNOdkQ1eE4zY213UmxJRUpvbjExanFMakVhQUx2YjF3YVA0Z2JYUjA0d2VSajQzM1k5YlcydnI5dGRLTnFiQWFPN2k1Tg?oc=5",
-      "source": "이데일리",
-      "published": "10-17 06:38",
-      "published_iso": "2026-10-16T21:38:22+00:00",
       "age": "2일 전"
     },
     {
@@ -402,16 +412,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "JEPI",
-      "name": "JPMorgan Equity Premium Income ETF",
-      "title": "[금리 리셋] ⑤ '10% 배당' 사모대출·커버드콜 ETF의 두 얼굴 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBseGVLOWlZX2xORjFGZFR2ZENoWXRnRHhYNGNVcEx6THA0ZHBWSGxDRnJuMGlRMkdPN3FjTkxMdElBOEZmRUhjc3plV3pCMmFWRVNNQzRQUVBlS04x?oc=5",
-      "source": "뉴스핌",
-      "published": "10-16 13:00",
-      "published_iso": "2026-10-16T04:00:00+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "JEPQ",
       "name": "JPMorgan Nasdaq Equity Premium Income ETF",
       "title": "[금리 리셋] ⑤ '10% 배당' 사모대출·커버드콜 ETF의 두 얼굴 - 뉴스핌",
@@ -472,6 +472,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "SanDisk Corporation (SNDK) 주식 움직였습니다 하락 4.35%에 10월15일: 변동 원인 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnNDZ04zOXNYWENodUlOalV1bmlUZ2N0SFpla1lVMVlQa3BFRG80V2dRczlfMDB4WXBHczdNM0FTWDYwMDNmM0VsSVRQX1BKdEVUckVFaldxaDVneFhyWkMyTExNeEZ6V2JFZHlQQVlwYVkyOGRHcFplUDRGY3V1VUd3eVRUOGJEX2JEejRfdw?oc=5",
+      "source": "TradingKey",
+      "published": "10-16 02:16",
+      "published_iso": "2026-10-15T17:16:09+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
       "title": "Alphabet, $0.22 배당 지급 및 유럽에 AI 개방: GOOGL은 곧 돌파할까? - Traders Union",
@@ -489,6 +499,16 @@
       "source": "TradingKey",
       "published": "10-15 23:20",
       "published_iso": "2026-10-15T14:20:00+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "Intel Corp (INTC) 주식 움직였습니다 하락 6.66%에 10월15일: 핵심 원인 공개 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1FtSzhaOEhRclg3S3ptUHV5c05HeWhmVlNLUExXSm1scjhKWGRPNHhWaXRFZUhnSDh3S0pOeGtKeVgzeWJTYTduWXU5SHNmb2FSTHlJajgxN3hmczRXRld5TWlJSDZGMU9OME54VXNOMm5fSUZVb3JpQWYxc0tSNFhTY25OaDNWblRnR3dzYw?oc=5",
+      "source": "TradingKey",
+      "published": "10-15 23:16",
+      "published_iso": "2026-10-15T14:16:20+00:00",
       "age": "3일 전"
     },
     {
@@ -689,16 +709,6 @@
       "source": "TradingKey",
       "published": "10-15 02:16",
       "published_iso": "2026-10-14T17:16:19+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "SanDisk Corporation (SNDK) 주식 움직였습니다 하락 4.22%에 10월14일: 핵심 원인 공개 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRUF1SWZTYmRXRmVnOFlzb2hJMlR5Q3FzNURxOWF5T1paYU9KWlhwMFRZS0QtVTJnd0FtM3F2T0E2ZWhObkIzUXNnWGwxTGtDM0c2eGx4bzJOUnhnWFBRTWtIUVFHZXZyYndxTWRMTzRvVWZ0QU1RS0N4U0d5VkdFT3ZtaGl4cldlQ3VZRkJ4dw?oc=5",
-      "source": "TradingKey",
-      "published": "10-15 02:16",
-      "published_iso": "2026-10-14T17:16:17+00:00",
       "age": "4일 전"
     },
     {
@@ -962,6 +972,16 @@
       "age": "6일 전"
     },
     {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "Broadcom CEO Identifies Massive Capital Constraints as AI Scales Fast - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOTEyTG43VXpLeWNkUzRrOXVUdlRySmctVExyNWhaT1oxVE1SMndWV0F5aV9SeVRzU1RFVjlXaWpYeXdvRU4xb3RTbzJjdU1XSkM1Y0pYQU5xOGlXRmZYM21NYVNyemtadFM0WGtnbmxOUGdvWlQxcDQyS3h4cXU4Q3l5N19IZw?oc=5",
+      "source": "TIKR.com",
+      "published": "10-13 04:46",
+      "published_iso": "2026-10-12T19:46:54+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "반등하나 했는데 '뚝'…\"줍줍 기회\" 수익률 마이너스 금ETF로 우르르 - 머니투데이 - 머니투데이",
@@ -979,26 +999,6 @@
       "source": "TradingKey",
       "published": "10-13 00:16",
       "published_iso": "2026-10-12T15:16:12+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "Broadcom CEO Identifies Massive Capital Constraints as AI Scales Fast - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTTJ3QkxsOExGMHc2dy1MSVZqT090bkFsR2NyeGZnWmo4bHpmMlItT3BidHVKVkd2N3BxckJFc1BsLUZNT3FpQTU5cDlnZXJQZnJHdDhiX08zNzRnOG95UnRMS29FeU9VUkIzelZ4TU5oamZDd3pNU2ZDYm5JeHRZLUVBNzhJUG8?oc=5",
-      "source": "TIKR.com",
-      "published": "10-13 00:05",
-      "published_iso": "2026-10-12T15:05:53+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "Intel Corp (INTC) 주식 움직였습니다 하락 3.02%에 10월12일: 변동 원인 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeU5Ja0xzeE5yV1dRY2lfVVZyWjVsQXJlVFJ3QWRvOXg5RVhqMmN3ckVFMkhrby0tQ0NPV1BxNzNwazVoSGJ1NW9hXzJ2RWlCUWJzcmIzdHhYTWhnSk5fOXdBd0RZQW4wYVJWcXUyVUNMRXVVY2hwWnJNY3FncEVnZHNmUVhfenU0czU4MUlTTQ?oc=5",
-      "source": "TradingKey",
-      "published": "10-12 23:16",
-      "published_iso": "2026-10-12T14:16:04+00:00",
       "age": "6일 전"
     }
   ]
