@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 16:51 KST",
+  "updated_at": "2026-10-19 17:42 KST",
   "items": [
     {
       "ticker": "TSLA",
@@ -9,7 +9,7 @@
       "source": "코인리더스",
       "published": "10-19 16:30",
       "published_iso": "2026-10-19T07:30:00+00:00",
-      "age": "21분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "489250",
@@ -29,17 +29,7 @@
       "source": "글로벌이코노믹",
       "published": "10-19 15:33",
       "published_iso": "2026-10-19T06:33:00+00:00",
-      "age": "1시간 전"
-    },
-    {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
-      "title": "개미의 이민 본격화되나…S&P500 투자 TIGER, 코스피 200 투자 KODEX 제치고 순자산 1위 등극 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aMExmNllCVFVDV2lCV1dWcS12Ty1TSU1BeTZ4RFdlZEp5T1NjbHJCWW1TcmhlbTl0Q25ReHdNWTNVNkVWckI0anBZU2Y3ZHpGVlE?oc=5",
-      "source": "매일경제 마켓",
-      "published": "10-19 11:12",
-      "published_iso": "2026-10-19T02:12:59+00:00",
-      "age": "5시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "489250",
@@ -49,7 +39,7 @@
       "source": "아시아경제",
       "published": "10-19 09:00",
       "published_iso": "2026-10-19T00:00:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "489250",
@@ -59,16 +49,6 @@
       "source": "연합뉴스",
       "published": "10-19 08:57",
       "published_iso": "2026-10-18T23:57:14+00:00",
-      "age": "7시간 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "현대자동차, ‘2026 현대 모빌리티 플레이그라운드 시즌 2’ 성료 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTZmSjByeEhLSWJGLUdUSng1a2ZqZWxJel8zN3RveUxSYWl3d09FRDVBZHJ1bU91N0dtMkR3emg4b3RMMFpwOHEwSE9UZGZEZWZHZGZTLUNYX1ZuajlObEVrUzFpTzFnVGhiM25mU01nMEI3b2V4RV9pUUhrR0ZlajF0N1E1SzhrWllOOV95MHdPUXlYc2c0TVM2cm1GQQ?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-19 08:30",
-      "published_iso": "2026-10-18T23:30:00+00:00",
       "age": "8시간 전"
     },
     {
@@ -79,7 +59,17 @@
       "source": "연합인포맥스",
       "published": "10-19 07:54",
       "published_iso": "2026-10-18T22:54:18+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
+    },
+    {
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
+      "title": "급락장에 ETF 순위 '지각변동'…TIGER, KODEX 제치고 1위 탈환 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YNGtvTW9CcTRIV2RyVk5vZHNnRTA2MFRFYlFqTkxiQUF1RFpSeFhEWVJIUERZNFc4X3g5NWxIa2RxTUdIQ3l0QmcteVEyNWhpTU5xUEVsVkdFTE1XQnNhT9IBYEFVX3lxTE5YNGtvTW9CcTRIV2RyVk5vZHNnRTA2MFRFYlFqTkxiQUF1RFpSeFhEWVJIUERZNFc4X3g5NWxIa2RxTUdIQ3l0QmcteVEyNWhpTU5xUEVsVkdFTE1XQnNhTw?oc=5",
+      "source": "연합뉴스",
+      "published": "10-19 07:00",
+      "published_iso": "2026-10-18T22:00:03+00:00",
+      "age": "10시간 전"
     },
     {
       "ticker": "005930",
@@ -89,7 +79,7 @@
       "source": "알파경제",
       "published": "10-19 06:00",
       "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "000660",
@@ -99,7 +89,7 @@
       "source": "알파경제",
       "published": "10-19 06:00",
       "published_iso": "2026-10-18T21:00:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "VOO",
@@ -109,7 +99,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-18 22:34",
       "published_iso": "2026-10-18T13:34:21+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "QQQM",
@@ -119,7 +109,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-18 18:31",
       "published_iso": "2026-10-18T09:31:11+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "005380",
@@ -349,7 +339,7 @@
       "source": "서울경제",
       "published": "10-16 17:25",
       "published_iso": "2026-10-16T08:25:36+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "VOO",
@@ -419,6 +409,16 @@
       "source": "뉴스핌",
       "published": "10-16 13:00",
       "published_iso": "2026-10-16T04:00:00+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "기아, 판교서 PV5 기반 원격 운전 카셰어링 시범 서비스 개시 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0tIUW93TTh4dHF6WGdwWFhUMC1vQlJSWEJ1V2l1V0NPckZCQ3kwaWNvclJ5ZmZyTU1WbF9ENHVfZGoyYjRmWGt2bXZScTJ3aExyNFBkTWFaOUdXQkpSN2tBZjlSTlVzWkQ3R0hGbEJENmdBSlFOSWktMV9SZDVWNEdPVzNKVERwZTUxYWJseDVBVHlCQzdSVnd2cw?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-16 08:30",
+      "published_iso": "2026-10-15T23:30:00+00:00",
       "age": "3일 전"
     },
     {
@@ -592,6 +592,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
+      "title": "KODEX 미국나스닥100, 순자산 10조 돌파…국내 동종 ETF 중 최단기간 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Xc2pfcEdqR3hsMmNzX25kNVFPRE56ckMxTXM2bS1BWkFUSmN0UTZ6NG53cnl5LWVvcWlfQUV0Q1JGSXdRUnp6aTN0c0FSMXNUdVHSAVNBVV95cUxPcnlHdTFJY0RkSnJqV0kzWno3UzEtTUVBN2xNcXUxV2lHYzZNZ3BWZkxSUzZZUk10YUItNnMySGxyOW5yaGtPd1lxNzRsZUVVdTR1TQ?oc=5",
+      "source": "서울경제",
+      "published": "10-15 10:37",
+      "published_iso": "2026-10-15T01:37:30+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
       "title": "미래에셋 TIGER 미국배당다우존스 ETF, 개인 순매수 1위 - 레디앙",
@@ -599,26 +609,6 @@
       "source": "레디앙",
       "published": "10-15 10:21",
       "published_iso": "2026-10-15T01:21:47+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "458730",
-      "name": "TIGER 미국배당다우존스",
-      "title": "미래에셋 美배당다우존스, 개인 순매수 1.3조…동종 ETF 최대 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pN2hRTk5mYWdFYy1jS21YREc0NU1pRFB3M1ZZaWxfUm13Yk5CZktoenRwNFBjbnFTWlJlVWM5UjFwTDlzcXBYMEJZV3ExNGpXdHRuS05hTDlJR3k1N2t1aNIBYEFVX3lxTE9pN2hRTk5mYWdFYy1jS21YREc0NU1pRFB3M1ZZaWxfUm13Yk5CZktoenRwNFBjbnFTWlJlVWM5UjFwTDlzcXBYMEJZV3ExNGpXdHRuS05hTDlJR3k1N2t1aA?oc=5",
-      "source": "연합뉴스",
-      "published": "10-15 10:14",
-      "published_iso": "2026-10-15T01:14:13+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "삼성자산운용, KODEX 미국나스닥100 순자산 10조 돌파 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MWlNxVXgtVEJHU3RWRHgzTkRJQlRTZ3RYVXVGU0lWeXJKNkVZWkdOWTJoNEJCWkI3MUNRY0VVaS1JV1pfWVZ2Y3JfcDJ1SGdINHJ2SldWMDFXN1gz?oc=5",
-      "source": "뉴스핌",
-      "published": "10-15 09:47",
-      "published_iso": "2026-10-15T00:47:00+00:00",
       "age": "4일 전"
     },
     {
@@ -639,6 +629,16 @@
       "source": "뉴스핌",
       "published": "10-15 09:31",
       "published_iso": "2026-10-15T00:31:00+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
+      "title": "미래에셋운용, TIGER 미국배당다우존스 ETF 동종 유형 연초 이후 개인 순매수 1위 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nM2IxN2FNTmJSX0Vhc2ZmbzRrMWMwbS0yTVNQT09sRExTcmRxMldDanpvQ2xPQ0RUN0JjMWpBWDhRc2lMNnFpeUdVcFN6c2FYalZ2WHVOQ0w1d28xWHBSSGxB?oc=5",
+      "source": "아시아경제",
+      "published": "10-15 09:20",
+      "published_iso": "2026-10-15T00:20:00+00:00",
       "age": "4일 전"
     },
     {
@@ -729,7 +729,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-14 17:13",
       "published_iso": "2026-10-14T08:13:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "GEV",
@@ -759,16 +759,6 @@
       "source": "Hyundai Motor Group",
       "published": "10-14 08:30",
       "published_iso": "2026-10-13T23:30:00+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "005930",
-      "name": "삼성전자",
-      "title": "천옌순 BOE 회장, 노태문 삼성전자 사장과 회동 - 디일렉",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51cU1xaTk4MFBBZ3dtN21mM0JpLWVlWU1pMWcyeml5VjM2cjRiWklERmhjTHVQOGlHdUtRYW9jbGxOZVVfemloZEdubUJCLVdzVEUwZzN2Y203NkdMNUNLdDF3a1FGdw?oc=5",
-      "source": "디일렉",
-      "published": "10-14 07:56",
-      "published_iso": "2026-10-13T22:56:18+00:00",
       "age": "5일 전"
     },
     {
@@ -822,6 +812,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "[COX] China’s CXMT Sends Samsung Electronics and SK Hynix Shares Lower, Closing In Without Cutting-Edge Equipment - 콕스뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yWkxTS3kwZEZJeHJhMVRRLUdKcmJRZzFlM3M1dnJUMkpQRzV3Z213WlRhUzNzYzVUdUNQbFVfLXh3YlhEdU9UbGlBQkR0NTdCWkIwNGxQY3pwVTZXOXVUU2RjcGxTNVgtWEE?oc=5",
+      "source": "콕스뉴스",
+      "published": "10-13 21:57",
+      "published_iso": "2026-10-13T12:57:05+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
       "title": "브로드컴(AVGO) CEO, AI 투자자에 쓴소리...\"스스로 뭘 사는지 모르는 도박꾼\" - 코인리더스",
@@ -829,7 +829,7 @@
       "source": "코인리더스",
       "published": "10-13 17:20",
       "published_iso": "2026-10-13T08:20:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "INTC",
@@ -839,7 +839,7 @@
       "source": "TIKR.com",
       "published": "10-13 17:15",
       "published_iso": "2026-10-13T08:15:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "VOO",
@@ -849,7 +849,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-13 16:56",
       "published_iso": "2026-10-13T07:56:30+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "NVDA",
