@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 01:35 KST",
+  "updated_at": "2026-10-21 02:34 KST",
   "items": [
     {
       "ticker": "NVDA",
@@ -9,7 +9,7 @@
       "source": "TIKR.com",
       "published": "10-21 00:33",
       "published_iso": "2026-10-20T15:33:45+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "CAT",
@@ -19,7 +19,7 @@
       "source": "코인리더스",
       "published": "10-21 00:00",
       "published_iso": "2026-10-20T15:00:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "INTC",
@@ -29,7 +29,7 @@
       "source": "TIKR.com",
       "published": "10-20 21:41",
       "published_iso": "2026-10-20T12:41:01+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "005930",
@@ -39,7 +39,7 @@
       "source": "아이즈매거진 | eyesmag",
       "published": "10-20 18:00",
       "published_iso": "2026-10-20T09:00:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "INTC",
@@ -59,7 +59,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 16:15",
       "published_iso": "2026-10-20T07:15:01+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "0072R0",
@@ -69,7 +69,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 13:42",
       "published_iso": "2026-10-20T04:42:22+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "005930",
@@ -79,7 +79,7 @@
       "source": "인사이트코리아",
       "published": "10-20 13:00",
       "published_iso": "2026-10-20T04:00:00+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "AMD",
@@ -89,7 +89,7 @@
       "source": "이데일리",
       "published": "10-20 10:53",
       "published_iso": "2026-10-20T01:53:28+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "JEPQ",
@@ -99,7 +99,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 09:36",
       "published_iso": "2026-10-20T00:36:07+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "TSLA",
@@ -109,7 +109,7 @@
       "source": "코인리더스",
       "published": "10-20 09:10",
       "published_iso": "2026-10-20T00:10:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "005930",
@@ -119,7 +119,7 @@
       "source": "경향신문",
       "published": "10-20 07:58",
       "published_iso": "2026-10-19T22:58:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "000660",
@@ -129,7 +129,7 @@
       "source": "경향신문",
       "published": "10-20 07:58",
       "published_iso": "2026-10-19T22:58:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "GOOG",
@@ -139,17 +139,17 @@
       "source": "TIKR.com",
       "published": "10-20 04:12",
       "published_iso": "2026-10-19T19:12:19+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "ROE 22% 이상인 Reddit Jack Henry Costco 주식 3선 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVU1sUmFGUWdQSzVoM2ZtS1p3NVZ6WXk5TlBUYUVLU3owS05NMEQySnRMdklwc1lkM1Jzd0QtR1ZKOG5fQW5yRHBhb1RyOXcyaEszTkcwck9tcGM1R21YaFZwdktrNUEyeHhiN3h6S3l0ZEhJNExBRUpaZEVZTi1LQzdXcmpGMkU5YklN0gGLAUFVX3lxTFBVTWxSYUZRZ1BLNWgzZm1LWnc1VnpZeTlOUFRhRUtTejBLTk0wRDJKdEx2SXBzWWQzUnN3RC1HVko4bl9BbnJEcGFvVHI5dzJoSzNORzByT21wYzVHbVhoVnB2S2s1QTJ4eGI3eHpLeXRkSEk0TEFFSlpkRVlOLUtDN1dyakYyRTliSU0?oc=5",
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "SK hynix(KOSE:A000660), AI 메모리 성장 기대에도 지금 저평가 구간일까? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVV9meXVJTU44dXpzYWdUU0lUSW5iZnJqTmlxNm5mSnlfN0NadWljRlFmNU03bThOSlNCS1R0cHBhb3RZRmJPTVlGdWxHeU43M04xa1R3d3JJUXAtdW5sSjRqVU9ETE1TWWlYYklTQ3Q1ZWlQWXpfRVktdDRwWWowdUpsa0xyLUZpdUo3UDRHMVd5SnJGZnJqeHNuY3p1cHkzMVl2SDBjTdIBpwFBVV95cUxOVV9meXVJTU44dXpzYWdUU0lUSW5iZnJqTmlxNm5mSnlfN0NadWljRlFmNU03bThOSlNCS1R0cHBhb3RZRmJPTVlGdWxHeU43M04xa1R3d3JJUXAtdW5sSjRqVU9ETE1TWWlYYklTQ3Q1ZWlQWXpfRVktdDRwWWowdUpsa0xyLUZpdUo3UDRHMVd5SnJGZnJqeHNuY3p1cHkzMVl2SDBjTQ?oc=5",
       "source": "Simply Wall Street",
-      "published": "10-20 03:06",
-      "published_iso": "2026-10-19T18:06:57+00:00",
-      "age": "22시간 전"
+      "published": "10-20 02:58",
+      "published_iso": "2026-10-19T17:58:17+00:00",
+      "age": "23시간 전"
     },
     {
       "ticker": "489250",
@@ -292,6 +292,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
+      "title": "급락장에 ETF 순위 '지각변동'…TIGER, KODEX 제치고 1위 탈환 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YNGtvTW9CcTRIV2RyVk5vZHNnRTA2MFRFYlFqTkxiQUF1RFpSeFhEWVJIUERZNFc4X3g5NWxIa2RxTUdIQ3l0QmcteVEyNWhpTU5xUEVsVkdFTE1XQnNhT9IBYEFVX3lxTE5YNGtvTW9CcTRIV2RyVk5vZHNnRTA2MFRFYlFqTkxiQUF1RFpSeFhEWVJIUERZNFc4X3g5NWxIa2RxTUdIQ3l0QmcteVEyNWhpTU5xUEVsVkdFTE1XQnNhTw?oc=5",
+      "source": "연합뉴스",
+      "published": "10-19 07:00",
+      "published_iso": "2026-10-18T22:00:03+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "005930",
       "name": "삼성전자",
       "title": "Foreign Investors Dump $9.5 Billion in Samsung Electronics and SK Hynix Shares While Buying Shipbuilding and Semiconductor Stocks - 알파경제",
@@ -342,16 +352,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "롯데마트 제타, 10월 ‘월간제타’ 진행 - 글로벌뉴스통신GNA",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByTzhPbkJ1bmVRbkNFN1pTZFBjME9saERLNG1qMUg4aXl5bmh3UkxLQXZRVkpHOFVEV0FIZDVjQWhzel9BWGw1Slo5MnFOS2JxTFJZRG56Y1A1TTJHbWUzTUhrdjVqUWpPQUxBZ0VUSGFQbmhw?oc=5",
-      "source": "글로벌뉴스통신GNA",
-      "published": "10-18 10:45",
-      "published_iso": "2026-10-18T01:45:02+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "캐터필러(CAT)의 10억 달러 규모 확장 계획 발표 이후, 이 회사의 주가는 저평가된 것일까? - Simply Wall Street",
@@ -380,6 +380,16 @@
       "published": "10-18 06:05",
       "published_iso": "2026-10-17T21:05:02+00:00",
       "age": "2일 전"
+    },
+    {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "\"흩어진 고객 데이터를 하나로\" AI·개인정보 보호 강화에 주목받는 ‘아이덴티티 레졸루션’ - 매드타임스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TRjdpdDBNQkg1QzZ0czNnMGNlZTRVTVhQX1pmN1lGT1RlaTlqYy1vNHptdElveG1MVG85a0dkVkl1OXZXdDVheWNaVmF3bmZfY1hUTmtoUGk1WUxuay03aDJIT0xaT05KOV9yUg?oc=5",
+      "source": "매드타임스",
+      "published": "10-18 00:00",
+      "published_iso": "2026-10-17T15:00:00+00:00",
+      "age": "3일 전"
     },
     {
       "ticker": "GOOG",
@@ -572,16 +582,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "Exynas Collaborates with SK Hynix on AI Memory Technology… Unveils CXL-Based Inference Solution at 'OCP Global Summit' - 벤처스퀘어",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02VTUtU2hrcUxfZ0ItMUZfV0V2eDZERzlVbUktbWVZbFE2Zl8yb3licWVvOWoyRW5CbDF0Mmh3c251c0JmclU5U2xOT3NzSTkwWnBz?oc=5",
-      "source": "벤처스퀘어",
-      "published": "10-16 19:06",
-      "published_iso": "2026-10-16T10:06:39+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "VOO",
       "name": "Vanguard S&P 500 ETF",
       "title": "[미국 ETF 히든 챔피언] (64) 커버드콜 한계 극복한 골드만의 GPIX - 뉴스핌",
@@ -659,7 +659,7 @@
       "source": "TradingKey",
       "published": "10-16 02:16",
       "published_iso": "2026-10-15T17:16:09+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "GOOG",
@@ -779,16 +779,6 @@
       "source": "머니투데이",
       "published": "10-15 13:44",
       "published_iso": "2026-10-15T04:44:44+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
-      "title": "삼성운용 KODEX 미국나스닥100 순자산 10조 돌파 : 금융 - 재경일보",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xNE9WNnA0dDl6bV9VTjJyOEg5emVnMzN6ZHJxb0JWdVZmOWNTUTZuNnVYSEtwSE1kOUgxMmhyakh0dDZEeTQtQnB3NA?oc=5",
-      "source": "재경일보",
-      "published": "10-15 13:30",
-      "published_iso": "2026-10-15T04:30:16+00:00",
       "age": "5일 전"
     },
     {
@@ -939,7 +929,7 @@
       "source": "TradingKey",
       "published": "10-15 02:16",
       "published_iso": "2026-10-14T17:16:19+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "GEV",
@@ -975,7 +965,7 @@
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
       "title": "GE Vernova(GEV), AI 전력 수요와 가이던스 상향에 지금도 저평가일까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmNMLTJyalozX1pjM3otcUZVbHhjM1BmNlhjZVQzZ05yRVoxTmZGRWYzSU5aRmxKdVYtTU5QdmNmbEdPd08tSXlIYWdLR00tcFQ0bGp2VXJVb3gzdHRCeUtuZnpTNjlzV092bUZibFh6Sk5GTnhmMDJOTHBDNUZGcncwN2k4ZzU0ajFFcVZOa1RyN0lw0gGaAUFVX3lxTE9VRkV1bjJpbHVmZF9UNlY0NUhLSWhaLUJ6WXR3S19rY0NOdjVwV0hfZjlVcVJfd0NZS2JYZkJfOGZyNVo1czBMU3N4YkEteFFWUTFVOGJ2Q1lQODZZX1BBV1dRbk9IX0NxMllqYV9vYjN2VkE5WFY1MU9SbWFvT2tuU1Q4R2FEYy0xMTVqMHRfVy13YnU2TjFWckE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFoxa2ctZENoeXVxbzU3ajJhdEpFaWQ2WXNxS2lCQUFPV0ktODV4RHB1eWZoQm02Qk8xZExTQk5QUG50bXpueFZ6QW1hY1oxSkM3VUJsQjRPU0N2Zjc1V3FJOHV3dzRNR19PWWxtUS02Snl4VVI4czl0bGtpeXdrM3ZXeTUtazBLWTJGV2w5VDd1X3FIR2JhR2RNcEdFT3pxZkp6a1dLYnZTTmRYWkFHTW9QSmFOY2tkSV8wSW1mZTZhOHZlMmI3WEVQUGdDUG_SAZoBQVVfeXFMT1VGRXVuMmlsdWZkX1Q2VjQ1SEtJaFotQnpZdHdLX2tjQ052NXBXSF9mOVVxUl93Q1lLYlhmQl84ZnI1WjVzMExTc3hiQS14UVZRMVU4YnZDWVA4NllfUEFXV1FuT0hfQ3EyWWphX29iM3ZWQTlYVjUxT1JtYW9Pa25TVDhHYURjLTExNWowdF9XLXdidTZOMVZyQQ?oc=5",
       "source": "Simply Wall Street",
       "published": "10-14 16:00",
       "published_iso": "2026-10-14T07:00:00+00:00",
@@ -999,6 +989,16 @@
       "source": "코인리더스",
       "published": "10-14 11:55",
       "published_iso": "2026-10-14T02:55:00+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "코스트코(COST) 주가, 9월 매출 호조에도 불구하고 공정가치보다 21% 높을 수 있다 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUh6TW9lODdnUTgwT0pUMTBmMVFqMWdkcWR2ZWktRkhBalNlYnhDbjc3N0xjdUJzaG9OMjBFa3VQMUdLdzJrSzRfWUl6MUxsSlZLcmtBamt3a0Z4ZDJGNDZQX3RWbE1ORWZsNEF6Y0NaaXJFS1Qzenh1VU1OTElzTVZfQ1duejhSaXJSRFV1em5YMmhCQTdNZFM0c19tSU9VYXJFWm4wONIBrAFBVV95cUxNX2dvQjkxTTc3aGU4MWh4WnUzbVNZTXl6UUtRMFBUX3ZMaFJ5UGE5WmYzamhxMGczejItNDdVTDZTd0dnbFByWEpqb29WR01nRFhBRG1rOTAtdHBCVzBiTWNUYXp3dG5zalhpaEpMdWcxN0UwRUYwX01nSTYxV1RHV19vWGtFcEd0RWp2X0FMVW5BT2NNT2JicXh3WUstRjNnX3g0aV9UeDRXbXVK?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-14 08:48",
+      "published_iso": "2026-10-13T23:48:56+00:00",
       "age": "6일 전"
     }
   ]
