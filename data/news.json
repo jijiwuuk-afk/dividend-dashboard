@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-21 04:37 KST",
+  "updated_at": "2026-10-21 05:35 KST",
   "items": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "NVDA|NVIDIA Corp|가격:216.370|Chg%:-0.720 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXTkFCZkJobDNPc1Z3bG5WZVY2VlZjX2RqTGE3eTNBMEYzOHNVcUlBbWpNWmdLQ2pVdWJKam0zRnp1MWhPZjhjaVlXelN5RHdQWHFneVA5cHRzazJYU1E?oc=5",
+      "source": "TradingKey",
+      "published": "10-21 04:06",
+      "published_iso": "2026-10-20T19:06:59+00:00",
+      "age": "1시간 전"
+    },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
@@ -9,7 +19,7 @@
       "source": "TIKR.com",
       "published": "10-21 02:26",
       "published_iso": "2026-10-20T17:26:15+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "CAT",
@@ -19,7 +29,7 @@
       "source": "코인리더스",
       "published": "10-21 00:00",
       "published_iso": "2026-10-20T15:00:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "INTC",
@@ -29,7 +39,7 @@
       "source": "TIKR.com",
       "published": "10-20 21:41",
       "published_iso": "2026-10-20T12:41:01+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "INTC",
@@ -39,7 +49,17 @@
       "source": "코인리더스",
       "published": "10-20 16:35",
       "published_iso": "2026-10-20T07:35:00+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
+    },
+    {
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "순서대로 따라 읽는 슬롯 검증사이트 lg 한 판 설명 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMXBBMDZYTXRYa0RYdE5jOFRKbXU3d2NieFhQYXp6aWpaYnZTVHpWRTI2R2J4S0h3Qk9FaXFib2M0cTlIOUNpZzFHQ3RIdk5qOFRWcGpKYTVPdlZkX2dhZ1kwMkhEUmFyT2J4SW5xNlFKSTdGd1RwT3Q3UzJteVVfLVFKNmZyS1Z6N1RmX2gzdHRlaHc5MEFoVWF1Uzd1UUs0LVNubEJSeDUwUjVvY1BHemQzNThIcjdPaXRQbjdHQWUxNTJ1NDdFNXZUbE9GTEdZb2NjZ3d6MlpfM2RBRV9JSGlfX1dTbm10WUZRR0lBcWJScWNvSk9UWlE3Zw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-20 13:42",
+      "published_iso": "2026-10-20T04:42:22+00:00",
+      "age": "15시간 전"
     },
     {
       "ticker": "005930",
@@ -49,7 +69,7 @@
       "source": "인사이트코리아",
       "published": "10-20 13:00",
       "published_iso": "2026-10-20T04:00:00+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "AMD",
@@ -59,7 +79,17 @@
       "source": "이데일리",
       "published": "10-20 10:53",
       "published_iso": "2026-10-20T01:53:28+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
+    },
+    {
+      "ticker": "JEPQ",
+      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+      "title": "총 베팅과 라인별 표기를 구분하는 메이플 슬롯 확장 순서 용어 해설 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMDN3cU92QWx3MFpiYkd1cWFOR2tZNHI5clJ3b2lwYU9rVHhoSVk5ZmViWXZmMGlDWW5FNVNhem1vTWRVaTJHVXdjdHJrLXY1SjcyTklPd21XLUg3Y3k3NjQ0LUxCd1BRdGVSbjZmV0VtcXdQdTJ0QTJuamVhVHVBV3NLeWpHOTM5cFk1cm5mMGhFT19lbFFBbjV6YzhlNmtSYkZySWxybkt5b0FMNWM5dEdxWXhZX1pqZnNBX08yWHVvZE1kS0xuekVzYVlPclpfNjVmczl1eVROc3RqeHN1TG5wYjF3UDFFMkpEbllrOU0zNFRvbUNQRHR3QzFZNnd2Q29jUVVB?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-20 09:36",
+      "published_iso": "2026-10-20T00:36:07+00:00",
+      "age": "19시간 전"
     },
     {
       "ticker": "TSLA",
@@ -69,7 +99,7 @@
       "source": "코인리더스",
       "published": "10-20 09:10",
       "published_iso": "2026-10-20T00:10:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "005930",
@@ -79,7 +109,7 @@
       "source": "경향신문",
       "published": "10-20 07:58",
       "published_iso": "2026-10-19T22:58:00+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "000660",
@@ -89,7 +119,7 @@
       "source": "경향신문",
       "published": "10-20 07:58",
       "published_iso": "2026-10-19T22:58:00+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "GOOG",
@@ -332,6 +362,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "롯데마트 제타, 10월 ‘월간제타’ 진행 - 글로벌뉴스통신GNA",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByTzhPbkJ1bmVRbkNFN1pTZFBjME9saERLNG1qMUg4aXl5bmh3UkxLQXZRVkpHOFVEV0FIZDVjQWhzel9BWGw1Slo5MnFOS2JxTFJZRG56Y1A1TTJHbWUzTUhrdjVqUWpPQUxBZ0VUSGFQbmhw?oc=5",
+      "source": "글로벌뉴스통신GNA",
+      "published": "10-18 10:45",
+      "published_iso": "2026-10-18T01:45:02+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
       "title": "브로드컴(AVGO), AI 사이버 위협 겨냥한 하이퍼아머 공개한 이유는 - Simply Wall Street",
@@ -350,16 +390,6 @@
       "published": "10-18 06:05",
       "published_iso": "2026-10-17T21:05:02+00:00",
       "age": "2일 전"
-    },
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "\"흩어진 고객 데이터를 하나로\" AI·개인정보 보호 강화에 주목받는 ‘아이덴티티 레졸루션’ - 매드타임스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TRjdpdDBNQkg1QzZ0czNnMGNlZTRVTVhQX1pmN1lGT1RlaTlqYy1vNHptdElveG1MVG85a0dkVkl1OXZXdDVheWNaVmF3bmZfY1hUTmtoUGk1WUxuay03aDJIT0xaT05KOV9yUg?oc=5",
-      "source": "매드타임스",
-      "published": "10-18 00:00",
-      "published_iso": "2026-10-17T15:00:00+00:00",
-      "age": "3일 전"
     },
     {
       "ticker": "GOOG",
@@ -642,6 +672,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "올해 사상 최고치 찍은 금값 하락세…ETF 수익률도 부진이어가 - 강원일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1faUk0T25GOHNqcmk1MEhyWThhUHNOZk9TSzFpdzJodmNCVEtoYVdoS1FRenFJNHNNRkc2RGhVWUZZYUZNbFZ4MlNRVTRoWDVrUFFMVnlndVcxNEk?oc=5",
+      "source": "강원일보",
+      "published": "10-16 00:00",
+      "published_iso": "2026-10-15T15:00:00+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
       "title": "Alphabet, $0.22 배당 지급 및 유럽에 AI 개방: GOOGL은 곧 돌파할까? - Traders Union",
@@ -889,7 +929,7 @@
       "source": "데이터투자",
       "published": "10-15 05:22",
       "published_iso": "2026-10-14T20:22:36+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "TSM",
@@ -899,16 +939,6 @@
       "source": "TradingKey",
       "published": "10-15 03:16",
       "published_iso": "2026-10-14T18:16:28+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "NVIDIA Corp (NVDA) 주식 움직였습니다 하락 3.30%에 10월14일: 어떤 신호인가요? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEZNclNBVE1SbVduYk5HUjFLR080dFRoWTcxblZmQk5BcnNXcU9YQWpld09UZVVDY1JVbEc5SFVJMm1FUnp4RzlYSGVzS0ozZmY1eHRPUkZyRElXTURqZC1GSU0zVlJtSXd6Tlo5X0FKUkxjRUlrU2dhUTZ6VkdVSkdyME9NbzRtRjQtWWtTMA?oc=5",
-      "source": "TradingKey",
-      "published": "10-15 03:16",
-      "published_iso": "2026-10-14T18:16:24+00:00",
       "age": "6일 전"
     },
     {
@@ -955,7 +985,7 @@
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
       "title": "GE Vernova(GEV), AI 전력 수요와 가이던스 상향에 지금도 저평가일까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmNMLTJyalozX1pjM3otcUZVbHhjM1BmNlhjZVQzZ05yRVoxTmZGRWYzSU5aRmxKdVYtTU5QdmNmbEdPd08tSXlIYWdLR00tcFQ0bGp2VXJVb3gzdHRCeUtuZnpTNjlzV092bUZibFh6Sk5GTnhmMDJOTHBDNUZGcncwN2k4ZzU0ajFFcVZOa1RyN0lw0gGaAUFVX3lxTE9VRkV1bjJpbHVmZF9UNlY0NUhLSWhaLUJ6WXR3S19rY0NOdjVwV0hfZjlVcVJfd0NZS2JYZkJfOGZyNVo1czBMU3N4YkEteFFWUTFVOGJ2Q1lQODZZX1BBV1dRbk9IX0NxMllqYV9vYjN2VkE5WFY1MU9SbWFvT2tuU1Q4R2FEYy0xMTVqMHRfVy13YnU2TjFWckE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFoxa2ctZENoeXVxbzU3ajJhdEpFaWQ2WXNxS2lCQUFPV0ktODV4RHB1eWZoQm02Qk8xZExTQk5QUG50bXpueFZ6QW1hY1oxSkM3VUJsQjRPU0N2Zjc1V3FJOHV3dzRNR19PWWxtUS02Snl4VVI4czl0bGtpeXdrM3ZXeTUtazBLWTJGV2w5VDd1X3FIR2JhR2RNcEdFT3pxZkp6a1dLYnZTTmRYWkFHTW9QSmFOY2tkSV8wSW1mZTZhOHZlMmI3WEVQUGdDUG_SAZoBQVVfeXFMT1VGRXVuMmlsdWZkX1Q2VjQ1SEtJaFotQnpZdHdLX2tjQ052NXBXSF9mOVVxUl93Q1lLYlhmQl84ZnI1WjVzMExTc3hiQS14UVZRMVU4YnZDWVA4NllfUEFXV1FuT0hfQ3EyWWphX29iM3ZWQTlYVjUxT1JtYW9Pa25TVDhHYURjLTExNWowdF9XLXdidTZOMVZyQQ?oc=5",
       "source": "Simply Wall Street",
       "published": "10-14 16:00",
       "published_iso": "2026-10-14T07:00:00+00:00",
@@ -969,36 +999,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-14 16:00",
       "published_iso": "2026-10-14T07:00:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "메모리 3사 1,080억 달러 '증발'...일론 머스크 \"HBM은 중국도 어렵다\" - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yN2k0V3djVktkaFN1dFNHTWZCRDdsMWwyd0tZZDBTdXJOZ1lkdUVoZUV4Vl9TV2xuOVY2bG16WUlKdmthZWExYUNn?oc=5",
-      "source": "코인리더스",
-      "published": "10-14 11:55",
-      "published_iso": "2026-10-14T02:55:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "코스트코(COST) 주가, 9월 매출 호조에도 불구하고 공정가치보다 21% 높을 수 있다 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUh6TW9lODdnUTgwT0pUMTBmMVFqMWdkcWR2ZWktRkhBalNlYnhDbjc3N0xjdUJzaG9OMjBFa3VQMUdLdzJrSzRfWUl6MUxsSlZLcmtBamt3a0Z4ZDJGNDZQX3RWbE1ORWZsNEF6Y0NaaXJFS1Qzenh1VU1OTElzTVZfQ1duejhSaXJSRFV1em5YMmhCQTdNZFM0c19tSU9VYXJFWm4wONIBrAFBVV95cUxNX2dvQjkxTTc3aGU4MWh4WnUzbVNZTXl6UUtRMFBUX3ZMaFJ5UGE5WmYzamhxMGczejItNDdVTDZTd0dnbFByWEpqb29WR01nRFhBRG1rOTAtdHBCVzBiTWNUYXp3dG5zalhpaEpMdWcxN0UwRUYwX01nSTYxV1RHV19vWGtFcEd0RWp2X0FMVW5BT2NNT2JicXh3WUstRjNnX3g0aV9UeDRXbXVK?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-14 08:48",
-      "published_iso": "2026-10-13T23:48:56+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "현대차그룹 제로원, ‘2026 제로원 데모데이’ 개최 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZkc4UmdzRWJkQUhUcHBzdzNSamJ6SmExU3JfanZBMndwR3pzeGhZcmxCS2VVSGk3NWRYTUMtYXo3M0diN1ZCb1Z1MkVEUi1ub0J2QjRVZkF5UzZjODNad0MzOVIyaTZSQmRpeEFqN0t2dWhjemRIVl84MnA3cG00b1kySDZUYXpkV0w3Nw?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-14 08:30",
-      "published_iso": "2026-10-13T23:30:00+00:00",
       "age": "6일 전"
     }
   ]
