@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-20 09:45 KST",
+  "updated_at": "2026-10-20 10:38 KST",
   "items": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "Amid sharp KOSPI swings, NPS trims Samsung Electronics and SK Hynix weight by 5 percentage points - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10UHd1SWtyclpOX0ViakU4NGZYYWJveUFRSDBFVTNFMXNpLUhRSG85bDFDdER2ejVadFhHTGQ1c3B2VlZ6bHZIT0xPazRnaEx5OFo1a0dQbGtZbVNVdHc?oc=5",
+      "source": "경향신문",
+      "published": "10-20 07:58",
+      "published_iso": "2026-10-19T22:58:00+00:00",
+      "age": "2시간 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "Amid sharp KOSPI swings, NPS trims Samsung Electronics and SK Hynix weight by 5 percentage points - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10UHd1SWtyclpOX0ViakU4NGZYYWJveUFRSDBFVTNFMXNpLUhRSG85bDFDdER2ejVadFhHTGQ1c3B2VlZ6bHZIT0xPazRnaEx5OFo1a0dQbGtZbVNVdHc?oc=5",
+      "source": "경향신문",
+      "published": "10-20 07:58",
+      "published_iso": "2026-10-19T22:58:00+00:00",
+      "age": "2시간 전"
+    },
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
@@ -9,7 +29,7 @@
       "source": "TIKR.com",
       "published": "10-20 03:59",
       "published_iso": "2026-10-19T18:59:54+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "INTC",
@@ -29,7 +49,7 @@
       "source": "동아일보",
       "published": "10-20 00:30",
       "published_iso": "2026-10-19T15:30:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "TSM",
@@ -39,7 +59,7 @@
       "source": "TradingKey",
       "published": "10-20 00:16",
       "published_iso": "2026-10-19T15:16:11+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "SNDK",
@@ -49,7 +69,7 @@
       "source": "TradingKey",
       "published": "10-19 23:15",
       "published_iso": "2026-10-19T14:15:53+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "AMD",
@@ -59,7 +79,7 @@
       "source": "TradingKey",
       "published": "10-19 22:47",
       "published_iso": "2026-10-19T13:47:58+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "0072R0",
@@ -69,7 +89,7 @@
       "source": "한국일보",
       "published": "10-19 17:30",
       "published_iso": "2026-10-19T08:30:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "TSLA",
@@ -79,7 +99,7 @@
       "source": "코인리더스",
       "published": "10-19 16:30",
       "published_iso": "2026-10-19T07:30:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "489250",
@@ -89,7 +109,7 @@
       "source": "한국경제",
       "published": "10-19 15:49",
       "published_iso": "2026-10-19T06:49:12+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "AVGO",
@@ -99,7 +119,7 @@
       "source": "Benzinga",
       "published": "10-19 15:17",
       "published_iso": "2026-10-19T06:17:49+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "489250",
@@ -109,7 +129,7 @@
       "source": "매일일보",
       "published": "10-19 14:02",
       "published_iso": "2026-10-19T05:02:04+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "VOO",
@@ -119,7 +139,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-19 10:34",
       "published_iso": "2026-10-19T01:34:26+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "489250",
@@ -202,6 +222,26 @@
       "age": "1일 전"
     },
     {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "롯데마트 제타, 10월 ‘월간제타’ 진행 - 글로벌뉴스통신GNA",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByTzhPbkJ1bmVRbkNFN1pTZFBjME9saERLNG1qMUg4aXl5bmh3UkxLQXZRVkpHOFVEV0FIZDVjQWhzel9BWGw1Slo5MnFOS2JxTFJZRG56Y1A1TTJHbWUzTUhrdjVqUWpPQUxBZ0VUSGFQbmhw?oc=5",
+      "source": "글로벌뉴스통신GNA",
+      "published": "10-18 10:45",
+      "published_iso": "2026-10-18T01:45:02+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "브로드컴(AVGO), AI 사이버 위협 겨냥한 하이퍼아머 공개한 이유는 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWFJHaXB3UnBkWEx6dm44Nnp2U2E5NTQ3NkZycTlJMmktRlJlaTZPZXN1STJVbjBSTkQ0RUJ3TWw3NXRkaG9hQ2JFeDVORGMxbU9BU3JsUUVSNGdUS3dfUHp3NFllZmMtUmlWa3Y3Q0RlSkwtaTE3ejVReWV4clRRZkpTX0ZfRmpNQzVTSWhPUHFSSzhhOG8tTFNWZzfSAZwBQVVfeXFMTlhSR2lwd1JwZFhMenZuODZ6dlNhOTU0NzZGcnE5STJpLUZSZWk2T2VzdUkyVW4wUk5ENEVCd01sNzV0ZGhvYUNiRXg1TkRjMW1PQVNybFFFUjRnVEt3X1B6dzRZZWZjLVJpVmt2N0NEZUpMLWkxN3o1UXlleHJUUWZKU19GX0ZqTUM1U0loT1BxUks4YThvLUxTVmc3?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-18 06:05",
+      "published_iso": "2026-10-17T21:05:12+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "테슬라(TSLA) 주가는 매출 대비 프리미엄을 기록하며 거래되고 있다 - Simply Wall Street",
@@ -209,16 +249,6 @@
       "source": "Simply Wall Street",
       "published": "10-18 06:05",
       "published_iso": "2026-10-17T21:05:02+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "\"흩어진 고객 데이터를 하나로\" AI·개인정보 보호 강화에 주목받는 ‘아이덴티티 레졸루션’ - 매드타임스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TRjdpdDBNQkg1QzZ0czNnMGNlZTRVTVhQX1pmN1lGT1RlaTlqYy1vNHptdElveG1MVG85a0dkVkl1OXZXdDVheWNaVmF3bmZfY1hUTmtoUGk1WUxuay03aDJIT0xaT05KOV9yUg?oc=5",
-      "source": "매드타임스",
-      "published": "10-18 00:00",
-      "published_iso": "2026-10-17T15:00:00+00:00",
       "age": "2일 전"
     },
     {
@@ -249,16 +279,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-17 16:39",
       "published_iso": "2026-10-17T07:39:02+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "SK hynix(KOSE:A000660), AI 메모리 성장 기대에도 지금 저평가 구간일까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVDU0a2labGRuaEZUUENQMjZkTjF3aVZBX2hudXRjbVVEbGpOYl9QRC1lUlhUNkhSbm5SeHZDU3JVUW8xdmRudnl4Y0pnVnMtVWNjc2phVlFXNlVVeDRham1LaWtLbWNYLUt1RjhrUzdmREpONnF6S2hRSDczdkE4Q3FQeDQya0VlNU5MbnNTX3gtU1h1V2dLWjVjTTJvc2ExVURrclM3T2tnQWtqazBqUnk2WmtkTjFZeE55Ry1aTXRKZjJ4YmZPanZHME9qcUlBaF8tUWpFYWVrTFpT0gGnAUFVX3lxTE5VX2Z5dUlNTjh1enNhZ1RTSVRJbmJmcmpOaXE2bmZKeV83Q1p1aWNGUWY1TTdtOE5KU0JLVHRwcGFvdFlGYk9NWUZ1bEd5TjczTjFrVHd3cklRcC11bmxKNGpVT0RMTVNZaVhiSVNDdDVlaVBZel9FWS10NHBZajB1SmxrTHItRml1SjdQNEcxV3lKckZmcmp4c25jenVweTMxWXZIMGNN?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-17 16:00",
-      "published_iso": "2026-10-17T07:00:00+00:00",
       "age": "2일 전"
     },
     {
@@ -462,16 +482,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "브로드컴(AVGO), AI 사이버 위협 겨냥한 하이퍼아머 공개한 이유는 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWxrbWFBMGJkd0NOdVZ6LV9tUUVmaVNicnhvQU4zRVpnY1pMV2hzVWNDOVF2TzdaX1c2Y3JLTHRvbDBoajc3V3l2MmJ3alRRaXBQWXdxendfYmR3VGlxQjJIbldhVDEwOE5HNGZZc3YzVTg3djZkNXhYWGI5N0MyVGppTVJvMWN4aE9ZODV3cHlEUmIxcUpR0gGcAUFVX3lxTE5YUkdpcHdScGRYTHp2bjg2enZTYTk1NDc2RnJxOUkyaS1GUmVpNk9lc3VJMlVuMFJORDRFQndNbDc1dGRob2FDYkV4NU5EYzFtT0FTcmxRRVI0Z1RLd19Qenc0WWVmYy1SaVZrdjdDRGVKTC1pMTd6NVF5ZXhyVFFmSlNfRl9Gak1DNVNJaE9QcVJLOGE4by1MU1ZnNw?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-16 16:00",
-      "published_iso": "2026-10-16T07:00:00+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "005380",
       "name": "현대자동차",
       "title": "기아, 판교서 PV5 기반 원격 운전 카셰어링 시범 서비스 개시 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
@@ -519,6 +529,16 @@
       "source": "대한경제",
       "published": "10-16 07:00",
       "published_iso": "2026-10-15T22:00:16+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova Inc.",
+      "title": "GE Vernova(GEV), AI 전력 수요와 가이던스 상향에 지금도 저평가일까? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVUZFdW4yaWx1ZmRfVDZWNDVIS0loWi1Cell0d0tfa2NDTnY1cFdIX2Y5VXFSX3dDWUtiWGZCXzhmcjVaNXMwTFNzeGJBLXhRVlExVThidkNZUDg2WV9QQVdXUW5PSF9DcTJZamFfb2IzdlZBOVhWNTFPUm1hb09rblNUOEdhRGMtMTE1ajB0X1ctd2J1Nk4xVnJB0gGaAUFVX3lxTE9VRkV1bjJpbHVmZF9UNlY0NUhLSWhaLUJ6WXR3S19rY0NOdjVwV0hfZjlVcVJfd0NZS2JYZkJfOGZyNVo1czBMU3N4YkEteFFWUTFVOGJ2Q1lQODZZX1BBV1dRbk9IX0NxMllqYV9vYjN2VkE5WFY1MU9SbWFvT2tuU1Q4R2FEYy0xMTVqMHRfVy13YnU2TjFWckE?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-16 06:50",
+      "published_iso": "2026-10-15T21:50:54+00:00",
       "age": "4일 전"
     },
     {
@@ -699,7 +719,7 @@
       "source": "레디앙",
       "published": "10-15 10:21",
       "published_iso": "2026-10-15T01:21:47+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "458730",
@@ -709,7 +729,7 @@
       "source": "브릿지경제",
       "published": "10-15 10:06",
       "published_iso": "2026-10-15T01:06:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "458730",
@@ -819,16 +839,6 @@
       "source": "Hyundai Motor Group",
       "published": "10-14 17:13",
       "published_iso": "2026-10-14T08:13:00+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "GEV",
-      "name": "GE Vernova Inc.",
-      "title": "GE Vernova(GEV), AI 전력 수요와 가이던스 상향에 지금도 저평가일까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFoxa2ctZENoeXVxbzU3ajJhdEpFaWQ2WXNxS2lCQUFPV0ktODV4RHB1eWZoQm02Qk8xZExTQk5QUG50bXpueFZ6QW1hY1oxSkM3VUJsQjRPU0N2Zjc1V3FJOHV3dzRNR19PWWxtUS02Snl4VVI4czl0bGtpeXdrM3ZXeTUtazBLWTJGV2w5VDd1X3FIR2JhR2RNcEdFT3pxZkp6a1dLYnZTTmRYWkFHTW9QSmFOY2tkSV8wSW1mZTZhOHZlMmI3WEVQUGdDUG_SAZoBQVVfeXFMT1VGRXVuMmlsdWZkX1Q2VjQ1SEtJaFotQnpZdHdLX2tjQ052NXBXSF9mOVVxUl93Q1lLYlhmQl84ZnI1WjVzMExTc3hiQS14UVZRMVU4YnZDWVA4NllfUEFXV1FuT0hfQ3EyWWphX29iM3ZWQTlYVjUxT1JtYW9Pa25TVDhHYURjLTExNWowdF9XLXdidTZOMVZyQQ?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-14 16:00",
-      "published_iso": "2026-10-14T07:00:00+00:00",
       "age": "5일 전"
     },
     {
@@ -952,6 +962,16 @@
       "age": "6일 전"
     },
     {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "삼성자산운용, 미국 AI 에이전트 기업 투자 ETF 출시 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX2lKTUFxdkcxNFpuUWJ5RzgzTndoNW9iVTFLUDdQVlBuMmtFVTdqcFNSb2lLdWZmaDdIdVBQRHJNRHhrNk9YRDZQNmQtVWUxT1lqcl9pdUJFaFhkcE1mQy1aM2NVTzNrWWx2bXN6UzFidFE1ZHFZNTFIQ1lobTdzcW9PYzNwYlpB?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "10-13 15:24",
+      "published_iso": "2026-10-13T06:24:03+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
       "title": "토큰화된 SanDisk 베팅이 아시아 반도체 시장 폭락으로 8억 달러가 사라지면서 XRP보다 더 많은 청산을 기록했다 - CoinDesk",
@@ -979,26 +999,6 @@
       "source": "매일경제",
       "published": "10-13 13:50",
       "published_iso": "2026-10-13T04:50:30+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "JEPQ",
-      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-      "title": "게임 이해를 돕는 짧은 문답, 프롬 토토 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BeWxWRGZuRFo3SDUzZDhCZ3JMa1NDSnprZmJSN3dncGNDRWlFMGhVLXNyVnUtQlljTVlnSnEzS1VVUko2dlhZVjZlNldSdDQ3OFZYaHFpcjZ0VzVNZi1xOG8wY3BGX1U?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-13 13:12",
-      "published_iso": "2026-10-13T04:12:26+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "삼성운용, 'KODEX 미국AI에이전트액티브' 출시 - 스마트투데이",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pcGpPWG9TT1V2VmxndGJTWGYySnJvQWx3alRfU2lOYmd6QUdfMGxEY3lUdzJfTmhpcHBGS05pRkYwblpkSEVyNlIyXzd2ZTBvM3lkWTEtQlBkNnpmeVZr?oc=5",
-      "source": "스마트투데이",
-      "published": "10-13 11:09",
-      "published_iso": "2026-10-13T02:09:00+00:00",
       "age": "6일 전"
     }
   ]
