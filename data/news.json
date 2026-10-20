@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 16:43 KST",
+  "updated_at": "2026-10-20 17:37 KST",
   "items": [
     {
       "ticker": "005930",
@@ -9,7 +9,7 @@
       "source": "인사이트코리아",
       "published": "10-20 13:00",
       "published_iso": "2026-10-20T04:00:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "TSLA",
@@ -19,7 +19,17 @@
       "source": "코인리더스",
       "published": "10-20 09:10",
       "published_iso": "2026-10-20T00:10:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "[월가 콜] 분석 개시·의견 재확인...인텔·아마존·AMD(10/19) - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMZnVBUWJPRlBLNHIyTEhGMjkxb2EydlhyNzZwOGo4cjViWTYzU25fLXdtU3V5eXNvVjk3UE44ZlFubG9aWkNnblRkZWxyYW1qNmU4bU82ZmJvWl9f?oc=5",
+      "source": "뉴스핌",
+      "published": "10-20 08:30",
+      "published_iso": "2026-10-19T23:30:00+00:00",
+      "age": "9시간 전"
     },
     {
       "ticker": "005930",
@@ -29,7 +39,7 @@
       "source": "경향신문",
       "published": "10-20 07:58",
       "published_iso": "2026-10-19T22:58:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "000660",
@@ -39,17 +49,17 @@
       "source": "경향신문",
       "published": "10-20 07:58",
       "published_iso": "2026-10-19T22:58:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
       "title": "A $1.5 Trillion Anthropic IPO Still Pays Off for Google: “They’re Gonna Be Fine” - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGU5aWF3bEpjdE14UjRsODUzM0ZpNEtKXzZYaFJCSndWWnRfazhIcFI1RUJSZm5mTUstMmF4Zld1aFN0bzJvdEJ1aWxsQm1LTzFHQlhzYVQ3Rkg5dUhvZ1kyQ2h1NHpRV2NneUJhcmRMM2ZfY3FUR0JuQjlpYlJKWFpwbzhjQXh5T2EwaTJmZ29kYjJkdlZYYXViZm45Vm1VdFl6NzJEal8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzgwSUJtd25DLW80RnhaME8xVndZUzVfREwwZU01bHdUdFpFd2QzNTg4TXhNUFI0cWJzSjF0VTE2am5uTE9xblJqY3ktTUpURlMxX19lU3JmMnM0M2JrUDI4V0daZnN2Q3YwUnBxS3N0ZkVxTGROWS12Vng4OTQtVUpQRGNlcXIwZWZ2V2J6UGZ2dG5VM1VreXNTZlY4VlUwSmtBbkxQdw?oc=5",
       "source": "TIKR.com",
-      "published": "10-20 03:59",
-      "published_iso": "2026-10-19T18:59:54+00:00",
-      "age": "12시간 전"
+      "published": "10-20 04:07",
+      "published_iso": "2026-10-19T19:07:30+00:00",
+      "age": "13시간 전"
     },
     {
       "ticker": "INTC",
@@ -69,7 +79,7 @@
       "source": "Simply Wall Street",
       "published": "10-20 03:06",
       "published_iso": "2026-10-19T18:06:57+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "489250",
@@ -79,7 +89,7 @@
       "source": "동아일보",
       "published": "10-20 00:30",
       "published_iso": "2026-10-19T15:30:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "TSM",
@@ -89,7 +99,7 @@
       "source": "TradingKey",
       "published": "10-20 00:16",
       "published_iso": "2026-10-19T15:16:11+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "SNDK",
@@ -99,7 +109,7 @@
       "source": "TradingKey",
       "published": "10-19 23:15",
       "published_iso": "2026-10-19T14:15:53+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "AMD",
@@ -109,7 +119,7 @@
       "source": "TradingKey",
       "published": "10-19 22:47",
       "published_iso": "2026-10-19T13:47:58+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "0072R0",
@@ -119,7 +129,7 @@
       "source": "한국일보",
       "published": "10-19 17:30",
       "published_iso": "2026-10-19T08:30:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "489250",
@@ -252,6 +262,26 @@
       "age": "1일 전"
     },
     {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "브로드컴(AVGO) 주가는 향후 현금 흐름 수요에 비추어 볼 때 저평가된 것으로 보인다 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOek1iNTIwWl82OTEwelFib1ZyVnhvZ1VQYW1OYk9ZUWhzR2pFOTlQVElsZU9FZThNQ3JTVWpoOWFBaUsxNlk1dHV1UGEwRGlVdmpVYUJJZFdvOEN6S1VCYUZjS3JUaXI4TWJCbll5ZUVseDBsbUVkMUxZTXZYVmFvd3E0QkhEc1RpWlpYbFBtTGtZamNjb285d3lxam3SAZwBQVVfeXFMTnpNYjUyMFpfNjkxMHpRYm9WclZ4b2dVUGFtTmJPWVFoc0dqRTk5UFRJbGVPRWU4TUNyU1VqaDlhQWlLMTZZNXR1dVBhMERpVXZqVWFCSWRXbzhDektVQmFGY0tyVGlyOE1iQm5ZeWVFbHgwbG1FZDFMWU12WFZhb3dxNEJIRHNUaVpaWGxQbUxrWWpjY29vOXd5cWpt?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-18 11:43",
+      "published_iso": "2026-10-18T02:43:32+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "엔비디아(NVDA) 주가, 현금 흐름을 고려할 때 공정 가치보다 낮게 거래되고 있다 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWtoUHliYXdScDk4TDVPdkFFZlhsVFBxVGVRNTFFY0dNcnNENVhJS1hTSm1YTXZwU2JHdWJHMWxQV1dmSWdrT1BfS1JXRnV0QWVWVFBOYjEyXzB3OVFNbXlXMi1UZk9IQ1NRVDgtRGNWOXQ2dWNkMngwUXV2MURrbXpqU1dBWnU0STZLX3pZVEl0X01YYzFIcjhR0gGaAUFVX3lxTE55a2hQeWJhd1JwOThMNU92QUVmWGxUUHFUZVE1MUVjR01yc0Q1WElLWFNKbVhNdnBTYkd1YkcxbFBXV2ZJZ2tPUF9LUldGdXRBZVZUUE5iMTJfMHc5UU1teVcyLVRmT0hDU1FUOC1EY1Y5dDZ1Y2QyeDBRdXYxRGttempTV0FadTRJNktfellUSXRfTVhjMUhyOFE?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-18 11:40",
+      "published_iso": "2026-10-18T02:40:12+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
       "title": "롯데마트 제타, 10월 ‘월간제타’ 진행 - 글로벌뉴스통신GNA",
@@ -279,16 +309,6 @@
       "source": "Simply Wall Street",
       "published": "10-18 06:05",
       "published_iso": "2026-10-17T21:05:02+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "게임 테마와 기능은 어떻게 연결될까? 일본 경마배팅 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KTVlGTG9qWXRibHBndDB0SDI3blRoZjhTNTV3QjBxNzVTNFFFRnllOFhmaURXMnRIckFqaVRnRDd1Qi1memZXcTFEY0JTTmZTOHA1OVB5dDZGYjZXLTl1ZjhERDcwUW4tNFVxcUp2cUN1RzZUc3A4?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-18 04:29",
-      "published_iso": "2026-10-17T19:29:15+00:00",
       "age": "2일 전"
     },
     {
@@ -434,11 +454,11 @@
     {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
-      "title": "골드만삭스, Zeta 매수 상향·Klaviyo 중립 하향 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSDVBT1BFREFULWpkOVVKamd4Vlo1ekswSFZQdV9NRnJ1bDljWGRLWnVtanZ3dHNWbmtPRTNSMWozLTU1ZzVFN3VZb2xZZHpEX1dmMTlSNVdXU0ZfWHQ2UU5LYzV2RU5qZzVtU2lzZlU?oc=5",
+      "title": "Truist, Zeta Global 매수 의견 유지…목표주가 38달러 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Sa3dYSWtXRlhRQ2pTVDFlblQwU3hFNDFKTWxzNG1PQzA0aFBJaDRWVUY2Y2pjcmlyTURXRmljN3ZQZElhUjd4NzhOa1lPLV83MnFoZEMzN3FJcmxuYVZ5S2RxSXFEWFhOZWljdHNBREtlOWZY?oc=5",
       "source": "Investing.com 한국어",
-      "published": "10-16 22:16",
-      "published_iso": "2026-10-16T13:16:00+00:00",
+      "published": "10-16 22:53",
+      "published_iso": "2026-10-16T13:53:00+00:00",
       "age": "3일 전"
     },
     {
@@ -609,7 +629,7 @@
       "source": "머니투데이",
       "published": "10-15 17:07",
       "published_iso": "2026-10-15T08:07:25+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "379800",
@@ -852,6 +872,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "Advanced Micro Devices Inc (AMD) 주식 움직였습니다 하락 3.47%에 10월14일: 투자자가 알아야 할 정보 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZEMyUTFvUDd3eWpURjRrbm9DRHlpa1VHdXlxaUtXLWlmWGdhVkVqd3FPbnlxN3BmYmVIUVFlTjZ6NGc0R2ZJckt4aFRaWUxaRmk2Zm9hTFI1cEM3cGl4b3ZIVnZSRU9WX1NpaU9XN3VKQU12Y3lHUXJjMk1mcGk4c0VfcDZYbzVwdlo2cHBn?oc=5",
+      "source": "TradingKey",
+      "published": "10-14 23:16",
+      "published_iso": "2026-10-14T14:16:06+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
       "title": "Ge Vernova Inc (GEV) 주식 움직였습니다 하락 4.48%에 10월14일: 변동 원인 - TradingKey",
@@ -869,7 +899,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-14 17:13",
       "published_iso": "2026-10-14T08:13:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "GEV",
@@ -969,36 +999,6 @@
       "source": "이데일리",
       "published": "10-13 20:13",
       "published_iso": "2026-10-13T11:13:16+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "메타·팔란티어 등 AI 생태계 포괄…삼성자산운용, 미국 AI 에이전트 ETF 첫선 - 열린뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRM3JyRXh0dFdjNld6WWc3QTE0bHc2OWdzclRjTlZzYXlrVHF0YkxLOXV4ZWZrbVRzSDNUYVNoVEJzRkFvQkdBZXV4THNfejBwVEVjb1NDenJfSGJ5UXNnNlFNZWlaZw?oc=5",
-      "source": "열린뉴스통신",
-      "published": "10-13 18:33",
-      "published_iso": "2026-10-13T09:33:17+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "삼성자산운용, ‘KODEX 미국AI에이전트액티브’ ETF 상장 - 뉴스인사이드",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVUVQzRW1SX19NVjJRX1FyYUZ2S21JZWJMcVBKZ0x0WEhraTdpZW1zMDBCWGhjQW5DZU9kanh2TDN1RW16RGo4T0liYTZnWnc3c2hMUHRjNlp5R3BDbjZ1c0NDbUtOZG9iY2Q3TWtn?oc=5",
-      "source": "뉴스인사이드",
-      "published": "10-13 17:42",
-      "published_iso": "2026-10-13T08:42:02+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "브로드컴(AVGO) CEO, AI 투자자에 쓴소리...\"스스로 뭘 사는지 모르는 도박꾼\" - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwN1U5YVZ4VjdkSTJycmV1QkFQNEhMQjVNY0JPU0lNMFZOVC1fc1kyOVBrclVCVXZ1UV9SdzJQOW9sVzZnUkdZbkJR?oc=5",
-      "source": "코인리더스",
-      "published": "10-13 17:20",
-      "published_iso": "2026-10-13T08:20:00+00:00",
       "age": "6일 전"
     }
   ]
