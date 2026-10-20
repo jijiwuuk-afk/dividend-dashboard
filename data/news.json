@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 12:34 KST",
+  "updated_at": "2026-10-20 13:33 KST",
   "items": [
     {
       "ticker": "TSLA",
@@ -9,7 +9,7 @@
       "source": "코인리더스",
       "published": "10-20 09:10",
       "published_iso": "2026-10-20T00:10:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "INTC",
@@ -19,7 +19,7 @@
       "source": "뉴스핌",
       "published": "10-20 08:30",
       "published_iso": "2026-10-19T23:30:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "005930",
@@ -29,7 +29,7 @@
       "source": "경향신문",
       "published": "10-20 07:58",
       "published_iso": "2026-10-19T22:58:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "000660",
@@ -39,7 +39,7 @@
       "source": "경향신문",
       "published": "10-20 07:58",
       "published_iso": "2026-10-19T22:58:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "GOOG",
@@ -49,7 +49,7 @@
       "source": "TIKR.com",
       "published": "10-20 04:07",
       "published_iso": "2026-10-19T19:07:30+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "489250",
@@ -59,7 +59,7 @@
       "source": "동아일보",
       "published": "10-20 00:30",
       "published_iso": "2026-10-19T15:30:00+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "TSM",
@@ -69,7 +69,7 @@
       "source": "TradingKey",
       "published": "10-20 00:16",
       "published_iso": "2026-10-19T15:16:11+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "SNDK",
@@ -79,7 +79,7 @@
       "source": "TradingKey",
       "published": "10-19 23:15",
       "published_iso": "2026-10-19T14:15:53+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "AMD",
@@ -89,7 +89,7 @@
       "source": "TradingKey",
       "published": "10-19 22:47",
       "published_iso": "2026-10-19T13:47:58+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "0072R0",
@@ -99,7 +99,7 @@
       "source": "한국일보",
       "published": "10-19 17:30",
       "published_iso": "2026-10-19T08:30:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "489250",
@@ -109,7 +109,7 @@
       "source": "한국경제",
       "published": "10-19 15:49",
       "published_iso": "2026-10-19T06:49:12+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "AVGO",
@@ -119,7 +119,7 @@
       "source": "Benzinga",
       "published": "10-19 15:17",
       "published_iso": "2026-10-19T06:17:49+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "489250",
@@ -129,7 +129,7 @@
       "source": "매일일보",
       "published": "10-19 14:02",
       "published_iso": "2026-10-19T05:02:04+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "487230",
@@ -139,7 +139,7 @@
       "source": "머니투데이",
       "published": "10-19 13:35",
       "published_iso": "2026-10-19T04:35:09+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "VOO",
@@ -219,16 +219,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-18 22:34",
       "published_iso": "2026-10-18T13:34:21+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "QQQM",
-      "name": "Invesco NASDAQ 100 ETF",
-      "title": "테마보다 구조가 먼저 궁금한 분을 위한 파월 암호화폐 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kQVF2NnZXZ2hiVHdweEdsNnVZWWNGMk5hb0FuR3Nwal9rVzRyRGc3Q3MzOERwUGxoNExoLVFZblliWTBpcmZzZW1VR0YwR2UwU2VGMXFhbi1LS3FCOXotV3lMTlFRS2dOSVVvYzBtbHFKbklo?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-18 18:31",
-      "published_iso": "2026-10-18T09:31:11+00:00",
       "age": "1일 전"
     },
     {
@@ -362,16 +352,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "코스트코, 2027 회계연도 임원 성과급 기준 승인…CEO 기본 성과급 120만 달러 - 데이터투자",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84bE9LTGR4OTZ3VUI3QnFiRFlWUnpGMi1qV1BWWHpiTzFHb1ZoQXNkdHBRc0NvTHVpLWY4ZnkzNVN0aXJIbWN1NG1zWkF2QnowUTdpSW11V283Y2tZU3djVGlUYUJEeXhoaVZURnViMHVSenM?oc=5",
-      "source": "데이터투자",
-      "published": "10-17 05:56",
-      "published_iso": "2026-10-16T20:56:22+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "VOO",
       "name": "Vanguard S&P 500 ETF",
       "title": "공원 토토 사이트 게임 내 언어 설정 확인 - Calgary Roughnecks",
@@ -449,16 +429,6 @@
       "source": "Investing.com 한국어",
       "published": "10-16 20:07",
       "published_iso": "2026-10-16T11:07:00+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "368590",
-      "name": "RISE 미국나스닥100",
-      "title": "매달 현금이 따박따박…‘변동장 피난처’ 떠오른 커버드콜 ETF [S머니+] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZ3Jxa3IyR2JFSGhWbnZHdlE0WGMxamo3OHBPRl9UQ3JPdjJsQmlZT3RuV1RfQm5rdEZyMFpMbFVndzlTaV8zVDJJMHZiY1hySkHSAVNBVV95cUxOUTFSeXVUdUpTVDQ2akVhY0FmTERGR3E3VGdwSWlzeThwMl9TNjJIN1V3TTMzSTV2b180Q1hCMFNscnBEVDFxS2haYi1lV283bURvQQ?oc=5",
-      "source": "서울경제",
-      "published": "10-16 17:25",
-      "published_iso": "2026-10-16T08:25:36+00:00",
       "age": "3일 전"
     },
     {
@@ -662,6 +632,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "368590",
+      "name": "RISE 미국나스닥100",
+      "title": "KODEX 미국나스닥100, 순자산 10조 돌파… 상장 후 5년 6개월 만 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UWW5hVGtfS01TY1BoazMwZU05YktNUGNNTElBZFdmT193QmlDLXE2V2piMTNiREdlZ2I4OTAyc19ZQlJmV2t0eUtHTjJzWWRrUjNEbW9XaUtCR0MxUUplZHpBcEQ2X05xdkd3c2tsUTU2d0xzN2fSAXtBVV95cUxPRGdPRl9Ea1JHd2tsV1pyMkpWMW1nMWE3WHRQWXJJSHNjOUF3Q2U2bmpLXzhuTXl4TW5lOXdhNG82TWtqNHFMZndOS3lOaG8yclYzLWxXdW5XeDVncFhWSEV6TjdBT0JLSFlja3FjSzBQM2ZmdFYzRG9uZFE?oc=5",
+      "source": "머니투데이",
+      "published": "10-15 13:44",
+      "published_iso": "2026-10-15T04:44:44+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
       "title": "KODEX 미국나스닥100, 순자산 10조 돌파… 상장 후 5년 6개월 만 - 머니투데이 - 머니투데이",
@@ -679,7 +659,7 @@
       "source": "재경일보",
       "published": "10-15 13:30",
       "published_iso": "2026-10-15T04:30:16+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "379800",
@@ -689,7 +669,7 @@
       "source": "재경일보",
       "published": "10-15 13:30",
       "published_iso": "2026-10-15T04:30:16+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "379800",
@@ -792,6 +772,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "코스트코, 보통주 주당 1.47달러 분기 현금 배당 발표 - 데이터투자",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTNkw3dXAtd0x4bTBJRGNheVVMR2dwWnVWOW84OWZpRndXM212cGNkeG03Z3VKdVkxWlhlZ1NIZi0zenR6R28tdmZNNEFsVVFBRHRzWGlZYVB6U3dIaklOeWFVUjJkRVhkbmRLMHR4S0lSQmM?oc=5",
+      "source": "데이터투자",
+      "published": "10-15 05:22",
+      "published_iso": "2026-10-14T20:22:36+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
       "title": "Taiwan Semiconductor Manufacturing Co Ltd (TSM) 주식 움직였습니다 하락 3.45%에 10월14일: 변동을 뒷받침하는 사실 - TradingKey",
@@ -867,6 +857,16 @@
       "title": "GE Vernova(GEV), AI 전력 수요와 가이던스 상향에 지금도 저평가일까? - Simply Wall Street",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFoxa2ctZENoeXVxbzU3ajJhdEpFaWQ2WXNxS2lCQUFPV0ktODV4RHB1eWZoQm02Qk8xZExTQk5QUG50bXpueFZ6QW1hY1oxSkM3VUJsQjRPU0N2Zjc1V3FJOHV3dzRNR19PWWxtUS02Snl4VVI4czl0bGtpeXdrM3ZXeTUtazBLWTJGV2w5VDd1X3FIR2JhR2RNcEdFT3pxZkp6a1dLYnZTTmRYWkFHTW9QSmFOY2tkSV8wSW1mZTZhOHZlMmI3WEVQUGdDUG_SAZoBQVVfeXFMT1VGRXVuMmlsdWZkX1Q2VjQ1SEtJaFotQnpZdHdLX2tjQ052NXBXSF9mOVVxUl93Q1lLYlhmQl84ZnI1WjVzMExTc3hiQS14UVZRMVU4YnZDWVA4NllfUEFXV1FuT0hfQ3EyWWphX29iM3ZWQTlYVjUxT1JtYW9Pa25TVDhHYURjLTExNWowdF9XLXdidTZOMVZyQQ?oc=5",
       "source": "Simply Wall Street",
+      "published": "10-14 16:00",
+      "published_iso": "2026-10-14T07:00:00+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "JEPQ",
+      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+      "title": "기본 규칙을 읽은 다음 살펴볼 제다이 서바이버 퍽 슬롯 예외 항목 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBabVlaTmFuMm54OEtWSUtPQU1ydjE4TEtadTJPekhuVDEtUUVzWGZYUl84MlhHa3ptdXRiTzd4LXBQLVRsZ2RFQTdZMnpfNmttV2tJYWtGNVZpVDJrT0x4ZmJCYXMwblZPclE?oc=5",
+      "source": "Calgary Roughnecks",
       "published": "10-14 16:00",
       "published_iso": "2026-10-14T07:00:00+00:00",
       "age": "5일 전"
