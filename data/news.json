@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 18:35 KST",
+  "updated_at": "2026-10-20 19:34 KST",
   "items": [
     {
       "ticker": "005930",
@@ -9,7 +9,7 @@
       "source": "인사이트코리아",
       "published": "10-20 13:00",
       "published_iso": "2026-10-20T04:00:00+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "TSLA",
@@ -19,7 +19,7 @@
       "source": "코인리더스",
       "published": "10-20 09:10",
       "published_iso": "2026-10-20T00:10:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "INTC",
@@ -29,7 +29,7 @@
       "source": "뉴스핌",
       "published": "10-20 08:30",
       "published_iso": "2026-10-19T23:30:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "005930",
@@ -39,7 +39,7 @@
       "source": "경향신문",
       "published": "10-20 07:58",
       "published_iso": "2026-10-19T22:58:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "000660",
@@ -49,7 +49,7 @@
       "source": "경향신문",
       "published": "10-20 07:58",
       "published_iso": "2026-10-19T22:58:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "GOOG",
@@ -59,7 +59,7 @@
       "source": "TIKR.com",
       "published": "10-20 04:07",
       "published_iso": "2026-10-19T19:07:30+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "INTC",
@@ -69,7 +69,7 @@
       "source": "ThinkPool",
       "published": "10-20 03:41",
       "published_iso": "2026-10-19T18:41:00+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "COST",
@@ -79,7 +79,17 @@
       "source": "Simply Wall Street",
       "published": "10-20 03:06",
       "published_iso": "2026-10-19T18:06:57+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "SK hynix(KOSE:A000660), AI 메모리 성장 기대에도 지금 저평가 구간일까? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVV9meXVJTU44dXpzYWdUU0lUSW5iZnJqTmlxNm5mSnlfN0NadWljRlFmNU03bThOSlNCS1R0cHBhb3RZRmJPTVlGdWxHeU43M04xa1R3d3JJUXAtdW5sSjRqVU9ETE1TWWlYYklTQ3Q1ZWlQWXpfRVktdDRwWWowdUpsa0xyLUZpdUo3UDRHMVd5SnJGZnJqeHNuY3p1cHkzMVl2SDBjTdIBpwFBVV95cUxOVV9meXVJTU44dXpzYWdUU0lUSW5iZnJqTmlxNm5mSnlfN0NadWljRlFmNU03bThOSlNCS1R0cHBhb3RZRmJPTVlGdWxHeU43M04xa1R3d3JJUXAtdW5sSjRqVU9ETE1TWWlYYklTQ3Q1ZWlQWXpfRVktdDRwWWowdUpsa0xyLUZpdUo3UDRHMVd5SnJGZnJqeHNuY3p1cHkzMVl2SDBjTQ?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-20 02:58",
+      "published_iso": "2026-10-19T17:58:17+00:00",
+      "age": "16시간 전"
     },
     {
       "ticker": "489250",
@@ -89,7 +99,7 @@
       "source": "동아일보",
       "published": "10-20 00:30",
       "published_iso": "2026-10-19T15:30:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "TSM",
@@ -99,7 +109,7 @@
       "source": "TradingKey",
       "published": "10-20 00:16",
       "published_iso": "2026-10-19T15:16:11+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "SNDK",
@@ -109,7 +119,7 @@
       "source": "TradingKey",
       "published": "10-19 23:15",
       "published_iso": "2026-10-19T14:15:53+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "AMD",
@@ -119,7 +129,7 @@
       "source": "TradingKey",
       "published": "10-19 22:47",
       "published_iso": "2026-10-19T13:47:58+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "0072R0",
@@ -282,6 +292,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "엔비디아(NVDA) 주가, 현금 흐름을 고려할 때 공정 가치보다 낮게 거래되고 있다 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWtoUHliYXdScDk4TDVPdkFFZlhsVFBxVGVRNTFFY0dNcnNENVhJS1hTSm1YTXZwU2JHdWJHMWxQV1dmSWdrT1BfS1JXRnV0QWVWVFBOYjEyXzB3OVFNbXlXMi1UZk9IQ1NRVDgtRGNWOXQ2dWNkMngwUXV2MURrbXpqU1dBWnU0STZLX3pZVEl0X01YYzFIcjhR0gGaAUFVX3lxTE55a2hQeWJhd1JwOThMNU92QUVmWGxUUHFUZVE1MUVjR01yc0Q1WElLWFNKbVhNdnBTYkd1YkcxbFBXV2ZJZ2tPUF9LUldGdXRBZVZUUE5iMTJfMHc5UU1teVcyLVRmT0hDU1FUOC1EY1Y5dDZ1Y2QyeDBRdXYxRGttempTV0FadTRJNktfellUSXRfTVhjMUhyOFE?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-18 11:40",
+      "published_iso": "2026-10-18T02:40:12+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
       "title": "롯데마트 제타, 10월 ‘월간제타’ 진행 - 글로벌뉴스통신GNA",
@@ -309,16 +329,6 @@
       "source": "Simply Wall Street",
       "published": "10-18 06:05",
       "published_iso": "2026-10-17T21:05:02+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "게임 테마와 기능은 어떻게 연결될까? 일본 경마배팅 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KTVlGTG9qWXRibHBndDB0SDI3blRoZjhTNTV3QjBxNzVTNFFFRnllOFhmaURXMnRIckFqaVRnRDd1Qi1memZXcTFEY0JTTmZTOHA1OVB5dDZGYjZXLTl1ZjhERDcwUW4tNFVxcUp2cUN1RzZUc3A4?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-18 04:29",
-      "published_iso": "2026-10-17T19:29:15+00:00",
       "age": "2일 전"
     },
     {
@@ -592,13 +602,13 @@
       "age": "4일 전"
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "투자자들은 엔비디아(NVDA)의 AI 자금 조달 비용 증가에 어떻게 반응할까 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPREFfMmU2akE1dUFFQ1Y0VkhDbURoT1E0U1Y3SERwRUc2OVBXQ3I4a2ZVWlJvVVNrVkpIcVo1dmlwQWV4dTRLSXhfVzVNcEN4MDVPb1RpSzctRUI3M1JzTWdqeXd4c2JwVjNEa0h2dkZnQlRQSzJlb0RJaUJRZGlvdndya05FSVdvT0xpYVhnazR3TUpTcW4waDFn0gGaAUFVX3lxTE9EQV8yZTZqQTV1QUVDVjRWSENtRGhPUTRTVjdIRHBFRzY5UFdDcjhrZlVaUm9VU2tWSkhxWjV2aXBBZXh1NEtJeF9XNU1wQ3gwNU9vVGlLNy1FQjczUnNNZ2p5d3hzYnBWM0RrSHZ2RmdCVFBLMmVvRElpQlFkaW92d3JrTkVJV29PTGlhWGdrNHdNSlNxbjBoMWc?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-16 02:26",
-      "published_iso": "2026-10-15T17:26:08+00:00",
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "올해 사상 최고치 찍은 금값 하락세…ETF 수익률도 부진이어가 - 강원일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1faUk0T25GOHNqcmk1MEhyWThhUHNOZk9TSzFpdzJodmNCVEtoYVdoS1FRenFJNHNNRkc2RGhVWUZZYUZNbFZ4MlNRVTRoWDVrUFFMVnlndVcxNEk?oc=5",
+      "source": "강원일보",
+      "published": "10-16 00:00",
+      "published_iso": "2026-10-15T15:00:00+00:00",
       "age": "4일 전"
     },
     {
@@ -722,16 +732,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "368590",
-      "name": "RISE 미국나스닥100",
-      "title": "삼성운용 KODEX 미국나스닥100 순자산 10조 돌파 : 금융 - 재경일보",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xNE9WNnA0dDl6bV9VTjJyOEg5emVnMzN6ZHJxb0JWdVZmOWNTUTZuNnVYSEtwSE1kOUgxMmhyakh0dDZEeTQtQnB3NA?oc=5",
-      "source": "재경일보",
-      "published": "10-15 13:30",
-      "published_iso": "2026-10-15T04:30:16+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
       "title": "삼성운용 KODEX 미국나스닥100 순자산 10조 돌파 : 금융 - 재경일보",
@@ -779,6 +779,16 @@
       "source": "매일신문",
       "published": "10-15 10:44",
       "published_iso": "2026-10-15T01:44:59+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "368590",
+      "name": "RISE 미국나스닥100",
+      "title": "KODEX 미국나스닥100, 순자산 10조 돌파…국내 동종 ETF 중 최단기간 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Xc2pfcEdqR3hsMmNzX25kNVFPRE56ckMxTXM2bS1BWkFUSmN0UTZ6NG53cnl5LWVvcWlfQUV0Q1JGSXdRUnp6aTN0c0FSMXNUdVHSAVNBVV95cUxPcnlHdTFJY0RkSnJqV0kzWno3UzEtTUVBN2xNcXUxV2lHYzZNZ3BWZkxSUzZZUk10YUItNnMySGxyOW5yaGtPd1lxNzRsZUVVdTR1TQ?oc=5",
+      "source": "서울경제",
+      "published": "10-15 10:37",
+      "published_iso": "2026-10-15T01:37:30+00:00",
       "age": "5일 전"
     },
     {
@@ -892,6 +902,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "Advanced Micro Devices Inc (AMD) 주식 움직였습니다 하락 3.47%에 10월14일: 투자자가 알아야 할 정보 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZEMyUTFvUDd3eWpURjRrbm9DRHlpa1VHdXlxaUtXLWlmWGdhVkVqd3FPbnlxN3BmYmVIUVFlTjZ6NGc0R2ZJckt4aFRaWUxaRmk2Zm9hTFI1cEM3cGl4b3ZIVnZSRU9WX1NpaU9XN3VKQU12Y3lHUXJjMk1mcGk4c0VfcDZYbzVwdlo2cHBn?oc=5",
+      "source": "TradingKey",
+      "published": "10-14 23:16",
+      "published_iso": "2026-10-14T14:16:06+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
       "title": "Ge Vernova Inc (GEV) 주식 움직였습니다 하락 4.48%에 10월14일: 변동 원인 - TradingKey",
@@ -954,16 +974,6 @@
     {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
-      "title": "게임 소개와 FAQ를 연결하는 토토 그래프 꽁머니 제로 질문 안내 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaGYzSV9QVUtjTFlReDEyZEZNLXdxcHpUT29TY281U2JidmJSdlNBR1o5MmUxOUM4MVdORU14OEFCOUQtOUFHN3Z1N0wwZENMdXpaWGt6Y3hvMXcyaTYzbV9XQ3FJVmk2ZFRUeVZGMWJvNi1jY19fbU5xNnliT25fOU5fYUpVOXBtRnpoV0pJN3VQRzNKX2ZNeXgyVFNSdw?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-14 05:25",
-      "published_iso": "2026-10-13T20:25:36+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
       "title": "금 ETF 수익률 ‘털썩’… 안전자산 믿어도 될까 [경제 레이더] - 세계일보",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wQ0xyNVBKUFJDM1pnaEZucWRxUzYxZGVEbmRyWFJyeXpTQ2FpclZqSGZSc21ucFEwSFgtZndwNW9UcTZCX28zTjdhbmJ5cW9yRUk3R2lXMWPSAVRBVV95cUxPY0hBQ1FGSjB1N1pqelBzaHRjVzFJLWpBZlBqTkpXYVpmVm1mbWRRVEw4QjdXTzJacy1YNmtpQWJMc2VGQjgyd2pOVmp1MWcyMGt2REU?oc=5",
       "source": "세계일보",
@@ -989,16 +999,6 @@
       "source": "TradingKey",
       "published": "10-14 00:15",
       "published_iso": "2026-10-13T15:15:56+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "SanDisk Corporation (SNDK) 주식 움직였습니다 하락 3.10%에 10월13일: 어떤 신호인가요? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSG1meHVDdm8wTkhoellteHZIY1pZdHdiQWZqY01hcWtqenZJVXB1ZmJHWWxTd241emhoWnZwZk5OY1YyQ3VleUVyU0Q1YWR0S0h4RGQxMnJwaGJnUHl5YlN1eUNzbElSeWJMYXlSTmlLX1lnMDZ6bUhXYVJQU0wwelRpMllLWG1PaS12OTdZSQ?oc=5",
-      "source": "TradingKey",
-      "published": "10-14 00:15",
-      "published_iso": "2026-10-13T15:15:47+00:00",
       "age": "6일 전"
     }
   ]
