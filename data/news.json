@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-21 06:34 KST",
+  "updated_at": "2026-10-21 07:33 KST",
   "items": [
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "NVDA|NVIDIA Corp|가격:216.470|Chg%:-0.620 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXTkFCZkJobDNPc1Z3bG5WZVY2VlZjX2RqTGE3eTNBMEYzOHNVcUlBbWpNWmdLQ2pVdWJKam0zRnp1MWhPZjhjaVlXelN5RHdQWHFneVA5cHRzazJYU1E?oc=5",
-      "source": "TradingKey",
-      "published": "10-21 03:49",
-      "published_iso": "2026-10-20T18:49:32+00:00",
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "어드밴스드 마이크로 디바이스(AMD)는 미래 현금 흐름 측면에서 그 가격에 걸맞은 가치가 있을까? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMnJsRkVyQXVRUFlub095MUJDN0Q3WlFtY1haOFQ2ZEZvZ04zN2Z6ZnhXVnhVV3VxYnB0ZDlrNlBVSnVhQkI0SEZtTkVVZExrTG12Z0JlTlJZSVBESHRweXE0b2pvUWx0ODBES2VPbElqRjd4cVU0NWxGYTU4MlhTYS1keHNhTHBVVkF3cmNUMmlLUWhRQ0M3SDBPc2pQQ2I4VGNSNnRjaTJyRE44WUHSAa4BQVVfeXFMTjJybEZFckF1UVBZbm9PeTFCQzdEN1pRbWNYWjhUNmRGb2dOMzdmemZ4V1Z4VVd1cWJwdGQ5azZQVUp1YUJCNEhGbU5FVWRMa0xtdmdCZU5SWUlQREh0cHlxNG9qb1FsdDgwREtlT2xJakY3eHFVNDVsRmE1ODJYU2EtZHhzYUxwVVZBd3JjVDJpS1FoUUNDN0gwT3NqUENiOFRjUjZ0Y2kyckROOFlB?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-21 05:30",
+      "published_iso": "2026-10-20T20:30:21+00:00",
       "age": "2시간 전"
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "title": "Chinese Tech Giants Order $35 Billion In Compliant Nvidia Chips - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85MXBoaGlFR0dkNUZZSXpEOVkxcDdSYnlqLTJwaC1QcHA1YnFGMW5PM3Z5SzExWnM1MWpFS25TeUVFaTZaYk9hMlNjZlQ4QUVza1dWOTlyLTQ5Sl9QUlVsU3QtNDBDSmVqaUluelBHcGRucGp4cnc3cGFQcXN4MG8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNkpXUTdRYm5BaDU1U2hlYVhvVDdyQjl2djR1Ym8wWEJmcHpzV0hPN0xBQUhLQlFrQkRjNV9OMk5KSVIyNWtlUGppZzA0RDVoNjVlRGlKU2UwaFNBU054d2I0RWpuZzRTSk8zcjJvMVVKRXhmZWV2b2J5NXhNYTNhcA?oc=5",
       "source": "TIKR.com",
-      "published": "10-21 02:26",
-      "published_iso": "2026-10-20T17:26:15+00:00",
-      "age": "4시간 전"
+      "published": "10-21 00:33",
+      "published_iso": "2026-10-20T15:33:45+00:00",
+      "age": "6시간 전"
     },
     {
       "ticker": "CAT",
@@ -29,7 +29,7 @@
       "source": "코인리더스",
       "published": "10-21 00:00",
       "published_iso": "2026-10-20T15:00:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "INTC",
@@ -39,7 +39,7 @@
       "source": "TIKR.com",
       "published": "10-20 21:41",
       "published_iso": "2026-10-20T12:41:01+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "INTC",
@@ -49,7 +49,7 @@
       "source": "코인리더스",
       "published": "10-20 16:35",
       "published_iso": "2026-10-20T07:35:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "0072R0",
@@ -59,7 +59,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 13:42",
       "published_iso": "2026-10-20T04:42:22+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "005930",
@@ -69,7 +69,7 @@
       "source": "인사이트코리아",
       "published": "10-20 13:00",
       "published_iso": "2026-10-20T04:00:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "AMD",
@@ -79,7 +79,7 @@
       "source": "이데일리",
       "published": "10-20 10:53",
       "published_iso": "2026-10-20T01:53:28+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "JEPQ",
@@ -89,7 +89,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 09:36",
       "published_iso": "2026-10-20T00:36:07+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "TSLA",
@@ -99,7 +99,7 @@
       "source": "코인리더스",
       "published": "10-20 09:10",
       "published_iso": "2026-10-20T00:10:00+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "005930",
@@ -109,7 +109,7 @@
       "source": "경향신문",
       "published": "10-20 07:58",
       "published_iso": "2026-10-19T22:58:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "000660",
@@ -119,7 +119,7 @@
       "source": "경향신문",
       "published": "10-20 07:58",
       "published_iso": "2026-10-19T22:58:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "GOOG",
@@ -139,16 +139,6 @@
       "source": "Simply Wall Street",
       "published": "10-20 02:58",
       "published_iso": "2026-10-19T17:58:17+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "[단신]삼성운용, ‘KODEX 미국배당다우존스액티브’ 상장 外 - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uMGpHcWFGdXhFMnRKN0NOYVFMRzhId041bFBMUXk0R0lCdVhqeHNSTHIzT0NEU3QtZU1Fano0ZEd3aFNMOTVTUGhKYWtnejBFTjZUalJZSXFLR3pvT1BLMHdiblFYeU1uLXZkd0NYU2N3S0hhZ1HSAWZBVV95cUxQM0tTRVpZa3F3NFlWZVRRMTRWTENyTHJRYldrR2ZSdHFOYzR6RkV4ZUxkbDMtc0Y4MXR0MG42X0JWS1hvNzVTOFlXd3RyUU5VOTN0QkhzY2R4TWlsWFdvaFdlQXlOTVE?oc=5",
-      "source": "동아일보",
-      "published": "10-20 00:30",
-      "published_iso": "2026-10-19T15:30:00+00:00",
       "age": "1일 전"
     },
     {
@@ -199,6 +189,16 @@
       "source": "한국경제",
       "published": "10-19 15:49",
       "published_iso": "2026-10-19T06:49:12+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "삼성운용, ‘KODEX 미국배당다우존스액티브’ 20일 상장 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYkZaT3JWQ1p1T1ZfdDY2cXdtTUlRbkNxc0UxUGJmQUU4Q1NGaktjRVFpclQ2VFZFX1VfYWd0TjQwN1dwelJiMmpUOW11VmRGT19yVExtZnRBUlBRSnUxMFNZOWVtekFZZG9kSFBob1JBRUZjZ1BuUGJLWGlMdlBFUUI4SVhKVXdu?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "10-19 15:33",
+      "published_iso": "2026-10-19T06:33:00+00:00",
       "age": "1일 전"
     },
     {
@@ -272,16 +272,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "현대자동차, ‘2026 현대 모빌리티 플레이그라운드 시즌 2’ 성료 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTZmSjByeEhLSWJGLUdUSng1a2ZqZWxJel8zN3RveUxSYWl3d09FRDVBZHJ1bU91N0dtMkR3emg4b3RMMFpwOHEwSE9UZGZEZWZHZGZTLUNYX1ZuajlObEVrUzFpTzFnVGhiM25mU01nMEI3b2V4RV9pUUhrR0ZlajF0N1E1SzhrWllOOV95MHdPUXlYc2c0TVM2cm1GQQ?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-19 08:30",
-      "published_iso": "2026-10-18T23:30:00+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "'AI 수익성vs고유가 악재'…메타·테슬라·넷플릭스 이번 주 실적 시험대 - 연합인포맥스",
@@ -299,7 +289,7 @@
       "source": "연합뉴스",
       "published": "10-19 07:00",
       "published_iso": "2026-10-18T22:00:03+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "005930",
@@ -499,7 +489,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-17 06:51",
       "published_iso": "2026-10-16T21:51:18+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "ZETA",
@@ -622,16 +612,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "AMD(NVDA) 42% 저평가 가능성 금리 부담 속 AI 투자 우려가 변수 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPemtJTXhKbTI2eVZ1dzVpYk1BeURNdFpYcHBSZ09WTkdSN3J1R2NWQ2VaQ0lPbkJGZjh2RHdIalp2U2tlT1hQSFJTazFtTDl1QnViYkt3d05wOU1ZeTAydmtYbGxaTHN3WVJlblFqcmVlNnEwR045QUE2ckctb0JjRjd6WnZFQlh4cmpsN2MwQ28tZ05TQW1qTVVyNGNsWjNMaHpRd1JYakfSAa4BQVVfeXFMUDd0Q1l6WEpFcGhEa3FQckc3SGdZRFVtNE5vRTNnbEJEZXV5b2lmaHduMmhWb1BlVzdyZDM1aW9RaFFnTzhWcGlPV1g4eEpIdl95WGcxcXZubUpDRlQ5RXBCLTBEa2RGeWRQVkF1ZDFoTU5iQmRRRWdpQUZIaU5yVFoxMm04WFFQRGZlRFNkT3l6bTlyX01ULWlRUlVlb3BTX1plakFUZlYxM2lmUE9B?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-16 16:00",
-      "published_iso": "2026-10-16T07:00:00+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "INTC",
       "name": "Intel Corporation",
       "title": "인텔(INTC), AI 인프라 기대는 커지는데 지금도 매수할 만한가? - Simply Wall Street",
@@ -642,6 +622,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "기아, 판교서 PV5 기반 원격 운전 카셰어링 시범 서비스 개시 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0tIUW93TTh4dHF6WGdwWFhUMC1vQlJSWEJ1V2l1V0NPckZCQ3kwaWNvclJ5ZmZyTU1WbF9ENHVfZGoyYjRmWGt2bXZScTJ3aExyNFBkTWFaOUdXQkpSN2tBZjlSTlVzWkQ3R0hGbEJENmdBSlFOSWktMV9SZDVWNEdPVzNKVERwZTUxYWJseDVBVHlCQzdSVnd2cw?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-16 08:30",
+      "published_iso": "2026-10-15T23:30:00+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
       "title": "[머니테크…커버드콜 바로알기] 박스피에 불붙었다, 급락장 시험대 올라 - 대한경제",
@@ -649,7 +639,7 @@
       "source": "대한경제",
       "published": "10-16 07:00",
       "published_iso": "2026-10-15T22:00:16+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "CAT",
@@ -919,7 +909,7 @@
       "source": "아시아경제",
       "published": "10-15 07:07",
       "published_iso": "2026-10-14T22:07:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "COST",
@@ -939,6 +929,16 @@
       "source": "TradingKey",
       "published": "10-15 03:16",
       "published_iso": "2026-10-14T18:16:28+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "NVIDIA Corp (NVDA) 주식 움직였습니다 하락 3.30%에 10월14일: 어떤 신호인가요? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEZNclNBVE1SbVduYk5HUjFLR080dFRoWTcxblZmQk5BcnNXcU9YQWpld09UZVVDY1JVbEc5SFVJMm1FUnp4RzlYSGVzS0ozZmY1eHRPUkZyRElXTURqZC1GSU0zVlJtSXd6Tlo5X0FKUkxjRUlrU2dhUTZ6VkdVSkdyME9NbzRtRjQtWWtTMA?oc=5",
+      "source": "TradingKey",
+      "published": "10-15 03:16",
+      "published_iso": "2026-10-14T18:16:24+00:00",
       "age": "6일 전"
     },
     {
