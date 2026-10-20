@@ -1,15 +1,25 @@
 {
-  "updated_at": "2026-10-21 07:33 KST",
+  "updated_at": "2026-10-21 08:30 KST",
   "items": [
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "어드밴스드 마이크로 디바이스(AMD)는 미래 현금 흐름 측면에서 그 가격에 걸맞은 가치가 있을까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMnJsRkVyQXVRUFlub095MUJDN0Q3WlFtY1haOFQ2ZEZvZ04zN2Z6ZnhXVnhVV3VxYnB0ZDlrNlBVSnVhQkI0SEZtTkVVZExrTG12Z0JlTlJZSVBESHRweXE0b2pvUWx0ODBES2VPbElqRjd4cVU0NWxGYTU4MlhTYS1keHNhTHBVVkF3cmNUMmlLUWhRQ0M3SDBPc2pQQ2I4VGNSNnRjaTJyRE44WUHSAa4BQVVfeXFMTjJybEZFckF1UVBZbm9PeTFCQzdEN1pRbWNYWjhUNmRGb2dOMzdmemZ4V1Z4VVd1cWJwdGQ5azZQVUp1YUJCNEhGbU5FVWRMa0xtdmdCZU5SWUlQREh0cHlxNG9qb1FsdDgwREtlT2xJakY3eHFVNDVsRmE1ODJYU2EtZHhzYUxwVVZBd3JjVDJpS1FoUUNDN0gwT3NqUENiOFRjUjZ0Y2kyckROOFlB?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-21 05:30",
-      "published_iso": "2026-10-20T20:30:21+00:00",
-      "age": "2시간 전"
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "인텔(INTC.O), AI 추론용 GPU 공개...'저전력 D램'으로 HBM 대체 노린다 - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BY0I4clUzRHpxZFEwSmN4ZTU2c00wTnpWNzc4ZTZJVjZlMWdRODNTLXl1R1lVOUkwZGplazZLRHZkN0hrNmZocWVCTjlCLTJmYXlsMmcwME8tYXNYZG9WTVBST3NFY3VmUFNDRmZn?oc=5",
+      "source": "알파경제",
+      "published": "10-21 07:41",
+      "published_iso": "2026-10-20T22:41:45+00:00",
+      "age": "49분 전"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "Samsung Electronics Postpones DX Division Town Hall Amid Growing Labor Tensions - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ab3Zob1Y4eWVfcm44dzY0b2J4aF9rYXJEVldBYWNXZUpsaWdUelNqd0V3OWRJWW1yR3puY0wtRkFLXzJoQ2V4dzhWdi0wSVlkam1yVm5Mc0J3c0Q2SXljNGNYY1RiSXMwNzZiSE1B?oc=5",
+      "source": "알파경제",
+      "published": "10-21 06:36",
+      "published_iso": "2026-10-20T21:36:42+00:00",
+      "age": "1시간 전"
     },
     {
       "ticker": "NVDA",
@@ -19,7 +29,7 @@
       "source": "TIKR.com",
       "published": "10-21 00:33",
       "published_iso": "2026-10-20T15:33:45+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "CAT",
@@ -29,7 +39,7 @@
       "source": "코인리더스",
       "published": "10-21 00:00",
       "published_iso": "2026-10-20T15:00:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "INTC",
@@ -39,17 +49,17 @@
       "source": "TIKR.com",
       "published": "10-20 21:41",
       "published_iso": "2026-10-20T12:41:01+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "JP모건, 4년 만에 인텔(INTC) 비관론 철회...비중축소→중립 전환 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55WmJQSVVwRlBheERnT2Q5M2diYUxBSUtTNmhzc1QwZGx0UUU5eXNMMlZCY1luY2dXNG9UdlE2OWZBZ2FZZzdVa0Nn?oc=5",
-      "source": "코인리더스",
-      "published": "10-20 16:35",
-      "published_iso": "2026-10-20T07:35:00+00:00",
-      "age": "14시간 전"
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "이름이 비슷한 옵션을 구분하는 라이트닝 바카라 디시 설정 설명 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeVRSMEowbmFURVVFVG1FWUw3MmhNV0lWTVZfdHE2YVY1UkNIa3lmQmNaYlpVRmxsRk9NdUk1MDZCTVpZSFlxRUtwOVJEU1dZQV9MWVE4ck90YUV3UE1XdldYWkRWTms5Ykp0eTdjRzJwdzhyQ3VIVXpfWG9seUdMOVE5RmRYYXdVQW53ajFVTW9EaXF3RUtEenFRaS1waWZsMWlhZm9Cc2ZlX1d5LUszNkFMN1pYOUFMWmxRM0dLaEhMRDA2d2JzQ3hOWWt6VnQwLUllYjF1dGhReGZyLWw5dDFtdG1ONHZqeVhLRlhzQlZ3WGc?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-20 16:15",
+      "published_iso": "2026-10-20T07:15:01+00:00",
+      "age": "16시간 전"
     },
     {
       "ticker": "0072R0",
@@ -59,7 +69,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 13:42",
       "published_iso": "2026-10-20T04:42:22+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "005930",
@@ -69,7 +79,7 @@
       "source": "인사이트코리아",
       "published": "10-20 13:00",
       "published_iso": "2026-10-20T04:00:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "AMD",
@@ -79,7 +89,7 @@
       "source": "이데일리",
       "published": "10-20 10:53",
       "published_iso": "2026-10-20T01:53:28+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "JEPQ",
@@ -89,7 +99,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 09:36",
       "published_iso": "2026-10-20T00:36:07+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "TSLA",
@@ -99,7 +109,7 @@
       "source": "코인리더스",
       "published": "10-20 09:10",
       "published_iso": "2026-10-20T00:10:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "005930",
@@ -109,7 +119,7 @@
       "source": "경향신문",
       "published": "10-20 07:58",
       "published_iso": "2026-10-19T22:58:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "000660",
@@ -119,7 +129,7 @@
       "source": "경향신문",
       "published": "10-20 07:58",
       "published_iso": "2026-10-19T22:58:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "GOOG",
@@ -232,16 +242,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "최태성 도박 게임 내 언어 설정 확인 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVFBBX2ZfRklvSjVDb1FzbzgtQjB3SVU2dlhCSWY5OUwyd0tKTVRwRS1BczlmLW9ETkJiYVNjcmhaMXdBMkQySGJHVjJTRmhUMVJjdUJoUUZBcVdLWWJnLTBaNEpoMG50czFLWHEtM3JyNjhjTlVFdWVNc3NyRnpnNlpJMGxFd1A2Z2hBVHpBekpiOThLZVktSFNqQTF6aGNWODRzVVFjOA?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-19 10:34",
-      "published_iso": "2026-10-19T01:34:26+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "487230",
       "name": "KODEX 미국AI전력핵심인프라",
       "title": "현대건설, 호주 오스넷·CIP와 협력 확대…전력망·신재생 사업 공략 - 인더뉴스",
@@ -279,7 +279,7 @@
       "source": "연합인포맥스",
       "published": "10-19 07:54",
       "published_iso": "2026-10-18T22:54:18+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "379800",
@@ -289,16 +289,6 @@
       "source": "연합뉴스",
       "published": "10-19 07:00",
       "published_iso": "2026-10-18T22:00:03+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "005930",
-      "name": "삼성전자",
-      "title": "Foreign Investors Dump $9.5 Billion in Samsung Electronics and SK Hynix Shares While Buying Shipbuilding and Semiconductor Stocks - 알파경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ibVMyYW9FUGRSSGdMV01VWHZPckZvOE9RaTlXeTRkbU1YT2FQRm91TkwxYXBhUGQ4SnQ1RkEya2pOZHEyUEJtY1czUEQ3NTVfWUVBQ0JCVDdnZXNtXzlEWFFJbmltWGJDOGNxOXdB?oc=5",
-      "source": "알파경제",
-      "published": "10-19 06:00",
-      "published_iso": "2026-10-18T21:00:00+00:00",
       "age": "2일 전"
     },
     {
@@ -339,16 +329,6 @@
       "source": "Simply Wall Street",
       "published": "10-18 11:43",
       "published_iso": "2026-10-18T02:43:32+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "엔비디아(NVDA) 주가, 현금 흐름을 고려할 때 공정 가치보다 낮게 거래되고 있다 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWtoUHliYXdScDk4TDVPdkFFZlhsVFBxVGVRNTFFY0dNcnNENVhJS1hTSm1YTXZwU2JHdWJHMWxQV1dmSWdrT1BfS1JXRnV0QWVWVFBOYjEyXzB3OVFNbXlXMi1UZk9IQ1NRVDgtRGNWOXQ2dWNkMngwUXV2MURrbXpqU1dBWnU0STZLX3pZVEl0X01YYzFIcjhR0gGaAUFVX3lxTE55a2hQeWJhd1JwOThMNU92QUVmWGxUUHFUZVE1MUVjR01yc0Q1WElLWFNKbVhNdnBTYkd1YkcxbFBXV2ZJZ2tPUF9LUldGdXRBZVZUUE5iMTJfMHc5UU1teVcyLVRmT0hDU1FUOC1EY1Y5dDZ1Y2QyeDBRdXYxRGttempTV0FadTRJNktfellUSXRfTVhjMUhyOFE?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-18 11:40",
-      "published_iso": "2026-10-18T02:40:12+00:00",
       "age": "2일 전"
     },
     {
@@ -449,7 +429,7 @@
       "source": "뉴스핌",
       "published": "10-17 08:01",
       "published_iso": "2026-10-16T23:01:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "JEPQ",
@@ -459,7 +439,7 @@
       "source": "뉴스핌",
       "published": "10-17 08:01",
       "published_iso": "2026-10-16T23:01:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "379780",
@@ -469,7 +449,7 @@
       "source": "신아일보",
       "published": "10-17 08:00",
       "published_iso": "2026-10-16T23:00:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "379800",
@@ -479,7 +459,7 @@
       "source": "신아일보",
       "published": "10-17 08:00",
       "published_iso": "2026-10-16T23:00:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "487230",
@@ -489,6 +469,16 @@
       "source": "Calgary Roughnecks",
       "published": "10-17 06:51",
       "published_iso": "2026-10-16T21:51:18+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "삼성전자가 디자인으로 말하는 사랑 - 아이즈매거진 | eyesmag",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QYl9PWVFpQXlDbkJxTDZRaGRXYVJnR2xIZXFyay11MVNwaElFRnJiR21CWGhmdWgxbmJiWnh5XzhzNTZrbHZER2lOOERaaktPUU9LOG94dW93V0tiakRnbXNzY181WUcxYVVZdEVkd3R0RXk2dXp0Qlln?oc=5",
+      "source": "아이즈매거진 | eyesmag",
+      "published": "10-17 06:04",
+      "published_iso": "2026-10-16T21:04:43+00:00",
       "age": "4일 전"
     },
     {
@@ -552,16 +542,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "005930",
-      "name": "삼성전자",
-      "title": "삼성전자가 디자인으로 말하는 사랑 - 아이즈매거진 | eyesmag",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QYl9PWVFpQXlDbkJxTDZRaGRXYVJnR2xIZXFyay11MVNwaElFRnJiR21CWGhmdWgxbmJiWnh5XzhzNTZrbHZER2lOOERaaktPUU9LOG94dW93V0tiakRnbXNzY181WUcxYVVZdEVkd3R0RXk2dXp0Qlln?oc=5",
-      "source": "아이즈매거진 | eyesmag",
-      "published": "10-17 00:04",
-      "published_iso": "2026-10-16T15:04:43+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
       "title": "골드만삭스, Zeta 매수 상향·Klaviyo 중립 하향 - Investing.com 한국어",
@@ -592,6 +572,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "금 ETF 순자산 1월보다 2조원대↓…증권가 \"조정 시 저가 매수\" - 화이트페이퍼",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tWTloTURWOWctVWxIWUhUZ1NjR194V09PaVJVaVhUMGxXcEROU29Ed2pkMkpMSUVEZlMwSnVENmFiWEhxcVBjdWtlVUF6RjNTX0NDTVh3LVRxbkFCVGswbU03amx6b19ZeWJR?oc=5",
+      "source": "화이트페이퍼",
+      "published": "10-16 17:13",
+      "published_iso": "2026-10-16T08:13:00+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "VOO",
       "name": "Vanguard S&P 500 ETF",
       "title": "[미국 ETF 히든 챔피언] (64) 커버드콜 한계 극복한 골드만의 GPIX - 뉴스핌",
@@ -612,6 +602,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "AMD(NVDA) 42% 저평가 가능성 금리 부담 속 AI 투자 우려가 변수 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPemtJTXhKbTI2eVZ1dzVpYk1BeURNdFpYcHBSZ09WTkdSN3J1R2NWQ2VaQ0lPbkJGZjh2RHdIalp2U2tlT1hQSFJTazFtTDl1QnViYkt3d05wOU1ZeTAydmtYbGxaTHN3WVJlblFqcmVlNnEwR045QUE2ckctb0JjRjd6WnZFQlh4cmpsN2MwQ28tZ05TQW1qTVVyNGNsWjNMaHpRd1JYakfSAa4BQVVfeXFMUDd0Q1l6WEpFcGhEa3FQckc3SGdZRFVtNE5vRTNnbEJEZXV5b2lmaHduMmhWb1BlVzdyZDM1aW9RaFFnTzhWcGlPV1g4eEpIdl95WGcxcXZubUpDRlQ5RXBCLTBEa2RGeWRQVkF1ZDFoTU5iQmRRRWdpQUZIaU5yVFoxMm04WFFQRGZlRFNkT3l6bTlyX01ULWlRUlVlb3BTX1plakFUZlYxM2lmUE9B?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-16 16:00",
+      "published_iso": "2026-10-16T07:00:00+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "INTC",
       "name": "Intel Corporation",
       "title": "인텔(INTC), AI 인프라 기대는 커지는데 지금도 매수할 만한가? - Simply Wall Street",
@@ -629,7 +629,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-16 08:30",
       "published_iso": "2026-10-15T23:30:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "368590",
@@ -652,6 +652,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "투자자들은 엔비디아(NVDA)의 AI 자금 조달 비용 증가에 어떻게 반응할까 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPREFfMmU2akE1dUFFQ1Y0VkhDbURoT1E0U1Y3SERwRUc2OVBXQ3I4a2ZVWlJvVVNrVkpIcVo1dmlwQWV4dTRLSXhfVzVNcEN4MDVPb1RpSzctRUI3M1JzTWdqeXd4c2JwVjNEa0h2dkZnQlRQSzJlb0RJaUJRZGlvdndya05FSVdvT0xpYVhnazR3TUpTcW4waDFn0gGaAUFVX3lxTE9EQV8yZTZqQTV1QUVDVjRWSENtRGhPUTRTVjdIRHBFRzY5UFdDcjhrZlVaUm9VU2tWSkhxWjV2aXBBZXh1NEtJeF9XNU1wQ3gwNU9vVGlLNy1FQjczUnNNZ2p5d3hzYnBWM0RrSHZ2RmdCVFBLMmVvRElpQlFkaW92d3JrTkVJV29PTGlhWGdrNHdNSlNxbjBoMWc?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-16 02:26",
+      "published_iso": "2026-10-15T17:26:08+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
       "title": "SanDisk Corporation (SNDK) 주식 움직였습니다 하락 4.35%에 10월15일: 변동 원인 - TradingKey",
@@ -659,16 +669,6 @@
       "source": "TradingKey",
       "published": "10-16 02:16",
       "published_iso": "2026-10-15T17:16:09+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
-      "title": "올해 사상 최고치 찍은 금값 하락세…ETF 수익률도 부진이어가 - 강원일보",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1faUk0T25GOHNqcmk1MEhyWThhUHNOZk9TSzFpdzJodmNCVEtoYVdoS1FRenFJNHNNRkc2RGhVWUZZYUZNbFZ4MlNRVTRoWDVrUFFMVnlndVcxNEk?oc=5",
-      "source": "강원일보",
-      "published": "10-16 00:00",
-      "published_iso": "2026-10-15T15:00:00+00:00",
       "age": "5일 전"
     },
     {
@@ -899,7 +899,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-15 08:30",
       "published_iso": "2026-10-14T23:30:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "QQQM",
@@ -985,7 +985,7 @@
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
       "title": "GE Vernova(GEV), AI 전력 수요와 가이던스 상향에 지금도 저평가일까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFoxa2ctZENoeXVxbzU3ajJhdEpFaWQ2WXNxS2lCQUFPV0ktODV4RHB1eWZoQm02Qk8xZExTQk5QUG50bXpueFZ6QW1hY1oxSkM3VUJsQjRPU0N2Zjc1V3FJOHV3dzRNR19PWWxtUS02Snl4VVI4czl0bGtpeXdrM3ZXeTUtazBLWTJGV2w5VDd1X3FIR2JhR2RNcEdFT3pxZkp6a1dLYnZTTmRYWkFHTW9QSmFOY2tkSV8wSW1mZTZhOHZlMmI3WEVQUGdDUG_SAZoBQVVfeXFMT1VGRXVuMmlsdWZkX1Q2VjQ1SEtJaFotQnpZdHdLX2tjQ052NXBXSF9mOVVxUl93Q1lLYlhmQl84ZnI1WjVzMExTc3hiQS14UVZRMVU4YnZDWVA4NllfUEFXV1FuT0hfQ3EyWWphX29iM3ZWQTlYVjUxT1JtYW9Pa25TVDhHYURjLTExNWowdF9XLXdidTZOMVZyQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmNMLTJyalozX1pjM3otcUZVbHhjM1BmNlhjZVQzZ05yRVoxTmZGRWYzSU5aRmxKdVYtTU5QdmNmbEdPd08tSXlIYWdLR00tcFQ0bGp2VXJVb3gzdHRCeUtuZnpTNjlzV092bUZibFh6Sk5GTnhmMDJOTHBDNUZGcncwN2k4ZzU0ajFFcVZOa1RyN0lw0gGaAUFVX3lxTE9VRkV1bjJpbHVmZF9UNlY0NUhLSWhaLUJ6WXR3S19rY0NOdjVwV0hfZjlVcVJfd0NZS2JYZkJfOGZyNVo1czBMU3N4YkEteFFWUTFVOGJ2Q1lQODZZX1BBV1dRbk9IX0NxMllqYV9vYjN2VkE5WFY1MU9SbWFvT2tuU1Q4R2FEYy0xMTVqMHRfVy13YnU2TjFWckE?oc=5",
       "source": "Simply Wall Street",
       "published": "10-14 16:00",
       "published_iso": "2026-10-14T07:00:00+00:00",
