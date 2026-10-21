@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 09:43 KST",
+  "updated_at": "2026-10-21 10:39 KST",
   "items": [
     {
       "ticker": "INTC",
@@ -19,7 +19,7 @@
       "source": "알파경제",
       "published": "10-21 06:36",
       "published_iso": "2026-10-20T21:36:42+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "AMD",
@@ -29,7 +29,7 @@
       "source": "Simply Wall Street",
       "published": "10-21 05:30",
       "published_iso": "2026-10-20T20:30:21+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "NVDA",
@@ -39,7 +39,7 @@
       "source": "TIKR.com",
       "published": "10-21 00:33",
       "published_iso": "2026-10-20T15:33:45+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "CAT",
@@ -49,7 +49,7 @@
       "source": "코인리더스",
       "published": "10-21 00:00",
       "published_iso": "2026-10-20T15:00:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "INTC",
@@ -60,16 +60,6 @@
       "published": "10-20 21:41",
       "published_iso": "2026-10-20T12:41:01+00:00",
       "age": "12시간 전"
-    },
-    {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "이름이 비슷한 옵션을 구분하는 라이트닝 바카라 디시 설정 설명 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeVRSMEowbmFURVVFVG1FWUw3MmhNV0lWTVZfdHE2YVY1UkNIa3lmQmNaYlpVRmxsRk9NdUk1MDZCTVpZSFlxRUtwOVJEU1dZQV9MWVE4ck90YUV3UE1XdldYWkRWTms5Ykp0eTdjRzJwdzhyQ3VIVXpfWG9seUdMOVE5RmRYYXdVQW53ajFVTW9EaXF3RUtEenFRaS1waWZsMWlhZm9Cc2ZlX1d5LUszNkFMN1pYOUFMWmxRM0dLaEhMRDA2d2JzQ3hOWWt6VnQwLUllYjF1dGhReGZyLWw5dDFtdG1ONHZqeVhLRlhzQlZ3WGc?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-20 16:15",
-      "published_iso": "2026-10-20T07:15:01+00:00",
-      "age": "17시간 전"
     },
     {
       "ticker": "0072R0",
@@ -89,7 +79,7 @@
       "source": "인사이트코리아",
       "published": "10-20 13:00",
       "published_iso": "2026-10-20T04:00:00+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "AMD",
@@ -99,7 +89,7 @@
       "source": "이데일리",
       "published": "10-20 10:53",
       "published_iso": "2026-10-20T01:53:28+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "JEPQ",
@@ -262,6 +252,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "최태성 도박 게임 내 언어 설정 확인 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVFBBX2ZfRklvSjVDb1FzbzgtQjB3SVU2dlhCSWY5OUwyd0tKTVRwRS1BczlmLW9ETkJiYVNjcmhaMXdBMkQySGJHVjJTRmhUMVJjdUJoUUZBcVdLWWJnLTBaNEpoMG50czFLWHEtM3JyNjhjTlVFdWVNc3NyRnpnNlpJMGxFd1A2Z2hBVHpBekpiOThLZVktSFNqQTF6aGNWODRzVVFjOA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-19 10:34",
+      "published_iso": "2026-10-19T01:34:26+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "487230",
       "name": "KODEX 미국AI전력핵심인프라",
       "title": "현대건설, 호주 오스넷·CIP와 협력 확대…전력망·신재생 사업 공략 - 인더뉴스",
@@ -379,7 +379,7 @@
       "source": "Simply Wall Street",
       "published": "10-18 10:24",
       "published_iso": "2026-10-18T01:24:57+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "AVGO",
@@ -449,7 +449,17 @@
       "source": "블로그",
       "published": "10-17 10:13",
       "published_iso": "2026-10-17T01:13:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "삼성전자가 디자인으로 말하는 사랑 - 아이즈매거진 | eyesmag",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QYl9PWVFpQXlDbkJxTDZRaGRXYVJnR2xIZXFyay11MVNwaElFRnJiR21CWGhmdWgxbmJiWnh5XzhzNTZrbHZER2lOOERaaktPUU9LOG94dW93V0tiakRnbXNzY181WUcxYVVZdEVkd3R0RXk2dXp0Qlln?oc=5",
+      "source": "아이즈매거진 | eyesmag",
+      "published": "10-17 08:03",
+      "published_iso": "2026-10-16T23:03:35+00:00",
+      "age": "4일 전"
     },
     {
       "ticker": "JEPI",
@@ -492,13 +502,13 @@
       "age": "4일 전"
     },
     {
-      "ticker": "005930",
-      "name": "삼성전자",
-      "title": "삼성전자가 디자인으로 말하는 사랑 - 아이즈매거진 | eyesmag",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QYl9PWVFpQXlDbkJxTDZRaGRXYVJnR2xIZXFyay11MVNwaElFRnJiR21CWGhmdWgxbmJiWnh5XzhzNTZrbHZER2lOOERaaktPUU9LOG94dW93V0tiakRnbXNzY181WUcxYVVZdEVkd3R0RXk2dXp0Qlln?oc=5",
-      "source": "아이즈매거진 | eyesmag",
-      "published": "10-17 06:04",
-      "published_iso": "2026-10-16T21:04:43+00:00",
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "메뉴 깊이로 비교하는 서울 홀덤 카지노 조작 편의 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGU0NlF4RGlncXhmNHdyaUxoRDkxRVduRmtrUjlINFNhb2JmeDY4OHd3TDFhNVBpclNBR2xNVzQyUzM5UGJBUFdpYTZmOVk2TWs1RVY1UXFPRXpWbThPY2wtVFE5NXJnOHJaNkpDc2ZueXNyOTVLVERCc3AybTd2cklFajVLLUpGUXNHUFdRdjJ5dTNRTnhzdHNVYUJZaUdHUXhGXzdZMFZaTmxYV09hM2hrRkRIdw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-17 06:51",
+      "published_iso": "2026-10-16T21:51:18+00:00",
       "age": "4일 전"
     },
     {
@@ -589,16 +599,6 @@
       "source": "Investing.com 한국어",
       "published": "10-16 20:07",
       "published_iso": "2026-10-16T11:07:00+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "삼전닉스 폭락…레버리지 울고, 인버스 웃어 [ETF 브리핑] - MTN 머니투데이방송",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zSGwxMkh1VHVLM2lHSmNjV2Q0M0VCVVM1T2hRc3BEQmFwZTRiT1gwelZPRmgxWXhIelZxMnBrSHh5WVIzQVdTdno3M2RsQ0dZamI5LXFlUzFUUk8tSzZ3?oc=5",
-      "source": "MTN 머니투데이방송",
-      "published": "10-16 17:42",
-      "published_iso": "2026-10-16T08:42:25+00:00",
       "age": "4일 전"
     },
     {
@@ -852,6 +852,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
+      "title": "KODEX 미국나스닥100, 순자산 10조 돌파…국내 동종 ETF 중 최단기간 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Xc2pfcEdqR3hsMmNzX25kNVFPRE56ckMxTXM2bS1BWkFUSmN0UTZ6NG53cnl5LWVvcWlfQUV0Q1JGSXdRUnp6aTN0c0FSMXNUdVHSAVNBVV95cUxPcnlHdTFJY0RkSnJqV0kzWno3UzEtTUVBN2xNcXUxV2lHYzZNZ3BWZkxSUzZZUk10YUItNnMySGxyOW5yaGtPd1lxNzRsZUVVdTR1TQ?oc=5",
+      "source": "서울경제",
+      "published": "10-15 10:37",
+      "published_iso": "2026-10-15T01:37:30+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
       "title": "미래에셋 TIGER 미국배당다우존스 ETF, 개인 순매수 1위 - 레디앙",
@@ -859,7 +869,7 @@
       "source": "레디앙",
       "published": "10-15 10:21",
       "published_iso": "2026-10-15T01:21:47+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "458730",
@@ -869,17 +879,7 @@
       "source": "브릿지경제",
       "published": "10-15 10:06",
       "published_iso": "2026-10-15T01:06:00+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "삼성자산운용, KODEX 미국나스닥100 순자산 10조 돌파 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MWlNxVXgtVEJHU3RWRHgzTkRJQlRTZ3RYVXVGU0lWeXJKNkVZWkdOWTJoNEJCWkI3MUNRY0VVaS1JV1pfWVZ2Y3JfcDJ1SGdINHJ2SldWMDFXN1gz?oc=5",
-      "source": "뉴스핌",
-      "published": "10-15 09:47",
-      "published_iso": "2026-10-15T00:47:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "458730",
@@ -904,8 +904,8 @@
     {
       "ticker": "005380",
       "name": "현대자동차",
-      "title": "현대차 팰리세이드 하이브리드, 워즈오토 ‘최고 10대 엔진 및 동력 시스템’ 수상 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHpCRDRqYlVzV2gwVFNJZHd6ckh6YzJMUHZhcFFyVVFVTHd6UVdzeUpCWHdFc1BqSGxFMENXSDY1WjB4azFmX3J6d0Z5cnZWUFROUlk1cmRZVHJIOHFHbVhOTDRldDVBQzcwRlZoZ1ZlQS1jYmVVX3R2bEVBaTR0dENOV1daUVBOQVdSLUdzaDRmQ2JaV09BVGZ6X1RoV1RZU0hkYm55elA?oc=5",
+      "title": "현대자동차 바다숲 보전 캠페인, 서울디자인어워드 ‘ESG 디자인 임팩트상’ 수상 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNmRaRmhzamRyUURXSTFRSmdSUFgwWVZTYmFrVEMzSU0yYUxjR0szb05DQ28yWGNBTXd6Sk9FcjFPWXUwQm9zSF9qOGVaWmIzc3dhT1hjdHpDcnhFekxVSUhWdGFRVE5oaDVRSXp3Zjk1aXV1c0Nra09MbzN2S1NBWXVjclZoVkUta2d4V2JRdVhGQkNUcGxsRkxtMWFVQlo3cWc?oc=5",
       "source": "Hyundai Motor Group",
       "published": "10-15 08:30",
       "published_iso": "2026-10-14T23:30:00+00:00",
@@ -995,7 +995,7 @@
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
       "title": "GE Vernova(GEV), AI 전력 수요와 가이던스 상향에 지금도 저평가일까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmNMLTJyalozX1pjM3otcUZVbHhjM1BmNlhjZVQzZ05yRVoxTmZGRWYzSU5aRmxKdVYtTU5QdmNmbEdPd08tSXlIYWdLR00tcFQ0bGp2VXJVb3gzdHRCeUtuZnpTNjlzV092bUZibFh6Sk5GTnhmMDJOTHBDNUZGcncwN2k4ZzU0ajFFcVZOa1RyN0lw0gGaAUFVX3lxTE9VRkV1bjJpbHVmZF9UNlY0NUhLSWhaLUJ6WXR3S19rY0NOdjVwV0hfZjlVcVJfd0NZS2JYZkJfOGZyNVo1czBMU3N4YkEteFFWUTFVOGJ2Q1lQODZZX1BBV1dRbk9IX0NxMllqYV9vYjN2VkE5WFY1MU9SbWFvT2tuU1Q4R2FEYy0xMTVqMHRfVy13YnU2TjFWckE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFoxa2ctZENoeXVxbzU3ajJhdEpFaWQ2WXNxS2lCQUFPV0ktODV4RHB1eWZoQm02Qk8xZExTQk5QUG50bXpueFZ6QW1hY1oxSkM3VUJsQjRPU0N2Zjc1V3FJOHV3dzRNR19PWWxtUS02Snl4VVI4czl0bGtpeXdrM3ZXeTUtazBLWTJGV2w5VDd1X3FIR2JhR2RNcEdFT3pxZkp6a1dLYnZTTmRYWkFHTW9QSmFOY2tkSV8wSW1mZTZhOHZlMmI3WEVQUGdDUG_SAZoBQVVfeXFMT1VGRXVuMmlsdWZkX1Q2VjQ1SEtJaFotQnpZdHdLX2tjQ052NXBXSF9mOVVxUl93Q1lLYlhmQl84ZnI1WjVzMExTc3hiQS14UVZRMVU4YnZDWVA4NllfUEFXV1FuT0hfQ3EyWWphX29iM3ZWQTlYVjUxT1JtYW9Pa25TVDhHYURjLTExNWowdF9XLXdidTZOMVZyQQ?oc=5",
       "source": "Simply Wall Street",
       "published": "10-14 16:00",
       "published_iso": "2026-10-14T07:00:00+00:00",
