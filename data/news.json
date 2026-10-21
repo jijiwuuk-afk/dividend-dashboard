@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 19:36 KST",
+  "updated_at": "2026-10-21 20:35 KST",
   "items": [
     {
       "ticker": "SNDK",
@@ -9,7 +9,7 @@
       "source": "Investing.com 한국어",
       "published": "10-21 17:40",
       "published_iso": "2026-10-21T08:40:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "487230",
@@ -19,7 +19,7 @@
       "source": "열린뉴스통신",
       "published": "10-21 17:26",
       "published_iso": "2026-10-21T08:26:28+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "487230",
@@ -29,7 +29,7 @@
       "source": "이코노미사이언스",
       "published": "10-21 14:44",
       "published_iso": "2026-10-21T05:44:48+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "INTC",
@@ -39,7 +39,7 @@
       "source": "알파경제",
       "published": "10-21 07:41",
       "published_iso": "2026-10-20T22:41:45+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "005930",
@@ -49,7 +49,7 @@
       "source": "알파경제",
       "published": "10-21 06:36",
       "published_iso": "2026-10-20T21:36:42+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "AMD",
@@ -59,7 +59,7 @@
       "source": "Simply Wall Street",
       "published": "10-21 05:30",
       "published_iso": "2026-10-20T20:30:21+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "NVDA",
@@ -69,7 +69,7 @@
       "source": "TIKR.com",
       "published": "10-21 00:33",
       "published_iso": "2026-10-20T15:33:45+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "CAT",
@@ -79,7 +79,7 @@
       "source": "코인리더스",
       "published": "10-21 00:00",
       "published_iso": "2026-10-20T15:00:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "INTC",
@@ -89,7 +89,17 @@
       "source": "TIKR.com",
       "published": "10-20 21:41",
       "published_iso": "2026-10-20T12:41:01+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "삼성전자가 디자인으로 말하는 사랑 - 아이즈매거진 | eyesmag",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QYl9PWVFpQXlDbkJxTDZRaGRXYVJnR2xIZXFyay11MVNwaElFRnJiR21CWGhmdWgxbmJiWnh5XzhzNTZrbHZER2lOOERaaktPUU9LOG94dW93V0tiakRnbXNzY181WUcxYVVZdEVkd3R0RXk2dXp0Qlln?oc=5",
+      "source": "아이즈매거진 | eyesmag",
+      "published": "10-20 18:00",
+      "published_iso": "2026-10-20T09:00:00+00:00",
+      "age": "1일 전"
     },
     {
       "ticker": "VOO",
@@ -182,13 +192,23 @@
       "age": "1일 전"
     },
     {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "Amid sharp KOSPI swings, NPS trims Samsung Electronics and SK Hynix weight by 5 percentage points - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10UHd1SWtyclpOX0ViakU4NGZYYWJveUFRSDBFVTNFMXNpLUhRSG85bDFDdER2ejVadFhHTGQ1c3B2VlZ6bHZIT0xPazRnaEx5OFo1a0dQbGtZbVNVdHc?oc=5",
+      "source": "경향신문",
+      "published": "10-20 07:58",
+      "published_iso": "2026-10-19T22:58:00+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
       "title": "A $1.5 Trillion Anthropic IPO Still Pays Off for Google: “They’re Gonna Be Fine” - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzgwSUJtd25DLW80RnhaME8xVndZUzVfREwwZU01bHdUdFpFd2QzNTg4TXhNUFI0cWJzSjF0VTE2am5uTE9xblJqY3ktTUpURlMxX19lU3JmMnM0M2JrUDI4V0daZnN2Q3YwUnBxS3N0ZkVxTGROWS12Vng4OTQtVUpQRGNlcXIwZWZ2V2J6UGZ2dG5VM1VreXNTZlY4VlUwSmtBbkxQdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGU5aWF3bEpjdE14UjRsODUzM0ZpNEtKXzZYaFJCSndWWnRfazhIcFI1RUJSZm5mTUstMmF4Zld1aFN0bzJvdEJ1aWxsQm1LTzFHQlhzYVQ3Rkg5dUhvZ1kyQ2h1NHpRV2NneUJhcmRMM2ZfY3FUR0JuQjlpYlJKWFpwbzhjQXh5T2EwaTJmZ29kYjJkdlZYYXViZm45Vm1VdFl6NzJEal8?oc=5",
       "source": "TIKR.com",
-      "published": "10-20 04:12",
-      "published_iso": "2026-10-19T19:12:19+00:00",
+      "published": "10-20 03:59",
+      "published_iso": "2026-10-19T18:59:54+00:00",
       "age": "1일 전"
     },
     {
@@ -332,16 +352,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "title": "'AI 수익성vs고유가 악재'…메타·테슬라·넷플릭스 이번 주 실적 시험대 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DZmtFTWczcExOUFNMei1BOVg5djBVYTVSWGxlMXdnQnlaZklmS1E2amVsM0VXc0NSRFZ5Q2QzZTNHSmpPVE9nWk1yY3p1RURNS25wdk0teDd1SmJtNUdGYkFJQklwWFpoTzBDWXpHVjHSAXRBVV95cUxPQURNbXZhVnpnLWFZd2xqdlAxRG5SR1BVZHJBYXNvQVU0WlFtZmRlck92V3Zmc0l1NlhnUE50d0M1VnFpTkg0ckxkeFljU1dOMF82V3U5MkxpS2FDemg1bUlESk13VzItZXF4VUFFSU91Ul85Wg?oc=5",
-      "source": "연합인포맥스",
-      "published": "10-19 07:54",
-      "published_iso": "2026-10-18T22:54:18+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "000660",
       "name": "SK하이닉스",
       "title": "SK Hynix Faces Shareholder Value Concerns Over Solidigm's Potential $150 Billion U.S. IPO - 알파경제",
@@ -425,10 +435,10 @@
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "테슬라(TSLA) 주가는 매출 대비 프리미엄을 기록하며 거래되고 있다 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbnFCVjdQRnZ0bUV1Q3o4bFI0WThVNnBCR09MX1laVDNBZzhWVEZtQW04V1VYdGtFem0tQjFvVDc5UE85NDRRNVVUekUwM2ViNTJsWmhfZFZiRFE4d0hXSTVVcGdQV2tVc3k4YV9jRUNHZjhlQ1FZUTVTLWRiekxXeW9sYjYtbFpHRGc3eEdHOUZSYnFp0gGUAUFVX3lxTE9ucUJWN1BGdnRtRXVDejhsUjRZOFU2cEJHT0xfWVpUM0FnOFZURm1BbThXVVh0a0V6bS1CMW9UNzlQTzk0NFE1VVR6RTAzZWI1MmxaaF9kVmJEUTh3SFdJNVVwZ1BXa1VzeThhX2NFQ0dmOGVDUVlRNVMtZGJ6TFd5b2xiNi1sWkdEZzd4R0c5RlJicWk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0kyUGZYLVEyaERNdUt1QWZEeGZHNDNKb05iWkIxdGp0dG56M2tHSWFxS0tMR1JCRUhtT3BFUVhUNzViYXNTTHlzOGw0TVNDSDREYk93UGJleWZocGREZndSbWo2RWhDaTFwX2hPR0djWlZzalN3OEhJMEhvUGZiaFJKcE1ZeUhXZjRyZkNGb9IBlAFBVV95cUxPbnFCVjdQRnZ0bUV1Q3o4bFI0WThVNnBCR09MX1laVDNBZzhWVEZtQW04V1VYdGtFem0tQjFvVDc5UE85NDRRNVVUekUwM2ViNTJsWmhfZFZiRFE4d0hXSTVVcGdQV2tVc3k4YV9jRUNHZjhlQ1FZUTVTLWRiekxXeW9sYjYtbFpHRGc3eEdHOUZSYnFp?oc=5",
       "source": "Simply Wall Street",
       "published": "10-18 06:05",
-      "published_iso": "2026-10-17T21:05:02+00:00",
+      "published_iso": "2026-10-17T21:05:00+00:00",
       "age": "3일 전"
     },
     {
@@ -479,16 +489,6 @@
       "source": "블로그",
       "published": "10-17 10:13",
       "published_iso": "2026-10-17T01:13:00+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "005930",
-      "name": "삼성전자",
-      "title": "삼성전자가 디자인으로 말하는 사랑 - 아이즈매거진 | eyesmag",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QYl9PWVFpQXlDbkJxTDZRaGRXYVJnR2xIZXFyay11MVNwaElFRnJiR21CWGhmdWgxbmJiWnh5XzhzNTZrbHZER2lOOERaaktPUU9LOG94dW93V0tiakRnbXNzY181WUcxYVVZdEVkd3R0RXk2dXp0Qlln?oc=5",
-      "source": "아이즈매거진 | eyesmag",
-      "published": "10-17 08:03",
-      "published_iso": "2026-10-16T23:03:35+00:00",
       "age": "4일 전"
     },
     {
@@ -619,16 +619,26 @@
       "source": "Investing.com 한국어",
       "published": "10-16 20:07",
       "published_iso": "2026-10-16T11:07:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "Exynas Collaborates with SK Hynix on AI Memory Technology… Unveils CXL-Based Inference Solution at 'OCP Global Summit' - 벤처스퀘어",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02VTUtU2hrcUxfZ0ItMUZfV0V2eDZERzlVbUktbWVZbFE2Zl8yb3licWVvOWoyRW5CbDF0Mmh3c251c0JmclU5U2xOT3NzSTkwWnBz?oc=5",
-      "source": "벤처스퀘어",
-      "published": "10-16 19:06",
-      "published_iso": "2026-10-16T10:06:39+00:00",
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "title": "머스크의 비행 로드스터 시연, 암호화폐 거래소 하이퍼리퀴드에서 테슬라(TSLA) 배팅 급증 촉발 - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVXlEWFBIWnVBRmpDVWQ1d0hnSERodTRqaDFyT0dmblFTdTd0c2xYUWZPOE5SeHlIVVNkN0JNRThlX3RJWkU2MmpudWs5R0pEeWZNbVJqRjlfdlF6TUpoeVkzenRjak1EUU94cXZWeFpXYVdLWF9wYXJqekJ3ZVNycHZwSndseUZDbFY0S2JkSW9nTVhhMHVXd0wzeTBDR2hTejktVDA0SHZKb0R1UTIxOHJhbE4wenl5Q1hCd2JCZEh4WTFGTk9GNWRCRWVFSXJLbzYwWjFaYmgwQ0hDUlVXdnU0THFHVXNrSi1z?oc=5",
+      "source": "CoinDesk",
+      "published": "10-16 19:48",
+      "published_iso": "2026-10-16T10:48:49+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "368590",
+      "name": "RISE 미국나스닥100",
+      "title": "매달 현금이 따박따박…‘변동장 피난처’ 떠오른 커버드콜 ETF [S머니+] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZ3Jxa3IyR2JFSGhWbnZHdlE0WGMxamo3OHBPRl9UQ3JPdjJsQmlZT3RuV1RfQm5rdEZyMFpMbFVndzlTaV8zVDJJMHZiY1hySkHSAVNBVV95cUxOUTFSeXVUdUpTVDQ2akVhY0FmTERGR3E3VGdwSWlzeThwMl9TNjJIN1V3TTMzSTV2b180Q1hCMFNscnBEVDFxS2haYi1lV283bURvQQ?oc=5",
+      "source": "서울경제",
+      "published": "10-16 17:25",
+      "published_iso": "2026-10-16T08:25:36+00:00",
       "age": "5일 전"
     },
     {
@@ -754,11 +764,11 @@
     {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
-      "title": "테슬라 주가 전망: 로드스터 이벤트로 TSLA 3% 이상 상승, 400달러선 돌파할 수 있을까? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzQ2SzNXU2ZJV05EejVwT2tfcXhHQW1Fb3cwcXNrREtyaUtEejZ6UVc0UlMxcjZMRWU4UXcwcjNmcnZMaWpLWW1pTHcwY2lIZm5BeUx5cFFXdmRObW9CVXZ3RVJuck40SE0wS3U3SGhkWjdNMS03bjhLUmVFR0xkRmJpRU9OTlBWMjRHdVFuNmJwLXZ5Y3NXY1J0VmRUckJDY0tqZDhsNEIyUHVXNWdtbWE0VFU0OVFXeC1TZ2phYXo5T1hVYUM2TjJNZzk?oc=5",
+      "title": "Tesla Inc (TSLA) 주식 움직였습니다 하락 3.04%에 10월15일: 변동을 뒷받침하는 사실 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU0oyaDVsLS1lNVNncnhlcHc0TUhTcHowX0J0eUROS0RjZjVhdFFVUUVnYmtnaThZaUQ2MmloS0E1WkczWEVhcmtDMmdTVjJfdmdhSm9NMHk3SXZCMHkwcHlCYk9uVjA3QUM3MHhrbENNVm1EUXRFUUU4V1hkS1UzLVM1bVp2dE40OXlYUVdORQ?oc=5",
       "source": "TradingKey",
-      "published": "10-15 23:20",
-      "published_iso": "2026-10-15T14:20:00+00:00",
+      "published": "10-15 23:16",
+      "published_iso": "2026-10-15T14:16:28+00:00",
       "age": "5일 전"
     },
     {
@@ -829,16 +839,6 @@
       "source": "PRESS9",
       "published": "10-15 15:05",
       "published_iso": "2026-10-15T06:05:09+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "368590",
-      "name": "RISE 미국나스닥100",
-      "title": "KODEX 미국나스닥100, 순자산 10조 돌파… 상장 후 5년 6개월 만 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XamdRWHRqa0F6aW1QRGRPaGxtNy05UC0wdkNEelo3OU10X3U5M2ZiZVl6b0tXd0ZvU0JJTzlhamRLTS1YWllLTEllbUF5MG16d1N3RWt3cHBzc1pENTBDX0pqVVpqd3Q50gFuQVVfeXFMUEZvSFVrcnJyTWJJQ1pqNVBrZWZyWjFvMUEtMWs3WTFUNmVubXBZWl9UREJyVUlEVjBCUWQ0Tkl4UkhoVDc0N0haYmVGVkNDd1ZjLTB2V2g4ZlpJZHpQOEc5WDFzdG1iazZOZzREM1E?oc=5",
-      "source": "머니투데이",
-      "published": "10-15 13:44",
-      "published_iso": "2026-10-15T04:44:44+00:00",
       "age": "6일 전"
     },
     {
