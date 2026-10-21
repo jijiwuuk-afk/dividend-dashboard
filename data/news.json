@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 04:36 KST",
+  "updated_at": "2026-10-22 05:34 KST",
   "items": [
     {
       "ticker": "GOOG",
@@ -9,7 +9,7 @@
       "source": "TradingKey",
       "published": "10-22 03:16",
       "published_iso": "2026-10-21T18:16:14+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "GOOG",
@@ -19,7 +19,7 @@
       "source": "TradingKey",
       "published": "10-22 02:16",
       "published_iso": "2026-10-21T17:16:16+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "AMD",
@@ -29,17 +29,7 @@
       "source": "TradingKey",
       "published": "10-22 02:16",
       "published_iso": "2026-10-21T17:16:10+00:00",
-      "age": "2시간 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "Palantir Technologies Inc (PLTR) 주식 움직였습니다 상승 3.38%에 10월21일: 변동을 뒷받침하는 사실 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVZteXRvNDJUclh1UGVidTdpbmhCaWJSY2VSNTRabkluTzBmZjlkZWI3eEdVQ1Z4WXVHdU1FSVA4ZG5qemdQV2t4THdDa3NRT1NvV0kzbjllZUJfWlVZTG1pNWFDWE1rRUhTSVpxX183NXdLTXZlMnBuQVVURElxVFNXMWoyM3Rmd3N4MTJSbw?oc=5",
-      "source": "TradingKey",
-      "published": "10-22 00:16",
-      "published_iso": "2026-10-21T15:16:08+00:00",
-      "age": "4시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "NVDA",
@@ -49,7 +39,7 @@
       "source": "TIKR.com",
       "published": "10-22 00:00",
       "published_iso": "2026-10-21T15:00:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "GEV",
@@ -59,7 +49,17 @@
       "source": "Investing.com 한국어",
       "published": "10-21 23:27",
       "published_iso": "2026-10-21T14:27:00+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova Inc.",
+      "title": "GE Vernova 주가, 오늘 4.4% 급등한 이유는? - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zU2hBcmNHSldqWEkzZUhLNEoxc3Y4X29CQk1meHdUSEF5UlRZLTJya1NlSlVMQlpHc2hGX1hfc3NCOUlQeFlxclBzNXpVdXNHeEhPX2xzTGIweE5qazVGOVNycGN4RkNVeG9iT2VDQW01bVBhTXFv?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-21 22:40",
+      "published_iso": "2026-10-21T13:40:00+00:00",
+      "age": "6시간 전"
     },
     {
       "ticker": "AVGO",
@@ -69,7 +69,7 @@
       "source": "Investing.com 한국어",
       "published": "10-21 22:13",
       "published_iso": "2026-10-21T13:13:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "SNDK",
@@ -79,7 +79,7 @@
       "source": "Investing.com 한국어",
       "published": "10-21 17:40",
       "published_iso": "2026-10-21T08:40:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "487230",
@@ -89,17 +89,17 @@
       "source": "이코노미사이언스",
       "published": "10-21 14:44",
       "published_iso": "2026-10-21T05:44:48+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "000660",
       "name": "SK하이닉스",
-      "title": "[AI Ecosystem] 반도체 패러다임의 이동: 메모리 중심으로 - SK hynix",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYcWJVVzZWSUdUOHdNTHp5VzBsY3NkU2cybGwydXlwRnRXV190d0twZ3NUM01IQjdzcGhBLVUzZkplRUcwc1dfY1g2TXVESnl1eFdqdDZBbTh6N1JsYzZuTQ?oc=5",
-      "source": "SK hynix",
-      "published": "10-21 08:59",
-      "published_iso": "2026-10-20T23:59:56+00:00",
-      "age": "19시간 전"
+      "title": "SK Hynix, 저항 구간 아래 하락 추세 지속: 매시간 업데이트 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PS2J6ZUx4cktzWVVmMnlWN0h6TC1LVW90eTN1TVZJTkZFbGtqZ0pGODB2UGt4NEF5a1ItSFhDSDhxY1F4cXlKYmNaZi1rakZlckthb1lOZDN4U095TTl6NVBwd3VfcTJObzduVUpDTFpQUkR3a1BB?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-21 14:01",
+      "published_iso": "2026-10-21T05:01:00+00:00",
+      "age": "15시간 전"
     },
     {
       "ticker": "INTC",
@@ -109,7 +109,7 @@
       "source": "알파경제",
       "published": "10-21 07:41",
       "published_iso": "2026-10-20T22:41:45+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "005930",
@@ -119,7 +119,7 @@
       "source": "알파경제",
       "published": "10-21 06:36",
       "published_iso": "2026-10-20T21:36:42+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "AMD",
@@ -129,7 +129,7 @@
       "source": "Simply Wall Street",
       "published": "10-21 05:30",
       "published_iso": "2026-10-20T20:30:21+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "CAT",
@@ -169,16 +169,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 16:15",
       "published_iso": "2026-10-20T07:15:01+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "SK Hynix RSI 19.94 극단 과매도, 하락 추세 지속: 매시 업데이트 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PS2J6ZUx4cktzWVVmMnlWN0h6TC1LVW90eTN1TVZJTkZFbGtqZ0pGODB2UGt4NEF5a1ItSFhDSDhxY1F4cXlKYmNaZi1rakZlckthb1lOZDN4U095TTl6NVBwd3VfcTJObzduVUpDTFpQUkR3a1BB?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-20 14:00",
-      "published_iso": "2026-10-20T05:00:00+00:00",
       "age": "1일 전"
     },
     {
@@ -250,16 +240,6 @@
       "published": "10-20 07:58",
       "published_iso": "2026-10-19T22:58:00+00:00",
       "age": "1일 전"
-    },
-    {
-      "ticker": "GEV",
-      "name": "GE Vernova Inc.",
-      "title": "Musk: AI’s Hard Part Is “Scaling Power”: 3 Stocks Uniquely Suited to Win This New Bottleneck Trade - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmFaMjhNSmVOZmlvUHhHVmk4ZE1rTGlfeUpFSDI2Z3pkX29GNDhEVkZGbGg0UU9yM3U3d2VIS0wtdGJiclB5cURBRkRyMmJrSWJyYnZwRk42cTNDekxfdExlV2hORm9SY2lTRElYVVVSdk54eEJPeHI1bzRmSnBYcGdINDhYRFltTkVBaWNkZEZGMmRDSHZ0SmRWbkxQeDlHcElhWTdxZ05peEpMX2tUZld0d1gyZElUMGROTXQyZw?oc=5",
-      "source": "TIKR.com",
-      "published": "10-20 04:35",
-      "published_iso": "2026-10-19T19:35:36+00:00",
-      "age": "2일 전"
     },
     {
       "ticker": "GOOG",
@@ -349,6 +329,16 @@
       "source": "Benzinga",
       "published": "10-19 15:17",
       "published_iso": "2026-10-19T06:17:49+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "SK하이닉스, 2조 원 규모 ‘수출공급망 강화보증’ 출범… 정부 · 무보 · 시중은행 손잡아 - SK hynix",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91M1dBZTVHV25nTFZpVWZDVWJ6WUl6TWtHb0dqRlNyMlVHYy12QUNKQ1loOXRQQzhoRHJxbTRwQ2xRWjZtLXk4TUs2NEhqVDZ4dkJlejJwZGo0QkhsbFY2UHJTV0VPNzVR?oc=5",
+      "source": "SK hynix",
+      "published": "10-19 15:00",
+      "published_iso": "2026-10-19T06:00:24+00:00",
       "age": "2일 전"
     },
     {
@@ -462,16 +452,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "롯데마트 제타, 10월 ‘월간제타’ 진행 - 글로벌뉴스통신GNA",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByTzhPbkJ1bmVRbkNFN1pTZFBjME9saERLNG1qMUg4aXl5bmh3UkxLQXZRVkpHOFVEV0FIZDVjQWhzel9BWGw1Slo5MnFOS2JxTFJZRG56Y1A1TTJHbWUzTUhrdjVqUWpPQUxBZ0VUSGFQbmhw?oc=5",
-      "source": "글로벌뉴스통신GNA",
-      "published": "10-18 10:45",
-      "published_iso": "2026-10-18T01:45:02+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "캐터필러(CAT)의 10억 달러 규모 확장 계획 발표 이후, 이 회사의 주가는 저평가된 것일까? - Simply Wall Street",
@@ -502,6 +482,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "\"흩어진 고객 데이터를 하나로\" AI·개인정보 보호 강화에 주목받는 ‘아이덴티티 레졸루션’ - 매드타임스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TRjdpdDBNQkg1QzZ0czNnMGNlZTRVTVhQX1pmN1lGT1RlaTlqYy1vNHptdElveG1MVG85a0dkVkl1OXZXdDVheWNaVmF3bmZfY1hUTmtoUGk1WUxuay03aDJIT0xaT05KOV9yUg?oc=5",
+      "source": "매드타임스",
+      "published": "10-18 00:00",
+      "published_iso": "2026-10-17T15:00:00+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "title": "세계 최고 분기 영업이익 기업은? 삼성전자가 Nvidia 앞질러 - Investing.com 한국어",
@@ -509,6 +499,16 @@
       "source": "Investing.com 한국어",
       "published": "10-17 22:12",
       "published_iso": "2026-10-17T13:12:00+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "알파벳 주가 전망: 제미나이 4 아르곤 접근성 확대가 주가 회복에 도움이 될 수 있을까? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTzF2SW50cTc2ZmhjWEIySWlZWWNQbGdIMzIxeTlzbnhNY0tza3pZZG1fMEYyenlWRjJsZmRHakthZ3VRTlhTN1hOS0VEV0V2XzdETzRHdUxBWVVTY0djSmNOTzNWaVYxZjBWWFlRQ09NY2lhVnI2TTI3R3d2QmdBTllydEtJWHV3bnNZOTJIeHVZeGxYM0haWVdSa05CRDNKUW00YUJuNWZXZWF6M09IblNIOGpqQlhKWjkwajBQeUhxZ3BlZDdlMjhuemtZemEwbFVTZjNCRTFvNnlDNkVNLUtDVnhFTUkyRzRnbnNyV3k?oc=5",
+      "source": "TradingKey",
+      "published": "10-17 17:00",
+      "published_iso": "2026-10-17T08:00:00+00:00",
       "age": "4일 전"
     },
     {
@@ -602,6 +602,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "코스트코, 2027 회계연도 임원 성과급 기준 승인…CEO 기본 성과급 120만 달러 - 데이터투자",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84bE9LTGR4OTZ3VUI3QnFiRFlWUnpGMi1qV1BWWHpiTzFHb1ZoQXNkdHBRc0NvTHVpLWY4ZnkzNVN0aXJIbWN1NG1zWkF2QnowUTdpSW11V283Y2tZU3djVGlUYUJEeXhoaVZURnViMHVSenM?oc=5",
+      "source": "데이터투자",
+      "published": "10-17 05:56",
+      "published_iso": "2026-10-16T20:56:22+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "VOO",
       "name": "Vanguard S&P 500 ETF",
       "title": "공원 토토 사이트 게임 내 언어 설정 확인 - Calgary Roughnecks",
@@ -609,6 +619,16 @@
       "source": "Calgary Roughnecks",
       "published": "10-17 03:58",
       "published_iso": "2026-10-16T18:58:23+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "SCHD",
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "title": "자주 묻는 조작 질문에 답하는 강수연 블랙잭 - www.icaremn.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oZkgzQ2ZOekwzSlkzbmQyYnc4YkQ1dUhrQTlPaC1KWFB5QjZVVTBUNHlxcC1tYldkaG1Xb0xTWVlpbDh4OXBMMFhycFNWRFdJTHMzZmZtNkZtZw?oc=5",
+      "source": "www.icaremn.com",
+      "published": "10-17 01:28",
+      "published_iso": "2026-10-16T16:28:50+00:00",
       "age": "5일 전"
     },
     {
@@ -812,16 +832,6 @@
       "age": "6일 전"
     },
     {
-      "ticker": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
-      "title": "Lynx Equity, AI 수요 전망에 TSMC 목표주가 유지 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KOEpQQVZNd2tMRHJCSVMxMF9ITTE5dEw2SFNaSXY3dm9wYi1oNVE4XzhtekxPV2tUTTlMT2tZQnlvSll6WjFtT0hWN0U0V1lkOXh5NmFlU3Z6ZTMwSkJiZDhMd211Tjhwa0szWVNXYlp5QXd6?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-15 21:03",
-      "published_iso": "2026-10-15T12:03:00+00:00",
-      "age": "6일 전"
-    },
-    {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
       "title": "원/엔 '18년 만에 최저'…엔화 노출 ETF 수익률 줄줄이 마이너스 - 머니투데이 - 머니투데이",
@@ -829,6 +839,16 @@
       "source": "머니투데이",
       "published": "10-15 17:07",
       "published_iso": "2026-10-15T08:07:25+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "TSMC, 2026년 3분기 실적 예상치 상회에도 주가 하락 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8za0hHLTZ2dUFoNWxDcEsxc01ISmd6cktEc1hORG1ldmxNSnNaeURPUFJ0enZKaWtjY1ZWdFh1UnhmOFFHd0JUaUZudjZUOTZiUFIzeGR5TE1SWFBDMnlHR3hkSlZ5OThpNGxNX18xNA?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-15 16:23",
+      "published_iso": "2026-10-15T07:23:00+00:00",
       "age": "6일 전"
     },
     {
@@ -979,26 +999,6 @@
       "source": "네이버 프리미엄콘텐츠",
       "published": "10-15 08:51",
       "published_iso": "2026-10-14T23:51:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "현대자동차 바다숲 보전 캠페인, 서울디자인어워드 ‘ESG 디자인 임팩트상’ 수상 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNmRaRmhzamRyUURXSTFRSmdSUFgwWVZTYmFrVEMzSU0yYUxjR0szb05DQ28yWGNBTXd6Sk9FcjFPWXUwQm9zSF9qOGVaWmIzc3dhT1hjdHpDcnhFekxVSUhWdGFRVE5oaDVRSXp3Zjk1aXV1c0Nra09MbzN2S1NBWXVjclZoVkUta2d4V2JRdVhGQkNUcGxsRkxtMWFVQlo3cWc?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-15 08:30",
-      "published_iso": "2026-10-14T23:30:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "엔비디아(NVDA.O), 영국 AI 안전 연구에 투자...5년간 약 3,300억원 규모 - 알파경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SVnI5Tk5uZ1RLTFlpdzBDWTRQYkZyZmtRZWFadGJILWxwVkczWDVKcm45aFdhaWNfSC1qRnd0Ti10Nnpjb3U4MC0yQmt3NnE2ZWZ0Y3lRTm5zd21TTWljZV80Z2p1dG11emJBTk5B?oc=5",
-      "source": "알파경제",
-      "published": "10-15 07:31",
-      "published_iso": "2026-10-14T22:31:36+00:00",
       "age": "6일 전"
     }
   ]
