@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 15:42 KST",
+  "updated_at": "2026-10-22 16:47 KST",
   "items": [
     {
       "ticker": "QQQM",
@@ -9,7 +9,7 @@
       "source": "아이뉴스24",
       "published": "10-22 14:43",
       "published_iso": "2026-10-22T05:43:03+00:00",
-      "age": "59분 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "NVDA",
@@ -19,7 +19,7 @@
       "source": "코인리더스",
       "published": "10-22 14:15",
       "published_iso": "2026-10-22T05:15:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "SCHD",
@@ -29,7 +29,7 @@
       "source": "뉴스핌",
       "published": "10-22 13:46",
       "published_iso": "2026-10-22T04:46:06+00:00",
-      "age": "1시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "005930",
@@ -39,7 +39,7 @@
       "source": "경향신문",
       "published": "10-22 11:04",
       "published_iso": "2026-10-22T02:04:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "000660",
@@ -49,7 +49,7 @@
       "source": "경향신문",
       "published": "10-22 11:04",
       "published_iso": "2026-10-22T02:04:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "TSLA",
@@ -59,7 +59,7 @@
       "source": "Investing.com 한국어",
       "published": "10-22 09:04",
       "published_iso": "2026-10-22T00:04:34+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "005380",
@@ -69,7 +69,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-22 08:30",
       "published_iso": "2026-10-21T23:30:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "000660",
@@ -79,7 +79,7 @@
       "source": "Mitrade",
       "published": "10-22 08:18",
       "published_iso": "2026-10-21T23:18:06+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "TSLA",
@@ -89,7 +89,17 @@
       "source": "연합인포맥스",
       "published": "10-22 06:39",
       "published_iso": "2026-10-21T21:39:25+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "Datadog Inc (DDOG) 주식 움직였습니다 상승 7.80%에 10월21일: 어떤 신호인가요? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHlmaWlGODlzRi1UTkR2NDNrVkpGdkJub0NOQkJLRDVXZVZULU11OVBTdTRPenExZVVWYmdvaE9WR2hJTHRMVGJLWXpHWU0tN3FpYnhrYlppNzdFZXlPS0FGakhma2NWemlabVBiTFR6VjE4VWhBQlVLelZwcXAzWjNFYy1JVEx3WmRLbmZNaw?oc=5",
+      "source": "TradingKey",
+      "published": "10-22 03:16",
+      "published_iso": "2026-10-21T18:16:14+00:00",
+      "age": "13시간 전"
     },
     {
       "ticker": "AMD",
@@ -99,7 +109,7 @@
       "source": "TradingKey",
       "published": "10-22 02:16",
       "published_iso": "2026-10-21T17:16:10+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "GOOG",
@@ -109,7 +119,7 @@
       "source": "TradingKey",
       "published": "10-22 00:16",
       "published_iso": "2026-10-21T15:16:08+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "GEV",
@@ -119,17 +129,7 @@
       "source": "Investing.com 한국어",
       "published": "10-21 23:27",
       "published_iso": "2026-10-21T14:27:00+00:00",
-      "age": "16시간 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "CrowdStrike Holdings Inc (CRWD) 주식 움직였습니다 상승 3.04%에 10월21일: 핵심 원인 공개 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRERaWC1fOERfb2hwZkt2cDBxRFhFMm96NjJRR2RwdkZRQzVGLU5SR1ZUTkdZQlNIZG94LVdsTm9sRjlMZnBSc1dxLXZTb2M4X1MxTlFaVGlsZVVpNHVDdGN5aE1NdC12S19LbWo5MHUyb0duZ3hmNGRDSzk1Sm03akRScUtQcTdRV3dGankzcw?oc=5",
-      "source": "TradingKey",
-      "published": "10-21 23:15",
-      "published_iso": "2026-10-21T14:15:57+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "GEV",
@@ -139,7 +139,7 @@
       "source": "Investing.com 한국어",
       "published": "10-21 22:40",
       "published_iso": "2026-10-21T13:40:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "AVGO",
@@ -149,7 +149,17 @@
       "source": "Investing.com 한국어",
       "published": "10-21 22:13",
       "published_iso": "2026-10-21T13:13:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "[美특징주]'29일 실적 발표' 샌디스크, 개장 전 반등…\"낸드 가격 견조\" - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWtITDFVMXJLTWFBSkJIaDBpU1hSTjlHQlhjTzRUZEVxa2gtVWJzaG01QU9velVUYUd2d1hMdHpfUExBVUE1UGpGMkxUSFNuTmpsMGFCcWJXYkM1S3ljMi00NVhnVVdWRHlKSmVzZFRrM3FYLW5BSEg2eHdOOHBMWg?oc=5",
+      "source": "이데일리",
+      "published": "10-21 20:23",
+      "published_iso": "2026-10-21T11:23:55+00:00",
+      "age": "20시간 전"
     },
     {
       "ticker": "SNDK",
@@ -159,7 +169,7 @@
       "source": "Investing.com 한국어",
       "published": "10-21 17:40",
       "published_iso": "2026-10-21T08:40:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "0072R0",
@@ -169,7 +179,7 @@
       "source": "대한경제",
       "published": "10-21 16:19",
       "published_iso": "2026-10-21T07:19:03+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "379800",
@@ -279,7 +289,7 @@
       "source": "코인리더스",
       "published": "10-20 16:35",
       "published_iso": "2026-10-20T07:35:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "VOO",
@@ -289,7 +299,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 16:15",
       "published_iso": "2026-10-20T07:15:01+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "0072R0",
@@ -355,10 +365,10 @@
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
       "title": "A $1.5 Trillion Anthropic IPO Still Pays Off for Google: “They’re Gonna Be Fine” - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzgwSUJtd25DLW80RnhaME8xVndZUzVfREwwZU01bHdUdFpFd2QzNTg4TXhNUFI0cWJzSjF0VTE2am5uTE9xblJqY3ktTUpURlMxX19lU3JmMnM0M2JrUDI4V0daZnN2Q3YwUnBxS3N0ZkVxTGROWS12Vng4OTQtVUpQRGNlcXIwZWZ2V2J6UGZ2dG5VM1VreXNTZlY4VlUwSmtBbkxQdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGU5aWF3bEpjdE14UjRsODUzM0ZpNEtKXzZYaFJCSndWWnRfazhIcFI1RUJSZm5mTUstMmF4Zld1aFN0bzJvdEJ1aWxsQm1LTzFHQlhzYVQ3Rkg5dUhvZ1kyQ2h1NHpRV2NneUJhcmRMM2ZfY3FUR0JuQjlpYlJKWFpwbzhjQXh5T2EwaTJmZ29kYjJkdlZYYXViZm45Vm1VdFl6NzJEal8?oc=5",
       "source": "TIKR.com",
-      "published": "10-20 04:12",
-      "published_iso": "2026-10-19T19:12:19+00:00",
+      "published": "10-20 03:59",
+      "published_iso": "2026-10-19T18:59:54+00:00",
       "age": "2일 전"
     },
     {
@@ -419,7 +429,7 @@
       "source": "한국경제",
       "published": "10-19 15:49",
       "published_iso": "2026-10-19T06:49:12+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "489250",
@@ -502,6 +512,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
+      "title": "국장 지지부진에 ETF 지각변동...코스피 200 제치고 S&P500 왕좌 등극 - 스마트투데이",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZaW5yOHdQV21aMWQ1SU5iUDFfS1BtMlQ5ZndVVFpicE9odDZmZ0lhMFZGYVAzeWFxVXdIOHRfalRuRFNaTG1EeWdYMWI2bEMzNmRCOWF5N01oLXVpS0dZ?oc=5",
+      "source": "스마트투데이",
+      "published": "10-19 09:51",
+      "published_iso": "2026-10-19T00:51:00+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "487230",
       "name": "KODEX 미국AI전력핵심인프라",
       "title": "현대건설, 호주 오스넷·CIP와 협력 확대…전력망·신재생 사업 공략 - 인더뉴스",
@@ -529,6 +549,16 @@
       "source": "TradingKey",
       "published": "10-19 08:54",
       "published_iso": "2026-10-18T23:54:38+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대자동차, ‘2026 현대 모빌리티 플레이그라운드 시즌 2’ 성료 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTZmSjByeEhLSWJGLUdUSng1a2ZqZWxJel8zN3RveUxSYWl3d09FRDVBZHJ1bU91N0dtMkR3emg4b3RMMFpwOHEwSE9UZGZEZWZHZGZTLUNYX1ZuajlObEVrUzFpTzFnVGhiM25mU01nMEI3b2V4RV9pUUhrR0ZlajF0N1E1SzhrWllOOV95MHdPUXlYc2c0TVM2cm1GQQ?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-19 08:30",
+      "published_iso": "2026-10-18T23:30:00+00:00",
       "age": "3일 전"
     },
     {
@@ -619,7 +649,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-17 16:39",
       "published_iso": "2026-10-17T07:39:02+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "GEV",
@@ -782,6 +812,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "삼전닉스 폭락…레버리지 울고, 인버스 웃어 [ETF 브리핑] - MTN 머니투데이방송",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zSGwxMkh1VHVLM2lHSmNjV2Q0M0VCVVM1T2hRc3BEQmFwZTRiT1gwelZPRmgxWXhIelZxMnBrSHh5WVIzQVdTdno3M2RsQ0dZamI5LXFlUzFUUk8tSzZ3?oc=5",
+      "source": "MTN 머니투데이방송",
+      "published": "10-16 17:42",
+      "published_iso": "2026-10-16T08:42:25+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
       "title": "매달 현금이 따박따박…‘변동장 피난처’ 떠오른 커버드콜 ETF [S머니+] - 서울경제",
@@ -819,7 +859,7 @@
       "source": "뉴스핌",
       "published": "10-16 16:19",
       "published_iso": "2026-10-16T07:19:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "TSM",
@@ -829,16 +869,6 @@
       "source": "Investing.com 한국어",
       "published": "10-16 16:07",
       "published_iso": "2026-10-16T07:07:00+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "기아, 판교서 PV5 기반 원격 운전 카셰어링 시범 서비스 개시 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0tIUW93TTh4dHF6WGdwWFhUMC1vQlJSWEJ1V2l1V0NPckZCQ3kwaWNvclJ5ZmZyTU1WbF9ENHVfZGoyYjRmWGt2bXZScTJ3aExyNFBkTWFaOUdXQkpSN2tBZjlSTlVzWkQ3R0hGbEJENmdBSlFOSWktMV9SZDVWNEdPVzNKVERwZTUxYWJseDVBVHlCQzdSVnd2cw?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-16 08:30",
-      "published_iso": "2026-10-15T23:30:00+00:00",
       "age": "6일 전"
     },
     {
@@ -912,6 +942,26 @@
       "age": "6일 전"
     },
     {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "Lynx Equity, AI 수요 전망에 TSMC 목표주가 유지 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KOEpQQVZNd2tMRHJCSVMxMF9ITTE5dEw2SFNaSXY3dm9wYi1oNVE4XzhtekxPV2tUTTlMT2tZQnlvSll6WjFtT0hWN0U0V1lkOXh5NmFlU3Z6ZTMwSkJiZDhMd211Tjhwa0szWVNXYlp5QXd6?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-15 21:03",
+      "published_iso": "2026-10-15T12:03:00+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
+      "title": "미래에셋운용 'TIGER 미국배당다우존스 ETF', 연초 이후 개인 순매수 1조 2827억원 - kjtimes",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoT0xCQ0ZkOXQ0UnQtWVdRaldzVk1TbXpTSkpqdF8zWEhTZFBQVG8ySXpmb1Z0ek1lVk1pYXZ5ZXlYVGpudUJtekJWMDltSXAzd21VNEhwV1dRWFJVR0Zn?oc=5",
+      "source": "kjtimes",
+      "published": "10-15 20:26",
+      "published_iso": "2026-10-15T11:26:32+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
       "title": "삼성자산운용, 'KODEX 미국나스닥100' 순자산 10조원 돌파 - S저널",
@@ -949,56 +999,6 @@
       "source": "머니투데이",
       "published": "10-15 17:07",
       "published_iso": "2026-10-15T08:07:25+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "458730",
-      "name": "TIGER 미국배당다우존스",
-      "title": "미래에셋자산운용, 'TIGER 미국배당다우존스' 개인 순매수 1위 - PRESS9",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qeHVBRzQwc3dGSmI0RVJRb0FxWG5LeFNMUGFOellmNWp1WUROdTRsZGVNYXhwQkhTQkpzT3cwWWcybVY2dVJJVmczaGx0R2RVRi1RSGFCWVN1VDRuSXVia2twV2pSUQ?oc=5",
-      "source": "PRESS9",
-      "published": "10-15 17:06",
-      "published_iso": "2026-10-15T08:06:46+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "[운용 & Now] KODEX 미국나스닥100, 순자산 10조원 돌파 등 - www.ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oMkFremwxUmpoSUk3ZG5OcFpJY2tSdmtTS2FhbmwtQnQtdWJBOTBBTFdITEtsVWxzZDJIOXJLVVNHd2ZtS3Fubkk5RGo3cl9mR0tXekZSNldUeEV2V252dk1aWHR1VDN0?oc=5",
-      "source": "www.ebn.co.kr",
-      "published": "10-15 16:57",
-      "published_iso": "2026-10-15T07:57:35+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
-      "title": "TSMC, 2026년 3분기 실적 예상치 상회에도 주가 하락 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8za0hHLTZ2dUFoNWxDcEsxc01ISmd6cktEc1hORG1ldmxNSnNaeURPUFJ0enZKaWtjY1ZWdFh1UnhmOFFHd0JUaUZudjZUOTZiUFIzeGR5TE1SWFBDMnlHR3hkSlZ5OThpNGxNX18xNA?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-15 16:23",
-      "published_iso": "2026-10-15T07:23:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
-      "title": "'25%p 초과성과' 비결은 액티브? SCHD액티브로 이어지나 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tc1lhazY3QVRqOVYzd3NmQUNlSTVQaGUyaDV3Vzc4T1p0d283RnZmSDFaOTNWbWxZMDYzYlgxM3N6WmppZGZEemZscnROOTZsOWM4dkNJckxMcUJJX1lYN01WTHRPSV9M0gFuQVVfeXFMTThTZUlKN2ZULWZYdF95UHRKbVNEUmozd0g3SUZBSVRrU0FlbzE2dTFiWWFTUjJhLWNEOFVQa2M5MWk5MXpLeWlWN2puVnBZN296UDJIT3BYOFNfbEJQeTJHc09ZbkxrVHA5NFgybFE?oc=5",
-      "source": "머니투데이",
-      "published": "10-15 16:15",
-      "published_iso": "2026-10-15T07:15:45+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "샌디스크(SNDK), CXMT 메모리 뉴스 이후에도 여전히 저평가일까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzJNTnlSLXd5WGRwbHZ5S21CNTFmT0NrX3BkdF9xQkcyajJIblpReDE4UnF6WHRoc3V1Y3pkbHJtLS00WDlWRmdBaUZ5MlNQbkVkMmlBR3JLdUFxSUVTd2lvZl9ZSld6OEhmLTU0bEM4dWE5WEFkMXA2TkxRZ0lnYzFiV0lqZFVH0gGOAUFVX3lxTE9WTFlnVE5ualdMNUpsakt0TUxYNklITm93NlpmbkRQaHgzNmc4Q00yQllobmdnc1YtMnBqUl9yQl9uNmNpZEtxT3ZyWHM5M21tcW56ejYxQUNXc2l6VUI4bWxoQ3hlak5vMVpRX3ZBSzhYRWdlLW92ZklGSk1yMFlWRXpQQTczc0pVWVVxS3c?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-15 16:00",
-      "published_iso": "2026-10-15T07:00:00+00:00",
       "age": "6일 전"
     }
   ]
