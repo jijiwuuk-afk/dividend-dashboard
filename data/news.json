@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 12:35 KST",
+  "updated_at": "2026-10-22 13:34 KST",
   "items": [
     {
       "ticker": "005930",
@@ -9,7 +9,7 @@
       "source": "경향신문",
       "published": "10-22 11:04",
       "published_iso": "2026-10-22T02:04:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "000660",
@@ -19,17 +19,27 @@
       "source": "경향신문",
       "published": "10-22 11:04",
       "published_iso": "2026-10-22T02:04:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "Trade Forex, Gold, Oil, Indices, Shares & More on Our Award-Winning Platform - Mitrade",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IbVVaXy01b09JRDl2RUhNZkVOZ250UlZid3lQY08zTTBka1NMSEJicWk1NnNEd1BsYkRSaHpaeUtXMXhNVzdqN1ZhRlgyUEIwcllxUC1UNUN5R2RaQ3c?oc=5",
-      "source": "Mitrade",
-      "published": "10-22 08:18",
-      "published_iso": "2026-10-21T23:18:06+00:00",
-      "age": "4시간 전"
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대차그룹, ‘소프티어 테크톡 오프데이’ 개최 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2NBUE5DSUVzd0VMQXBITXFad0dGdXp4WXZzemNFdm1aOV96NG5uTm8yOG9wTUUxRFdwbHBQc1RRSW10X1pQNDZJLXRQM0tETGt0dXZMZnVjVmhxUGwwS3hPd3JNRmpJanhVeXRQTlhSbEhNaC1ySTMzdUZRNElNUE9HRzRCSXNUb0x1U3VUT0Q?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-22 08:30",
+      "published_iso": "2026-10-21T23:30:00+00:00",
+      "age": "5시간 전"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대자동차, 인도네시아 교육 접근성 개선 위한 ‘현대 유니버설 솔루션’ 전개 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTzdOQjREVHlpSUh6WERJR3pNVG9DYXNXZDdMSzVxV2RVYUlaR19ST2ZHNEpjZHZhcVBBLVhPWVJtVmdLblZId3pqdUJIUFM4MzZHeGJBNmZlSXJlczJDSUJiVUZ5ZkZ6eEZYbjEtdlNWRWh3YzlXNGNpeDVpalZkZjZlN2lIU0V1OEhUM1NHZzBzSk41SzVLazN1RzNSNTVzU1NPU243WlZoNFJWVEdST3I5akx1NHM?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-22 08:30",
+      "published_iso": "2026-10-21T23:30:00+00:00",
+      "age": "5시간 전"
     },
     {
       "ticker": "TSLA",
@@ -39,7 +49,7 @@
       "source": "연합인포맥스",
       "published": "10-22 06:39",
       "published_iso": "2026-10-21T21:39:25+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "AMD",
@@ -49,7 +59,7 @@
       "source": "TradingKey",
       "published": "10-22 02:16",
       "published_iso": "2026-10-21T17:16:10+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "GOOG",
@@ -59,7 +69,7 @@
       "source": "TradingKey",
       "published": "10-22 00:16",
       "published_iso": "2026-10-21T15:16:08+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "NVDA",
@@ -69,7 +79,7 @@
       "source": "TIKR.com",
       "published": "10-22 00:00",
       "published_iso": "2026-10-21T15:00:00+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "GEV",
@@ -79,7 +89,7 @@
       "source": "Investing.com 한국어",
       "published": "10-21 23:27",
       "published_iso": "2026-10-21T14:27:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "GOOG",
@@ -89,7 +99,7 @@
       "source": "TradingKey",
       "published": "10-21 23:15",
       "published_iso": "2026-10-21T14:15:57+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "GEV",
@@ -99,7 +109,17 @@
       "source": "Investing.com 한국어",
       "published": "10-21 22:40",
       "published_iso": "2026-10-21T13:40:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "브로드컴, 비대면 카드 결제 사기 방지 기능 출시 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NRlV4bEkwMVlscXlwQmd1My1pN245cU1uenU0cUlhUnBLeHFsY01lUF9QRHFmTm1YUUxyVWZPT1VtYkh4V2lEQi1QY3VWdWh0OGJ2dWQxZEVwQm9jQ25ORUxtUzlqMHVXTnh3Vnd6QXM?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-21 22:13",
+      "published_iso": "2026-10-21T13:13:00+00:00",
+      "age": "15시간 전"
     },
     {
       "ticker": "SNDK",
@@ -109,7 +129,7 @@
       "source": "Investing.com 한국어",
       "published": "10-21 17:40",
       "published_iso": "2026-10-21T08:40:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "0072R0",
@@ -119,7 +139,7 @@
       "source": "대한경제",
       "published": "10-21 16:19",
       "published_iso": "2026-10-21T07:19:03+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "379800",
@@ -129,17 +149,7 @@
       "source": "스트레이트뉴스",
       "published": "10-21 15:07",
       "published_iso": "2026-10-21T06:07:59+00:00",
-      "age": "21시간 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "기아, ‘2026 국제치안산업대전’ 참가 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeG9sQ3h0UzFaY2J5MVQwUGg3SVVWdGdUWXBPRnNjeWU3cmpya0VSWV91MS1pVTZKbXlxYlZOdlhRYnpESTF5NmJ1S1g2ZDdsZlA5Y0pwYUxaTkdZVkFWTzNCLTRDSVo3ZW14VXpsUS1EUG1mc1ZfOGN4ZEVvVzlrZC1n?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-21 15:00",
-      "published_iso": "2026-10-21T06:00:00+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "487230",
@@ -149,16 +159,6 @@
       "source": "이코노미사이언스",
       "published": "10-21 14:44",
       "published_iso": "2026-10-21T05:44:48+00:00",
-      "age": "21시간 전"
-    },
-    {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "SK Hynix, 저항 구간 아래 하락 추세 지속: 매시간 업데이트 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PS2J6ZUx4cktzWVVmMnlWN0h6TC1LVW90eTN1TVZJTkZFbGtqZ0pGODB2UGt4NEF5a1ItSFhDSDhxY1F4cXlKYmNaZi1rakZlckthb1lOZDN4U095TTl6NVBwd3VfcTJObzduVUpDTFpQUkR3a1BB?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-21 14:01",
-      "published_iso": "2026-10-21T05:01:00+00:00",
       "age": "22시간 전"
     },
     {
@@ -259,7 +259,7 @@
       "source": "인사이트코리아",
       "published": "10-20 13:00",
       "published_iso": "2026-10-20T04:00:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "AMD",
@@ -462,6 +462,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "368590",
+      "name": "RISE 미국나스닥100",
+      "title": "【미 증시 개장 전】 트럼프 대러 제재 완화, 유가 하락; 인텔 4% 이상 상승, 마이크론과 샌디스크 메모리 반도체주 주도 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZmR3a1RGdXNHQnVFWHItQUlxclRUcUFBWG5qcGFXbmZXUjVEMG92YUprbkk1YmxUM3NYb1pBX0FGd1plMWRZTDB5Wk1QaGpzV3NUckJRRGlIVWstNlNCaUpoNzR3eXFQZ1ZmWk5adXhkTWh6cUVxMDViMDJPY1pOYU81cUVpZ3lfUzBIU1JabGFldkdza1J2WFg3ay10TTRpZjlmNlg3MG5zcDFWYVZvNjE2N3NNbDVEdDBVVXgxTWRkUlFqRlUyRHlPbkt1WWt3eXRxQkVRdWt3d0VaTzFVX3RXc0thWk1pbEgtbkthVTU4N2c?oc=5",
+      "source": "TradingKey",
+      "published": "10-19 05:00",
+      "published_iso": "2026-10-18T20:00:00+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "JEPQ",
       "name": "JPMorgan Nasdaq Equity Premium Income ETF",
       "title": "보너스 유형에 따라 달라지는 토토 사이트 먹튀 슈퍼맨 화면 구성 - Calgary Roughnecks",
@@ -480,16 +490,6 @@
       "published": "10-18 22:34",
       "published_iso": "2026-10-18T13:34:21+00:00",
       "age": "3일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "브로드컴(AVGO) 주가는 향후 현금 흐름 수요에 비추어 볼 때 저평가된 것으로 보인다 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOek1iNTIwWl82OTEwelFib1ZyVnhvZ1VQYW1OYk9ZUWhzR2pFOTlQVElsZU9FZThNQ3JTVWpoOWFBaUsxNlk1dHV1UGEwRGlVdmpVYUJJZFdvOEN6S1VCYUZjS3JUaXI4TWJCbll5ZUVseDBsbUVkMUxZTXZYVmFvd3E0QkhEc1RpWlpYbFBtTGtZamNjb285d3lxam3SAZwBQVVfeXFMTnpNYjUyMFpfNjkxMHpRYm9WclZ4b2dVUGFtTmJPWVFoc0dqRTk5UFRJbGVPRWU4TUNyU1VqaDlhQWlLMTZZNXR1dVBhMERpVXZqVWFCSWRXbzhDektVQmFGY0tyVGlyOE1iQm5ZeWVFbHgwbG1FZDFMWU12WFZhb3dxNEJIRHNUaVpaWGxQbUxrWWpjY29vOXd5cWpt?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-18 11:43",
-      "published_iso": "2026-10-18T02:43:32+00:00",
-      "age": "4일 전"
     },
     {
       "ticker": "NVDA",
@@ -672,16 +672,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "SCHD",
-      "name": "Schwab U.S. Dividend Equity ETF",
-      "title": "자주 묻는 조작 질문에 답하는 강수연 블랙잭 - icaremn.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oZkgzQ2ZOekwzSlkzbmQyYnc4YkQ1dUhrQTlPaC1KWFB5QjZVVTBUNHlxcC1tYldkaG1Xb0xTWVlpbDh4OXBMMFhycFNWRFdJTHMzZmZtNkZtZw?oc=5",
-      "source": "icaremn.com",
-      "published": "10-17 01:28",
-      "published_iso": "2026-10-16T16:28:50+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
       "title": "브로드컴 (AVGO) 주식 움직였습니다 하락 3.05%에 10월16일: 핵심 원인 공개 - TradingKey",
@@ -812,16 +802,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "기아, 판교서 PV5 기반 원격 운전 카셰어링 시범 서비스 개시 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0tIUW93TTh4dHF6WGdwWFhUMC1vQlJSWEJ1V2l1V0NPckZCQ3kwaWNvclJ5ZmZyTU1WbF9ENHVfZGoyYjRmWGt2bXZScTJ3aExyNFBkTWFaOUdXQkpSN2tBZjlSTlVzWkQ3R0hGbEJENmdBSlFOSWktMV9SZDVWNEdPVzNKVERwZTUxYWJseDVBVHlCQzdSVnd2cw?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-16 08:30",
-      "published_iso": "2026-10-15T23:30:00+00:00",
-      "age": "6일 전"
-    },
-    {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
       "title": "[머니테크…커버드콜 바로알기] 박스피에 불붙었다, 급락장 시험대 올라 - 대한경제",
@@ -882,6 +862,16 @@
       "age": "6일 전"
     },
     {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "SK hynix ADR 주가, 오늘 왜 하락하나? - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuXzBMRl9BWUxsOFFmTmJsNEFaRjh1S0Ftb0lOczRGcTVMeFFkb3VuN2RCbXVQWGdDMU9DeVFkcGNkVnN4MGpUQmNlMUFnUUhfTWVEWEVoR2NmZUxZTlAzYnFxMUNfYnZRX3lUdXhCSVRUdHh0TmFn?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-15 23:18",
+      "published_iso": "2026-10-15T14:18:00+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "INTC",
       "name": "Intel Corporation",
       "title": "Intel Corp (INTC) 주식 움직였습니다 하락 6.66%에 10월15일: 핵심 원인 공개 - TradingKey",
@@ -929,6 +919,16 @@
       "source": "머니투데이",
       "published": "10-15 16:15",
       "published_iso": "2026-10-15T07:15:45+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "SK하이닉스가 43년의 기록으로 ‘초심’을 만든 이유 - SK hynix",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qNjNCR2ZxQ2VOR0RYYldlSy10azk4c25RTnZVMHFNNjVNbkZJeF8yUGVXVnNTZWY5RzJiaVcyXy1TTURJem8tZ2lFODRGQTRvZWkwdGl6NVAwM1dtR1dJODBNTkFzdDNyWW1N?oc=5",
+      "source": "SK hynix",
+      "published": "10-15 16:12",
+      "published_iso": "2026-10-15T07:12:44+00:00",
       "age": "6일 전"
     },
     {
