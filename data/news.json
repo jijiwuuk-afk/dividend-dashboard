@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 17:37 KST",
+  "updated_at": "2026-10-23 18:36 KST",
   "items": [
     {
       "ticker": "487230",
@@ -9,7 +9,7 @@
       "source": "뉴스핌",
       "published": "10-23 16:10",
       "published_iso": "2026-10-23T07:10:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "QQQM",
@@ -19,7 +19,7 @@
       "source": "매일경제",
       "published": "10-23 16:05",
       "published_iso": "2026-10-23T07:05:09+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "TSLA",
@@ -29,7 +29,7 @@
       "source": "Investing.com 한국어",
       "published": "10-23 10:32",
       "published_iso": "2026-10-23T01:32:23+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "CAT",
@@ -39,7 +39,7 @@
       "source": "코인리더스",
       "published": "10-23 09:30",
       "published_iso": "2026-10-23T00:30:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "000660",
@@ -49,7 +49,7 @@
       "source": "경향신문",
       "published": "10-23 08:45",
       "published_iso": "2026-10-22T23:45:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "SCHD",
@@ -59,7 +59,27 @@
       "source": "뉴스핌",
       "published": "10-23 08:01",
       "published_iso": "2026-10-22T23:01:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "SK Hynix, ADR 유동주식 확대 시 나스닥 100 편입 가능 – 골드만삭스 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qcDdxNHN2MHJTNElVR00yNk1fNUt5SEY0ZWhFR2l6WE9uMl8yWFdlQ19MVExmS1FHN1VlUkwyNDFYakhKMVhWSXdySWRKWGg2bG5haDJHeDR6OTJ6MDl1bjM4WnAxM3JFNC10ZXJHOE0?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-23 07:29",
+      "published_iso": "2026-10-22T22:29:40+00:00",
+      "age": "11시간 전"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "캐터필러 뉴욕 증시서 4%대 급락하며 704달러 선으로 후퇴 : 기업주식정보 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80Um5sWW1ZN0ZfNE1na29SVEE4YzhmaUZyOHlLZngtam56UVNkdkxqbzlFbmluY25KWlJmbjd4amloeEJUdUl6OU1fRQ?oc=5",
+      "source": "재경일보",
+      "published": "10-23 07:23",
+      "published_iso": "2026-10-22T22:23:00+00:00",
+      "age": "11시간 전"
     },
     {
       "ticker": "TSLA",
@@ -69,7 +89,7 @@
       "source": "코인리더스",
       "published": "10-23 07:20",
       "published_iso": "2026-10-22T22:20:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "GEV",
@@ -79,7 +99,7 @@
       "source": "Investing.com 한국어",
       "published": "10-23 03:42",
       "published_iso": "2026-10-22T18:42:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "GOOG",
@@ -89,7 +109,7 @@
       "source": "TradingKey",
       "published": "10-23 03:16",
       "published_iso": "2026-10-22T18:16:32+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "GEV",
@@ -99,7 +119,7 @@
       "source": "TradingKey",
       "published": "10-23 02:16",
       "published_iso": "2026-10-22T17:16:29+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "AVGO",
@@ -109,7 +129,7 @@
       "source": "재경일보",
       "published": "10-23 01:03",
       "published_iso": "2026-10-22T16:03:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "TSM",
@@ -119,7 +139,7 @@
       "source": "TradingKey",
       "published": "10-22 23:16",
       "published_iso": "2026-10-22T14:16:33+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "INTC",
@@ -129,16 +149,6 @@
       "source": "TradingKey",
       "published": "10-22 23:16",
       "published_iso": "2026-10-22T14:16:22+00:00",
-      "age": "18시간 전"
-    },
-    {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "SK Hynix, ADR 유동주식 확대 시 나스닥 100 편입 가능 – 골드만삭스 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qcDdxNHN2MHJTNElVR00yNk1fNUt5SEY0ZWhFR2l6WE9uMl8yWFdlQ19MVExmS1FHN1VlUkwyNDFYakhKMVhWSXdySWRKWGg2bG5haDJHeDR6OTJ6MDl1bjM4WnAxM3JFNC10ZXJHOE0?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-22 22:17",
-      "published_iso": "2026-10-22T13:17:43+00:00",
       "age": "19시간 전"
     },
     {
@@ -175,20 +185,10 @@
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "title": "엔비디아(NVDA), 아직도 투자자들이 '저평가'...젠슨 황이 GTC서 꺼낸 승부수는? - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KUDdYUzBNdE53Yl9oc0dPZkw2Mno4cEV6LVRnajRTdG1EZ2JUR0JuOXIyRVNWbmd1SXlxMUt0bWNrbk5FUkZXZW93?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5Rc2k5S2FDbjlYLS1vMkZ6NVMtYTFMQk91WXRVQlhiMDZIMk9qWHZMOURZRTlCb2V6TVFNcmVDRFdyd1kw?oc=5",
       "source": "코인리더스",
       "published": "10-22 14:15",
       "published_iso": "2026-10-22T05:15:00+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "NVIDIA Hyperion 기반으로 유럽 모빌리티 기업의 안전한 차량·로보택시 플릿 구축 지원 - NVIDIA",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0Z2a2pqVnNYMENvQzNSdTQ2S0E3dFd6R1lZQ0FVTG1WX2lxZ25UeEpObjUtaW5kei1XaUhUVm1pY2lXcG5ZTzlLOXlsb1RheE9uRlkyZGQxNUs5SE1DaklMSU5mSG14N2hlLUl1cnhLVXI3Skl4ZldOZ0pPRWt1TGM4TDlxUkRjTXQyZjlnR1p0RVZyRFFjdXd1YW9WTWNJZkdodmVBVU9aRVZXUDBnMExXa25aYm9C?oc=5",
-      "source": "NVIDIA",
-      "published": "10-22 13:27",
-      "published_iso": "2026-10-22T04:27:24+00:00",
       "age": "1일 전"
     },
     {
@@ -202,6 +202,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "NVIDIA, 율리히 슈퍼컴퓨팅 센터에서 내결함성 양자 컴퓨팅 사상 최대 규모 시뮬레이션 구현 - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNDJjWXBkb2FjOGpDRnRjT3YtcWs1STRCalpMQnZUeGRRZEszTU84eDUzMFhlVHJsR3dUV3hWNl84NGN6b3dmenF2aElodk52YkJIclk1X2NNUXA1eWNrdGsxUXZIcS1OWEpTQkJXbFJyX3VpcGNQc3VnMUg0a2NHTEZadTlOQUMxUVpVUVhfSWFncG01TktPbmFNZlVQVGZ2cGFmbVBYaEo4U2l2aWJtNlVfLWRtd3pBeElyOEg0SjVTZVdISVp0eDlR?oc=5",
+      "source": "NVIDIA",
+      "published": "10-22 11:57",
+      "published_iso": "2026-10-22T02:57:21+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "005930",
       "name": "삼성전자",
       "title": "Samsung Electronics·SK hynix, is this the bottom···Brokerages: “KOSPI confirms a W-shaped bottom, Samsung Electronics·SK hynix to rebound in November” outlook - 경향신문",
@@ -209,6 +219,16 @@
       "source": "경향신문",
       "published": "10-22 11:04",
       "published_iso": "2026-10-22T02:04:00+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
+      "title": "미장은 올랐는데 내 ETF는 -7%…서학개미 수익률 ‘환헤지’에 엇갈렸다 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1ZTJjd1BmdDdKWVAzNUZPdjc3UXhTaFJSekkwemMzNzR5eTJtTnI1TkxkcC1QSUZPaEdMRlAyZGhjMVRjUk1hVUF4TmpJSUV2Q1E?oc=5",
+      "source": "매일경제 마켓",
+      "published": "10-22 10:20",
+      "published_iso": "2026-10-22T01:20:10+00:00",
       "age": "1일 전"
     },
     {
@@ -309,7 +329,7 @@
       "source": "Investing.com 한국어",
       "published": "10-21 17:40",
       "published_iso": "2026-10-21T08:40:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "0072R0",
@@ -319,16 +339,6 @@
       "source": "대한경제",
       "published": "10-21 16:19",
       "published_iso": "2026-10-21T07:19:03+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
-      "title": "국내 최대 ETF 순위 바뀜이 의미하는 것 - 스트레이트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2MnlmZC1sbnM3UHdDQ1RrYWVjMmQ5NGppdnlLc3V0bmRIUGxqN3BidkNBUjB0Qk01cXBlUHR0MVdqZXhldV9WbjlEX0gtWnFhekJrakc0dHBpSXIydktrdGVWdGQzNTlmU1lpZ0JGNVNDNEXSAXdBVV95cUxORW03eWg2aUkxM2wwT0VoSHcwQnRhc2gtbFlpX2ZpSnMxTWhUQUFNVS10RW5UY2tPYVBHZkp6ODd6eEk3bHVVRGZlSHp1N2JDSTA3T2NCQmR5a24ybmlnc3JxUUpfcktYNDA3VmpiSkh4S0NEZEhkVQ?oc=5",
-      "source": "스트레이트뉴스",
-      "published": "10-21 15:07",
-      "published_iso": "2026-10-21T06:07:59+00:00",
       "age": "2일 전"
     },
     {
@@ -349,16 +359,6 @@
       "source": "알파경제",
       "published": "10-21 07:41",
       "published_iso": "2026-10-20T22:41:45+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "중국 빅테크, 엔비디아(NVDA.O) GPU 대량 주문...美 수출 규제에 수요 급증 - 메디컬투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54MV9tdWY3eXRESUhTbFU1ckpMWnZfTF9Ec2ZkTnlaV2FVbEgtRURHc21Gc0hnNzQzdkF5d19Gcm1wbTdFbnFEaU5yaHc3TzhwTzZPeFNBeXZVdmUzcnNXV2xMZlBHWEpRVEt2MQ?oc=5",
-      "source": "메디컬투데이",
-      "published": "10-21 07:28",
-      "published_iso": "2026-10-20T22:28:13+00:00",
       "age": "2일 전"
     },
     {
@@ -399,7 +399,7 @@
       "source": "아이즈매거진 | eyesmag",
       "published": "10-20 18:00",
       "published_iso": "2026-10-20T09:00:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "379780",
@@ -409,7 +409,7 @@
       "source": "서울경제",
       "published": "10-20 17:55",
       "published_iso": "2026-10-20T08:55:35+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "INTC",
@@ -509,6 +509,16 @@
       "source": "Hyundai Motor Group",
       "published": "10-20 08:30",
       "published_iso": "2026-10-19T23:30:00+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
+      "title": "ETF 순자산 1위 바뀌었다…TIGER 미국S&P500, KODEX200 추월 - ER 이코노믹리뷰",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93S3BtdnhDVGY2ZWxfUFY5ZVcxUE1FblhITDh4TXlaR09PUm5VYUJkQjRNVU9hZW5pUTd6RjlITFpWTEhJWG1UR2VNUzZ5YVFIU0c5OFRoaDFyNC00U01uRDdqQzVNMXV3dy1CTA?oc=5",
+      "source": "ER 이코노믹리뷰",
+      "published": "10-20 08:22",
+      "published_iso": "2026-10-19T23:22:21+00:00",
       "age": "3일 전"
     },
     {
@@ -652,16 +662,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
-      "title": "“아직도 국장한다고?”…이민개민 대이동에 ETF 순위 8개월만에 바뀌었다 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aMExmNllCVFVDV2lCV1dWcS12Ty1TSU1BeTZ4RFdlZEp5T1NjbHJCWW1TcmhlbTl0Q25ReHdNWTNVNkVWckI0anBZU2Y3ZHpGVlE?oc=5",
-      "source": "매일경제 마켓",
-      "published": "10-19 11:12",
-      "published_iso": "2026-10-19T02:12:59+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "005380",
       "name": "현대자동차",
       "title": "현대차∙기아, ‘2026 아이디어 페스티벌’ 개최 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
@@ -669,16 +669,6 @@
       "source": "Hyundai Motor Group",
       "published": "10-19 10:30",
       "published_iso": "2026-10-19T01:30:00+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
-      "title": "국장 지지부진에 ETF 지각변동...코스피 200 제치고 S&P500 왕좌 등극 - 스마트투데이",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZaW5yOHdQV21aMWQ1SU5iUDFfS1BtMlQ5ZndVVFpicE9odDZmZ0lhMFZGYVAzeWFxVXdIOHRfalRuRFNaTG1EeWdYMWI2bEMzNmRCOWF5N01oLXVpS0dZ?oc=5",
-      "source": "스마트투데이",
-      "published": "10-19 09:51",
-      "published_iso": "2026-10-19T00:51:00+00:00",
       "age": "4일 전"
     },
     {
@@ -712,8 +702,8 @@
       "age": "4일 전"
     },
     {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
       "title": "증시 급변동에 ETF 1위 경쟁 가열…KODEX·TIGER 엎치락뒤치락 - 아시아경제",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03eWV0YW9wR19ibkN3dXNvaV9oUkthbm5Bb0FGSWtyR3I1TXlaQ1E0RGlhX2c0XzR1cGF3T0gzVFJ1V1Y2Tk9DRHVpOGVoRmVJZXItTGhiczYycGZqcjg4d1hB?oc=5",
       "source": "아시아경제",
@@ -832,6 +822,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "세계 최고 분기 영업이익 기업은? 삼성전자가 Nvidia 앞질러 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51UTJVNnlDU19xVFFSTUhOYlFnWmVaZDBkb09ZTVh5WEZMWWxBZWRweWJHS3VLdkxlUUtoZ1J5SWV6U2llMm1fcnR6azUzd1lTMkdnV2F0ckJtRm95bFNCaWIyT053NzlTYU1hd1E1bDQ?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-17 22:12",
+      "published_iso": "2026-10-17T13:12:00+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
       "title": "화면 전환이 잦은 게임인지 살펴보는 goat 토토 - Calgary Roughnecks",
@@ -932,16 +932,6 @@
       "age": "6일 전"
     },
     {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "Lockheed Martin Corp (LMT) 주식 마감했습니다 상승 3.65%에 10월16일: 어떤 신호인가요? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWdicDhmOEtISng4RW5YOGVJLW16Y05SZzVmMWQyemk2b2FGWUp5cUNiU3pyLUQtMXRQWk9Hazk4QU5fdG53ZVF0T3h6UWVCeFVvdVUzS3R6NXVCMkdYT2RXcVM5UGtNemhFV0ZyQS1FUE9TZXcyS1VwTE9fQkFybkRGTWVvZktDZjQzUmxn?oc=5",
-      "source": "TradingKey",
-      "published": "10-17 05:16",
-      "published_iso": "2026-10-16T20:16:07+00:00",
-      "age": "6일 전"
-    },
-    {
       "ticker": "VOO",
       "name": "Vanguard S&P 500 ETF",
       "title": "공원 토토 사이트 게임 내 언어 설정 확인 - Calgary Roughnecks",
@@ -999,6 +989,16 @@
       "source": "TradingKey",
       "published": "10-16 22:47",
       "published_iso": "2026-10-16T13:47:54+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "골드만삭스, Zeta 매수 상향·Klaviyo 중립 하향 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSDVBT1BFREFULWpkOVVKamd4Vlo1ekswSFZQdV9NRnJ1bDljWGRLWnVtanZ3dHNWbmtPRTNSMWozLTU1ZzVFN3VZb2xZZHpEX1dmMTlSNVdXU0ZfWHQ2UU5LYzV2RU5qZzVtU2lzZlU?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-16 22:16",
+      "published_iso": "2026-10-16T13:16:00+00:00",
       "age": "6일 전"
     }
   ]
