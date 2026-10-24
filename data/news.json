@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 11:32 KST",
+  "updated_at": "2026-10-24 12:33 KST",
   "items": [
     {
       "ticker": "379800",
@@ -9,7 +9,7 @@
       "source": "신아일보",
       "published": "10-24 08:00",
       "published_iso": "2026-10-23T23:00:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "379810",
@@ -19,7 +19,7 @@
       "source": "신아일보",
       "published": "10-24 08:00",
       "published_iso": "2026-10-23T23:00:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "ZETA",
@@ -29,7 +29,17 @@
       "source": "데이터투자",
       "published": "10-24 06:08",
       "published_iso": "2026-10-23T21:08:45+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "코스트코 홀세일(COST), 투자자들이 지금 다시 보는 이유는? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWEtQk9LZWNWUzZiLW5BTVoxdVpqUk5xRXA3OG93YzFSZU9zcnVHQVJmQkoyU05qaDlTdW85QzJtUmVtMlBiUFpSZlVLWnY5eG9LSnktZjk1eFhWUnlVVUNTbWZhZGkyb3FzWnMxNFVvRlpvZkcxU2J3UVd5VDVCOTFqUEVTYU5nZjd5OXdKWFpDSTlGdjdnODRIYXA0QlpJMUVULWltZmxrR0NQ0gGsAUFVX3lxTE5BYS1CT0tlY1ZTNmItbkFNWjF1WmpSTnFFcDc4b3djMVJlT3NydUdBUmZCSjJTTmpoOVN1bzlDMm1SZW0yUGJQWlJmVUtadjl4b0tKeS1mOTV4WFZSeVVVQ1NtZmFkaTJvcXNaczE0VW9GWm9mRzFTYndRV3lUNUI5MWpQRVNhTmdmN3k5d0pYWkNJOUZ2N2c4NEhhcDRCWkkxRVQtaW1mbGtHQ1A?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-23 22:55",
+      "published_iso": "2026-10-23T13:55:40+00:00",
+      "age": "13시간 전"
     },
     {
       "ticker": "490490",
@@ -39,7 +49,7 @@
       "source": "서울경제",
       "published": "10-23 17:53",
       "published_iso": "2026-10-23T08:53:54+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "487230",
@@ -49,7 +59,7 @@
       "source": "뉴스핌",
       "published": "10-23 16:10",
       "published_iso": "2026-10-23T07:10:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "QQQM",
@@ -59,17 +69,7 @@
       "source": "매일경제",
       "published": "10-23 16:05",
       "published_iso": "2026-10-23T07:05:09+00:00",
-      "age": "19시간 전"
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "코스트코(COST) 주가는 실적에 비추어 볼 때 이미 완벽한 수준에 도달했을 수 있다 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGxDOFIyUUFLNUw2REh6WXlFaDVwYWtibEhuSk45NXNvdVh1d1A2RG5BSE1feWctRmRXWC1tUDM5UThmQUFqV3RIV0ZCcDJvUnNOSGNveGU0OG14aXhJb3laRTVLNlpQR2dEbWp6UDhvOF80NW85dFRjb3ZTQUZoa3MwNDBLMUNLT1prSFdlMUp5Rk9wT3JCUHpqWmNxLTZGZFpkRGt5MlZ2U1dy0gGsAUFVX3lxTE1sbEM4UjJRQUs1TDZESHpZeUVoNXBha2JsSG5KTjk1c291WHV3UDZEbkFITV95Zy1GZFdYLW1QMzlROGZBQWpXdEhXRkJwMm9Sc05IY294ZTQ4bXhpeElveVpFNUs2WlBHZ0RtanpQOG84XzQ1bzl0VGNvdlNBRmhrczA0MEsxQ0tPWmtIV2UxSnlGT3BPckJQempaY3EtNkZkWmREa3kyVnZTV3I?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-23 15:52",
-      "published_iso": "2026-10-23T06:52:13+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "ZETA",
@@ -79,7 +79,7 @@
       "source": "뉴스와이어",
       "published": "10-23 15:50",
       "published_iso": "2026-10-23T06:50:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "487230",
@@ -89,7 +89,7 @@
       "source": "매일경제",
       "published": "10-23 14:06",
       "published_iso": "2026-10-23T05:06:57+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "TSLA",
@@ -225,7 +225,7 @@
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "테슬라(TSLA), FSD·로보택시 성장 가시화…높은 밸류에이션은 부담 - 인포스탁데일리",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zQnpPYzZPczZIN1dhbXNRcUk3UWdTY21Sd3YxLVJkbnhaYnNLQlNPQmxwVkI3YTVCa0h3d1M4RW1ldGhFQk5wOUZtaEVUelF2ZzdWZU1HOXNGMmRvR1pTUC1zSExJdTNnRE9ockRJSkZsTkI0TGc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWlfOFY5ZXh0OGpKcjlZS3RsdzZFTzM0cGRya3RydkFoSGFxQ05FcHJtX3NKRzdWNHlqZ0U2emxCRGl4ZG1fYV9WVzc2NnZjcDFJSjV2MHk3MFpwbGxDaHNkY2NCbS01ZVJyVW5KQjQyMm54eTktbVFPRHlhLVlsc21DbFRZX3MtWk1Tc3JoaWJfei1LX05ZRm56UkFNUQ?oc=5",
       "source": "인포스탁데일리",
       "published": "10-22 16:48",
       "published_iso": "2026-10-22T07:48:26+00:00",
@@ -459,6 +459,16 @@
       "source": "알파경제",
       "published": "10-21 07:41",
       "published_iso": "2026-10-20T22:41:45+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "중국 빅테크, 엔비디아(NVDA.O) GPU 대량 주문...美 수출 규제에 수요 급증 - 메디컬투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54MV9tdWY3eXRESUhTbFU1ckpMWnZfTF9Ec2ZkTnlaV2FVbEgtRURHc21Gc0hnNzQzdkF5d19Gcm1wbTdFbnFEaU5yaHc3TzhwTzZPeFNBeXZVdmUzcnNXV2xMZlBHWEpRVEt2MQ?oc=5",
+      "source": "메디컬투데이",
+      "published": "10-21 07:28",
+      "published_iso": "2026-10-20T22:28:13+00:00",
       "age": "3일 전"
     },
     {
@@ -779,7 +789,7 @@
       "source": "브런치",
       "published": "10-19 12:32",
       "published_iso": "2026-10-19T03:32:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "379800",
@@ -969,16 +979,6 @@
       "source": "매드타임스",
       "published": "10-18 00:00",
       "published_iso": "2026-10-17T15:00:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "세계 최고 분기 영업이익 기업은? 삼성전자가 Nvidia 앞질러 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51UTJVNnlDU19xVFFSTUhOYlFnWmVaZDBkb09ZTVh5WEZMWWxBZWRweWJHS3VLdkxlUUtoZ1J5SWV6U2llMm1fcnR6azUzd1lTMkdnV2F0ckJtRm95bFNCaWIyT053NzlTYU1hd1E1bDQ?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-17 22:12",
-      "published_iso": "2026-10-17T13:12:00+00:00",
       "age": "6일 전"
     },
     {
