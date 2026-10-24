@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 10:42 KST",
+  "updated_at": "2026-10-24 11:32 KST",
   "items": [
     {
       "ticker": "379800",
@@ -9,7 +9,7 @@
       "source": "신아일보",
       "published": "10-24 08:00",
       "published_iso": "2026-10-23T23:00:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "379810",
@@ -19,7 +19,7 @@
       "source": "신아일보",
       "published": "10-24 08:00",
       "published_iso": "2026-10-23T23:00:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "ZETA",
@@ -29,7 +29,7 @@
       "source": "데이터투자",
       "published": "10-24 06:08",
       "published_iso": "2026-10-23T21:08:45+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "490490",
@@ -39,7 +39,7 @@
       "source": "서울경제",
       "published": "10-23 17:53",
       "published_iso": "2026-10-23T08:53:54+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "487230",
@@ -49,7 +49,7 @@
       "source": "뉴스핌",
       "published": "10-23 16:10",
       "published_iso": "2026-10-23T07:10:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "QQQM",
@@ -59,7 +59,7 @@
       "source": "매일경제",
       "published": "10-23 16:05",
       "published_iso": "2026-10-23T07:05:09+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "COST",
@@ -69,7 +69,7 @@
       "source": "Simply Wall Street",
       "published": "10-23 15:52",
       "published_iso": "2026-10-23T06:52:13+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "ZETA",
@@ -79,7 +79,7 @@
       "source": "뉴스와이어",
       "published": "10-23 15:50",
       "published_iso": "2026-10-23T06:50:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "487230",
@@ -89,7 +89,7 @@
       "source": "매일경제",
       "published": "10-23 14:06",
       "published_iso": "2026-10-23T05:06:57+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "TSLA",
@@ -225,10 +225,20 @@
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "테슬라(TSLA), FSD·로보택시 성장 가시화…높은 밸류에이션은 부담 - 인포스탁데일리",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWlfOFY5ZXh0OGpKcjlZS3RsdzZFTzM0cGRya3RydkFoSGFxQ05FcHJtX3NKRzdWNHlqZ0U2emxCRGl4ZG1fYV9WVzc2NnZjcDFJSjV2MHk3MFpwbGxDaHNkY2NCbS01ZVJyVW5KQjQyMm54eTktbVFPRHlhLVlsc21DbFRZX3MtWk1Tc3JoaWJfei1LX05ZRm56UkFNUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zQnpPYzZPczZIN1dhbXNRcUk3UWdTY21Sd3YxLVJkbnhaYnNLQlNPQmxwVkI3YTVCa0h3d1M4RW1ldGhFQk5wOUZtaEVUelF2ZzdWZU1HOXNGMmRvR1pTUC1zSExJdTNnRE9ockRJSkZsTkI0TGc?oc=5",
       "source": "인포스탁데일리",
       "published": "10-22 16:48",
       "published_iso": "2026-10-22T07:48:26+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "Caterpillar Just Dropped 10% in a Month. Is It Time to Sell, or Load Up? - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNEp6eFVNZUZSZFNGcGtaOVB5VXlkRGhGTDRnY2pNNnVqS3hrZjBad3lrRXdUbWlmc2lHNDZ0a01TS2taTl9YT1RsdjRIZ09BYXM0WE5tajBGWmRyeWtvVWxnNUpWdXRvcU9KSHpRZGo0Z1N6MXdlNWFUQlJYNS1lVHZhVFZoRHJUUzBIT3plN3JWcm1hQzdMVktJUU1adVMyV0RJNjhXaDl6T0pibkNZ?oc=5",
+      "source": "TIKR.com",
+      "published": "10-22 16:00",
+      "published_iso": "2026-10-22T07:00:00+00:00",
       "age": "1일 전"
     },
     {
@@ -275,7 +285,7 @@
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
       "title": "Broadcom’s AI Revenue Is Set to Quadruple. Why Is the Stock Well Off Its High? - TOP1markets",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5seUJBM3VNTHpMZjByLUYzZy1TWERLdnp3TkZKZU5ha21rQWNLMW1LcGlsaW1yUmttZG5TMHhDSWhVNS1OeVktQTNIdWp6cVNZdzhOTmRB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYm44Tjk2Skl6Vmdyc0ZTYXhTcVU2MWNJVXV4RV9rLU41N3BuS0ZWLUxqOE12b3VpblRBSHk1QUpKLVFWTHZjYkg1MVN5Ylh2am52Yl8xSElsRVZrdzdrOXJ0Q0t2Tjd6cDRzTGdoeDZGamgxMWdIc1JNWEh5MGtob05Zb1RoMG53MXhKQjVnbkExQQ?oc=5",
       "source": "TOP1markets",
       "published": "10-22 13:26",
       "published_iso": "2026-10-22T04:26:22+00:00",
@@ -289,7 +299,7 @@
       "source": "경향신문",
       "published": "10-22 11:04",
       "published_iso": "2026-10-22T02:04:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "005380",
@@ -442,6 +452,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "인텔(INTC.O), AI 추론용 GPU 공개...'저전력 D램'으로 HBM 대체 노린다 - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BY0I4clUzRHpxZFEwSmN4ZTU2c00wTnpWNzc4ZTZJVjZlMWdRODNTLXl1R1lVOUkwZGplazZLRHZkN0hrNmZocWVCTjlCLTJmYXlsMmcwME8tYXNYZG9WTVBST3NFY3VmUFNDRmZn?oc=5",
+      "source": "알파경제",
+      "published": "10-21 07:41",
+      "published_iso": "2026-10-20T22:41:45+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "005930",
       "name": "삼성전자",
       "title": "Samsung Electronics Postpones DX Division Town Hall Amid Growing Labor Tensions - 알파경제",
@@ -462,23 +482,13 @@
       "age": "3일 전"
     },
     {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "반도체주, 2조 달러 증발...월가는 \"매수 기회 vs 정점\" 대립 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zd2pJdjE1aXc3MFR0NzdMRDFmeGlhb29HQkswcDNrWTl0QjM4MWQtSDZQSEtNOFN5a2w5WDRiNktRTTN2a0NjRw?oc=5",
-      "source": "코인리더스",
-      "published": "10-21 00:00",
-      "published_iso": "2026-10-20T15:00:00+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "005930",
       "name": "삼성전자",
       "title": "삼성전자가 디자인으로 말하는 사랑 - 아이즈매거진 | eyesmag",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QYl9PWVFpQXlDbkJxTDZRaGRXYVJnR2xIZXFyay11MVNwaElFRnJiR21CWGhmdWgxbmJiWnh5XzhzNTZrbHZER2lOOERaaktPUU9LOG94dW93V0tiakRnbXNzY181WUcxYVVZdEVkd3R0RXk2dXp0Qlln?oc=5",
       "source": "아이즈매거진 | eyesmag",
-      "published": "10-20 19:59",
-      "published_iso": "2026-10-20T10:59:17+00:00",
+      "published": "10-20 18:00",
+      "published_iso": "2026-10-20T09:00:00+00:00",
       "age": "3일 전"
     },
     {
@@ -549,7 +559,7 @@
       "source": "소셜밸류",
       "published": "10-20 11:01",
       "published_iso": "2026-10-20T02:01:38+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "AMD",
@@ -559,7 +569,7 @@
       "source": "이데일리",
       "published": "10-20 10:53",
       "published_iso": "2026-10-20T01:53:28+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "458730",
@@ -622,16 +632,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "[월가 콜] 분석 개시·의견 재확인...인텔·아마존·AMD(10/19) - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMZnVBUWJPRlBLNHIyTEhGMjkxb2EydlhyNzZwOGo4cjViWTYzU25fLXdtU3V5eXNvVjk3UE44ZlFubG9aWkNnblRkZWxyYW1qNmU4bU82ZmJvWl9f?oc=5",
-      "source": "뉴스핌",
-      "published": "10-20 08:30",
-      "published_iso": "2026-10-19T23:30:00+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
       "title": "A $1.5 Trillion Anthropic IPO Still Pays Off for Google: “They’re Gonna Be Fine” - TIKR.com",
@@ -639,6 +639,16 @@
       "source": "TIKR.com",
       "published": "10-20 04:12",
       "published_iso": "2026-10-19T19:12:19+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "AI정보분석 - ThinkPool",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSnpDSmpTdlFxaEhjNGdwUTJZc3NIVmdYYU4yZ2I5V0d5TU5YQlAwSFlndzlSOHVEUW14U1VIUFNGVkVEX0U1NmxpRlhwNlJWVmVsNFdpS1NBSUdtUFFrazM1RlotZzNQVE93R0tsb3NXYkRmTkhGSTc5cVdUeGlNQ3lQdw?oc=5",
+      "source": "ThinkPool",
+      "published": "10-20 03:41",
+      "published_iso": "2026-10-19T18:41:00+00:00",
       "age": "4일 전"
     },
     {
@@ -779,7 +789,7 @@
       "source": "매일경제 마켓",
       "published": "10-19 11:12",
       "published_iso": "2026-10-19T02:12:59+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "005380",
@@ -919,16 +929,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-18 22:34",
       "published_iso": "2026-10-18T13:34:21+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "인텔(INTC), AI 인프라 기대는 커지는데 지금도 매수할 만한가? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkp3Y0s4UUF4dzNZQzBjX294V0N2LXFBMFhaSVZnUzg3bjJ1bmhkcnpod0xlRmZ2Vl9zTzQ5eTdfOHgwS1Y0Nkl2VFNXSE1pUHBQSlhoN0Fka1AzRTAxLWhvcXdYVGxXODFOeGlORE9Kb1hCQUJsUGo4YnQ3bWk5SnVIRG00R0xQS2lzcDRNYjR2VzhiUF9hMNIBmAFBVV95cUxQQkp3Y0s4UUF4dzNZQzBjX294V0N2LXFBMFhaSVZnUzg3bjJ1bmhkcnpod0xlRmZ2Vl9zTzQ5eTdfOHgwS1Y0Nkl2VFNXSE1pUHBQSlhoN0Fka1AzRTAxLWhvcXdYVGxXODFOeGlORE9Kb1hCQUJsUGo4YnQ3bWk5SnVIRG00R0xQS2lzcDRNYjR2VzhiUF9hMA?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-18 12:56",
-      "published_iso": "2026-10-18T03:56:10+00:00",
       "age": "5일 전"
     },
     {
