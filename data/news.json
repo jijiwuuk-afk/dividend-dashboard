@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 19:31 KST",
+  "updated_at": "2026-10-24 20:31 KST",
   "items": [
     {
       "ticker": "ZETA",
@@ -9,7 +9,7 @@
       "source": "뉴스N연합",
       "published": "10-24 15:48",
       "published_iso": "2026-10-24T06:48:20+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "GEV",
@@ -19,7 +19,7 @@
       "source": "TIKR.com",
       "published": "10-24 14:26",
       "published_iso": "2026-10-24T05:26:15+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "NVDA",
@@ -29,7 +29,7 @@
       "source": "TradingKey",
       "published": "10-24 08:33",
       "published_iso": "2026-10-23T23:33:56+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "379800",
@@ -39,7 +39,7 @@
       "source": "신아일보",
       "published": "10-24 08:00",
       "published_iso": "2026-10-23T23:00:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "379810",
@@ -49,7 +49,7 @@
       "source": "신아일보",
       "published": "10-24 08:00",
       "published_iso": "2026-10-23T23:00:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "ZETA",
@@ -59,7 +59,17 @@
       "source": "데이터투자",
       "published": "10-24 06:08",
       "published_iso": "2026-10-23T21:08:45+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "Home Depot Inc (HD) 주식 움직였습니다 하락 3.01%에 10월23일: 어떤 신호인가요? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGgyM09YRWtvVy1FN0ctNEZDM0VlNTM2aXA3dFltMGtQaFMwREM0ak1pY2JZeEVPdHVOdkdyeUxhdEF2WVlEYUh4NGJpWTlSeTBtbEkzV2l1Q1dacU9OWUdvZHdMdjlMNkdyU0pBc1VZNUxYX2Q3cXRBQm9UV3cxMUpiWktURW9pTjFLNQ?oc=5",
+      "source": "TradingKey",
+      "published": "10-24 02:16",
+      "published_iso": "2026-10-23T17:16:03+00:00",
+      "age": "18시간 전"
     },
     {
       "ticker": "COST",
@@ -69,7 +79,7 @@
       "source": "Simply Wall Street",
       "published": "10-23 22:55",
       "published_iso": "2026-10-23T13:55:40+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "490490",
@@ -159,16 +169,6 @@
       "source": "뉴스핌",
       "published": "10-23 08:01",
       "published_iso": "2026-10-22T23:01:00+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
-      "title": "TSMC Explores Rare Earth Alternatives To Protect Chip Production From China Controls - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3pQM2x3RUJfM084VW1KLTRoX3huLTM0T0xTV0lOQ0pycDR2Wk9NUnY1WDBsdndIbTBUZml2NGRoOEdBUnZoN1phQlFlWWtBV0xDMlVOOEx6Y0RCQjdXc29fc2lnMTR2N1JNNGp4SDV6V0dZMEM2REprY1hqRXBDVFR6U2JYQzZ4MDgyNEJMZ3pmek1FNzJhRmpwZC16YktOSktmU0FwQmJnTkVjS3pOdw?oc=5",
-      "source": "TIKR.com",
-      "published": "10-23 03:33",
-      "published_iso": "2026-10-22T18:33:45+00:00",
       "age": "1일 전"
     },
     {
@@ -262,16 +262,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "Caterpillar Just Dropped 10% in a Month. Is It Time to Sell, or Load Up? - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNEp6eFVNZUZSZFNGcGtaOVB5VXlkRGhGTDRnY2pNNnVqS3hrZjBad3lrRXdUbWlmc2lHNDZ0a01TS2taTl9YT1RsdjRIZ09BYXM0WE5tajBGWmRyeWtvVWxnNUpWdXRvcU9KSHpRZGo0Z1N6MXdlNWFUQlJYNS1lVHZhVFZoRHJUUzBIT3plN3JWcm1hQzdMVktJUU1adVMyV0RJNjhXaDl6T0pibkNZ?oc=5",
-      "source": "TIKR.com",
-      "published": "10-22 16:00",
-      "published_iso": "2026-10-22T07:00:00+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
       "title": "美 반도체·韓 증시 '3배 베팅'⋯서학개미 '저가 매수' 승부수 - 아이뉴스24",
@@ -285,7 +275,7 @@
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "title": "엔비디아(NVDA), 아직도 투자자들이 '저평가'...젠슨 황이 GTC서 꺼낸 승부수는? - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KUDdYUzBNdE53Yl9oc0dPZkw2Mno4cEV6LVRnajRTdG1EZ2JUR0JuOXIyRVNWbmd1SXlxMUt0bWNrbk5FUkZXZW93?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5Rc2k5S2FDbjlYLS1vMkZ6NVMtYTFMQk91WXRVQlhiMDZIMk9qWHZMOURZRTlCb2V6TVFNcmVDRFdyd1kw?oc=5",
       "source": "코인리더스",
       "published": "10-22 14:15",
       "published_iso": "2026-10-22T05:15:00+00:00",
@@ -409,7 +399,7 @@
       "source": "이데일리",
       "published": "10-21 20:23",
       "published_iso": "2026-10-21T11:23:55+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "SNDK",
@@ -472,16 +462,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "인텔(INTC.O), AI 추론용 GPU 공개...'저전력 D램'으로 HBM 대체 노린다 - 알파경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BY0I4clUzRHpxZFEwSmN4ZTU2c00wTnpWNzc4ZTZJVjZlMWdRODNTLXl1R1lVOUkwZGplazZLRHZkN0hrNmZocWVCTjlCLTJmYXlsMmcwME8tYXNYZG9WTVBST3NFY3VmUFNDRmZn?oc=5",
-      "source": "알파경제",
-      "published": "10-21 07:41",
-      "published_iso": "2026-10-20T22:41:45+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "005930",
       "name": "삼성전자",
       "title": "Samsung Electronics Postpones DX Division Town Hall Amid Growing Labor Tensions - 알파경제",
@@ -499,6 +479,16 @@
       "source": "www.tmgm.com",
       "published": "10-21 00:58",
       "published_iso": "2026-10-20T15:58:19+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "반도체주, 2조 달러 증발...월가는 \"매수 기회 vs 정점\" 대립 - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zd2pJdjE1aXc3MFR0NzdMRDFmeGlhb29HQkswcDNrWTl0QjM4MWQtSDZQSEtNOFN5a2w5WDRiNktRTTN2a0NjRw?oc=5",
+      "source": "코인리더스",
+      "published": "10-21 00:00",
+      "published_iso": "2026-10-20T15:00:00+00:00",
       "age": "3일 전"
     },
     {
@@ -657,6 +647,16 @@
       "title": "현대차·기아, 레벨 4 자율주행 대형트럭 실증 추진 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbU5TZVhNdmxSWm85VzQ5ZXVoM3VmbC1GTHJ3MDJ6N1JjSVYtbVBRSTd5U1VqS1BFQ05aMjUxNVRPQl9xYnY0eHRPUU5fVGRLcTRYNF96NGxHYXBRME9tVzh2UEF5c3JzSnBtQ2dwY3hHTDVDYlA2NHFXTWx0U2pPMFl4eWtub1EzV01LZjJ3d3VkdDY1SjNQYlRpdGl1aEZ1N2lTN0h4YXZqMWFVY2NBRnhn?oc=5",
       "source": "Hyundai Motor Group",
+      "published": "10-20 08:30",
+      "published_iso": "2026-10-19T23:30:00+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "[월가 콜] 분석 개시·의견 재확인...인텔·아마존·AMD(10/19) - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMZnVBUWJPRlBLNHIyTEhGMjkxb2EydlhyNzZwOGo4cjViWTYzU25fLXdtU3V5eXNvVjk3UE44ZlFubG9aWkNnblRkZWxyYW1qNmU4bU82ZmJvWl9f?oc=5",
+      "source": "뉴스핌",
       "published": "10-20 08:30",
       "published_iso": "2026-10-19T23:30:00+00:00",
       "age": "4일 전"
@@ -862,6 +862,26 @@
       "age": "5일 전"
     },
     {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "[ETF 언박싱] 삼성운용, 미국배당다우존스 라인업 확대…액티브로 차별화 - 블로그",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iVmxTM3o0alpYN0dpWk1ncFptZDJ3bGJTanJ6LTBkS3YwRk4zXzc0QWk2blVoSnJlbTR6WmpaU2tCckxPZE1WenJmREFaYzBBM1FnVVhtdFFKUQ?oc=5",
+      "source": "블로그",
+      "published": "10-19 09:51",
+      "published_iso": "2026-10-19T00:51:00+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
+      "title": "[ETF 언박싱] 삼성운용, 미국배당다우존스 라인업 확대…액티브로 차별화 - 블로그",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iVmxTM3o0alpYN0dpWk1ncFptZDJ3bGJTanJ6LTBkS3YwRk4zXzc0QWk2blVoSnJlbTR6WmpaU2tCckxPZE1WenJmREFaYzBBM1FnVVhtdFFKUQ?oc=5",
+      "source": "블로그",
+      "published": "10-19 09:51",
+      "published_iso": "2026-10-19T00:51:00+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
       "title": "국장 지지부진에 ETF 지각변동...코스피 200 제치고 S&P500 왕좌 등극 - 스마트투데이",
@@ -882,26 +902,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "[ETF 언박싱] 삼성운용, 미국배당다우존스 라인업 확대…액티브로 차별화 - 블로그",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iVmxTM3o0alpYN0dpWk1ncFptZDJ3bGJTanJ6LTBkS3YwRk4zXzc0QWk2blVoSnJlbTR6WmpaU2tCckxPZE1WenJmREFaYzBBM1FnVVhtdFFKUQ?oc=5",
-      "source": "블로그",
-      "published": "10-19 09:49",
-      "published_iso": "2026-10-19T00:49:00+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "458730",
-      "name": "TIGER 미국배당다우존스",
-      "title": "[ETF 언박싱] 삼성운용, 미국배당다우존스 라인업 확대…액티브로 차별화 - 블로그",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iVmxTM3o0alpYN0dpWk1ncFptZDJ3bGJTanJ6LTBkS3YwRk4zXzc0QWk2blVoSnJlbTR6WmpaU2tCckxPZE1WenJmREFaYzBBM1FnVVhtdFFKUQ?oc=5",
-      "source": "블로그",
-      "published": "10-19 09:49",
-      "published_iso": "2026-10-19T00:49:00+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
       "title": "증시 급변동에 ETF 1위 경쟁 가열…KODEX·TIGER 엎치락뒤치락 - 아시아경제",
@@ -919,16 +919,6 @@
       "source": "연합뉴스",
       "published": "10-19 08:57",
       "published_iso": "2026-10-18T23:57:14+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "주간 전망: 워싱턴 미·중 정상회담, 코스트코 실적, 연준 금리 경로에 주목 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVEhIak1rRnBGSWZERXZndHlvaHUzZFduQkkxYXlCOTRZSi1jUzlLSk5KZGxvNW93cmFmdVBka0JTRjE4d0dIMEx6RlQ5QXRmTHRYUVlqNVZmZC1pYzdlajhqOVBWTVZfR0NGcFAtbVZRdnBhMXRQcktVOVROXzAwMmU3TnJvY1htMWJjdGhpWXpZYXJpTm5SSWpuU01Ec0pEeXQxaVlrZUFQQW5tN1JCTFp0U2hXMHlmWURTMFVwMFo1bUFHM3kyN3gyU29BTnk4c1dOUw?oc=5",
-      "source": "TradingKey",
-      "published": "10-19 08:54",
-      "published_iso": "2026-10-18T23:54:38+00:00",
       "age": "5일 전"
     },
     {
@@ -959,6 +949,16 @@
       "source": "Calgary Roughnecks",
       "published": "10-19 04:32",
       "published_iso": "2026-10-18T19:32:35+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "TSMC 9월 매출 전망: 3분기 가이던스의 6% 여유 - FinanceFeeds",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lMFk4Rm5GS2d4cGdfWVVqekdjRV9NdEh3aDNfSThOVkRvRlZjcGtidEVMUHpsbjhmTnl3cGdpdkstazliN3NneEllMDkwWHg2UkduWlFZVzNRMUhmdGNLMGtzQ2EtTDNLU2c?oc=5",
+      "source": "FinanceFeeds",
+      "published": "10-18 23:20",
+      "published_iso": "2026-10-18T14:20:54+00:00",
       "age": "5일 전"
     },
     {
