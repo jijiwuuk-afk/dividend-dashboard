@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 02:30 KST",
+  "updated_at": "2026-10-25 03:32 KST",
   "items": [
     {
       "ticker": "ZETA",
@@ -9,7 +9,7 @@
       "source": "뉴스N연합",
       "published": "10-24 15:48",
       "published_iso": "2026-10-24T06:48:08+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "GEV",
@@ -19,7 +19,7 @@
       "source": "TIKR.com",
       "published": "10-24 14:26",
       "published_iso": "2026-10-24T05:26:15+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "NVDA",
@@ -29,7 +29,7 @@
       "source": "TradingKey",
       "published": "10-24 08:34",
       "published_iso": "2026-10-23T23:34:17+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "379800",
@@ -39,7 +39,7 @@
       "source": "신아일보",
       "published": "10-24 08:00",
       "published_iso": "2026-10-23T23:00:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "379810",
@@ -49,7 +49,7 @@
       "source": "신아일보",
       "published": "10-24 08:00",
       "published_iso": "2026-10-23T23:00:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "ZETA",
@@ -59,17 +59,7 @@
       "source": "데이터투자",
       "published": "10-24 06:08",
       "published_iso": "2026-10-23T21:08:45+00:00",
-      "age": "20시간 전"
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "Home Depot Inc (HD) 주식 움직였습니다 하락 3.01%에 10월23일: 어떤 신호인가요? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGgyM09YRWtvVy1FN0ctNEZDM0VlNTM2aXA3dFltMGtQaFMwREM0ak1pY2JZeEVPdHVOdkdyeUxhdEF2WVlEYUh4NGJpWTlSeTBtbEkzV2l1Q1dacU9OWUdvZHdMdjlMNkdyU0pBc1VZNUxYX2Q3cXRBQm9UV3cxMUpiWktURW9pTjFLNQ?oc=5",
-      "source": "TradingKey",
-      "published": "10-24 02:16",
-      "published_iso": "2026-10-23T17:16:03+00:00",
-      "age": "1일 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "COST",
@@ -192,16 +182,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
-      "title": "TSMC Explores Rare Earth Alternatives To Protect Chip Production From China Controls - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3pQM2x3RUJfM084VW1KLTRoX3huLTM0T0xTV0lOQ0pycDR2Wk9NUnY1WDBsdndIbTBUZml2NGRoOEdBUnZoN1phQlFlWWtBV0xDMlVOOEx6Y0RCQjdXc29fc2lnMTR2N1JNNGp4SDV6V0dZMEM2REprY1hqRXBDVFR6U2JYQzZ4MDgyNEJMZ3pmek1FNzJhRmpwZC16YktOSktmU0FwQmJnTkVjS3pOdw?oc=5",
-      "source": "TIKR.com",
-      "published": "10-23 03:33",
-      "published_iso": "2026-10-22T18:33:45+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
       "title": "Alphabet Inc Class C (GOOG) 주식 움직였습니다 하락 3.02%에 10월22일: 변동을 뒷받침하는 사실 - TradingKey",
@@ -209,7 +189,7 @@
       "source": "TradingKey",
       "published": "10-23 03:16",
       "published_iso": "2026-10-22T18:16:32+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "GEV",
@@ -372,6 +352,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대차그룹, 신규 사회공헌 사업 HMG 미래 모빌리티 테크 캠퍼스 전개 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTXNCRHE2SW12aTlUX0w1SUZldG44Vk9VQWE0OEdENjVQM3E3eVBZd09KR0ZVajlYZGFBNDI3YktRSmxhTjUzYmhUV3NfZ2ZQVXNVVmk4dFRSd21KTTdUbFdCaF9sZndJWk9ZV2VzMnlqelNKWEZQOVVoQUhSLUJ4andna1NBYTF3WXBCaHY2bHlfeGM?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-22 08:30",
+      "published_iso": "2026-10-21T23:30:00+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
       "title": "Cloudflare Inc (NET) 주식 움직였습니다 상승 6.86%에 10월21일: 투자자가 알아야 할 정보 - TradingKey",
@@ -479,16 +469,6 @@
       "source": "TradingKey",
       "published": "10-21 16:00",
       "published_iso": "2026-10-21T07:00:00+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
-      "title": "국내 최대 ETF 순위 바뀜이 의미하는 것 - 스트레이트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2MnlmZC1sbnM3UHdDQ1RrYWVjMmQ5NGppdnlLc3V0bmRIUGxqN3BidkNBUjB0Qk01cXBlUHR0MVdqZXhldV9WbjlEX0gtWnFhekJrakc0dHBpSXIydktrdGVWdGQzNTlmU1lpZ0JGNVNDNEXSAXdBVV95cUxORW03eWg2aUkxM2wwT0VoSHcwQnRhc2gtbFlpX2ZpSnMxTWhUQUFNVS10RW5UY2tPYVBHZkp6ODd6eEk3bHVVRGZlSHp1N2JDSTA3T2NCQmR5a24ybmlnc3JxUUpfcktYNDA3VmpiSkh4S0NEZEhkVQ?oc=5",
-      "source": "스트레이트뉴스",
-      "published": "10-21 15:07",
-      "published_iso": "2026-10-21T06:07:59+00:00",
       "age": "3일 전"
     },
     {
@@ -679,6 +659,16 @@
       "source": "Hyundai Motor Group",
       "published": "10-20 08:30",
       "published_iso": "2026-10-19T23:30:00+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
+      "title": "ETF 순자산 1위 바뀌었다…TIGER 미국S&P500, KODEX200 추월 - ER 이코노믹리뷰",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93S3BtdnhDVGY2ZWxfUFY5ZVcxUE1FblhITDh4TXlaR09PUm5VYUJkQjRNVU9hZW5pUTd6RjlITFpWTEhJWG1UR2VNUzZ5YVFIU0c5OFRoaDFyNC00U01uRDdqQzVNMXV3dy1CTA?oc=5",
+      "source": "ER 이코노믹리뷰",
+      "published": "10-20 08:22",
+      "published_iso": "2026-10-19T23:22:21+00:00",
       "age": "4일 전"
     },
     {
@@ -942,13 +932,13 @@
       "age": "5일 전"
     },
     {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "현대자동차, ‘2026 현대 모빌리티 플레이그라운드 시즌 2’ 성료 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTZmSjByeEhLSWJGLUdUSng1a2ZqZWxJel8zN3RveUxSYWl3d09FRDVBZHJ1bU91N0dtMkR3emg4b3RMMFpwOHEwSE9UZGZEZWZHZGZTLUNYX1ZuajlObEVrUzFpTzFnVGhiM25mU01nMEI3b2V4RV9pUUhrR0ZlajF0N1E1SzhrWllOOV95MHdPUXlYc2c0TVM2cm1GQQ?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-19 08:30",
-      "published_iso": "2026-10-18T23:30:00+00:00",
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "주간 전망: 워싱턴 미·중 정상회담, 코스트코 실적, 연준 금리 경로에 주목 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVEhIak1rRnBGSWZERXZndHlvaHUzZFduQkkxYXlCOTRZSi1jUzlLSk5KZGxvNW93cmFmdVBka0JTRjE4d0dIMEx6RlQ5QXRmTHRYUVlqNVZmZC1pYzdlajhqOVBWTVZfR0NGcFAtbVZRdnBhMXRQcktVOVROXzAwMmU3TnJvY1htMWJjdGhpWXpZYXJpTm5SSWpuU01Ec0pEeXQxaVlrZUFQQW5tN1JCTFp0U2hXMHlmWURTMFVwMFo1bUFHM3kyN3gyU29BTnk4c1dOUw?oc=5",
+      "source": "TradingKey",
+      "published": "10-19 08:54",
+      "published_iso": "2026-10-18T23:54:38+00:00",
       "age": "5일 전"
     },
     {
@@ -972,13 +962,13 @@
       "age": "5일 전"
     },
     {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "슬롯 조디악 무료 의료인를 위한 알고리즘 설계 실전 기술 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fVFJqbEhSWWV6XzIyYW41dEtOU0l3Qjd3RDlzRHZveVhrbGsxVXI1akgtZHQ1TV9lMnNpckpCallENDdwNVBxS1NVWll4N2hxQ1M1NGhqMlR1ZGF1bnV6RzkzNEJkdGlmX0xrYTN3?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-18 22:34",
-      "published_iso": "2026-10-18T13:34:21+00:00",
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "TSMC 9월 매출 전망: 3분기 가이던스의 6% 여유 - FinanceFeeds",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lMFk4Rm5GS2d4cGdfWVVqekdjRV9NdEh3aDNfSThOVkRvRlZjcGtidEVMUHpsbjhmTnl3cGdpdkstazliN3NneEllMDkwWHg2UkduWlFZVzNRMUhmdGNLMGtzQ2EtTDNLU2c?oc=5",
+      "source": "FinanceFeeds",
+      "published": "10-18 23:20",
+      "published_iso": "2026-10-18T14:20:54+00:00",
       "age": "6일 전"
     },
     {
@@ -999,6 +989,16 @@
       "source": "글로벌뉴스통신GNA",
       "published": "10-18 10:45",
       "published_iso": "2026-10-18T01:45:02+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "캐터필러(CAT)의 10억 달러 규모 확장 계획 발표 이후, 이 회사의 주가는 저평가된 것일까? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUWNOeExCRUNGaHFqdTZEYnc2YkZTOThFcXV1ci1peUlmWURmMEdEUF9WdzRiY2M0ZUxlQ0FCbjVpSmtFdVc2TVV1dkVsWHZHZ29mbUJ2LW15M19ZOXp0QkxKUW01LVc4d2E1WjR3TmozaFd1RVE3ajVHS3lwQ1pnME9VRFkydW8weHFMVm5qdFkzbzBYeXfSAZsBQVVfeXFMTjFiM24zV1M0b3gyUGJZUkFjVVE0R1dNaTctWUgwaGpiMjlkRE0xR2VOQUR5X3NCcGNGWm9Na3JESVpKVjFZejMweTdZeFg5TGdTVUtKRjU3TUJVaVV0UUZ2UjQwbUxzcVhodU9MMk04ZC1nT195VkQyQ1ZFX3R4VmZKNnZWMTVMcDJORTZScERnbjk2N09sVDdkQk0?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-18 10:24",
+      "published_iso": "2026-10-18T01:24:55+00:00",
       "age": "6일 전"
     }
   ]
