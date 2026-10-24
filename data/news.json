@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-24 15:37 KST",
+  "updated_at": "2026-10-24 16:37 KST",
   "items": [
+    {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "픽스AI·제타 손잡았다… 자캐 공동 창작 콘테스트 2026 개최 - 뉴스N연합",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1bXBGWFFxTHp0bTdRNEtSZ25KeTVzbGFEYnlKbkxMN3dlQVBFODZVVnExVm9yM1JCWGd5TEh3Sk1TUWJMam9xWFp3?oc=5",
+      "source": "뉴스N연합",
+      "published": "10-24 15:48",
+      "published_iso": "2026-10-24T06:48:20+00:00",
+      "age": "48분 전"
+    },
     {
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
@@ -9,7 +19,7 @@
       "source": "TIKR.com",
       "published": "10-24 14:26",
       "published_iso": "2026-10-24T05:26:15+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "NVDA",
@@ -19,7 +29,7 @@
       "source": "TradingKey",
       "published": "10-24 08:33",
       "published_iso": "2026-10-23T23:33:56+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "379800",
@@ -29,7 +39,7 @@
       "source": "신아일보",
       "published": "10-24 08:00",
       "published_iso": "2026-10-23T23:00:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "379810",
@@ -39,7 +49,7 @@
       "source": "신아일보",
       "published": "10-24 08:00",
       "published_iso": "2026-10-23T23:00:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "ZETA",
@@ -49,7 +59,17 @@
       "source": "데이터투자",
       "published": "10-24 06:08",
       "published_iso": "2026-10-23T21:08:45+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "코스트코 홀세일(COST), 투자자들이 지금 다시 보는 이유는? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWEtQk9LZWNWUzZiLW5BTVoxdVpqUk5xRXA3OG93YzFSZU9zcnVHQVJmQkoyU05qaDlTdW85QzJtUmVtMlBiUFpSZlVLWnY5eG9LSnktZjk1eFhWUnlVVUNTbWZhZGkyb3FzWnMxNFVvRlpvZkcxU2J3UVd5VDVCOTFqUEVTYU5nZjd5OXdKWFpDSTlGdjdnODRIYXA0QlpJMUVULWltZmxrR0NQ0gGsAUFVX3lxTE5BYS1CT0tlY1ZTNmItbkFNWjF1WmpSTnFFcDc4b3djMVJlT3NydUdBUmZCSjJTTmpoOVN1bzlDMm1SZW0yUGJQWlJmVUtadjl4b0tKeS1mOTV4WFZSeVVVQ1NtZmFkaTJvcXNaczE0VW9GWm9mRzFTYndRV3lUNUI5MWpQRVNhTmdmN3k5d0pYWkNJOUZ2N2c4NEhhcDRCWkkxRVQtaW1mbGtHQ1A?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-23 22:55",
+      "published_iso": "2026-10-23T13:55:40+00:00",
+      "age": "17시간 전"
     },
     {
       "ticker": "490490",
@@ -59,7 +79,7 @@
       "source": "서울경제",
       "published": "10-23 17:53",
       "published_iso": "2026-10-23T08:53:54+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "487230",
@@ -69,7 +89,7 @@
       "source": "뉴스핌",
       "published": "10-23 16:10",
       "published_iso": "2026-10-23T07:10:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "QQQM",
@@ -79,17 +99,7 @@
       "source": "매일경제",
       "published": "10-23 16:05",
       "published_iso": "2026-10-23T07:05:09+00:00",
-      "age": "23시간 전"
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "코스트코(COST) 주가는 실적에 비추어 볼 때 이미 완벽한 수준에 도달했을 수 있다 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGxDOFIyUUFLNUw2REh6WXlFaDVwYWtibEhuSk45NXNvdVh1d1A2RG5BSE1feWctRmRXWC1tUDM5UThmQUFqV3RIV0ZCcDJvUnNOSGNveGU0OG14aXhJb3laRTVLNlpQR2dEbWp6UDhvOF80NW85dFRjb3ZTQUZoa3MwNDBLMUNLT1prSFdlMUp5Rk9wT3JCUHpqWmNxLTZGZFpkRGt5MlZ2U1dy0gGsAUFVX3lxTE1sbEM4UjJRQUs1TDZESHpZeUVoNXBha2JsSG5KTjk1c291WHV3UDZEbkFITV95Zy1GZFdYLW1QMzlROGZBQWpXdEhXRkJwMm9Sc05IY294ZTQ4bXhpeElveVpFNUs2WlBHZ0RtanpQOG84XzQ1bzl0VGNvdlNBRmhrczA0MEsxQ0tPWmtIV2UxSnlGT3BPckJQempaY3EtNkZkWmREa3kyVnZTV3I?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-23 15:52",
-      "published_iso": "2026-10-23T06:52:13+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "ZETA",
@@ -99,7 +109,7 @@
       "source": "뉴스와이어",
       "published": "10-23 15:50",
       "published_iso": "2026-10-23T06:50:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "487230",
@@ -252,16 +262,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "Caterpillar Just Dropped 10% in a Month. Is It Time to Sell, or Load Up? - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNEp6eFVNZUZSZFNGcGtaOVB5VXlkRGhGTDRnY2pNNnVqS3hrZjBad3lrRXdUbWlmc2lHNDZ0a01TS2taTl9YT1RsdjRIZ09BYXM0WE5tajBGWmRyeWtvVWxnNUpWdXRvcU9KSHpRZGo0Z1N6MXdlNWFUQlJYNS1lVHZhVFZoRHJUUzBIT3plN3JWcm1hQzdMVktJUU1adVMyV0RJNjhXaDl6T0pibkNZ?oc=5",
-      "source": "TIKR.com",
-      "published": "10-22 16:00",
-      "published_iso": "2026-10-22T07:00:00+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
       "title": "美 반도체·韓 증시 '3배 베팅'⋯서학개미 '저가 매수' 승부수 - 아이뉴스24",
@@ -314,8 +314,8 @@
     {
       "ticker": "005380",
       "name": "현대자동차",
-      "title": "현대차그룹, 신규 사회공헌 사업 HMG 미래 모빌리티 테크 캠퍼스 전개 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTXNCRHE2SW12aTlUX0w1SUZldG44Vk9VQWE0OEdENjVQM3E3eVBZd09KR0ZVajlYZGFBNDI3YktRSmxhTjUzYmhUV3NfZ2ZQVXNVVmk4dFRSd21KTTdUbFdCaF9sZndJWk9ZV2VzMnlqelNKWEZQOVVoQUhSLUJ4andna1NBYTF3WXBCaHY2bHlfeGM?oc=5",
+      "title": "현대자동차, 인도네시아 교육 접근성 개선 위한 ‘현대 유니버설 솔루션’ 전개 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTzdOQjREVHlpSUh6WERJR3pNVG9DYXNXZDdMSzVxV2RVYUlaR19ST2ZHNEpjZHZhcVBBLVhPWVJtVmdLblZId3pqdUJIUFM4MzZHeGJBNmZlSXJlczJDSUJiVUZ5ZkZ6eEZYbjEtdlNWRWh3YzlXNGNpeDVpalZkZjZlN2lIU0V1OEhUM1NHZzBzSk41SzVLazN1RzNSNTVzU1NPU243WlZoNFJWVEdST3I5akx1NHM?oc=5",
       "source": "Hyundai Motor Group",
       "published": "10-22 08:30",
       "published_iso": "2026-10-21T23:30:00+00:00",
@@ -339,16 +339,6 @@
       "source": "TradingKey",
       "published": "10-22 02:16",
       "published_iso": "2026-10-21T17:16:10+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "PDD Holdings Inc (PDD) 주식 움직였습니다 하락 3.54%에 10월21일: 핵심 원인 공개 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3dxOVlFc01kVmJJaWRMVzl3TGU5dUVYR2x4QjUxWmpSNlhvM3l5WlhwUjZVazBWQlVHTllJMXJ6eGpmN1RwUFprU3IwREViYlV4dUtHS2ZHY0ViTDlaQkxXbnkzNmd6M2F3bVFkSnNudUZaX0NXNDhtVXZWNWpWbUZNQjdidzR4d1FtZ0Nn?oc=5",
-      "source": "TradingKey",
-      "published": "10-22 01:16",
-      "published_iso": "2026-10-21T16:16:16+00:00",
       "age": "2일 전"
     },
     {
@@ -429,7 +419,7 @@
       "source": "대한경제",
       "published": "10-21 16:19",
       "published_iso": "2026-10-21T07:19:03+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "379800",
@@ -492,6 +482,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "반도체주, 2조 달러 증발...월가는 \"매수 기회 vs 정점\" 대립 - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zd2pJdjE1aXc3MFR0NzdMRDFmeGlhb29HQkswcDNrWTl0QjM4MWQtSDZQSEtNOFN5a2w5WDRiNktRTTN2a0NjRw?oc=5",
+      "source": "코인리더스",
+      "published": "10-21 00:00",
+      "published_iso": "2026-10-20T15:00:00+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "005930",
       "name": "삼성전자",
       "title": "삼성전자가 디자인으로 말하는 사랑 - 아이즈매거진 | eyesmag",
@@ -529,7 +529,7 @@
       "source": "코인리더스",
       "published": "10-20 16:35",
       "published_iso": "2026-10-20T07:35:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "VOO",
@@ -539,7 +539,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 16:15",
       "published_iso": "2026-10-20T07:15:01+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "0072R0",
@@ -559,16 +559,6 @@
       "source": "인사이트코리아",
       "published": "10-20 13:00",
       "published_iso": "2026-10-20T04:00:00+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "458730",
-      "name": "TIGER 미국배당다우존스",
-      "title": "미래에셋운용, TIGER 미국배당다우존스 순자산 4.3조…커버드콜로 월중·월말 분배 - 소셜밸류",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uUlNMTXhMbXNhRnRabmZ3aGdHSEY5b3R2SWh0bFkwLWY3b1hmaEwxZV9YUDlZYWNOcUI1R1o3UjBqY2FlSDAtbnMwaTlNNjNvZDZaRFp2VVQyX0kxU3o0eU9Bem1xRW1xN2g2UtIBbEFVX3lxTE9uUlNMTXhMbXNhRnRabmZ3aGdHSEY5b3R2SWh0bFkwLWY3b1hmaEwxZV9YUDlZYWNOcUI1R1o3UjBqY2FlSDAtbnMwaTlNNjNvZDZaRFp2VVQyX0kxU3o0eU9Bem1xRW1xN2g2Ug?oc=5",
-      "source": "소셜밸류",
-      "published": "10-20 11:01",
-      "published_iso": "2026-10-20T02:01:38+00:00",
       "age": "4일 전"
     },
     {
@@ -599,6 +589,16 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 09:36",
       "published_iso": "2026-10-20T00:36:07+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
+      "title": "미래에셋운용, 월중·월말 분배형 커버드콜 ETF 운용 - 비욘드포스트",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lOWkycWFKZDkwU1phYnlyNlN3eDVWa2hTU1kwT0xvMFhmM3Y5WEMybWhqMGVwcEl0OHpwamd2djhCWDNpQl9SMHNBVEZaa19zLVBUeWV2b3JrSUpPYmF2ZE5UWkxJdnZ3NVc2VndPVnhyV1BPbmxHUHJqMA?oc=5",
+      "source": "비욘드포스트",
+      "published": "10-20 09:32",
+      "published_iso": "2026-10-20T00:32:06+00:00",
       "age": "4일 전"
     },
     {
@@ -729,7 +729,7 @@
       "source": "매일경제",
       "published": "10-19 16:01",
       "published_iso": "2026-10-19T07:01:10+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "489250",
@@ -739,7 +739,7 @@
       "source": "한국경제",
       "published": "10-19 15:49",
       "published_iso": "2026-10-19T06:49:12+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "489250",
@@ -854,7 +854,7 @@
     {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
-      "title": "[ETF 언박싱] 삼성운용, 미국배당다우존스 라인업 확대…액티브로 차별화 : 네이버 블로그 - 블로그",
+      "title": "[ETF 언박싱] 삼성운용, 미국배당다우존스 라인업 확대…액티브로 차별화 - 블로그",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iVmxTM3o0alpYN0dpWk1ncFptZDJ3bGJTanJ6LTBkS3YwRk4zXzc0QWk2blVoSnJlbTR6WmpaU2tCckxPZE1WenJmREFaYzBBM1FnVVhtdFFKUQ?oc=5",
       "source": "블로그",
       "published": "10-19 09:49",
@@ -865,10 +865,10 @@
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
       "title": "증시 급변동에 ETF 1위 경쟁 가열…KODEX·TIGER 엎치락뒤치락 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03eWV0YW9wR19ibkN3dXNvaV9oUkthbm5Bb0FGSWtyR3I1TXlaQ1E0RGlhX2c0XzR1cGF3T0gzVFJ1V1Y2Tk9DRHVpOGVoRmVJZXItTGhiczYycGZqcjg4d1hB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04bTZNTE5hSXhpcXFlTWQ4MUdsV1NCSVVUeTBGNXRsemtxTEhpVlgzdW5HS3MtYXlfRy1tajZieU9KRGxILUxaQ1NBUXo0Y1gwc2U0WVVSek9HN3pwc19pcjZB?oc=5",
       "source": "아시아경제",
       "published": "10-19 09:03",
-      "published_iso": "2026-10-19T00:03:00+00:00",
+      "published_iso": "2026-10-19T00:03:04+00:00",
       "age": "5일 전"
     },
     {
