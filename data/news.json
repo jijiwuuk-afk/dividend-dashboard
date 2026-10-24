@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 18:32 KST",
+  "updated_at": "2026-10-24 19:31 KST",
   "items": [
     {
       "ticker": "ZETA",
@@ -9,7 +9,7 @@
       "source": "뉴스N연합",
       "published": "10-24 15:48",
       "published_iso": "2026-10-24T06:48:20+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "GEV",
@@ -19,7 +19,7 @@
       "source": "TIKR.com",
       "published": "10-24 14:26",
       "published_iso": "2026-10-24T05:26:15+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "NVDA",
@@ -29,7 +29,7 @@
       "source": "TradingKey",
       "published": "10-24 08:33",
       "published_iso": "2026-10-23T23:33:56+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "379800",
@@ -39,7 +39,7 @@
       "source": "신아일보",
       "published": "10-24 08:00",
       "published_iso": "2026-10-23T23:00:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "379810",
@@ -49,7 +49,7 @@
       "source": "신아일보",
       "published": "10-24 08:00",
       "published_iso": "2026-10-23T23:00:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "ZETA",
@@ -59,7 +59,7 @@
       "source": "데이터투자",
       "published": "10-24 06:08",
       "published_iso": "2026-10-23T21:08:45+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "COST",
@@ -69,7 +69,7 @@
       "source": "Simply Wall Street",
       "published": "10-23 22:55",
       "published_iso": "2026-10-23T13:55:40+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "490490",
@@ -99,6 +99,16 @@
       "source": "매일경제",
       "published": "10-23 16:05",
       "published_iso": "2026-10-23T07:05:09+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "픽스AI·제타 맞손… AI 캐릭터·이미지 생성부터 세계관·대화까지 잇는다 - 뉴스와이어",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwVVVESUlwM1hRNUtYalhQQjBrRHpKSi1oVk0zVGFzRUNZcFRDSFdsRExYUFVReTZoeXdldjRvNGpjZHliVGJ0bVdHSEFkS1VWU003cERmY2dFdmdXVGxR?oc=5",
+      "source": "뉴스와이어",
+      "published": "10-23 15:50",
+      "published_iso": "2026-10-23T06:50:00+00:00",
       "age": "1일 전"
     },
     {
@@ -252,6 +262,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "Caterpillar Just Dropped 10% in a Month. Is It Time to Sell, or Load Up? - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNEp6eFVNZUZSZFNGcGtaOVB5VXlkRGhGTDRnY2pNNnVqS3hrZjBad3lrRXdUbWlmc2lHNDZ0a01TS2taTl9YT1RsdjRIZ09BYXM0WE5tajBGWmRyeWtvVWxnNUpWdXRvcU9KSHpRZGo0Z1N6MXdlNWFUQlJYNS1lVHZhVFZoRHJUUzBIT3plN3JWcm1hQzdMVktJUU1adVMyV0RJNjhXaDl6T0pibkNZ?oc=5",
+      "source": "TIKR.com",
+      "published": "10-22 16:00",
+      "published_iso": "2026-10-22T07:00:00+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
       "title": "美 반도체·韓 증시 '3배 베팅'⋯서학개미 '저가 매수' 승부수 - 아이뉴스24",
@@ -265,7 +285,7 @@
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "title": "엔비디아(NVDA), 아직도 투자자들이 '저평가'...젠슨 황이 GTC서 꺼낸 승부수는? - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5Rc2k5S2FDbjlYLS1vMkZ6NVMtYTFMQk91WXRVQlhiMDZIMk9qWHZMOURZRTlCb2V6TVFNcmVDRFdyd1kw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KUDdYUzBNdE53Yl9oc0dPZkw2Mno4cEV6LVRnajRTdG1EZ2JUR0JuOXIyRVNWbmd1SXlxMUt0bWNrbk5FUkZXZW93?oc=5",
       "source": "코인리더스",
       "published": "10-22 14:15",
       "published_iso": "2026-10-22T05:15:00+00:00",
@@ -362,16 +382,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "title": "Tesla Inc (TSLA) 주식 움직였습니다 상승 3.33%에 10월21일: 어떤 신호인가요? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkdkRUNrZFo3V0ltNl84VWJvZkJTOWZ3dnNZWE5ZazhBSGVldW9ZZ0FLZEtacG42b000d09Cb2JYaVZJMmcwUE9RVW9qWFUxSl9vbE9GV2hpMW9tOE91blpOVXJtbWhXdmx1SHBCMElKREI1Q0lhSkV2cUZiNHYwSl9mS2l2ZS1uZkJ5d21LYw?oc=5",
-      "source": "TradingKey",
-      "published": "10-21 23:16",
-      "published_iso": "2026-10-21T14:16:11+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
       "title": "Ge Vernova Inc (GEV) 주식 시작했습니다 상승 4.05%에 10월21일: 핵심 원인 공개 - TradingKey",
@@ -422,6 +432,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "title": "TSLA|Tesla Inc|가격:372.220|Chg%:-2.360 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NejRFLXBoaWM0dVVjMkJnTHdQVDVMVzgwSV9KMlBnSUhlY1dreURTVDZqUl8xOGdOWUlnZ0Z3dzVjZXJMVGI0dDhKbUFMREZubWxEdHRJZmRHbmwzMVE?oc=5",
+      "source": "TradingKey",
+      "published": "10-21 16:00",
+      "published_iso": "2026-10-21T07:00:00+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
       "title": "국내 최대 ETF 순위 바뀜이 의미하는 것 - 스트레이트뉴스",
@@ -452,6 +472,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "인텔(INTC.O), AI 추론용 GPU 공개...'저전력 D램'으로 HBM 대체 노린다 - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BY0I4clUzRHpxZFEwSmN4ZTU2c00wTnpWNzc4ZTZJVjZlMWdRODNTLXl1R1lVOUkwZGplazZLRHZkN0hrNmZocWVCTjlCLTJmYXlsMmcwME8tYXNYZG9WTVBST3NFY3VmUFNDRmZn?oc=5",
+      "source": "알파경제",
+      "published": "10-21 07:41",
+      "published_iso": "2026-10-20T22:41:45+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "005930",
       "name": "삼성전자",
       "title": "Samsung Electronics Postpones DX Division Town Hall Amid Growing Labor Tensions - 알파경제",
@@ -469,16 +499,6 @@
       "source": "www.tmgm.com",
       "published": "10-21 00:58",
       "published_iso": "2026-10-20T15:58:19+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "반도체주, 2조 달러 증발...월가는 \"매수 기회 vs 정점\" 대립 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zd2pJdjE1aXc3MFR0NzdMRDFmeGlhb29HQkswcDNrWTl0QjM4MWQtSDZQSEtNOFN5a2w5WDRiNktRTTN2a0NjRw?oc=5",
-      "source": "코인리더스",
-      "published": "10-21 00:00",
-      "published_iso": "2026-10-20T15:00:00+00:00",
       "age": "3일 전"
     },
     {
@@ -637,16 +657,6 @@
       "title": "현대차·기아, 레벨 4 자율주행 대형트럭 실증 추진 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbU5TZVhNdmxSWm85VzQ5ZXVoM3VmbC1GTHJ3MDJ6N1JjSVYtbVBRSTd5U1VqS1BFQ05aMjUxNVRPQl9xYnY0eHRPUU5fVGRLcTRYNF96NGxHYXBRME9tVzh2UEF5c3JzSnBtQ2dwY3hHTDVDYlA2NHFXTWx0U2pPMFl4eWtub1EzV01LZjJ3d3VkdDY1SjNQYlRpdGl1aEZ1N2lTN0h4YXZqMWFVY2NBRnhn?oc=5",
       "source": "Hyundai Motor Group",
-      "published": "10-20 08:30",
-      "published_iso": "2026-10-19T23:30:00+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "[월가 콜] 분석 개시·의견 재확인...인텔·아마존·AMD(10/19) - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMZnVBUWJPRlBLNHIyTEhGMjkxb2EydlhyNzZwOGo4cjViWTYzU25fLXdtU3V5eXNvVjk3UE44ZlFubG9aWkNnblRkZWxyYW1qNmU4bU82ZmJvWl9f?oc=5",
-      "source": "뉴스핌",
       "published": "10-20 08:30",
       "published_iso": "2026-10-19T23:30:00+00:00",
       "age": "4일 전"
@@ -895,10 +905,10 @@
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
       "title": "증시 급변동에 ETF 1위 경쟁 가열…KODEX·TIGER 엎치락뒤치락 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03eWV0YW9wR19ibkN3dXNvaV9oUkthbm5Bb0FGSWtyR3I1TXlaQ1E0RGlhX2c0XzR1cGF3T0gzVFJ1V1Y2Tk9DRHVpOGVoRmVJZXItTGhiczYycGZqcjg4d1hB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04bTZNTE5hSXhpcXFlTWQ4MUdsV1NCSVVUeTBGNXRsemtxTEhpVlgzdW5HS3MtYXlfRy1tajZieU9KRGxILUxaQ1NBUXo0Y1gwc2U0WVVSek9HN3pwc19pcjZB?oc=5",
       "source": "아시아경제",
       "published": "10-19 09:03",
-      "published_iso": "2026-10-19T00:03:00+00:00",
+      "published_iso": "2026-10-19T00:03:04+00:00",
       "age": "5일 전"
     },
     {
@@ -970,16 +980,6 @@
       "published": "10-18 21:13",
       "published_iso": "2026-10-18T12:13:28+00:00",
       "age": "5일 전"
-    },
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "롯데마트 제타, 10월 ‘월간제타’ 진행 - 글로벌뉴스통신GNA",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByTzhPbkJ1bmVRbkNFN1pTZFBjME9saERLNG1qMUg4aXl5bmh3UkxLQXZRVkpHOFVEV0FIZDVjQWhzel9BWGw1Slo5MnFOS2JxTFJZRG56Y1A1TTJHbWUzTUhrdjVqUWpPQUxBZ0VUSGFQbmhw?oc=5",
-      "source": "글로벌뉴스통신GNA",
-      "published": "10-18 10:45",
-      "published_iso": "2026-10-18T01:45:02+00:00",
-      "age": "6일 전"
     },
     {
       "ticker": "CAT",
