@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 01:31 KST",
+  "updated_at": "2026-10-25 02:30 KST",
   "items": [
     {
       "ticker": "ZETA",
@@ -9,7 +9,7 @@
       "source": "뉴스N연합",
       "published": "10-24 15:48",
       "published_iso": "2026-10-24T06:48:08+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "GEV",
@@ -19,7 +19,7 @@
       "source": "TIKR.com",
       "published": "10-24 14:26",
       "published_iso": "2026-10-24T05:26:15+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "NVDA",
@@ -27,9 +27,9 @@
       "title": "NVDA|NVIDIA Corp|가격:210.960|Chg%:-1.250 - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXTkFCZkJobDNPc1Z3bG5WZVY2VlZjX2RqTGE3eTNBMEYzOHNVcUlBbWpNWmdLQ2pVdWJKam0zRnp1MWhPZjhjaVlXelN5RHdQWHFneVA5cHRzazJYU1E?oc=5",
       "source": "TradingKey",
-      "published": "10-24 08:33",
-      "published_iso": "2026-10-23T23:33:56+00:00",
-      "age": "16시간 전"
+      "published": "10-24 08:34",
+      "published_iso": "2026-10-23T23:34:17+00:00",
+      "age": "17시간 전"
     },
     {
       "ticker": "379800",
@@ -39,7 +39,7 @@
       "source": "신아일보",
       "published": "10-24 08:00",
       "published_iso": "2026-10-23T23:00:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "379810",
@@ -49,7 +49,7 @@
       "source": "신아일보",
       "published": "10-24 08:00",
       "published_iso": "2026-10-23T23:00:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "ZETA",
@@ -59,7 +59,17 @@
       "source": "데이터투자",
       "published": "10-24 06:08",
       "published_iso": "2026-10-23T21:08:45+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "Home Depot Inc (HD) 주식 움직였습니다 하락 3.01%에 10월23일: 어떤 신호인가요? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGgyM09YRWtvVy1FN0ctNEZDM0VlNTM2aXA3dFltMGtQaFMwREM0ak1pY2JZeEVPdHVOdkdyeUxhdEF2WVlEYUh4NGJpWTlSeTBtbEkzV2l1Q1dacU9OWUdvZHdMdjlMNkdyU0pBc1VZNUxYX2Q3cXRBQm9UV3cxMUpiWktURW9pTjFLNQ?oc=5",
+      "source": "TradingKey",
+      "published": "10-24 02:16",
+      "published_iso": "2026-10-23T17:16:03+00:00",
+      "age": "1일 전"
     },
     {
       "ticker": "COST",
@@ -69,6 +79,16 @@
       "source": "Simply Wall Street",
       "published": "10-23 22:55",
       "published_iso": "2026-10-23T13:55:40+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "MOIN Secures Multiple Payment Patents from Samsung Electronics… Strengthening Integrated Online and Offline Payment Technology - 벤처스퀘어",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93SS1YSXhxRTNCM19iUnNId2g0Q2hWTTE3TVUwaDhBZURMNHFIUmdJZUJRbElsRXNlTU5mX3I5YXhGU0U1Ym44T2VZeGxaU1QxVm0w?oc=5",
+      "source": "벤처스퀘어",
+      "published": "10-23 22:44",
+      "published_iso": "2026-10-23T13:44:39+00:00",
       "age": "1일 전"
     },
     {
@@ -172,6 +192,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "TSMC Explores Rare Earth Alternatives To Protect Chip Production From China Controls - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3pQM2x3RUJfM084VW1KLTRoX3huLTM0T0xTV0lOQ0pycDR2Wk9NUnY1WDBsdndIbTBUZml2NGRoOEdBUnZoN1phQlFlWWtBV0xDMlVOOEx6Y0RCQjdXc29fc2lnMTR2N1JNNGp4SDV6V0dZMEM2REprY1hqRXBDVFR6U2JYQzZ4MDgyNEJMZ3pmek1FNzJhRmpwZC16YktOSktmU0FwQmJnTkVjS3pOdw?oc=5",
+      "source": "TIKR.com",
+      "published": "10-23 03:33",
+      "published_iso": "2026-10-22T18:33:45+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
       "title": "Alphabet Inc Class C (GOOG) 주식 움직였습니다 하락 3.02%에 10월22일: 변동을 뒷받침하는 사실 - TradingKey",
@@ -189,7 +219,7 @@
       "source": "TradingKey",
       "published": "10-23 02:16",
       "published_iso": "2026-10-22T17:16:29+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "SNDK",
@@ -342,16 +372,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "현대차그룹, 신규 사회공헌 사업 HMG 미래 모빌리티 테크 캠퍼스 전개 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTXNCRHE2SW12aTlUX0w1SUZldG44Vk9VQWE0OEdENjVQM3E3eVBZd09KR0ZVajlYZGFBNDI3YktRSmxhTjUzYmhUV3NfZ2ZQVXNVVmk4dFRSd21KTTdUbFdCaF9sZndJWk9ZV2VzMnlqelNKWEZQOVVoQUhSLUJ4andna1NBYTF3WXBCaHY2bHlfeGM?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-22 08:30",
-      "published_iso": "2026-10-21T23:30:00+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
       "title": "Cloudflare Inc (NET) 주식 움직였습니다 상승 6.86%에 10월21일: 투자자가 알아야 할 정보 - TradingKey",
@@ -359,7 +379,7 @@
       "source": "TradingKey",
       "published": "10-22 02:16",
       "published_iso": "2026-10-21T17:16:16+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "AMD",
@@ -369,7 +389,7 @@
       "source": "TradingKey",
       "published": "10-22 02:16",
       "published_iso": "2026-10-21T17:16:10+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "TSM",
@@ -589,16 +609,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 13:42",
       "published_iso": "2026-10-20T04:42:22+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "005930",
-      "name": "삼성전자",
-      "title": "Samsung Electronics and TSMC Set for First HBM Manufacturing Collaboration - 인사이트코리아",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRTGwxVDJLMXFLdW54a2lXdzdEM2M2MXRUaElJLUhBV1Q1bmtDQlpLZlFheEduMndYb3lfN3VvZ09NbmtzYy1ieVBLQ1FzOG9JZmRYTjRfUzRiOEJRdjB2bm55Nlc0VFlDUEFYR2hfODEwVzDSAXdBVV95cUxPN2ZoM0V2bDdNNUQ0M0pqd2tQYkZiRy1wdnlxanRkZFhvMXlLMkhvVGVhMHRtUEpOaXR0U040Qkt0c3IwdmU4OG1UQ3gyVHlrX3ZIdFZvUE9FZ3dWUWdOak54Z1M1Z0JPOTFRSjViWFpWeXctVGZndw?oc=5",
-      "source": "인사이트코리아",
-      "published": "10-20 13:00",
-      "published_iso": "2026-10-20T04:00:00+00:00",
       "age": "4일 전"
     },
     {
@@ -932,13 +942,13 @@
       "age": "5일 전"
     },
     {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "주간 전망: 워싱턴 미·중 정상회담, 코스트코 실적, 연준 금리 경로에 주목 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVEhIak1rRnBGSWZERXZndHlvaHUzZFduQkkxYXlCOTRZSi1jUzlLSk5KZGxvNW93cmFmdVBka0JTRjE4d0dIMEx6RlQ5QXRmTHRYUVlqNVZmZC1pYzdlajhqOVBWTVZfR0NGcFAtbVZRdnBhMXRQcktVOVROXzAwMmU3TnJvY1htMWJjdGhpWXpZYXJpTm5SSWpuU01Ec0pEeXQxaVlrZUFQQW5tN1JCTFp0U2hXMHlmWURTMFVwMFo1bUFHM3kyN3gyU29BTnk4c1dOUw?oc=5",
-      "source": "TradingKey",
-      "published": "10-19 08:54",
-      "published_iso": "2026-10-18T23:54:38+00:00",
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대자동차, ‘2026 현대 모빌리티 플레이그라운드 시즌 2’ 성료 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTZmSjByeEhLSWJGLUdUSng1a2ZqZWxJel8zN3RveUxSYWl3d09FRDVBZHJ1bU91N0dtMkR3emg4b3RMMFpwOHEwSE9UZGZEZWZHZGZTLUNYX1ZuajlObEVrUzFpTzFnVGhiM25mU01nMEI3b2V4RV9pUUhrR0ZlajF0N1E1SzhrWllOOV95MHdPUXlYc2c0TVM2cm1GQQ?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-19 08:30",
+      "published_iso": "2026-10-18T23:30:00+00:00",
       "age": "5일 전"
     },
     {
@@ -962,13 +972,13 @@
       "age": "5일 전"
     },
     {
-      "ticker": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
-      "title": "TSMC 9월 매출 전망: 3분기 가이던스의 6% 여유 - FinanceFeeds",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lMFk4Rm5GS2d4cGdfWVVqekdjRV9NdEh3aDNfSThOVkRvRlZjcGtidEVMUHpsbjhmTnl3cGdpdkstazliN3NneEllMDkwWHg2UkduWlFZVzNRMUhmdGNLMGtzQ2EtTDNLU2c?oc=5",
-      "source": "FinanceFeeds",
-      "published": "10-18 23:20",
-      "published_iso": "2026-10-18T14:20:54+00:00",
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "title": "슬롯 조디악 무료 의료인를 위한 알고리즘 설계 실전 기술 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fVFJqbEhSWWV6XzIyYW41dEtOU0l3Qjd3RDlzRHZveVhrbGsxVXI1akgtZHQ1TV9lMnNpckpCallENDdwNVBxS1NVWll4N2hxQ1M1NGhqMlR1ZGF1bnV6RzkzNEJkdGlmX0xrYTN3?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "10-18 22:34",
+      "published_iso": "2026-10-18T13:34:21+00:00",
       "age": "6일 전"
     },
     {
@@ -989,16 +999,6 @@
       "source": "글로벌뉴스통신GNA",
       "published": "10-18 10:45",
       "published_iso": "2026-10-18T01:45:02+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "캐터필러(CAT)의 10억 달러 규모 확장 계획 발표 이후, 이 회사의 주가는 저평가된 것일까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUWNOeExCRUNGaHFqdTZEYnc2YkZTOThFcXV1ci1peUlmWURmMEdEUF9WdzRiY2M0ZUxlQ0FCbjVpSmtFdVc2TVV1dkVsWHZHZ29mbUJ2LW15M19ZOXp0QkxKUW01LVc4d2E1WjR3TmozaFd1RVE3ajVHS3lwQ1pnME9VRFkydW8weHFMVm5qdFkzbzBYeXfSAZsBQVVfeXFMTjFiM24zV1M0b3gyUGJZUkFjVVE0R1dNaTctWUgwaGpiMjlkRE0xR2VOQUR5X3NCcGNGWm9Na3JESVpKVjFZejMweTdZeFg5TGdTVUtKRjU3TUJVaVV0UUZ2UjQwbUxzcVhodU9MMk04ZC1nT195VkQyQ1ZFX3R4VmZKNnZWMTVMcDJORTZScERnbjk2N09sVDdkQk0?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-18 10:24",
-      "published_iso": "2026-10-18T01:24:55+00:00",
       "age": "6일 전"
     }
   ]
