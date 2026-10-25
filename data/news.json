@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-25 10:33 KST",
+  "updated_at": "2026-10-25 11:33 KST",
   "items": [
+    {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
+      "title": "코스피 9000→5500 추락했지만…개미들, ETF 80조 순매수 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamlDbnllWFVpQXZseUNKeGFKbmxhUS1PWDJBcmhjSWptaTZsd01UTWhvRUtSVTkzbjlGR0JVTlFUTzRPMzI1VmxSMTQ1Z0YxSjRkLWpMakZ6N1hxb3JVLVdnU3lwQXZRRGJHdVJFSTFud0RYdEczUmpIQjl1VG1obkt2VVNFZDl40gGcAUFVX3lxTE5Fa3JmaXRKVUF0cFNTamtQaGhKUDF5ZkROMEtxVWtzQnJEd3V3bkF4U04xSERmQmpaTHJfMzRTQ1NwYmRTRFg1YmNCSUJzYlAxWW1aSi1DYkpyRE1veXd6Sjh5Q3JfdU8yaWZGeWx6aDhKWGtUQ1RKbEd6bl9oSWNvV1JBeGZGV2VUWmNmRXg3X2w2U3pEZFQ2X2tlcg?oc=5",
+      "source": "Chosunbiz",
+      "published": "10-25 10:46",
+      "published_iso": "2026-10-25T01:46:00+00:00",
+      "age": "47분 전"
+    },
+    {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "美국채 손실에 환차손까지... 환헤지에 갈린 ETF 성적 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjcmNQZXl1VWNVRC1nX2tSVzVUZG40QnNyUkpRVVBUVzlrMkljN0pqaUNTZUk5WTB5WFNDSlUxRmpBWUxLUG1GS04yOUJLcXNrVDUzOVpVSXI3bFdNRXQ3M1Juc3g?oc=5",
+      "source": "매일일보",
+      "published": "10-25 10:00",
+      "published_iso": "2026-10-25T01:00:00+00:00",
+      "age": "1시간 전"
+    },
     {
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
@@ -9,7 +29,7 @@
       "source": "뉴시스",
       "published": "10-25 06:00",
       "published_iso": "2026-10-24T21:00:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "GOOG",
@@ -19,7 +39,7 @@
       "source": "TradingKey",
       "published": "10-25 00:09",
       "published_iso": "2026-10-24T15:09:19+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "NVDA",
@@ -29,7 +49,7 @@
       "source": "TradingKey",
       "published": "10-24 21:12",
       "published_iso": "2026-10-24T12:12:03+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "368590",
@@ -39,7 +59,7 @@
       "source": "Mitrade",
       "published": "10-24 16:46",
       "published_iso": "2026-10-24T07:46:45+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "ZETA",
@@ -49,7 +69,7 @@
       "source": "얼리어답터뉴스",
       "published": "10-24 15:34",
       "published_iso": "2026-10-24T06:34:01+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "GEV",
@@ -59,7 +79,7 @@
       "source": "TIKR.com",
       "published": "10-24 14:26",
       "published_iso": "2026-10-24T05:26:15+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "379800",
@@ -412,16 +432,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "10월 ETF 수익률, 원유가 휩쓸었다...반도체 급락 속 에너지 ETF '역주행' - 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xeXEzZXZuZUM2aTV4M1Y5LTA0amUxOTRUamdITUtSZ3dUel9KTlktbTQza3M2b2d0MG15c0IyOVJmMVVZQ2NvaS1DT1ZNZWVCRm1uUUlIRmVvNVQ2TFZ3NkdISklBeFNRVk5pcktwMjVzU3PSAXdBVV95cUxOZmlHYkE2Yi1YNUZxcHFsT2tQdmFac1pDZzVidzRfVWxtb0prY0Jac25XRUVBSzBDamNaYUFDb2ZZNU5mbnhnSXhVMVNNVGtKNGIzRkQ4bEJDaEdVZ213T291Ri01dEhvZ0FDZHN0N1lOenZ3bGJZVQ?oc=5",
-      "source": "핀포인트뉴스",
-      "published": "10-21 21:29",
-      "published_iso": "2026-10-21T12:29:36+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "title": "Amkor Technology 주가, Nvidia 첨단 패키징 확장 소식에 8% 급등 - Investing.com 한국어",
@@ -629,7 +639,7 @@
       "source": "이데일리",
       "published": "10-20 10:53",
       "published_iso": "2026-10-20T01:53:28+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "458730",
@@ -889,7 +899,7 @@
       "source": "매일경제 마켓",
       "published": "10-19 11:12",
       "published_iso": "2026-10-19T02:12:59+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "005380",
@@ -949,16 +959,6 @@
       "source": "브릿지경제",
       "published": "10-19 09:07",
       "published_iso": "2026-10-19T00:07:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "증시 급변동에 ETF 1위 경쟁 가열…KODEX·TIGER 엎치락뒤치락 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04bTZNTE5hSXhpcXFlTWQ4MUdsV1NCSVVUeTBGNXRsemtxTEhpVlgzdW5HS3MtYXlfRy1tajZieU9KRGxILUxaQ1NBUXo0Y1gwc2U0WVVSek9HN3pwc19pcjZB?oc=5",
-      "source": "아시아경제",
-      "published": "10-19 09:03",
-      "published_iso": "2026-10-19T00:03:04+00:00",
       "age": "6일 전"
     },
     {
