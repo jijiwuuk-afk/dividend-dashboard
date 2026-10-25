@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 08:26 KST",
+  "updated_at": "2026-10-25 09:40 KST",
   "items": [
     {
       "ticker": "QQQM",
@@ -9,7 +9,7 @@
       "source": "뉴시스",
       "published": "10-25 06:00",
       "published_iso": "2026-10-24T21:00:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "CAT",
@@ -19,17 +19,7 @@
       "source": "Simply Wall Street",
       "published": "10-25 05:42",
       "published_iso": "2026-10-24T20:42:30+00:00",
-      "age": "2시간 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "주간 전망: ECB 금리 결정 임박; 알파벳(GOOGL), 테슬라(TSLA), 인텔(INTC) 실적 발표; 글로벌 PMI 예비치 발표 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMDhobDJ3Um1yVHIyVzl5TEYyTnR2X25wdFVmR3RJQ0xkOXZLUjZEbWRLMlNOeEZSSEV6aXNnQzdkWEhrX01WQl9SX2tYQmR5SFZKZlJLR1V6QlNaVERybUd6U09GRTdhek9KOGJjdVRJXzkwWllCZHlJMDA4Z0FTdzRJVzNadFRCWTA3YXctajFqMm9uMlhBaGpubDBsVDN2TXVYVkdPcXRBMDM5RS0wSWZFdUMxTUVFcHZNcWM0bVNVNDQyb1pMa1NvV0x0RVZs?oc=5",
-      "source": "TradingKey",
-      "published": "10-25 00:09",
-      "published_iso": "2026-10-24T15:09:19+00:00",
-      "age": "8시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "NVDA",
@@ -39,7 +29,7 @@
       "source": "TradingKey",
       "published": "10-24 21:12",
       "published_iso": "2026-10-24T12:12:03+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "368590",
@@ -49,7 +39,7 @@
       "source": "Mitrade",
       "published": "10-24 16:46",
       "published_iso": "2026-10-24T07:46:45+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "ZETA",
@@ -59,7 +49,7 @@
       "source": "얼리어답터뉴스",
       "published": "10-24 15:34",
       "published_iso": "2026-10-24T06:34:01+00:00",
-      "age": "16시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "GEV",
@@ -69,7 +59,7 @@
       "source": "TIKR.com",
       "published": "10-24 14:26",
       "published_iso": "2026-10-24T05:26:15+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "379800",
@@ -99,6 +89,16 @@
       "source": "데이터투자",
       "published": "10-24 06:08",
       "published_iso": "2026-10-23T21:08:45+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "Home Depot Inc (HD) 주식 움직였습니다 하락 3.01%에 10월23일: 어떤 신호인가요? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGgyM09YRWtvVy1FN0ctNEZDM0VlNTM2aXA3dFltMGtQaFMwREM0ak1pY2JZeEVPdHVOdkdyeUxhdEF2WVlEYUh4NGJpWTlSeTBtbEkzV2l1Q1dacU9OWUdvZHdMdjlMNkdyU0pBc1VZNUxYX2Q3cXRBQm9UV3cxMUpiWktURW9pTjFLNQ?oc=5",
+      "source": "TradingKey",
+      "published": "10-24 02:16",
+      "published_iso": "2026-10-23T17:16:03+00:00",
       "age": "1일 전"
     },
     {
@@ -209,7 +209,7 @@
       "source": "코인리더스",
       "published": "10-23 09:30",
       "published_iso": "2026-10-23T00:30:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "SCHD",
@@ -389,7 +389,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-22 08:30",
       "published_iso": "2026-10-21T23:30:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "005380",
@@ -399,7 +399,17 @@
       "source": "Hyundai Motor Group",
       "published": "10-22 08:30",
       "published_iso": "2026-10-21T23:30:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "Datadog Inc (DDOG) 주식 움직였습니다 상승 7.80%에 10월21일: 어떤 신호인가요? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHlmaWlGODlzRi1UTkR2NDNrVkpGdkJub0NOQkJLRDVXZVZULU11OVBTdTRPenExZVVWYmdvaE9WR2hJTHRMVGJLWXpHWU0tN3FpYnhrYlppNzdFZXlPS0FGakhma2NWemlabVBiTFR6VjE4VWhBQlVLelZwcXAzWjNFYy1JVEx3WmRLbmZNaw?oc=5",
+      "source": "TradingKey",
+      "published": "10-22 03:16",
+      "published_iso": "2026-10-21T18:16:14+00:00",
+      "age": "3일 전"
     },
     {
       "ticker": "AMD",
@@ -509,6 +519,16 @@
       "source": "Mezha.net",
       "published": "10-21 14:57",
       "published_iso": "2026-10-21T05:57:00+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "삼성자산운용, AI 전력 인프라·전고체배터리 성장성 주목…KODEX ETF 2376억 원 돌파 - 이코노미사이언스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FZ1dBTkF1YWxURElGRV9VRTg3YVlIczNxN01RYno3dDd2c201bVdNeTdBYS1OR1NYNlk0VHZQOHVSUWpUQXd6OFdqR2JXcUgwYmlCZU1uZjNaTnFTNVduYXl0ckhSeExKS2JXRFp3Yw?oc=5",
+      "source": "이코노미사이언스",
+      "published": "10-21 14:44",
+      "published_iso": "2026-10-21T05:44:48+00:00",
       "age": "3일 전"
     },
     {
@@ -639,7 +659,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 09:36",
       "published_iso": "2026-10-20T00:36:07+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "458730",
@@ -649,7 +669,7 @@
       "source": "비욘드포스트",
       "published": "10-20 09:32",
       "published_iso": "2026-10-20T00:32:06+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "0072R0",
@@ -659,7 +679,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 09:09",
       "published_iso": "2026-10-20T00:09:13+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "VOO",
@@ -669,7 +689,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 08:51",
       "published_iso": "2026-10-19T23:51:03+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "005380",
@@ -679,7 +699,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-20 08:30",
       "published_iso": "2026-10-19T23:30:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "379800",
@@ -922,16 +942,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "현대건설, 호주 오스넷·CIP와 협력 확대…전력망·신재생 사업 공략 - 인더뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQmdrLUJoMTFUYllzalQ3V2ROYlA0dlZsRE1Hb0xHdjlMZEZoZE8zdk5zeXpsZjFzM2ktQUd1cGc4WTk3OTVUaGllWk5yanozazIyT0lQNVFBeEkyVlE3aE5wT2I?oc=5",
-      "source": "인더뉴스",
-      "published": "10-19 09:19",
-      "published_iso": "2026-10-19T00:19:04+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
       "title": "삼성자산운용, ‘KODEX 미국배당다우존스액티브’ 출시…수시 종목 조정 - 브릿지경제",
@@ -939,17 +949,17 @@
       "source": "브릿지경제",
       "published": "10-19 09:07",
       "published_iso": "2026-10-19T00:07:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
       "title": "증시 급변동에 ETF 1위 경쟁 가열…KODEX·TIGER 엎치락뒤치락 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04bTZNTE5hSXhpcXFlTWQ4MUdsV1NCSVVUeTBGNXRsemtxTEhpVlgzdW5HS3MtYXlfRy1tajZieU9KRGxILUxaQ1NBUXo0Y1gwc2U0WVVSek9HN3pwc19pcjZB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03eWV0YW9wR19ibkN3dXNvaV9oUkthbm5Bb0FGSWtyR3I1TXlaQ1E0RGlhX2c0XzR1cGF3T0gzVFJ1V1Y2Tk9DRHVpOGVoRmVJZXItTGhiczYycGZqcjg4d1hB?oc=5",
       "source": "아시아경제",
       "published": "10-19 09:03",
-      "published_iso": "2026-10-19T00:03:04+00:00",
-      "age": "5일 전"
+      "published_iso": "2026-10-19T00:03:00+00:00",
+      "age": "6일 전"
     },
     {
       "ticker": "489250",
@@ -959,17 +969,7 @@
       "source": "연합뉴스",
       "published": "10-19 08:57",
       "published_iso": "2026-10-18T23:57:14+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "주간 전망: 워싱턴 미·중 정상회담, 코스트코 실적, 연준 금리 경로에 주목 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVEhIak1rRnBGSWZERXZndHlvaHUzZFduQkkxYXlCOTRZSi1jUzlLSk5KZGxvNW93cmFmdVBka0JTRjE4d0dIMEx6RlQ5QXRmTHRYUVlqNVZmZC1pYzdlajhqOVBWTVZfR0NGcFAtbVZRdnBhMXRQcktVOVROXzAwMmU3TnJvY1htMWJjdGhpWXpZYXJpTm5SSWpuU01Ec0pEeXQxaVlrZUFQQW5tN1JCTFp0U2hXMHlmWURTMFVwMFo1bUFHM3kyN3gyU29BTnk4c1dOUw?oc=5",
-      "source": "TradingKey",
-      "published": "10-19 08:54",
-      "published_iso": "2026-10-18T23:54:38+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "368590",
