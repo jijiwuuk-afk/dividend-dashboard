@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-25 14:32 KST",
+  "updated_at": "2026-10-25 15:38 KST",
   "items": [
+    {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "'배당 관심 높아지는데…' 분배금이 2배 높은 S&P500 ETF - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUZVkzd0RnRTFJRE8xVE92VjZ4RjNaSmhVelpJNE1yYmZVYklRVV9zWEZWQVg4UGZYMWpObHlmQS1yUjd4R3VscnZxQ2hJY09QSjlhSUlOcC1ZSGZIQTRReU9JY21RSENXc3lJd1l30gFuQVVfeXFMUFRlWTN3RGdFMUlETzFUT3ZWNnhGM1pKaFV6Wkk0TXJiZlViSVFVX3NYRlZBWDhQZlgxak5seWZBLXJSN3hHdWxydnFDaEljT1BKOWFJSU5wLVlIZkhBNFF5T0ljbVFIQ1dzeUl3WXc?oc=5",
+      "source": "머니투데이",
+      "published": "10-25 14:36",
+      "published_iso": "2026-10-25T05:36:13+00:00",
+      "age": "1시간 전"
+    },
+    {
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
+      "title": "'배당 관심 높아지는데…' 분배금이 2배 높은 S&P500 ETF - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GRlV6ejdBWFdiUlJpYjhGeVNWYkNud3VXRjBEdUpnVHExbGszVko0V1BFSzB2alZaMllmaFF1eEoxY2tRRUFmUkJVeHpmLTFfWmJLQmJseUVkUEQyWDVoNElhQlJlTDBDOTE1aDBlTHpXeUdHTnfSAXtBVV95cUxQVG9tTnlYODVvczM5dEYwV2k5aGF0eXZyaEpjVXNOYzB3QXNCQXZXUVRBZE56d1FPSjZlNjZGUVR1RnRoOEZvLU1Iem12aG41RFdmMXllSWp0dWVOTUphdW5Uc2F4MkJRVVF3ZGxfb2ZETDM1MWZHR0RzcjQ?oc=5",
+      "source": "머니투데이",
+      "published": "10-25 14:36",
+      "published_iso": "2026-10-25T05:36:13+00:00",
+      "age": "1시간 전"
+    },
     {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
@@ -9,7 +29,7 @@
       "source": "Chosunbiz",
       "published": "10-25 10:46",
       "published_iso": "2026-10-25T01:46:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "379780",
@@ -19,7 +39,7 @@
       "source": "매일일보",
       "published": "10-25 10:00",
       "published_iso": "2026-10-25T01:00:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "QQQM",
@@ -29,7 +49,7 @@
       "source": "뉴시스",
       "published": "10-25 06:00",
       "published_iso": "2026-10-24T21:00:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "NVDA",
@@ -39,7 +59,7 @@
       "source": "TradingKey",
       "published": "10-24 21:12",
       "published_iso": "2026-10-24T12:12:03+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "SNDK",
@@ -49,7 +69,7 @@
       "source": "FinanceFeeds",
       "published": "10-24 18:55",
       "published_iso": "2026-10-24T09:55:24+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "368590",
@@ -59,7 +79,7 @@
       "source": "Mitrade",
       "published": "10-24 16:46",
       "published_iso": "2026-10-24T07:46:45+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "ZETA",
@@ -69,7 +89,7 @@
       "source": "얼리어답터뉴스",
       "published": "10-24 15:34",
       "published_iso": "2026-10-24T06:34:01+00:00",
-      "age": "22시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "GEV",
@@ -182,16 +202,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "반도체냐 소프트웨어냐…AI ETF 선택법 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BWDNvWFc1WDdZSFNvQ0doLUltTV95YTBDeUVwenYyNzM3eTBxZHJnb3RkRmlRa0NEQm95cUdKMnRCdUxoX1BBNlBZQV9faDZ2SG1RZg?oc=5",
-      "source": "매일경제",
-      "published": "10-23 14:06",
-      "published_iso": "2026-10-23T05:06:57+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "테슬라(TSLA.N) 3분기 수익성 개선..내년부터 신사업 모멘텀 반영 전망 By 알파경제 alphabiz - Investing.com 한국어",
@@ -262,16 +272,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "AI 인프라 부문의 승리가 AMD 주가의 투자 스토리를 바꾼 것일까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdTliemlmYXFNTmVCVUVEbGJTc2k4U2FVN3ZpM1B3aXA3MHB0NVNiUVJ0WDgtNkJHZU1xVGc4dWxBMDU1a2Z5MThGV201dHlSdjFka0w1bElSb0lyUy1YRUJzSmhhaGphOGJLWmRlY2x5Z1F0dmV0Q0tkdDJVNFIxUkdhTDFrNUFzc0hZbVdfSkFiXzRWWlFKVEVrcGVLREw5dDlFdFBBX29mbkkxV1HSAa4BQVVfeXFMTnU5YnppZmFxTU5lQlVFRGxiU3NpOFNhVTd2aTNQd2lwNzBwdDVTYlFSdFg4LTZCR2VNcVRnOHVsQTA1NWtmeTE4RldtNXR5UnYxZGtMNWxJUm9JclMtWEVCc0poYWhqYThiS1pkZWNseWdRdHZldENLZHQyVTRSMVJHYUwxazVBc3NIWW1XX0pBYl80VlpRSlRFa3BlS0RMOXQ5RXRQQV9vZm5JMVdR?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-23 00:26",
-      "published_iso": "2026-10-22T15:26:19+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
       "title": "Taiwan Semiconductor Manufacturing Co Ltd (TSM) 주식 움직였습니다 하락 3.20%에 10월22일: 변동을 뒷받침하는 사실 - TradingKey",
@@ -322,16 +322,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "환헤지 ETF 사길 잘했네…수익률 10%P 더 높았다 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPMDg1ZzlUMlBDWTZrc1ZVQ2pZelNsbXBoZTVCS2d5OVFhQ09neW5KYTNOWlhYUHo0aG0yOVhLMVNHOHA0cThfSUl1SHExRXRiX0E?oc=5",
-      "source": "매일경제 마켓",
-      "published": "10-22 17:39",
-      "published_iso": "2026-10-22T08:39:43+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "SCHD",
       "name": "Schwab U.S. Dividend Equity ETF",
       "title": "[금리 리셋] ⑨ '금리가 올라도 배당은 자란다' 배당 컷 해법은 - ㊦ - 프리미엄콘텐츠",
@@ -369,7 +359,7 @@
       "source": "아이뉴스24",
       "published": "10-22 14:43",
       "published_iso": "2026-10-22T05:43:03+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "NVDA",
@@ -522,6 +512,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
+      "title": "국내 최대 ETF 순위 바뀜이 의미하는 것 - 스트레이트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2MnlmZC1sbnM3UHdDQ1RrYWVjMmQ5NGppdnlLc3V0bmRIUGxqN3BidkNBUjB0Qk01cXBlUHR0MVdqZXhldV9WbjlEX0gtWnFhekJrakc0dHBpSXIydktrdGVWdGQzNTlmU1lpZ0JGNVNDNEXSAXdBVV95cUxORW03eWg2aUkxM2wwT0VoSHcwQnRhc2gtbFlpX2ZpSnMxTWhUQUFNVS10RW5UY2tPYVBHZkp6ODd6eEk3bHVVRGZlSHp1N2JDSTA3T2NCQmR5a24ybmlnc3JxUUpfcktYNDA3VmpiSkh4S0NEZEhkVQ?oc=5",
+      "source": "스트레이트뉴스",
+      "published": "10-21 15:07",
+      "published_iso": "2026-10-21T06:07:59+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "000660",
       "name": "SK하이닉스",
       "title": "Samsung과 SK Hynix, 첨단 NAND 칩 생산 위해 중국 공장 업그레이드 계획 - Mezha.net",
@@ -529,7 +529,7 @@
       "source": "Mezha.net",
       "published": "10-21 14:57",
       "published_iso": "2026-10-21T05:57:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "487230",
@@ -539,7 +539,7 @@
       "source": "이코노미사이언스",
       "published": "10-21 14:44",
       "published_iso": "2026-10-21T05:44:48+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "GEV",
@@ -732,16 +732,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
-      "title": "ETF 순자산 1위 바뀌었다…TIGER 미국S&P500, KODEX200 추월 - ER 이코노믹리뷰",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93S3BtdnhDVGY2ZWxfUFY5ZVcxUE1FblhITDh4TXlaR09PUm5VYUJkQjRNVU9hZW5pUTd6RjlITFpWTEhJWG1UR2VNUzZ5YVFIU0c5OFRoaDFyNC00U01uRDdqQzVNMXV3dy1CTA?oc=5",
-      "source": "ER 이코노믹리뷰",
-      "published": "10-20 08:22",
-      "published_iso": "2026-10-19T23:22:21+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
       "title": "모바일 주소창이 가리는 영역을 점검하는 경마 복조 뜻 - Calgary Roughnecks",
@@ -842,6 +832,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "어드밴스드 마이크로 디바이스(AMD)는 미래 현금 흐름 측면에서 그 가격에 걸맞은 가치가 있을까? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2p5VGpIUmVua2FaOU5pNFQxWkQ1RnVmNGVTMUV1Nl85eUtTN2NySk5WRzR5TzR3WV9KWVMxeUtyXzlobXFnb29tWE5zY2J2UGszYTF4REpVX3YyZ3FDWjNiQjlzOWpYMkxHRlFKYXpnNGZQaVBINEZ4bW9SMW1pcXFHRGFFOFl2ZlJVajdrT21tTjRjVHNRcXRTTUNSY2Z0VlBxdGhtbHXSAa4BQVVfeXFMTjJybEZFckF1UVBZbm9PeTFCQzdEN1pRbWNYWjhUNmRGb2dOMzdmemZ4V1Z4VVd1cWJwdGQ5azZQVUp1YUJCNEhGbU5FVWRMa0xtdmdCZU5SWUlQREh0cHlxNG9qb1FsdDgwREtlT2xJakY3eHFVNDVsRmE1ODJYU2EtZHhzYUxwVVZBd3JjVDJpS1FoUUNDN0gwT3NqUENiOFRjUjZ0Y2kyckROOFlB?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-19 16:00",
+      "published_iso": "2026-10-19T07:00:00+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
       "title": "삼성운용, 'KODEX 미국배당다우존스액티브' 20일 상장 - 한국경제",
@@ -859,7 +859,7 @@
       "source": "SK hynix",
       "published": "10-19 15:00",
       "published_iso": "2026-10-19T06:00:24+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "489250",
@@ -912,31 +912,11 @@
       "age": "6일 전"
     },
     {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "[ETF 언박싱] 삼성운용, 미국배당다우존스 라인업 확대…액티브로 차별화 - 블로그",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iVmxTM3o0alpYN0dpWk1ncFptZDJ3bGJTanJ6LTBkS3YwRk4zXzc0QWk2blVoSnJlbTR6WmpaU2tCckxPZE1WenJmREFaYzBBM1FnVVhtdFFKUQ?oc=5",
-      "source": "블로그",
-      "published": "10-19 09:51",
-      "published_iso": "2026-10-19T00:51:00+00:00",
-      "age": "6일 전"
-    },
-    {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
       "title": "[ETF 언박싱] 삼성운용, 미국배당다우존스 라인업 확대…액티브로 차별화 - 블로그",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iVmxTM3o0alpYN0dpWk1ncFptZDJ3bGJTanJ6LTBkS3YwRk4zXzc0QWk2blVoSnJlbTR6WmpaU2tCckxPZE1WenJmREFaYzBBM1FnVVhtdFFKUQ?oc=5",
       "source": "블로그",
-      "published": "10-19 09:51",
-      "published_iso": "2026-10-19T00:51:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
-      "title": "국장 지지부진에 ETF 지각변동...코스피 200 제치고 S&P500 왕좌 등극 - 스마트투데이",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZaW5yOHdQV21aMWQ1SU5iUDFfS1BtMlQ5ZndVVFpicE9odDZmZ0lhMFZGYVAzeWFxVXdIOHRfalRuRFNaTG1EeWdYMWI2bEMzNmRCOWF5N01oLXVpS0dZ?oc=5",
-      "source": "스마트투데이",
       "published": "10-19 09:51",
       "published_iso": "2026-10-19T00:51:00+00:00",
       "age": "6일 전"
@@ -952,6 +932,16 @@
       "age": "6일 전"
     },
     {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "현대건설, 호주 오스넷·CIP와 협력 확대…전력망·신재생 사업 공략 - 인더뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQmdrLUJoMTFUYllzalQ3V2ROYlA0dlZsRE1Hb0xHdjlMZEZoZE8zdk5zeXpsZjFzM2ktQUd1cGc4WTk3OTVUaGllWk5yanozazIyT0lQNVFBeEkyVlE3aE5wT2I?oc=5",
+      "source": "인더뉴스",
+      "published": "10-19 09:19",
+      "published_iso": "2026-10-19T00:19:04+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
       "title": "삼성자산운용, ‘KODEX 미국배당다우존스액티브’ 출시…수시 종목 조정 - 브릿지경제",
@@ -959,6 +949,16 @@
       "source": "브릿지경제",
       "published": "10-19 09:07",
       "published_iso": "2026-10-19T00:07:00+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
+      "title": "증시 급변동에 ETF 1위 경쟁 가열…KODEX·TIGER 엎치락뒤치락 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04bTZNTE5hSXhpcXFlTWQ4MUdsV1NCSVVUeTBGNXRsemtxTEhpVlgzdW5HS3MtYXlfRy1tajZieU9KRGxILUxaQ1NBUXo0Y1gwc2U0WVVSek9HN3pwc19pcjZB?oc=5",
+      "source": "아시아경제",
+      "published": "10-19 09:03",
+      "published_iso": "2026-10-19T00:03:04+00:00",
       "age": "6일 전"
     },
     {
