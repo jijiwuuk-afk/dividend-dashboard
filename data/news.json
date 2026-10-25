@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 12:33 KST",
+  "updated_at": "2026-10-25 13:32 KST",
   "items": [
     {
       "ticker": "379810",
@@ -9,7 +9,7 @@
       "source": "Chosunbiz",
       "published": "10-25 10:46",
       "published_iso": "2026-10-25T01:46:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "379780",
@@ -19,7 +19,7 @@
       "source": "매일일보",
       "published": "10-25 10:00",
       "published_iso": "2026-10-25T01:00:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "QQQM",
@@ -29,7 +29,27 @@
       "source": "뉴시스",
       "published": "10-25 06:00",
       "published_iso": "2026-10-24T21:00:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "투자자들은 캐터필러(CAT)의 AI 데이터센터 전력 수요에 어떻게 반응하고 있는가 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWW00R19FNEVpdmp5X3hNZDZ3RXc5YnRlWFJsbGtmbXRicnNNM1p6M0RlX2JtTTBKZ2VvU2VBRTZWbjR0N0FUQnhQZXBNV1gtdV9Jb3ZXM2N5UzAtb3RKVDUwU19FWElCYldMVjhfWndPLWlBMDBRbW9lZFd0TFNjeHR5bHVuOFlEaVZVZHhUSHpUZFpjTHNrV2dEVdIBmwFBVV95cUxQWW00R19FNEVpdmp5X3hNZDZ3RXc5YnRlWFJsbGtmbXRicnNNM1p6M0RlX2JtTTBKZ2VvU2VBRTZWbjR0N0FUQnhQZXBNV1gtdV9Jb3ZXM2N5UzAtb3RKVDUwU19FWElCYldMVjhfWndPLWlBMDBRbW9lZFd0TFNjeHR5bHVuOFlEaVZVZHhUSHpUZFpjTHNrV2dEVQ?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-25 05:42",
+      "published_iso": "2026-10-24T20:42:30+00:00",
+      "age": "7시간 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "주간 전망: ECB 금리 결정 임박; 알파벳(GOOGL), 테슬라(TSLA), 인텔(INTC) 실적 발표; 글로벌 PMI 예비치 발표 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMDhobDJ3Um1yVHIyVzl5TEYyTnR2X25wdFVmR3RJQ0xkOXZLUjZEbWRLMlNOeEZSSEV6aXNnQzdkWEhrX01WQl9SX2tYQmR5SFZKZlJLR1V6QlNaVERybUd6U09GRTdhek9KOGJjdVRJXzkwWllCZHlJMDA4Z0FTdzRJVzNadFRCWTA3YXctajFqMm9uMlhBaGpubDBsVDN2TXVYVkdPcXRBMDM5RS0wSWZFdUMxTUVFcHZNcWM0bVNVNDQyb1pMa1NvV0x0RVZs?oc=5",
+      "source": "TradingKey",
+      "published": "10-25 00:09",
+      "published_iso": "2026-10-24T15:09:19+00:00",
+      "age": "13시간 전"
     },
     {
       "ticker": "NVDA",
@@ -39,7 +59,7 @@
       "source": "TradingKey",
       "published": "10-24 21:12",
       "published_iso": "2026-10-24T12:12:03+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "368590",
@@ -49,7 +69,7 @@
       "source": "Mitrade",
       "published": "10-24 16:46",
       "published_iso": "2026-10-24T07:46:45+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "ZETA",
@@ -59,7 +79,7 @@
       "source": "얼리어답터뉴스",
       "published": "10-24 15:34",
       "published_iso": "2026-10-24T06:34:01+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "GEV",
@@ -69,7 +89,7 @@
       "source": "TIKR.com",
       "published": "10-24 14:26",
       "published_iso": "2026-10-24T05:26:15+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "379800",
@@ -99,6 +119,16 @@
       "source": "데이터투자",
       "published": "10-24 06:08",
       "published_iso": "2026-10-23T21:08:45+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "Home Depot Inc (HD) 주식 움직였습니다 하락 3.01%에 10월23일: 어떤 신호인가요? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGgyM09YRWtvVy1FN0ctNEZDM0VlNTM2aXA3dFltMGtQaFMwREM0ak1pY2JZeEVPdHVOdkdyeUxhdEF2WVlEYUh4NGJpWTlSeTBtbEkzV2l1Q1dacU9OWUdvZHdMdjlMNkdyU0pBc1VZNUxYX2Q3cXRBQm9UV3cxMUpiWktURW9pTjFLNQ?oc=5",
+      "source": "TradingKey",
+      "published": "10-24 02:16",
+      "published_iso": "2026-10-23T17:16:03+00:00",
       "age": "1일 전"
     },
     {
@@ -159,16 +189,6 @@
       "source": "뉴스와이어",
       "published": "10-23 15:50",
       "published_iso": "2026-10-23T06:50:00+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "반도체냐 소프트웨어냐…AI ETF 선택법 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BWDNvWFc1WDdZSFNvQ0doLUltTV95YTBDeUVwenYyNzM3eTBxZHJnb3RkRmlRa0NEQm95cUdKMnRCdUxoX1BBNlBZQV9faDZ2SG1RZg?oc=5",
-      "source": "매일경제",
-      "published": "10-23 14:06",
-      "published_iso": "2026-10-23T05:06:57+00:00",
       "age": "1일 전"
     },
     {
@@ -282,6 +302,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "Tigress Financial, AI 성장 기대에 브로드컴 투자의견 ‘매수’ 제시 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16ZUpQU1hXWEFXZ3dJY05mTzhDUWRkMm1SSzVna0NUb1MwUWpIV2F2aHkycWRzUFpyVkhTeWZjT2VGYmhjck4xZ1JyOFpRT2FlR1VWaGJGUHlOMVpNalhrQUptUTJ0a25oV2x1WEM4bkJoaDZs?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-22 22:03",
+      "published_iso": "2026-10-22T13:03:00+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "000660",
       "name": "SK하이닉스",
       "title": "SK Hynix, ADR 유동주식 확대 시 나스닥 100 편입 가능 – 골드만삭스 - Investing.com 한국어",
@@ -309,16 +339,6 @@
       "source": "프리미엄콘텐츠",
       "published": "10-22 16:41",
       "published_iso": "2026-10-22T07:41:00+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "Caterpillar Just Dropped 10% in a Month. Is It Time to Sell, or Load Up? - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUF9CMHVnUmt3clNGYmpZZkFyR3U0TXU1UkZrLUpKRHdZMTZmbzZNdThkdnNsUmVqLVphTlRRYVVGYVBxM1diT0VlOHB6RkRNQndzT0JhMGhSdzJ4WUdDTDl0Y1ctZ2sySFdTd0RrYk1falB4RjJhWUNkU3NEYXlodGoySGRfSHN4NkcxVVE5d0NBWVFaRUx3MmljR3JsQQ?oc=5",
-      "source": "TIKR.com",
-      "published": "10-22 16:00",
-      "published_iso": "2026-10-22T07:00:00+00:00",
       "age": "2일 전"
     },
     {
@@ -359,7 +379,7 @@
       "source": "NVIDIA",
       "published": "10-22 13:27",
       "published_iso": "2026-10-22T04:27:24+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "AVGO",
@@ -369,7 +389,7 @@
       "source": "TOP1markets",
       "published": "10-22 13:26",
       "published_iso": "2026-10-22T04:26:22+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "005930",
@@ -389,16 +409,6 @@
       "source": "Hyundai Motor Group",
       "published": "10-22 08:30",
       "published_iso": "2026-10-21T23:30:00+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "Datadog Inc (DDOG) 주식 움직였습니다 상승 7.80%에 10월21일: 어떤 신호인가요? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHlmaWlGODlzRi1UTkR2NDNrVkpGdkJub0NOQkJLRDVXZVZULU11OVBTdTRPenExZVVWYmdvaE9WR2hJTHRMVGJLWXpHWU0tN3FpYnhrYlppNzdFZXlPS0FGakhma2NWemlabVBiTFR6VjE4VWhBQlVLelZwcXAzWjNFYy1JVEx3WmRLbmZNaw?oc=5",
-      "source": "TradingKey",
-      "published": "10-22 03:16",
-      "published_iso": "2026-10-21T18:16:14+00:00",
       "age": "3일 전"
     },
     {
@@ -439,16 +449,6 @@
       "source": "TradingKey",
       "published": "10-21 23:15",
       "published_iso": "2026-10-21T14:15:57+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "브로드컴, 비대면 카드 결제 사기 방지 기능 출시 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NRlV4bEkwMVlscXlwQmd1My1pN245cU1uenU0cUlhUnBLeHFsY01lUF9QRHFmTm1YUUxyVWZPT1VtYkh4V2lEQi1QY3VWdWh0OGJ2dWQxZEVwQm9jQ25ORUxtUzlqMHVXTnh3Vnd6QXM?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-21 22:13",
-      "published_iso": "2026-10-21T13:13:00+00:00",
       "age": "3일 전"
     },
     {
@@ -842,16 +842,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "브로드컴 주가 고점 대비 35% 하락···AI 버블 경고 커져도 애널리스트는 낙관 - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOaXRnTzhMMHFoZW0yX3l3ZUlyLVJzYzcwd2JkLWpjSEotVkdXS1I4ZW42MnRtczdaWmUzcFoyUWtUa1ZXdllVbXViZ2RCWlZQaXI5OE1Gd3JnRFFIY3RSQ1oyUE1kaUVGby1aUFhySW8tVEUzSm52aS1HVWNLcGsxNWc4TFlqTXhUOVJIMzBEOFMySEd1bFhJRk5NZFQya1QtdnNNWW51MnNnV3pLd2ZIODNQNXJ0TmFlOG5NanJublhNZmhfcmVmb2o4aWp6bHhsNnZkZVdYTHI5Y29fT0RQUjJ5bGZMV2o2eFpYMlFFRVY5MkZFZFVFSHRablRHeS1xbU11NXNKRHhBaC1ubzRtQTV4UG9wNHlHVk14V3VoZl9lWVIyZlRpa1hJbk9MZzZla2ZOa1dRMlVuSnY0?oc=5",
-      "source": "Benzinga",
-      "published": "10-19 15:17",
-      "published_iso": "2026-10-19T06:17:49+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "000660",
       "name": "SK하이닉스",
       "title": "SK하이닉스, 2조 원 규모 ‘수출공급망 강화보증’ 출범… 정부 · 무보 · 시중은행 손잡아 - SK hynix",
@@ -952,6 +942,16 @@
       "age": "6일 전"
     },
     {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "현대건설, 호주 오스넷·CIP와 협력 확대…전력망·신재생 사업 공략 - 인더뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQmdrLUJoMTFUYllzalQ3V2ROYlA0dlZsRE1Hb0xHdjlMZEZoZE8zdk5zeXpsZjFzM2ktQUd1cGc4WTk3OTVUaGllWk5yanozazIyT0lQNVFBeEkyVlE3aE5wT2I?oc=5",
+      "source": "인더뉴스",
+      "published": "10-19 09:19",
+      "published_iso": "2026-10-19T00:19:04+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
       "title": "삼성자산운용, ‘KODEX 미국배당다우존스액티브’ 출시…수시 종목 조정 - 브릿지경제",
@@ -972,16 +972,6 @@
       "age": "6일 전"
     },
     {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "주간 전망: 워싱턴 미·중 정상회담, 코스트코 실적, 연준 금리 경로에 주목 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVEhIak1rRnBGSWZERXZndHlvaHUzZFduQkkxYXlCOTRZSi1jUzlLSk5KZGxvNW93cmFmdVBka0JTRjE4d0dIMEx6RlQ5QXRmTHRYUVlqNVZmZC1pYzdlajhqOVBWTVZfR0NGcFAtbVZRdnBhMXRQcktVOVROXzAwMmU3TnJvY1htMWJjdGhpWXpZYXJpTm5SSWpuU01Ec0pEeXQxaVlrZUFQQW5tN1JCTFp0U2hXMHlmWURTMFVwMFo1bUFHM3kyN3gyU29BTnk4c1dOUw?oc=5",
-      "source": "TradingKey",
-      "published": "10-19 08:54",
-      "published_iso": "2026-10-18T23:54:38+00:00",
-      "age": "6일 전"
-    },
-    {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
       "title": "【미 증시 개장 전】 트럼프 대러 제재 완화, 유가 하락; 인텔 4% 이상 상승, 마이크론과 샌디스크 메모리 반도체주 주도 - TradingKey",
@@ -999,6 +989,16 @@
       "source": "Calgary Roughnecks",
       "published": "10-19 04:32",
       "published_iso": "2026-10-18T19:32:35+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "TSMC 9월 매출 전망: 3분기 가이던스의 6% 여유 - FinanceFeeds",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lMFk4Rm5GS2d4cGdfWVVqekdjRV9NdEh3aDNfSThOVkRvRlZjcGtidEVMUHpsbjhmTnl3cGdpdkstazliN3NneEllMDkwWHg2UkduWlFZVzNRMUhmdGNLMGtzQ2EtTDNLU2c?oc=5",
+      "source": "FinanceFeeds",
+      "published": "10-18 23:20",
+      "published_iso": "2026-10-18T14:20:54+00:00",
       "age": "6일 전"
     }
   ]
