@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 02:30 KST",
+  "updated_at": "2026-10-26 03:33 KST",
   "items": [
     {
       "ticker": "AVGO",
@@ -9,7 +9,7 @@
       "source": "Simply Wall Street",
       "published": "10-25 19:10",
       "published_iso": "2026-10-25T10:10:43+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "379800",
@@ -19,7 +19,17 @@
       "source": "재경일보",
       "published": "10-25 15:22",
       "published_iso": "2026-10-25T06:22:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "샌디스크(SNDK), 투자자들이 다시 주목하는 이유는 무엇일까? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObElwcEExWTRtVUtLSUYxUEdzSVhMRTk0cGZFMk1lbFF1elI3ZEVwZzVXRDc1Y3k2S3FqNVhCN2lJcW1yeU1OT0x3NzZNdlZTWkZxdHRlOFJqZzBEZ2lYc2MySjhzQnNSdnc2d1JMUjZqWVYwR1lLcmJ3UTctZ0RnaUJPWjJpLXR6MHE2cXNR0gGOAUFVX3lxTE5sSXBwQTFZNG1VS0tJRjFQR3NJWExFOTRwZkUyTWVsUXV6UjdkRXBnNVdENzVjeTZLcWo1WEI3aUlxbXJ5TU5PTHc3Nk12VlNaRnF0dGU4UmpnMERnaVhzYzJKOHNCc1J2dzZ3UkxSNmpZVjBHWUtyYndRNy1nRGdpQk9aMmktdHowcTZxc1E?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-25 14:50",
+      "published_iso": "2026-10-25T05:50:27+00:00",
+      "age": "12시간 전"
     },
     {
       "ticker": "379780",
@@ -29,17 +39,17 @@
       "source": "머니투데이",
       "published": "10-25 14:36",
       "published_iso": "2026-10-25T05:36:13+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
       "title": "'배당 관심 높아지는데…' 분배금이 2배 높은 S&P500 ETF - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aN2YtcW91c1NHSkJDM2VIN1o3cWZmMFQ2bjhsMHdyTmxzTThGUWM0dC1FQlFzaVhTbnliQ3NGNFdvYWVxcm5sOXZobzEyMURyb0dONzVVdVRnc2t6a3VvTVRaUG14a3Ns0gFuQVVfeXFMUFRlWTN3RGdFMUlETzFUT3ZWNnhGM1pKaFV6Wkk0TXJiZlViSVFVX3NYRlZBWDhQZlgxak5seWZBLXJSN3hHdWxydnFDaEljT1BKOWFJSU5wLVlIZkhBNFF5T0ljbVFIQ1dzeUl3WXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUZVkzd0RnRTFJRE8xVE92VjZ4RjNaSmhVelpJNE1yYmZVYklRVV9zWEZWQVg4UGZYMWpObHlmQS1yUjd4R3VscnZxQ2hJY09QSjlhSUlOcC1ZSGZIQTRReU9JY21RSENXc3lJd1l30gFuQVVfeXFMUFRlWTN3RGdFMUlETzFUT3ZWNnhGM1pKaFV6Wkk0TXJiZlViSVFVX3NYRlZBWDhQZlgxak5seWZBLXJSN3hHdWxydnFDaEljT1BKOWFJSU5wLVlIZkhBNFF5T0ljbVFIQ1dzeUl3WXc?oc=5",
       "source": "머니투데이",
       "published": "10-25 14:36",
       "published_iso": "2026-10-25T05:36:13+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "379810",
@@ -49,7 +59,7 @@
       "source": "Chosunbiz",
       "published": "10-25 10:46",
       "published_iso": "2026-10-25T01:46:00+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "QQQM",
@@ -59,7 +69,7 @@
       "source": "팩트인뉴스",
       "published": "10-25 10:36",
       "published_iso": "2026-10-25T01:36:21+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "379780",
@@ -69,7 +79,7 @@
       "source": "매일일보",
       "published": "10-25 10:00",
       "published_iso": "2026-10-25T01:00:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "QQQM",
@@ -79,7 +89,7 @@
       "source": "뉴시스",
       "published": "10-25 06:00",
       "published_iso": "2026-10-24T21:00:00+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "CAT",
@@ -89,7 +99,7 @@
       "source": "Simply Wall Street",
       "published": "10-25 05:42",
       "published_iso": "2026-10-24T20:42:30+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "000660",
@@ -272,16 +282,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "샌디스크(SNDK), 투자자들이 다시 주목하는 이유는 무엇일까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWoxazR2X1F0aXRqNS1yQ1dMNV9zT2xDQmdBQ0JUai1IVncyeXlkMVh6YzJyVG9MZTBCZUs0TE9EblJBTkZoMXRGYURiTXdUUjVhZWZOYXVGX0l5TjdRQ0tncVNsYVRmdWQ2VDNfdmpRRUc5TTFJN0p5UVZ0RDdSZzREekpoV0RF0gGOAUFVX3lxTE5sSXBwQTFZNG1VS0tJRjFQR3NJWExFOTRwZkUyTWVsUXV6UjdkRXBnNVdENzVjeTZLcWo1WEI3aUlxbXJ5TU5PTHc3Nk12VlNaRnF0dGU4UmpnMERnaVhzYzJKOHNCc1J2dzZ3UkxSNmpZVjBHWUtyYndRNy1nRGdpQk9aMmktdHowcTZxc1E?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-23 16:00",
-      "published_iso": "2026-10-23T07:00:00+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
       "title": "픽스AI·제타 맞손… AI 캐릭터·이미지 생성부터 세계관·대화까지 잇는다 - 뉴스와이어",
@@ -349,7 +349,7 @@
       "source": "TradingKey",
       "published": "10-23 03:16",
       "published_iso": "2026-10-22T18:16:32+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "GEV",
@@ -382,6 +382,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "Tigress Financial, AI 성장 기대에 브로드컴 투자의견 ‘매수’ 제시 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16ZUpQU1hXWEFXZ3dJY05mTzhDUWRkMm1SSzVna0NUb1MwUWpIV2F2aHkycWRzUFpyVkhTeWZjT2VGYmhjck4xZ1JyOFpRT2FlR1VWaGJGUHlOMVpNalhrQUptUTJ0a25oV2x1WEM4bkJoaDZs?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-22 22:03",
+      "published_iso": "2026-10-22T13:03:00+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "000660",
       "name": "SK하이닉스",
       "title": "SK Hynix, ADR 유동주식 확대 시 나스닥 100 편입 가능 – 골드만삭스 - Investing.com 한국어",
@@ -389,6 +399,16 @@
       "source": "Investing.com 한국어",
       "published": "10-22 21:13",
       "published_iso": "2026-10-22T12:13:00+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
+      "title": "환헤지 ETF 사길 잘했네…수익률 10%P 더 높았다 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPMDg1ZzlUMlBDWTZrc1ZVQ2pZelNsbXBoZTVCS2d5OVFhQ09neW5KYTNOWlhYUHo0aG0yOVhLMVNHOHA0cThfSUl1SHExRXRiX0E?oc=5",
+      "source": "매일경제 마켓",
+      "published": "10-22 17:39",
+      "published_iso": "2026-10-22T08:39:43+00:00",
       "age": "3일 전"
     },
     {
@@ -512,16 +532,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "브로드컴, 비대면 카드 결제 사기 방지 기능 출시 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NRlV4bEkwMVlscXlwQmd1My1pN245cU1uenU0cUlhUnBLeHFsY01lUF9QRHFmTm1YUUxyVWZPT1VtYkh4V2lEQi1QY3VWdWh0OGJ2dWQxZEVwQm9jQ25ORUxtUzlqMHVXTnh3Vnd6QXM?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-21 22:13",
-      "published_iso": "2026-10-21T13:13:00+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "title": "Amkor Technology 주가, Nvidia 첨단 패키징 확장 소식에 8% 급등 - Investing.com 한국어",
@@ -589,16 +599,6 @@
       "source": "지디넷코리아",
       "published": "10-21 10:05",
       "published_iso": "2026-10-21T01:05:53+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "현대차·기아, 차량용 앱 개발 공모전 개최 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeE81T3lHbnhSLUNwZGkxd0NLVGsxYTlUQ3Jfbm1CY3llUXhNUmpTVUFjQm9ZRHNyaGpIMlBteVl4TEhoRDRVYXRiRmkzN29LOEhOMDI4cE1WdzhIT3RUSlljT0FQR0NyWjkteWktNGMtRnB1aXVZVWlXVzEwQ2EtTWtFV19jeXRQbDVwMkdUQm9xQUQtaFZ6MlBGbUdNWXJ3?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-21 08:30",
-      "published_iso": "2026-10-20T23:30:00+00:00",
       "age": "4일 전"
     },
     {
@@ -914,16 +914,6 @@
     {
       "ticker": "VOO",
       "name": "Vanguard S&P 500 ETF",
-      "title": "02화 미국 증시를 움직이는 3대 거인 - 브런치",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5fQTJPVGppNmhhTHQ3YWV0Y2Rsd21YUjVOOHowVmV6RTlMUzNNNE1wU2VDM2JFZ3Z5V0V3Z3JEWUtscWVN?oc=5",
-      "source": "브런치",
-      "published": "10-19 12:32",
-      "published_iso": "2026-10-19T03:32:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
       "title": "최태성 도박 게임 내 언어 설정 확인 - Calgary Roughnecks",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVFBBX2ZfRklvSjVDb1FzbzgtQjB3SVU2dlhCSWY5OUwyd0tKTVRwRS1BczlmLW9ETkJiYVNjcmhaMXdBMkQySGJHVjJTRmhUMVJjdUJoUUZBcVdLWWJnLTBaNEpoMG50czFLWHEtM3JyNjhjTlVFdWVNc3NyRnpnNlpJMGxFd1A2Z2hBVHpBekpiOThLZVktSFNqQTF6aGNWODRzVVFjOA?oc=5",
       "source": "Calgary Roughnecks",
@@ -992,13 +982,23 @@
       "age": "6일 전"
     },
     {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "증시 급변동에 ETF 1위 경쟁 가열…KODEX·TIGER 엎치락뒤치락 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04bTZNTE5hSXhpcXFlTWQ4MUdsV1NCSVVUeTBGNXRsemtxTEhpVlgzdW5HS3MtYXlfRy1tajZieU9KRGxILUxaQ1NBUXo0Y1gwc2U0WVVSek9HN3pwc19pcjZB?oc=5",
-      "source": "아시아경제",
-      "published": "10-19 09:03",
-      "published_iso": "2026-10-19T00:03:04+00:00",
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "삼성운용, 'KODEX 미국 배당다우존스액티브' 20일 상장 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44RmtWS0lmbFFfTUhubk5jVkdoTGFnd3Z3UkgxWmRkQTJoa2ExN25sQmhNa1NvLWVQbEZUenJEX0hLSE5FbjRwSVNSQ3dHQ1hsOXZiSm1KcmQ4RFXSAWBBVV95cUxPb1N1REFUQjJycXlXbjVKYllEc2I0eEpyaG5Hbm14cDZhR2VNc01KY3FmYXdtQk05Z2IxYS1SSVpCalN0SkZJZm1KMjhBLXU3T3dvd3ZWNTB6RzNLZnFYejg?oc=5",
+      "source": "연합뉴스",
+      "published": "10-19 08:57",
+      "published_iso": "2026-10-18T23:57:14+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대자동차, ‘2026 현대 모빌리티 플레이그라운드 시즌 2’ 성료 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTZmSjByeEhLSWJGLUdUSng1a2ZqZWxJel8zN3RveUxSYWl3d09FRDVBZHJ1bU91N0dtMkR3emg4b3RMMFpwOHEwSE9UZGZEZWZHZGZTLUNYX1ZuajlObEVrUzFpTzFnVGhiM25mU01nMEI3b2V4RV9pUUhrR0ZlajF0N1E1SzhrWllOOV95MHdPUXlYc2c0TVM2cm1GQQ?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-19 08:30",
+      "published_iso": "2026-10-18T23:30:00+00:00",
       "age": "6일 전"
     }
   ]
