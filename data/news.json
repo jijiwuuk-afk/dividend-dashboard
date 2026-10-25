@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 13:32 KST",
+  "updated_at": "2026-10-25 14:32 KST",
   "items": [
     {
       "ticker": "379810",
@@ -9,7 +9,7 @@
       "source": "Chosunbiz",
       "published": "10-25 10:46",
       "published_iso": "2026-10-25T01:46:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "379780",
@@ -19,7 +19,7 @@
       "source": "매일일보",
       "published": "10-25 10:00",
       "published_iso": "2026-10-25T01:00:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "QQQM",
@@ -29,27 +29,7 @@
       "source": "뉴시스",
       "published": "10-25 06:00",
       "published_iso": "2026-10-24T21:00:00+00:00",
-      "age": "7시간 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "투자자들은 캐터필러(CAT)의 AI 데이터센터 전력 수요에 어떻게 반응하고 있는가 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWW00R19FNEVpdmp5X3hNZDZ3RXc5YnRlWFJsbGtmbXRicnNNM1p6M0RlX2JtTTBKZ2VvU2VBRTZWbjR0N0FUQnhQZXBNV1gtdV9Jb3ZXM2N5UzAtb3RKVDUwU19FWElCYldMVjhfWndPLWlBMDBRbW9lZFd0TFNjeHR5bHVuOFlEaVZVZHhUSHpUZFpjTHNrV2dEVdIBmwFBVV95cUxQWW00R19FNEVpdmp5X3hNZDZ3RXc5YnRlWFJsbGtmbXRicnNNM1p6M0RlX2JtTTBKZ2VvU2VBRTZWbjR0N0FUQnhQZXBNV1gtdV9Jb3ZXM2N5UzAtb3RKVDUwU19FWElCYldMVjhfWndPLWlBMDBRbW9lZFd0TFNjeHR5bHVuOFlEaVZVZHhUSHpUZFpjTHNrV2dEVQ?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-25 05:42",
-      "published_iso": "2026-10-24T20:42:30+00:00",
-      "age": "7시간 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "주간 전망: ECB 금리 결정 임박; 알파벳(GOOGL), 테슬라(TSLA), 인텔(INTC) 실적 발표; 글로벌 PMI 예비치 발표 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMDhobDJ3Um1yVHIyVzl5TEYyTnR2X25wdFVmR3RJQ0xkOXZLUjZEbWRLMlNOeEZSSEV6aXNnQzdkWEhrX01WQl9SX2tYQmR5SFZKZlJLR1V6QlNaVERybUd6U09GRTdhek9KOGJjdVRJXzkwWllCZHlJMDA4Z0FTdzRJVzNadFRCWTA3YXctajFqMm9uMlhBaGpubDBsVDN2TXVYVkdPcXRBMDM5RS0wSWZFdUMxTUVFcHZNcWM0bVNVNDQyb1pMa1NvV0x0RVZs?oc=5",
-      "source": "TradingKey",
-      "published": "10-25 00:09",
-      "published_iso": "2026-10-24T15:09:19+00:00",
-      "age": "13시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "NVDA",
@@ -59,7 +39,17 @@
       "source": "TradingKey",
       "published": "10-24 21:12",
       "published_iso": "2026-10-24T12:12:03+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "샌디스크 SNDK 주가: 10월 29일 실적 앞두고 $1,238, 웨스턴 디지털 실적 후 강세 $1,400 약세 $1,090 - FinanceFeeds",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CMTJiNlRJM0V2ZklRY1E0SzctajNZRFlVTVNEQ3Jtb3FPcmpnVy1zbXRVV0ZvbkpjaUJpeUVqbWFNTVdyZmM5SHYzSmxsN0dSU2Mya0REZWVWYTB1SGpMdFdkclVXbk95TzB0TmRQRmhhcjhJRHRpaWtKdw?oc=5",
+      "source": "FinanceFeeds",
+      "published": "10-24 18:55",
+      "published_iso": "2026-10-24T09:55:24+00:00",
+      "age": "19시간 전"
     },
     {
       "ticker": "368590",
@@ -69,7 +59,7 @@
       "source": "Mitrade",
       "published": "10-24 16:46",
       "published_iso": "2026-10-24T07:46:45+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "ZETA",
@@ -79,7 +69,7 @@
       "source": "얼리어답터뉴스",
       "published": "10-24 15:34",
       "published_iso": "2026-10-24T06:34:01+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "GEV",
@@ -89,7 +79,7 @@
       "source": "TIKR.com",
       "published": "10-24 14:26",
       "published_iso": "2026-10-24T05:26:15+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "379800",
@@ -192,6 +182,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "반도체냐 소프트웨어냐…AI ETF 선택법 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BWDNvWFc1WDdZSFNvQ0doLUltTV95YTBDeUVwenYyNzM3eTBxZHJnb3RkRmlRa0NEQm95cUdKMnRCdUxoX1BBNlBZQV9faDZ2SG1RZg?oc=5",
+      "source": "매일경제",
+      "published": "10-23 14:06",
+      "published_iso": "2026-10-23T05:06:57+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "테슬라(TSLA.N) 3분기 수익성 개선..내년부터 신사업 모멘텀 반영 전망 By 알파경제 alphabiz - Investing.com 한국어",
@@ -262,13 +262,13 @@
       "age": "2일 전"
     },
     {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "샌디스크(SNDK) 주가, 웨스턴 디지털 4.64달러 상회에도 메모리 매도세 8.5% 막지 못해 1.5% 회복 - FinanceFeeds",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMmpSSEx3NHpucVkyMW14RFFRVC1uZGVYbkhxMl9CQllvOEI5cWh3YXF6M19pOFpiTFBaX3ZEd28yVGM5ZTZHdHF2MlVZRE9Hbm1IN3pvRVlmZk9jeVRFdFhNWWpnQk1UQ1VreWZHMTFpNEFQN3RxdjFqNVNIQjFidmc1Y05qOGFGQkZxWnZ3?oc=5",
-      "source": "FinanceFeeds",
-      "published": "10-23 01:10",
-      "published_iso": "2026-10-22T16:10:17+00:00",
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "AI 인프라 부문의 승리가 AMD 주가의 투자 스토리를 바꾼 것일까? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdTliemlmYXFNTmVCVUVEbGJTc2k4U2FVN3ZpM1B3aXA3MHB0NVNiUVJ0WDgtNkJHZU1xVGc4dWxBMDU1a2Z5MThGV201dHlSdjFka0w1bElSb0lyUy1YRUJzSmhhaGphOGJLWmRlY2x5Z1F0dmV0Q0tkdDJVNFIxUkdhTDFrNUFzc0hZbVdfSkFiXzRWWlFKVEVrcGVLREw5dDlFdFBBX29mbkkxV1HSAa4BQVVfeXFMTnU5YnppZmFxTU5lQlVFRGxiU3NpOFNhVTd2aTNQd2lwNzBwdDVTYlFSdFg4LTZCR2VNcVRnOHVsQTA1NWtmeTE4RldtNXR5UnYxZGtMNWxJUm9JclMtWEVCc0poYWhqYThiS1pkZWNseWdRdHZldENLZHQyVTRSMVJHYUwxazVBc3NIWW1XX0pBYl80VlpRSlRFa3BlS0RMOXQ5RXRQQV9vZm5JMVdR?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-23 00:26",
+      "published_iso": "2026-10-22T15:26:19+00:00",
       "age": "2일 전"
     },
     {
@@ -342,6 +342,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "Caterpillar Just Dropped 10% in a Month. Is It Time to Sell, or Load Up? - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUF9CMHVnUmt3clNGYmpZZkFyR3U0TXU1UkZrLUpKRHdZMTZmbzZNdThkdnNsUmVqLVphTlRRYVVGYVBxM1diT0VlOHB6RkRNQndzT0JhMGhSdzJ4WUdDTDl0Y1ctZ2sySFdTd0RrYk1falB4RjJhWUNkU3NEYXlodGoySGRfSHN4NkcxVVE5d0NBWVFaRUx3MmljR3JsQQ?oc=5",
+      "source": "TIKR.com",
+      "published": "10-22 16:00",
+      "published_iso": "2026-10-22T07:00:00+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "테슬라 목표주가 최고 $475, 최저 $130… 2026년 주가 전망 총정리 (2026년 10월) - Mitrade",
@@ -369,7 +379,7 @@
       "source": "코인리더스",
       "published": "10-22 14:15",
       "published_iso": "2026-10-22T05:15:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "NVDA",
@@ -409,6 +419,16 @@
       "source": "Hyundai Motor Group",
       "published": "10-22 08:30",
       "published_iso": "2026-10-21T23:30:00+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "Datadog Inc (DDOG) 주식 움직였습니다 상승 7.80%에 10월21일: 어떤 신호인가요? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHlmaWlGODlzRi1UTkR2NDNrVkpGdkJub0NOQkJLRDVXZVZULU11OVBTdTRPenExZVVWYmdvaE9WR2hJTHRMVGJLWXpHWU0tN3FpYnhrYlppNzdFZXlPS0FGakhma2NWemlabVBiTFR6VjE4VWhBQlVLelZwcXAzWjNFYy1JVEx3WmRLbmZNaw?oc=5",
+      "source": "TradingKey",
+      "published": "10-22 03:16",
+      "published_iso": "2026-10-21T18:16:14+00:00",
       "age": "3일 전"
     },
     {
@@ -529,7 +549,7 @@
       "source": "TradingKey",
       "published": "10-21 13:48",
       "published_iso": "2026-10-21T04:48:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "005380",
@@ -629,7 +649,7 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 13:42",
       "published_iso": "2026-10-20T04:42:22+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "AMD",
@@ -822,16 +842,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "어드밴스드 마이크로 디바이스(AMD)는 미래 현금 흐름 측면에서 그 가격에 걸맞은 가치가 있을까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2p5VGpIUmVua2FaOU5pNFQxWkQ1RnVmNGVTMUV1Nl85eUtTN2NySk5WRzR5TzR3WV9KWVMxeUtyXzlobXFnb29tWE5zY2J2UGszYTF4REpVX3YyZ3FDWjNiQjlzOWpYMkxHRlFKYXpnNGZQaVBINEZ4bW9SMW1pcXFHRGFFOFl2ZlJVajdrT21tTjRjVHNRcXRTTUNSY2Z0VlBxdGhtbHXSAa4BQVVfeXFMTjJybEZFckF1UVBZbm9PeTFCQzdEN1pRbWNYWjhUNmRGb2dOMzdmemZ4V1Z4VVd1cWJwdGQ5azZQVUp1YUJCNEhGbU5FVWRMa0xtdmdCZU5SWUlQREh0cHlxNG9qb1FsdDgwREtlT2xJakY3eHFVNDVsRmE1ODJYU2EtZHhzYUxwVVZBd3JjVDJpS1FoUUNDN0gwT3NqUENiOFRjUjZ0Y2kyckROOFlB?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-19 16:00",
-      "published_iso": "2026-10-19T07:00:00+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
       "title": "삼성운용, 'KODEX 미국배당다우존스액티브' 20일 상장 - 한국경제",
@@ -859,7 +869,7 @@
       "source": "매일일보",
       "published": "10-19 14:02",
       "published_iso": "2026-10-19T05:02:04+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "487230",
@@ -869,7 +879,7 @@
       "source": "머니투데이",
       "published": "10-19 13:35",
       "published_iso": "2026-10-19T04:35:09+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "VOO",
@@ -939,16 +949,6 @@
       "source": "비욘드포스트",
       "published": "10-19 09:50",
       "published_iso": "2026-10-19T00:50:55+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "현대건설, 호주 오스넷·CIP와 협력 확대…전력망·신재생 사업 공략 - 인더뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQmdrLUJoMTFUYllzalQ3V2ROYlA0dlZsRE1Hb0xHdjlMZEZoZE8zdk5zeXpsZjFzM2ktQUd1cGc4WTk3OTVUaGllWk5yanozazIyT0lQNVFBeEkyVlE3aE5wT2I?oc=5",
-      "source": "인더뉴스",
-      "published": "10-19 09:19",
-      "published_iso": "2026-10-19T00:19:04+00:00",
       "age": "6일 전"
     },
     {
