@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-26 09:54 KST",
+  "updated_at": "2026-10-26 10:47 KST",
   "items": [
+    {
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
+      "title": "같은 S&P500인데 수익률 10%p 갈렸다…'환헤지'가 가른 서학개미 성적표 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yUHk5aEZJN0JlNU5IaTVjQ015djVaV0FuVXNGZm1JSTdsaDdMYWM3bnN2a3JvZmNkNWJQVVBDRGpZWVdmQUowOEthUHRxdjZibFJRVDRockppUEFxQ2ZqVNIBeEFVX3lxTE1fMHhzdnVlUnp1LTQ0SjgtRFdPNGpnRFFOemJ4MTlPR3JYcGppc21XLW9lTm5YdmhqcGVZSHVLdlZTeTN6QmpYT3dXaWNhWDVSajFrbXFsQ3ZGTnpzMXJ5SHFMYTFjbXRVZnJVUnFCUjBERk1JS2VNag?oc=5",
+      "source": "뉴시스",
+      "published": "10-26 09:55",
+      "published_iso": "2026-10-26T00:55:15+00:00",
+      "age": "51분 전"
+    },
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
@@ -19,7 +29,7 @@
       "source": "머니투데이",
       "published": "10-26 03:30",
       "published_iso": "2026-10-25T18:30:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "458730",
@@ -29,7 +39,7 @@
       "source": "세계일보",
       "published": "10-25 19:11",
       "published_iso": "2026-10-25T10:11:47+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "GEV",
@@ -39,7 +49,7 @@
       "source": "Simply Wall Street",
       "published": "10-25 15:37",
       "published_iso": "2026-10-25T06:37:47+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "379800",
@@ -49,17 +59,7 @@
       "source": "재경일보",
       "published": "10-25 15:22",
       "published_iso": "2026-10-25T06:22:00+00:00",
-      "age": "18시간 전"
-    },
-    {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "증시 흔들려도 개미들은 ETF로…개인 순매수 사상 첫 '80조' 돌파 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zZzFJZVZuNHY2TE8wV1YxelpkcjlIYVV0NXdVUzQ1LXJLcW1aN0NSRXJjY1k3dVRQY29EWVhRVWE5UUxLQzdXZmJXc1AxTElWWlR0eTVfeG9UdkQ3alJUSWZPS0xrUTZLdy1DY1VqRDVsbE4xVDVEMNIBeEFVX3lxTE1zZzFJZVZuNHY2TE8wV1YxelpkcjlIYVV0NXdVUzQ1LXJLcW1aN0NSRXJjY1k3dVRQY29EWVhRVWE5UUxLQzdXZmJXc1AxTElWWlR0eTVfeG9UdkQ3alJUSWZPS0xrUTZLdy1DY1VqRDVsbE4xVDVEMA?oc=5",
-      "source": "뉴시스",
-      "published": "10-25 15:17",
-      "published_iso": "2026-10-25T06:17:23+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "379780",
@@ -69,7 +69,7 @@
       "source": "머니투데이",
       "published": "10-25 14:36",
       "published_iso": "2026-10-25T05:36:13+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "379800",
@@ -79,7 +79,7 @@
       "source": "머니투데이",
       "published": "10-25 14:36",
       "published_iso": "2026-10-25T05:36:13+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "379810",
@@ -89,7 +89,7 @@
       "source": "Chosunbiz",
       "published": "10-25 10:46",
       "published_iso": "2026-10-25T01:46:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "QQQM",
@@ -99,7 +99,7 @@
       "source": "팩트인뉴스",
       "published": "10-25 10:36",
       "published_iso": "2026-10-25T01:36:21+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "379780",
@@ -109,7 +109,7 @@
       "source": "매일일보",
       "published": "10-25 10:00",
       "published_iso": "2026-10-25T01:00:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "QQQM",
@@ -339,7 +339,7 @@
       "source": "Investing.com 한국어",
       "published": "10-23 10:32",
       "published_iso": "2026-10-23T01:32:23+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "CAT",
@@ -442,16 +442,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "SCHD",
-      "name": "Schwab U.S. Dividend Equity ETF",
-      "title": "[금리 리셋] ⑨ '금리가 올라도 배당은 자란다' 배당 컷 해법은 - ㊦ - 네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PVHJqbTJ5YnlVS3RZbUZ6QWJHNmg3ZDVReW5pdTdFeXk5N284NHJOeWJGcWRMSldsOVJ5dzNSUnNQUUdOWGk4MnVkRTk0Z2psa2VEVE1FWG0yZnhfREdpZ3Z4VGlkeEd5QlJIaW5ESWtTNnQ4Q0Z0dVluZw?oc=5",
-      "source": "네이버 프리미엄콘텐츠",
-      "published": "10-22 16:41",
-      "published_iso": "2026-10-22T07:41:00+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "테슬라 목표주가 최고 $475, 최저 $130… 2026년 주가 전망 총정리 (2026년 10월) - Mitrade",
@@ -516,6 +506,16 @@
       "name": "현대자동차",
       "title": "현대차그룹, ‘소프티어 테크톡 오프데이’ 개최 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2NBUE5DSUVzd0VMQXBITXFad0dGdXp4WXZzemNFdm1aOV96NG5uTm8yOG9wTUUxRFdwbHBQc1RRSW10X1pQNDZJLXRQM0tETGt0dXZMZnVjVmhxUGwwS3hPd3JNRmpJanhVeXRQTlhSbEhNaC1ySTMzdUZRNElNUE9HRzRCSXNUb0x1U3VUT0Q?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-22 08:30",
+      "published_iso": "2026-10-21T23:30:00+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대자동차, 인도네시아 교육 접근성 개선 위한 ‘현대 유니버설 솔루션’ 전개 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTzdOQjREVHlpSUh6WERJR3pNVG9DYXNXZDdMSzVxV2RVYUlaR19ST2ZHNEpjZHZhcVBBLVhPWVJtVmdLblZId3pqdUJIUFM4MzZHeGJBNmZlSXJlczJDSUJiVUZ5ZkZ6eEZYbjEtdlNWRWh3YzlXNGNpeDVpalZkZjZlN2lIU0V1OEhUM1NHZzBzSk41SzVLazN1RzNSNTVzU1NPU243WlZoNFJWVEdST3I5akx1NHM?oc=5",
       "source": "Hyundai Motor Group",
       "published": "10-22 08:30",
       "published_iso": "2026-10-21T23:30:00+00:00",
@@ -639,7 +639,7 @@
       "source": "지디넷코리아",
       "published": "10-21 10:05",
       "published_iso": "2026-10-21T01:05:53+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "487230",
@@ -649,6 +649,16 @@
       "source": "서울경제",
       "published": "10-21 08:56",
       "published_iso": "2026-10-20T23:56:14+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대차·기아, 차량용 앱 개발 공모전 개최 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeE81T3lHbnhSLUNwZGkxd0NLVGsxYTlUQ3Jfbm1CY3llUXhNUmpTVUFjQm9ZRHNyaGpIMlBteVl4TEhoRDRVYXRiRmkzN29LOEhOMDI4cE1WdzhIT3RUSlljT0FQR0NyWjkteWktNGMtRnB1aXVZVWlXVzEwQ2EtTWtFV19jeXRQbDVwMkdUQm9xQUQtaFZ6MlBGbUdNWXJ3?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-21 08:30",
+      "published_iso": "2026-10-20T23:30:00+00:00",
       "age": "5일 전"
     },
     {
@@ -719,6 +729,16 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 17:33",
       "published_iso": "2026-10-20T08:33:30+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "JP모건, 4년 만에 인텔(INTC) 비관론 철회...비중축소→중립 전환 - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55WmJQSVVwRlBheERnT2Q5M2diYUxBSUtTNmhzc1QwZGx0UUU5eXNMMlZCY1luY2dXNG9UdlE2OWZBZ2FZZzdVa0Nn?oc=5",
+      "source": "코인리더스",
+      "published": "10-20 16:35",
+      "published_iso": "2026-10-20T07:35:00+00:00",
       "age": "5일 전"
     },
     {
@@ -817,16 +837,6 @@
       "title": "현대차·기아, 레벨 4 자율주행 대형트럭 실증 추진 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbU5TZVhNdmxSWm85VzQ5ZXVoM3VmbC1GTHJ3MDJ6N1JjSVYtbVBRSTd5U1VqS1BFQ05aMjUxNVRPQl9xYnY0eHRPUU5fVGRLcTRYNF96NGxHYXBRME9tVzh2UEF5c3JzSnBtQ2dwY3hHTDVDYlA2NHFXTWx0U2pPMFl4eWtub1EzV01LZjJ3d3VkdDY1SjNQYlRpdGl1aEZ1N2lTN0h4YXZqMWFVY2NBRnhn?oc=5",
       "source": "Hyundai Motor Group",
-      "published": "10-20 08:30",
-      "published_iso": "2026-10-19T23:30:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "[월가 콜] 분석 개시·의견 재확인...인텔·아마존·AMD(10/19) - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMZnVBUWJPRlBLNHIyTEhGMjkxb2EydlhyNzZwOGo4cjViWTYzU25fLXdtU3V5eXNvVjk3UE44ZlFubG9aWkNnblRkZWxyYW1qNmU4bU82ZmJvWl9f?oc=5",
-      "source": "뉴스핌",
       "published": "10-20 08:30",
       "published_iso": "2026-10-19T23:30:00+00:00",
       "age": "6일 전"
@@ -989,16 +999,6 @@
       "source": "TradingKey",
       "published": "10-19 13:47",
       "published_iso": "2026-10-19T04:47:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "[알림] 28일 SMR, 29일 AI 인프라…'미래의 설계' 코엑스서 확인 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tTENUQlNYWDlENk5BUUtNa3VzQXowRFp0N0QwMG1FeGZUUmlndmRfXzhWRFNTRXN1SHVQZXFCWkx5WDVQLWJueFRoekt0THZkWUJ1YXViQ05Tbk5GN2ItOHpIdFc1NnRmS0k3cdIBckFVX3lxTFBYSUVSRFNoeXJWR21GbHVtV2NEaTBPemhISUhnbmVYdEtnT3hrWU5GTGlZNVN3Zkc3YS1vSDEzMElURF9SNm0yaGc4dWFoeFYzM1Z2NEd4b3V5TUNqTjBMNlkxUExuLVBrNEJfMXNLSmhSdw?oc=5",
-      "source": "머니투데이",
-      "published": "10-19 13:35",
-      "published_iso": "2026-10-19T04:35:09+00:00",
       "age": "6일 전"
     }
   ]
