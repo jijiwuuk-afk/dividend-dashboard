@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-27 02:39 KST",
+  "updated_at": "2026-10-27 03:48 KST",
   "items": [
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "Google Cloud Has “a Meaningful Shot” at Lapping Microsoft, and Nobody Is Pricing It - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc202OTJuYUZBc21PdVZOcEotWWxtUkFuR1YxR21xLWNuQUNHeTRPNG1Qckg5MV9LZE5xWWg1ZEhNZHhpMmdYbUFyckw4MDhWU0M5QWJiX1RKcW1YU3ZkX2JlNFFad2tYQlY5WFFyM3JqMWdpSlhjRl9lLWZ6YlN5WjY2X2VVajdTd1JDMGc4VTltZkljbFVzeTRpRkhMZ1pubDdiSjcxM2RZNzJOeTdV?oc=5",
+      "source": "TIKR.com",
+      "published": "10-27 03:18",
+      "published_iso": "2026-10-26T18:18:39+00:00",
+      "age": "29분 전"
+    },
     {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
@@ -9,7 +19,7 @@
       "source": "Mitrade",
       "published": "10-26 17:27",
       "published_iso": "2026-10-26T08:27:30+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "SNDK",
@@ -19,7 +29,7 @@
       "source": "FinanceFeeds",
       "published": "10-26 17:13",
       "published_iso": "2026-10-26T08:13:35+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "368590",
@@ -29,7 +39,7 @@
       "source": "매일경제",
       "published": "10-26 17:08",
       "published_iso": "2026-10-26T08:08:52+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "322410",
@@ -39,7 +49,7 @@
       "source": "매일경제",
       "published": "10-26 17:08",
       "published_iso": "2026-10-26T08:08:52+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "QQQM",
@@ -49,7 +59,7 @@
       "source": "재경일보",
       "published": "10-26 16:51",
       "published_iso": "2026-10-26T07:51:20+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "0072R0",
@@ -59,7 +69,7 @@
       "source": "비즈니스포스트",
       "published": "10-26 16:47",
       "published_iso": "2026-10-26T07:47:39+00:00",
-      "age": "9시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "000660",
@@ -69,7 +79,7 @@
       "source": "연합뉴스",
       "published": "10-26 14:55",
       "published_iso": "2026-10-26T05:55:04+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "0072R0",
@@ -79,7 +89,7 @@
       "source": "메트로신문",
       "published": "10-26 14:33",
       "published_iso": "2026-10-26T05:33:41+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "QQQM",
@@ -89,7 +99,7 @@
       "source": "머니투데이",
       "published": "10-26 12:35",
       "published_iso": "2026-10-26T03:35:00+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "379810",
@@ -99,7 +109,7 @@
       "source": "뉴시스",
       "published": "10-26 09:59",
       "published_iso": "2026-10-26T00:59:03+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "GOOG",
@@ -109,7 +119,7 @@
       "source": "TradingKey",
       "published": "10-26 06:18",
       "published_iso": "2026-10-25T21:18:00+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "379780",
@@ -119,7 +129,7 @@
       "source": "Chosunbiz",
       "published": "10-26 06:01",
       "published_iso": "2026-10-25T21:01:57+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "AMD",
@@ -129,7 +139,7 @@
       "source": "Simply Wall Street",
       "published": "10-26 03:52",
       "published_iso": "2026-10-25T18:52:37+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "379780",
@@ -139,7 +149,7 @@
       "source": "머니투데이",
       "published": "10-26 03:30",
       "published_iso": "2026-10-25T18:30:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "458730",
@@ -469,7 +479,7 @@
       "source": "TIKR.com",
       "published": "10-23 03:33",
       "published_iso": "2026-10-22T18:33:45+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "GOOG",
@@ -479,7 +489,7 @@
       "source": "TradingKey",
       "published": "10-23 03:16",
       "published_iso": "2026-10-22T18:16:32+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "GEV",
@@ -569,6 +579,16 @@
       "source": "매일경제 마켓",
       "published": "10-22 17:39",
       "published_iso": "2026-10-22T08:39:43+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "title": "테슬라(TSLA), FSD·로보택시 성장 가시화…높은 밸류에이션은 부담 - 인포스탁데일리",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWlfOFY5ZXh0OGpKcjlZS3RsdzZFTzM0cGRya3RydkFoSGFxQ05FcHJtX3NKRzdWNHlqZ0U2emxCRGl4ZG1fYV9WVzc2NnZjcDFJSjV2MHk3MFpwbGxDaHNkY2NCbS01ZVJyVW5KQjQyMm54eTktbVFPRHlhLVlsc21DbFRZX3MtWk1Tc3JoaWJfei1LX05ZRm56UkFNUQ?oc=5",
+      "source": "인포스탁데일리",
+      "published": "10-22 16:48",
+      "published_iso": "2026-10-22T07:48:26+00:00",
       "age": "4일 전"
     },
     {
@@ -942,16 +962,6 @@
       "age": "6일 전"
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "title": "하이퍼리퀴드 고래, 비트코인(BTC) 손절 후 테슬라(TSLA) 20배 베팅 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JNEVMYTR3NlNzcFVHWWVCQko3SU5FSjB1aTY0OE4zMERSMFVkWnVWWEhKMjZtZDZqbXFlTGViNW04NFJ5U2NTZDFB?oc=5",
-      "source": "코인리더스",
-      "published": "10-20 09:10",
-      "published_iso": "2026-10-20T00:10:00+00:00",
-      "age": "6일 전"
-    },
-    {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "전체 화면에서 메뉴가 숨겨지나요? 카이지 원 포커 디시 - Calgary Roughnecks",
@@ -982,23 +992,13 @@
       "age": "6일 전"
     },
     {
-      "ticker": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
-      "title": "삼성, NVIDIA용 커스텀 HBM에 TSMC 3nm 도입… 반도체 대기업 3사에 확산되는 새로운 분업 체제｜Semiconductor Geek - note",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zWE5xeHdyYXZEeUVWTWpuNWJLRU1pQ0U4Qm5YY016R0o5QXNoTEQtdENpeW1NRHpyZE9aUUlQUG9scnIyRWFBTEtrN1ZkRlF3cGVDRXJCTk9Vb1daTkFWdHAyb3dZUQ?oc=5",
-      "source": "note",
-      "published": "10-20 06:49",
-      "published_iso": "2026-10-19T21:49:32+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "삼성자산운용, 'KODEX 미국배당다우존스액티브' ETF 상장 - 비즈월드",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44X0ppelFEX3diTGxHdXBLVnpraW93V0JobmdUSTF0US1JY2hsa0JCcHdiSE50UkR2emxET2FXYmdSY01QS3lhZm90WXdCRlBZZmFsWW9YLXU3X21FY2VQa1Z5ZzFDU2hrdjJZ?oc=5",
-      "source": "비즈월드",
-      "published": "10-20 06:34",
-      "published_iso": "2026-10-19T21:34:00+00:00",
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "[월가 콜] 분석 개시·의견 재확인...인텔·아마존·AMD(10/19) - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMZnVBUWJPRlBLNHIyTEhGMjkxb2EydlhyNzZwOGo4cjViWTYzU25fLXdtU3V5eXNvVjk3UE44ZlFubG9aWkNnblRkZWxyYW1qNmU4bU82ZmJvWl9f?oc=5",
+      "source": "뉴스핌",
+      "published": "10-20 08:30",
+      "published_iso": "2026-10-19T23:30:00+00:00",
       "age": "6일 전"
     }
   ]
