@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-10-27 01:47 KST",
+  "updated_at": "2026-10-27 02:39 KST",
   "items": [
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "NVIDIA Corp (NVDA) 주가, 시세, 뉴스 및 이력 - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhdDEtUE9HakU1RjVZTzhVbUdhQnpkY3BHaDJfZ19weUNpdDc2bFlHSHZXTXVvNS11dm81U1VDQ21JYzJabUtyQjZ3?oc=5",
-      "source": "Benzinga",
-      "published": "10-26 19:07",
-      "published_iso": "2026-10-26T10:07:21+00:00",
-      "age": "6시간 전"
-    },
     {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
@@ -19,7 +9,7 @@
       "source": "Mitrade",
       "published": "10-26 17:27",
       "published_iso": "2026-10-26T08:27:30+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "SNDK",
@@ -29,7 +19,17 @@
       "source": "FinanceFeeds",
       "published": "10-26 17:13",
       "published_iso": "2026-10-26T08:13:35+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
+    },
+    {
+      "ticker": "368590",
+      "name": "RISE 미국나스닥100",
+      "title": "방향성 실종 K-증시, 투자자들 대피할 만한 곳은? - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YVW5WWS1BMThRTXFqaC1PMlFzVHFoZWlXMHlJbmJBbDZRQm1LcmlIMjlVcmp1S3BKWjVfcFhvd2tDM1JWdEFhbFExVUFYLThzMXlMdQ?oc=5",
+      "source": "매일경제",
+      "published": "10-26 17:08",
+      "published_iso": "2026-10-26T08:08:52+00:00",
+      "age": "9시간 전"
     },
     {
       "ticker": "322410",
@@ -39,7 +39,7 @@
       "source": "매일경제",
       "published": "10-26 17:08",
       "published_iso": "2026-10-26T08:08:52+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "QQQM",
@@ -49,7 +49,7 @@
       "source": "재경일보",
       "published": "10-26 16:51",
       "published_iso": "2026-10-26T07:51:20+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "0072R0",
@@ -59,7 +59,7 @@
       "source": "비즈니스포스트",
       "published": "10-26 16:47",
       "published_iso": "2026-10-26T07:47:39+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "000660",
@@ -69,7 +69,7 @@
       "source": "연합뉴스",
       "published": "10-26 14:55",
       "published_iso": "2026-10-26T05:55:04+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "0072R0",
@@ -79,7 +79,7 @@
       "source": "메트로신문",
       "published": "10-26 14:33",
       "published_iso": "2026-10-26T05:33:41+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "QQQM",
@@ -89,7 +89,7 @@
       "source": "머니투데이",
       "published": "10-26 12:35",
       "published_iso": "2026-10-26T03:35:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "379810",
@@ -99,7 +99,7 @@
       "source": "뉴시스",
       "published": "10-26 09:59",
       "published_iso": "2026-10-26T00:59:03+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "GOOG",
@@ -109,7 +109,17 @@
       "source": "TradingKey",
       "published": "10-26 06:18",
       "published_iso": "2026-10-25T21:18:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
+    },
+    {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "국장 급락에 TIGER S&P500, KODEX 200 턱밑 추격… 개미 선택은 ‘미국’ - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVjdHOTFCak9KcExUZ3lCVUF6Vl9peVhLcWJEZ3dvcUw4QVRSdjd4eW9TVWNtTUtGR2hRT3F6SFFzYlQ2YzBxZ3FNYTBuX2Vwc3ZnVVI0cDhDazZ3RGpoQWdMVW8zR1ZGR1VyVWdoSHZQb3BHdEcycnR5d3YxWnhNaWJRRmJxU2hh0gGcAUFVX3lxTFB4b0hseHZBZVUxbGFZc3lLaTNIaDY2NlItUERIdGo5a1NQdzBiNzE5SXdhYWJGVUw3T2k0VDRKNVJaQkxhQnhSMk5iOVREY2RaWVRMMS1PM0k2QzFkT3Y4NnZGM2czOEdnQkw3Uy0yWkROTnQwbkc5MXE1aDE1SVJRS1FZVm1oQmpuMGt6YUxhdEZTSkt6WHFkVXhZNw?oc=5",
+      "source": "Chosunbiz",
+      "published": "10-26 06:01",
+      "published_iso": "2026-10-25T21:01:57+00:00",
+      "age": "20시간 전"
     },
     {
       "ticker": "AMD",
@@ -119,7 +129,7 @@
       "source": "Simply Wall Street",
       "published": "10-26 03:52",
       "published_iso": "2026-10-25T18:52:37+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "379780",
@@ -129,7 +139,7 @@
       "source": "머니투데이",
       "published": "10-26 03:30",
       "published_iso": "2026-10-25T18:30:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "458730",
@@ -309,7 +319,7 @@
       "source": "TradingKey",
       "published": "10-24 02:16",
       "published_iso": "2026-10-23T17:16:03+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "NVDA",
@@ -479,7 +489,7 @@
       "source": "TradingKey",
       "published": "10-23 02:16",
       "published_iso": "2026-10-22T17:16:29+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "AVGO",
@@ -592,6 +602,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "NVIDIA Hyperion 기반으로 유럽 모빌리티 기업의 안전한 차량·로보택시 플릿 구축 지원 - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0Z2a2pqVnNYMENvQzNSdTQ2S0E3dFd6R1lZQ0FVTG1WX2lxZ25UeEpObjUtaW5kei1XaUhUVm1pY2lXcG5ZTzlLOXlsb1RheE9uRlkyZGQxNUs5SE1DaklMSU5mSG14N2hlLUl1cnhLVXI3Skl4ZldOZ0pPRWt1TGM4TDlxUkRjTXQyZjlnR1p0RVZyRFFjdXd1YW9WTWNJZkdodmVBVU9aRVZXUDBnMExXa25aYm9C?oc=5",
+      "source": "NVIDIA",
+      "published": "10-22 13:27",
+      "published_iso": "2026-10-22T04:27:24+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
       "title": "Broadcom’s AI Revenue Is Set to Quadruple. Why Is the Stock Well Off Its High? - TOP1markets",
@@ -629,7 +649,7 @@
       "source": "TradingKey",
       "published": "10-22 02:16",
       "published_iso": "2026-10-21T17:16:16+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "AMD",
@@ -639,7 +659,7 @@
       "source": "TradingKey",
       "published": "10-22 02:16",
       "published_iso": "2026-10-21T17:16:10+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "TSM",
@@ -802,13 +822,13 @@
       "age": "5일 전"
     },
     {
-      "ticker": "368590",
-      "name": "RISE 미국나스닥100",
-      "title": "처음 보는 분께 설명하는 슈가 러쉬 슬롯 공략 게임 한 편 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTnVzdC1OeUVmVUxVaHpoMFdickloLUJIN2FyRXNsdEx6VUVjbDYxaVEyUHV6ekh5cVJxYklCcV9ibEpTSU94VWZRcW42dnp4ZGd6NUozTk1LMl9aZ3hkUllhbmRSelYtRDJicy1pQzdFZ24tYVBYOW9MRm5rLUo3dUQ3QnVuQ1gzN0pkQi1ySG9lcDZDanJ4MTRleFc1VDhWWEEzVlE0ek9GdnBOR0ExTTNWT3BoSGRIbFQ0Y1VrUm96VTUyYXFZNEZIQlhNYTA?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-20 21:35",
-      "published_iso": "2026-10-20T12:35:36+00:00",
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "삼성전자가 디자인으로 말하는 사랑 - 아이즈매거진 | eyesmag",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QYl9PWVFpQXlDbkJxTDZRaGRXYVJnR2xIZXFyay11MVNwaElFRnJiR21CWGhmdWgxbmJiWnh5XzhzNTZrbHZER2lOOERaaktPUU9LOG94dW93V0tiakRnbXNzY181WUcxYVVZdEVkd3R0RXk2dXp0Qlln?oc=5",
+      "source": "아이즈매거진 | eyesmag",
+      "published": "10-20 19:59",
+      "published_iso": "2026-10-20T10:59:17+00:00",
       "age": "6일 전"
     },
     {
@@ -819,26 +839,6 @@
       "source": "TIKR.com",
       "published": "10-20 19:18",
       "published_iso": "2026-10-20T10:18:45+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "005930",
-      "name": "삼성전자",
-      "title": "삼성전자가 디자인으로 말하는 사랑 - 아이즈매거진 | eyesmag",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QYl9PWVFpQXlDbkJxTDZRaGRXYVJnR2xIZXFyay11MVNwaElFRnJiR21CWGhmdWgxbmJiWnh5XzhzNTZrbHZER2lOOERaaktPUU9LOG94dW93V0tiakRnbXNzY181WUcxYVVZdEVkd3R0RXk2dXp0Qlln?oc=5",
-      "source": "아이즈매거진 | eyesmag",
-      "published": "10-20 18:00",
-      "published_iso": "2026-10-20T09:00:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "업데이트 전후 규칙을 대조하는 1xbet 최신 주소 변경 사항 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3BxeEhyOTZlSm9lbWZycUFVcHZCdXJ0RnRrdnZod3B4cndGc2RlUVNRQXVBMDZhY2FrQjRSYTRXWC1idVpjTHl5SlA5RHFzVFliM2tBb2ZUcHJkWWU1MmV2ZlFROEJjU2dQcmVrTjV0Qy04TnZjQVRZU2NqcU1rRTJhNEd5dk5CaHNfcGxKOTZpS0lESDk3aUZyMmVmellSNTBmNnJsTkJzUFZ6N0lxRVVfVQ?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-20 17:33",
-      "published_iso": "2026-10-20T08:33:30+00:00",
       "age": "6일 전"
     },
     {
