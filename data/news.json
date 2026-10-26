@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-26 12:36 KST",
+  "updated_at": "2026-10-26 13:37 KST",
   "items": [
+    {
+      "ticker": "QQQM",
+      "name": "Invesco NASDAQ 100 ETF",
+      "title": "\"반도체주 이젠 오르겠지\"…손실 커지는데 또 3배 레버리지 베팅[서학픽] - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FQkdRX09EX0IwcUFFS1VmMVJjS082bUpkeVgyMVdhZm5ld3VLdExLNnVZdnZHTFBzM1B6NnRkQ1pZMkpncTFfNF9tQUt3ZGk4eU9vVTRWdmJQWFRReW9UNTk1cUE4RUdhVzdIMWl30gFuQVVfeXFMT0VCR1FfT0RfQjBxQUVLVWYxUmNLTzZtSmR5WDIxV2FmbmV3dUt0TEs2dVl2dkdMUHMzUHo2dGRDWlkySmdxMV80X21BS3dkaTh5T29VNFZ2YlBYVFF5b1Q1OTVxQThFR2FXN0gxaXc?oc=5",
+      "source": "머니투데이",
+      "published": "10-26 12:35",
+      "published_iso": "2026-10-26T03:35:00+00:00",
+      "age": "1시간 전"
+    },
     {
       "ticker": "379810",
       "name": "KODEX 미국나스닥100",
@@ -9,17 +19,27 @@
       "source": "뉴시스",
       "published": "10-26 09:59",
       "published_iso": "2026-10-26T00:59:03+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "SK Hynix Faces $15 Billion Funding Question After Suspending Solidigm IPO Plans - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UbFd3eE1LdlkwMmV2OUNyU1htVml1UXctd01FRmJaZkJVbC0tOV9aVy1zWDNDZl9KWk5ibGFqZ3hOcWpPN3E5dUdQcXdtWWVVWkVTbllrdFBSU0VkUGxNd0c5a1dBWXZFcG85enFR?oc=5",
+      "source": "알파경제",
+      "published": "10-26 06:00",
+      "published_iso": "2026-10-25T21:00:00+00:00",
+      "age": "7시간 전"
     },
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
       "title": "왜 모두가 어드밴스드 마이크로 디바이시스(AMD)를 다시 주목하고 있을까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdzUwWlhuN3BMU0w5UGNJblZrZ21KenVCXzZVU1JqUHFMZ3FGQnVzMG8xTkUycUlmbzFVRU0xRGwxMnhTMkZiYnNfeS1Mb0FPS0F6VmZrak5va244V2hNbDhoSDNMYTc1dG5STXRFSUVaelpoYkxQVWE2UXY0OTJWZ3d5VVpRaGZYM0VxOXB0OER0RFpZVDJoX3Y1SndleFJUbnVNOTNWa2M0b0c4d3fSAa4BQVVfeXFMTXc1MFpYbjdwTFNMOVBjSW5Wa2dtSnp1Ql82VVNSalBxTGdxRkJ1czBvMU5FMnFJZm8xVUVNMURsMTJ4UzJGYmJzX3ktTG9BT0tBelZma2pOb2tuOFdoTWw4aEgzTGE3NXRuUk10RUlFWnpaaGJMUFVhNlF2NDkyVmd3eVVaUWhmWDNFcTlwdDhEdERaWVQyaF92NUp3ZXhSVG51TTkzVmtjNG9HOHd3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0t4OUtIQVRMMmFKYnRaa3ZOendxY0xqMUVtX1lSZE5pZ0VlNFNRajdrRmhEaXBrUUc0S2I5S054dllic0ZyZTdXZFVsMW1Lem04Q0p6VWdmUFJ5cUlmWi1QQkJxNS1RVDlNRVd0bWpJcTlLZFBhZU8wTUtEeVY0NEx6ZU1RZGdjUEViSTRZZDVGbW1vNV9kWjdpLVR1NkFUTnBiOEFTdE_SAa4BQVVfeXFMTXc1MFpYbjdwTFNMOVBjSW5Wa2dtSnp1Ql82VVNSalBxTGdxRkJ1czBvMU5FMnFJZm8xVUVNMURsMTJ4UzJGYmJzX3ktTG9BT0tBelZma2pOb2tuOFdoTWw4aEgzTGE3NXRuUk10RUlFWnpaaGJMUFVhNlF2NDkyVmd3eVVaUWhmWDNFcTlwdDhEdERaWVQyaF92NUp3ZXhSVG51TTkzVmtjNG9HOHd3?oc=5",
       "source": "Simply Wall Street",
       "published": "10-26 03:52",
-      "published_iso": "2026-10-25T18:52:37+00:00",
-      "age": "8시간 전"
+      "published_iso": "2026-10-25T18:52:34+00:00",
+      "age": "9시간 전"
     },
     {
       "ticker": "379780",
@@ -29,7 +49,7 @@
       "source": "머니투데이",
       "published": "10-26 03:30",
       "published_iso": "2026-10-25T18:30:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "458730",
@@ -39,17 +59,27 @@
       "source": "세계일보",
       "published": "10-25 19:11",
       "published_iso": "2026-10-25T10:11:47+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
       "title": "GE Vernova(GEV) 계약 수주 이후 AI 전력 내러티브 속 저평가 시선은 유효할까 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFZreVJQREZGbjEtQmdBUFF6azRlc0huYm9oTTQ1Q3pJZGJxczFTYkpLbW9vdDlnOEdid0VaMkhaOTE4RFlFYXVLNm04OGdmXy1xUHp1b0kzRDRyZy1sVW9OZHVLOUJmNndsR045bmR6enZSZzdza0lKaTFrWTdmMHIzX2oxQllMeHdIU3pUbnV2OHR6YWkyT0J30gGaAUFVX3lxTE0wVmt5UlBERkZuMS1CZ0FQUXprNGVzSG5ib2hNNDVDeklkYnFzMVNiSkttb290OWc4R2J3RVoySFo5MThEWUVhdUs2bTg4Z2ZfLXFQenVvSTNENHJnLWxVb05kdUs5QmY2d2xHTjluZHp6dlJnN3NrSUppMWtZN2YwcjNfajFCWUx4d0hTelRudXY4dHphaTJPQnc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSUdiSEZNLW1Fc0NVZERsNFMtNlZ2MHctcDFYWHR0MzFpazFXNDBtWGJwcG5EampFWEkzUWJERXluM3VBMDJyaHM4dzgzb18weUwyTGpnX0JISzhad2ZHSk83c3dnbjRuYjZLV0EyR08yUmVMM2VIM184ODNFdER0RUtabzlqSnVON2xBRmQ1MlRhZS160gGaAUFVX3lxTE0wVmt5UlBERkZuMS1CZ0FQUXprNGVzSG5ib2hNNDVDeklkYnFzMVNiSkttb290OWc4R2J3RVoySFo5MThEWUVhdUs2bTg4Z2ZfLXFQenVvSTNENHJnLWxVb05kdUs5QmY2d2xHTjluZHp6dlJnN3NrSUppMWtZN2YwcjNfajFCWUx4d0hTelRudXY4dHphaTJPQnc?oc=5",
       "source": "Simply Wall Street",
       "published": "10-25 15:37",
-      "published_iso": "2026-10-25T06:37:47+00:00",
-      "age": "20시간 전"
+      "published_iso": "2026-10-25T06:37:46+00:00",
+      "age": "21시간 전"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "브로드컴 주가보다 먼저 볼 AI 수혜 블루칩 3선 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTlk2bFVIRzl5and2M3M2WG5PWExKOTVRTE96ZFh2YzlteVpJbDhlSDZEU21HVEN0OXdRamlfZGZDS0RjaEhQRXJkMEN3bEw5V2R1UUNtb1V2WUwxZnBrajNaUmZFZ3kxYVVEUGZpczRSS1pmUFhGREhzWXRxYV8xOWdscFQ3S0k5Y2FaZEVWX3d0YUVINml0bnRHa0XSAZwBQVVfeXFMUE5ZNmxVSEc5eWp3djNzNlhuT1hMSjk1UUxPemRYdmM5bXlaSWw4ZUg2RFNtR1RDdDl3UWppX2RmQ0tEY2hIUEVyZDBDd2xMOVdkdVFDbW9VdllMMWZwa2ozWlJmRWd5MWFVRFBmaXM0UktaZlBYRkRIc1l0cWFfMTlnbHBUN0tJOWNhWmRFVl93dGFFSDZpdG50R2tF?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-25 15:37",
+      "published_iso": "2026-10-25T06:37:45+00:00",
+      "age": "21시간 전"
     },
     {
       "ticker": "379800",
@@ -59,17 +89,17 @@
       "source": "재경일보",
       "published": "10-25 15:22",
       "published_iso": "2026-10-25T06:22:00+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
       "title": "'배당 관심 높아지는데…' 분배금이 2배 높은 S&P500 ETF - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUZVkzd0RnRTFJRE8xVE92VjZ4RjNaSmhVelpJNE1yYmZVYklRVV9zWEZWQVg4UGZYMWpObHlmQS1yUjd4R3VscnZxQ2hJY09QSjlhSUlOcC1ZSGZIQTRReU9JY21RSENXc3lJd1l30gFuQVVfeXFMUFRlWTN3RGdFMUlETzFUT3ZWNnhGM1pKaFV6Wkk0TXJiZlViSVFVX3NYRlZBWDhQZlgxak5seWZBLXJSN3hHdWxydnFDaEljT1BKOWFJSU5wLVlIZkhBNFF5T0ljbVFIQ1dzeUl3WXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aN2YtcW91c1NHSkJDM2VIN1o3cWZmMFQ2bjhsMHdyTmxzTThGUWM0dC1FQlFzaVhTbnliQ3NGNFdvYWVxcm5sOXZobzEyMURyb0dONzVVdVRnc2t6a3VvTVRaUG14a3Ns0gFuQVVfeXFMUFRlWTN3RGdFMUlETzFUT3ZWNnhGM1pKaFV6Wkk0TXJiZlViSVFVX3NYRlZBWDhQZlgxak5seWZBLXJSN3hHdWxydnFDaEljT1BKOWFJSU5wLVlIZkhBNFF5T0ljbVFIQ1dzeUl3WXc?oc=5",
       "source": "머니투데이",
       "published": "10-25 14:36",
       "published_iso": "2026-10-25T05:36:13+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "379800",
@@ -79,7 +109,7 @@
       "source": "머니투데이",
       "published": "10-25 14:36",
       "published_iso": "2026-10-25T05:36:13+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "379810",
@@ -89,16 +119,6 @@
       "source": "Chosunbiz",
       "published": "10-25 10:46",
       "published_iso": "2026-10-25T01:46:00+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "QQQM",
-      "name": "Invesco NASDAQ 100 ETF",
-      "title": "서학개미 美주식 6.3조 순매수…반도체 집중 - 팩트인뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tU3k1SnNvalI0SmZWNkxha3pHc0p2VENXdlNqTWhMOUZEWVZtR2pmWUszTjhHVUF2VDY1YXVFQnJUYThuVUJUZmo4aWpHbktnWUVwQjVEZl9yX0ptTlhjS3NFOG80eFptUjFleHB1Mi3SAXRBVV95cUxONDYzenl6RHVyUHBIVVBOdEd2M3FpUGt2amY2ZG1vTnVWeVozbXhsMm4wcG1CMUg2dDU0U0puRjA5MXdzM3lUQVhPMWptZzdtMGlpU040N3d1QkpiN0lXTmpSY1ZMTXdJYWdKbjRjNlgtY2cteA?oc=5",
-      "source": "팩트인뉴스",
-      "published": "10-25 10:36",
-      "published_iso": "2026-10-25T01:36:21+00:00",
       "age": "1일 전"
     },
     {
@@ -139,16 +159,6 @@
       "source": "Simply Wall Street",
       "published": "10-25 05:42",
       "published_iso": "2026-10-24T20:42:30+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "SK Hynix, 100개가 넘는 소형 프로세서를 탑재한 SSD 컨트롤러 개발 - Mezha.net",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVEdEXzEtV2ZNT3U5blZDOUlBZFprTmVUdDJ4d1NMYnFVUFFfVVRNUEV5bk5pcVl0U2NhczUyWmFUOTJfUTJOa25maVJSVnBLeHM0a0FfZFN2d3MxWnFjODl2Vnh0MWJ2X2xkeW5tR09PbGd3SjBiUUFzQXdmX09QSFNnUS1PQ3BtZk1kZVBCcFZ4dDZkTmEtd2h3c1I?oc=5",
-      "source": "Mezha.net",
-      "published": "10-25 00:24",
-      "published_iso": "2026-10-24T15:24:00+00:00",
       "age": "1일 전"
     },
     {
@@ -305,17 +315,7 @@
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
       "title": "샌디스크(SNDK), 투자자들이 다시 주목하는 이유는 무엇일까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNME1LenFfemhodkdTRDVadjZpc3NnMnJvMDN3WHNnS2FxU0RFc2lqY0ZBYzFlbFJDM3UtemRNc1d3enAxSUZDSENGWHFUdXRHQUZ3ZEUzLU1BYjlIQ2RGNDhUVmVaM2hUbU9TbXpQaEc3dXVUMkdTRi1aME5qRXlySjd1bDByY2ViN1AxdWtkNW8yR2I3X2FhdWZmMVJUb3JReFhwZV9xTlpBeF9LSmdITE1vTGRnYm1lcTFNa202Rngxd9IBjgFBVV95cUxObElwcEExWTRtVUtLSUYxUEdzSVhMRTk0cGZFMk1lbFF1elI3ZEVwZzVXRDc1Y3k2S3FqNVhCN2lJcW1yeU1OT0x3NzZNdlZTWkZxdHRlOFJqZzBEZ2lYc2MySjhzQnNSdnc2d1JMUjZqWVYwR1lLcmJ3UTctZ0RnaUJPWjJpLXR6MHE2cXNR?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-23 16:00",
-      "published_iso": "2026-10-23T07:00:00+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "브로드컴 주가보다 먼저 볼 AI 수혜 블루칩 3선 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWZlSUdmWFhLa0ZxNXZpYlRmTko1SXVvRnRFUzFLc2hJeG1WRHhRTnVENGdGY2kydFc4ZktsWVIwWEt1WGJUbm9SNHVkYUlVWE5TcEhpaGpMeDVTaFFtMG9vcmZORGNYYUIwMWNPalN4Q2h2T2J6RHhPMUJzZWFUN0gzejAteXd0SkhSSl92QWhRTldYV2xz0gGcAUFVX3lxTFBOWTZsVUhHOXlqd3YzczZYbk9YTEo5NVFMT3pkWHZjOW15WklsOGVINkRTbUdUQ3Q5d1FqaV9kZkNLRGNoSFBFcmQwQ3dsTDlXZHVRQ21vVXZZTDFmcGtqM1pSZkVneTFhVURQZmlzNFJLWmZQWEZESHNZdHFhXzE5Z2xwVDdLSTljYVpkRVZfd3RhRUg2aXRudEdrRQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWoxazR2X1F0aXRqNS1yQ1dMNV9zT2xDQmdBQ0JUai1IVncyeXlkMVh6YzJyVG9MZTBCZUs0TE9EblJBTkZoMXRGYURiTXdUUjVhZWZOYXVGX0l5TjdRQ0tncVNsYVRmdWQ2VDNfdmpRRUc5TTFJN0p5UVZ0RDdSZzREekpoV0RF0gGOAUFVX3lxTE5sSXBwQTFZNG1VS0tJRjFQR3NJWExFOTRwZkUyTWVsUXV6UjdkRXBnNVdENzVjeTZLcWo1WEI3aUlxbXJ5TU5PTHc3Nk12VlNaRnF0dGU4UmpnMERnaVhzYzJKOHNCc1J2dzZ3UkxSNmpZVjBHWUtyYndRNy1nRGdpQk9aMmktdHowcTZxc1E?oc=5",
       "source": "Simply Wall Street",
       "published": "10-23 16:00",
       "published_iso": "2026-10-23T07:00:00+00:00",
@@ -489,7 +489,7 @@
       "source": "TOP1markets",
       "published": "10-22 13:26",
       "published_iso": "2026-10-22T04:26:22+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "005930",
@@ -664,6 +664,16 @@
     {
       "ticker": "487230",
       "name": "KODEX 미국AI전력핵심인프라",
+      "title": "삼성운용 ‘전고체배터리ESS’ ETF, 순자산 2000억 돌파…상장 4개월만 - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44dFUyLV95YjNzbFZTTTU4UU9Ya1dVbURBVFlqNmE1dzAwdkx0bFczNnVNeDEzZUczTkk3WGJ6bExhMzBIQ3JpaktaUEpTajJOUkprYldn?oc=5",
+      "source": "헤럴드경제",
+      "published": "10-21 09:59",
+      "published_iso": "2026-10-21T00:59:40+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
       "title": "삼성운용, ‘KODEX 전고체배터리ESS TOP2플러스’ 순자산 2000억 돌파 - 서울경제",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iM0VURS00czRpR1FqV2ZpdjA5NFN4c3BTSWNtNFRNLUhQZ1FQRXo5c1VGTkJ6WE5RZG1iMklFYzBndWN1OXloOHo5VnVVYXBES1HSAVNBVV95cUxPT05BakdkRlEydFl1VE9Qd0FfNllXWU1jeVFmZnY3M3F1NDIzOGxJVnNndkdUZ1RVbmp1Z1BEYXJncVRVNFBmeUZZc0g0UVlzRGdiOA?oc=5",
       "source": "서울경제",
@@ -742,13 +752,13 @@
       "age": "5일 전"
     },
     {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "title": "이름이 비슷한 옵션을 구분하는 라이트닝 바카라 디시 설정 설명 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeVRSMEowbmFURVVFVG1FWUw3MmhNV0lWTVZfdHE2YVY1UkNIa3lmQmNaYlpVRmxsRk9NdUk1MDZCTVpZSFlxRUtwOVJEU1dZQV9MWVE4ck90YUV3UE1XdldYWkRWTms5Ykp0eTdjRzJwdzhyQ3VIVXpfWG9seUdMOVE5RmRYYXdVQW53ajFVTW9EaXF3RUtEenFRaS1waWZsMWlhZm9Cc2ZlX1d5LUszNkFMN1pYOUFMWmxRM0dLaEhMRDA2d2JzQ3hOWWt6VnQwLUllYjF1dGhReGZyLWw5dDFtdG1ONHZqeVhLRlhzQlZ3WGc?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-20 16:15",
-      "published_iso": "2026-10-20T07:15:01+00:00",
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "JP모건, 4년 만에 인텔(INTC) 비관론 철회...비중축소→중립 전환 - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55WmJQSVVwRlBheERnT2Q5M2diYUxBSUtTNmhzc1QwZGx0UUU5eXNMMlZCY1luY2dXNG9UdlE2OWZBZ2FZZzdVa0Nn?oc=5",
+      "source": "코인리더스",
+      "published": "10-20 16:35",
+      "published_iso": "2026-10-20T07:35:00+00:00",
       "age": "5일 전"
     },
     {
@@ -837,16 +847,6 @@
       "title": "현대차·기아, 레벨 4 자율주행 대형트럭 실증 추진 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbU5TZVhNdmxSWm85VzQ5ZXVoM3VmbC1GTHJ3MDJ6N1JjSVYtbVBRSTd5U1VqS1BFQ05aMjUxNVRPQl9xYnY0eHRPUU5fVGRLcTRYNF96NGxHYXBRME9tVzh2UEF5c3JzSnBtQ2dwY3hHTDVDYlA2NHFXTWx0U2pPMFl4eWtub1EzV01LZjJ3d3VkdDY1SjNQYlRpdGl1aEZ1N2lTN0h4YXZqMWFVY2NBRnhn?oc=5",
       "source": "Hyundai Motor Group",
-      "published": "10-20 08:30",
-      "published_iso": "2026-10-19T23:30:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "[월가 콜] 분석 개시·의견 재확인...인텔·아마존·AMD(10/19) - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMZnVBUWJPRlBLNHIyTEhGMjkxb2EydlhyNzZwOGo4cjViWTYzU25fLXdtU3V5eXNvVjk3UE44ZlFubG9aWkNnblRkZWxyYW1qNmU4bU82ZmJvWl9f?oc=5",
-      "source": "뉴스핌",
       "published": "10-20 08:30",
       "published_iso": "2026-10-19T23:30:00+00:00",
       "age": "6일 전"
