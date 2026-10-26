@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-26 14:37 KST",
+  "updated_at": "2026-10-26 15:46 KST",
   "items": [
+    {
+      "ticker": "0072R0",
+      "name": "TIGER KRX금현물",
+      "title": "주식 피해 갔더니 금·엔화도 손실…안전자산은 어디에 - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13czBUMW4yd0JXQ2gwTmNIZm9ack8wd0tSQVlXXzkxMDlncldMblNBVWtrRXJjRWk5c2pOcEh0SE5KbnpnT0x4aUhyMEZ1N2NhUEFLZVFQa3IxQjlSWWRPcA?oc=5",
+      "source": "메트로신문",
+      "published": "10-26 14:33",
+      "published_iso": "2026-10-26T05:33:41+00:00",
+      "age": "1시간 전"
+    },
     {
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
@@ -9,7 +19,7 @@
       "source": "머니투데이",
       "published": "10-26 12:35",
       "published_iso": "2026-10-26T03:35:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "379810",
@@ -19,7 +29,7 @@
       "source": "뉴시스",
       "published": "10-26 09:59",
       "published_iso": "2026-10-26T00:59:03+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "AMD",
@@ -29,7 +39,7 @@
       "source": "Simply Wall Street",
       "published": "10-26 03:52",
       "published_iso": "2026-10-25T18:52:34+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "379780",
@@ -39,7 +49,7 @@
       "source": "머니투데이",
       "published": "10-26 03:30",
       "published_iso": "2026-10-25T18:30:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "458730",
@@ -49,7 +59,7 @@
       "source": "세계일보",
       "published": "10-25 19:11",
       "published_iso": "2026-10-25T10:11:47+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "GEV",
@@ -59,7 +69,7 @@
       "source": "Simply Wall Street",
       "published": "10-25 15:37",
       "published_iso": "2026-10-25T06:37:46+00:00",
-      "age": "22시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "379800",
@@ -69,7 +79,7 @@
       "source": "재경일보",
       "published": "10-25 15:22",
       "published_iso": "2026-10-25T06:22:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "379780",
@@ -189,7 +199,7 @@
       "source": "얼리어답터뉴스",
       "published": "10-24 15:34",
       "published_iso": "2026-10-24T06:34:01+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "379800",
@@ -382,6 +392,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "솔리다임 IPO 검토를 중단합니다 장기 성장과 주주가치 제고 노력은 이어갑니다 - SK hynix",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMZW9fZDVjQkxvZmpDMWNBSjBEdUgwelNGYUpmbzk2TE05WnlaMXh1QWEzWjB1VmoybG9wMkJaTUliM1QtdkRHZ2E3UQ?oc=5",
+      "source": "SK hynix",
+      "published": "10-23 07:33",
+      "published_iso": "2026-10-22T22:33:41+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
       "title": "TSMC Explores Rare Earth Alternatives To Protect Chip Production From China Controls - TIKR.com",
@@ -469,7 +489,7 @@
       "source": "TradingKey",
       "published": "10-22 15:16",
       "published_iso": "2026-10-22T06:16:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "QQQM",
@@ -479,7 +499,7 @@
       "source": "아이뉴스24",
       "published": "10-22 14:43",
       "published_iso": "2026-10-22T05:43:03+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "NVDA",
@@ -639,7 +659,7 @@
       "source": "스트레이트뉴스",
       "published": "10-21 15:07",
       "published_iso": "2026-10-21T06:07:59+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "ZETA",
@@ -812,16 +832,6 @@
       "age": "6일 전"
     },
     {
-      "ticker": "0072R0",
-      "name": "TIGER KRX금현물",
-      "title": "전체 화면에서 메뉴가 숨겨지나요? 카이지 원 포커 디시 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMVJ1azRkM05ZbXF6dWgtRnVZOHNXekxCNnhZVV81cmJvX29nbFU3cmlGM3lJSWtlTjRUV0VMMFF1VWNyY0lvckRaODk1X284S0tnMTY1NEdCeC15THVsX1NGMDRWSjl5bDJXbGp5cGlRZTZuMlJwM0hOdUxONmotY1VfeGZVRElsc3BPc2t4R3plVXZGNWUza1F6RlFJS3N6SEE?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "10-20 09:09",
-      "published_iso": "2026-10-20T00:09:13+00:00",
-      "age": "6일 전"
-    },
-    {
       "ticker": "VOO",
       "name": "Vanguard S&P 500 ETF",
       "title": "기본 설명부터 질문 답변까지 이어지는 무료 슬롯 게임 산타 카지노 - Calgary Roughnecks",
@@ -984,21 +994,11 @@
     {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
-      "title": "삼성운용, 'KODEX 미국배당다우존스액티브' 20일 상장 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xaURGa2pQR2VpOVhxblVUV2dyUkV4YUFrNGZqUUt3d05pVURJbGpHSXpkNVF1Nks4bUoxcndDbzVDcm9kZEFoNVdmTlAzLUhSTnJUam9rdmlfdw?oc=5",
-      "source": "한국경제",
-      "published": "10-19 15:49",
-      "published_iso": "2026-10-19T06:49:12+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "삼성운용, ‘KODEX 미국배당다우존스액티브’ 20일 상장 - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYkZaT3JWQ1p1T1ZfdDY2cXdtTUlRbkNxc0UxUGJmQUU4Q1NGaktjRVFpclQ2VFZFX1VfYWd0TjQwN1dwelJiMmpUOW11VmRGT19yVExtZnRBUlBRSnUxMFNZOWVtekFZZG9kSFBob1JBRUZjZ1BuUGJLWGlMdlBFUUI4SVhKVXdu?oc=5",
-      "source": "글로벌이코노믹",
-      "published": "10-19 15:33",
-      "published_iso": "2026-10-19T06:33:00+00:00",
+      "title": "삼성자산운용 'KODEX 미국배당다우존스액티브' 상장, \"수시 리밸런싱으로 초과 수익 추구\" - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwSndGSjVmeEthOFdDNnRFd3Jfa3ltdEtMM0lxUEw2cm1pNzBpZkYzaTJzV0dWa3Q3RVRZRzBrNGY4N1kycE5zcXBZQVd5cVR6VGtERGtFY3NnQmFucnNxZVpBamFRekZVSXdkRU1XMnU3Z3c?oc=5",
+      "source": "비즈니스포스트",
+      "published": "10-19 15:53",
+      "published_iso": "2026-10-19T06:53:42+00:00",
       "age": "6일 전"
     }
   ]
