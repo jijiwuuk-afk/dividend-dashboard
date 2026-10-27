@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-27 15:43 KST",
+  "updated_at": "2026-10-27 16:48 KST",
   "items": [
+    {
+      "ticker": "SCHD",
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "title": "[미국 ETF 히든 챔피언] (72) 빅테크 모멘텀·배당 다 가졌다 'TDIV' - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLR3lMMGc3TmlIV3Z6eTlVOUtFYWtQOFNXRXlMenl1VlFJb05iRXBFa1lkMnFlSF9NVURjTW1zQkw2czY2R2VQV0gtRUZpT0h4NEp4TzVrUFNrS1Zk?oc=5",
+      "source": "뉴스핌",
+      "published": "10-27 16:08",
+      "published_iso": "2026-10-27T07:08:00+00:00",
+      "age": "40분 전"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "무아스, iF 수상 ‘오브제 메탈 자동 디스펜서’ 코스트코 전 지점 입점 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95MGFjb3NiRXlVOUhtR2NOZ1VmanQzLThBcnJ3X2NkTFJ3UXhZRUg2dm4yY1N6MWczNENLRDYyYnlidHFncjZTdk9sWFpiNF9URzN2WVN3?oc=5",
+      "source": "매일경제",
+      "published": "10-27 15:55",
+      "published_iso": "2026-10-27T06:55:34+00:00",
+      "age": "53분 전"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "title": "테슬라 목표주가 최고 $475, 최저 $130… 2026년 주가 전망 총정리 (2026년 10월) - Mitrade",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTGlxWFYtQ3F3ZXJsYXFUeFdoMEl0SHJ1TlZMa1Z3NV9NTmZHVmpMRFZZY0hPc2ljMEsyNU00SVh0eDZhN0wtWWpyWVJObllQX3ZFNUUzOWhZaXZ3aDJOMWR3TTFhd1oxRnROV0tRWTlhRGhzX1BpQ1dPTGtIV0tBRmdfTno?oc=5",
+      "source": "Mitrade",
+      "published": "10-27 14:27",
+      "published_iso": "2026-10-27T05:27:54+00:00",
+      "age": "2시간 전"
+    },
+    {
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
+      "title": "＂계좌 열어보느니 묵혀두고 관망＂…투자자들 달려간 곳 - 한국경제TV",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NMnRUbl9ELVZmNDVEUTdma3JvYWpvSEtzVFNYcG9lWi1LbW1zSnRzRjlKOXpDVjl6TTFUTm5tRFFVbk5NRmJLSEZNa2twTHd4aUJYSVdtSUlFZGJhcmxQX05PV1pQWmViQmNreE9CamRSaHc?oc=5",
+      "source": "한국경제TV",
+      "published": "10-27 10:42",
+      "published_iso": "2026-10-27T01:42:00+00:00",
+      "age": "6시간 전"
+    },
     {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
@@ -9,7 +49,7 @@
       "source": "연합뉴스",
       "published": "10-27 10:22",
       "published_iso": "2026-10-27T01:22:44+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "CAT",
@@ -19,7 +59,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "published": "10-27 08:45",
       "published_iso": "2026-10-26T23:45:00+00:00",
-      "age": "6시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "005930",
@@ -29,16 +69,6 @@
       "source": "천지일보",
       "published": "10-27 07:00",
       "published_iso": "2026-10-26T22:00:00+00:00",
-      "age": "8시간 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "엔비디아, 일라이릴리, 노보노디스크, 테슬라 - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ucHg4TnlNUlJ4MVAtdUtrenRjSjNCdl9OZ2xMQ0xHMTdldUxydUFtNDU4dGxJTzBQb0tKX1FmSEtjZk5qeS1XME84bWE0NEhmOXZFRHkwV29OekhyWHhjMUFWMFdUZ0VLakFyQnJ0MW9oMk0?oc=5",
-      "source": "마켓인",
-      "published": "10-27 06:32",
-      "published_iso": "2026-10-26T21:32:50+00:00",
       "age": "9시간 전"
     },
     {
@@ -49,7 +79,7 @@
       "source": "TIKR.com",
       "published": "10-27 03:18",
       "published_iso": "2026-10-26T18:18:39+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "AMD",
@@ -59,7 +89,17 @@
       "source": "TradingKey",
       "published": "10-27 03:16",
       "published_iso": "2026-10-26T18:16:19+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "Intel Corp (INTC) 주식 움직였습니다 상승 3.74%에 10월26일: 변동을 뒷받침하는 사실 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORjEtTTZmVHRTdkxHNjV4X3ZEUmxLSHlsQWhxTXlvU2FjWHEwWDJ5NDdfdEhyeGFKNmplZHNwb1VaclBZaXdwLU1yd0RWNmZKNG9mSW90TGNtdzJTMm5fVGhER3lBakhPZHNFd3JjXzlLbVAyUFVlWkZpSXFNTEpBaVd2MjNpbDJfdlRlWGl6VQ?oc=5",
+      "source": "TradingKey",
+      "published": "10-27 00:16",
+      "published_iso": "2026-10-26T15:16:18+00:00",
+      "age": "16시간 전"
     },
     {
       "ticker": "NVDA",
@@ -69,7 +109,7 @@
       "source": "코인리더스",
       "published": "10-27 00:00",
       "published_iso": "2026-10-26T15:00:00+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "INTC",
@@ -79,7 +119,7 @@
       "source": "Simply Wall Street",
       "published": "10-26 23:13",
       "published_iso": "2026-10-26T14:13:50+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "489250",
@@ -89,7 +129,7 @@
       "source": "조선일보",
       "published": "10-26 21:43",
       "published_iso": "2026-10-26T12:43:28+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "368590",
@@ -99,7 +139,7 @@
       "source": "www.tmgm.com",
       "published": "10-26 19:57",
       "published_iso": "2026-10-26T10:57:57+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "SNDK",
@@ -109,7 +149,7 @@
       "source": "FinanceFeeds",
       "published": "10-26 17:13",
       "published_iso": "2026-10-26T08:13:35+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "368590",
@@ -119,7 +159,7 @@
       "source": "매일경제",
       "published": "10-26 17:08",
       "published_iso": "2026-10-26T08:08:52+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "322410",
@@ -129,7 +169,7 @@
       "source": "매일경제",
       "published": "10-26 17:08",
       "published_iso": "2026-10-26T08:08:52+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "QQQM",
@@ -139,7 +179,7 @@
       "source": "재경일보",
       "published": "10-26 16:51",
       "published_iso": "2026-10-26T07:51:20+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "0072R0",
@@ -149,7 +189,17 @@
       "source": "비즈니스포스트",
       "published": "10-26 16:47",
       "published_iso": "2026-10-26T07:47:39+00:00",
-      "age": "22시간 전"
+      "age": "1일 전"
+    },
+    {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "중동 불안 장기화에 원유 ETF 강세…한 달 수익률 14%대 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Sa1BKOTNOakRVWVdjenNCNjVzd3VoQUlWbjIxc2tVdUFfZWFuSVVVZllJbGpQc29zQ1FnTzRSczZ2QnVQZnlESGtJVHpTVmZpZDRTcHk2ZlTSAVhBVV95cUxPUmtQSjkzTmpEVVlXY3pzQjY1c3d1aEFJVm4yMXNrVXVBX2VhbklVVWZZSWxqUHNvc0NRZ080UnM2dkJ1UGZ5REhrSVR6U1ZmaWQ0U3B5NmZU?oc=5",
+      "source": "아주경제",
+      "published": "10-26 15:45",
+      "published_iso": "2026-10-26T06:45:49+00:00",
+      "age": "1일 전"
     },
     {
       "ticker": "000660",
@@ -222,16 +272,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "국장 약세에 美로 쏠린 눈 \"분배율 살피세요\" - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GSEYxVUJJQmVSTXRXVEROUVptVkdXY2RNWFdBMFVPYVZEbGxNQ19HYW9hTV9LTGt6a3JuTzZrcF9pdGFGWmpfOWtGNTg4S1plcEJGeDNVTXAtbkdhZXRuN3JUb0h3WmdleFNqNG1B0gFuQVVfeXFMTkZIRjFVQklCZVJNdFdURE5RWm1WR1djZE1YV0EwVU9hVkRsbE1DX0dhb2FNX0tMa3prcm5PNmtwX2l0YUZaal85a0Y1ODhLWmVwQkZ4M1VNcC1uR2FldG43clRvSHdaZ2V4U2o0bUE?oc=5",
-      "source": "머니투데이",
-      "published": "10-26 03:30",
-      "published_iso": "2026-10-25T18:30:00+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
       "title": "[재테크 특집] 안정 배당·분산 투자… ‘타이거 ETF’ 인기 - 세계일보",
@@ -259,17 +299,7 @@
       "source": "Mitrade",
       "published": "10-25 16:00",
       "published_iso": "2026-10-25T07:00:00+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "title": "테슬라 목표주가 최고 $475, 최저 $130… 2026년 주가 전망 총정리 (2026년 10월) - Mitrade",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTGlxWFYtQ3F3ZXJsYXFUeFdoMEl0SHJ1TlZMa1Z3NV9NTmZHVmpMRFZZY0hPc2ljMEsyNU00SVh0eDZhN0wtWWpyWVJObllQX3ZFNUUzOWhZaXZ3aDJOMWR3TTFhd1oxRnROV0tRWTlhRGhzX1BpQ1dPTGtIV0tBRmdfTno?oc=5",
-      "source": "Mitrade",
-      "published": "10-25 16:00",
-      "published_iso": "2026-10-25T07:00:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "GEV",
@@ -469,7 +499,7 @@
       "source": "뉴스핌",
       "published": "10-23 16:10",
       "published_iso": "2026-10-23T07:10:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "QQQM",
@@ -479,7 +509,7 @@
       "source": "매일경제",
       "published": "10-23 16:05",
       "published_iso": "2026-10-23T07:05:09+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "SNDK",
@@ -489,7 +519,7 @@
       "source": "Simply Wall Street",
       "published": "10-23 16:00",
       "published_iso": "2026-10-23T07:00:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "AVGO",
@@ -499,7 +529,7 @@
       "source": "Simply Wall Street",
       "published": "10-23 16:00",
       "published_iso": "2026-10-23T07:00:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "ZETA",
@@ -509,7 +539,7 @@
       "source": "뉴스와이어",
       "published": "10-23 15:50",
       "published_iso": "2026-10-23T06:50:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "TSLA",
@@ -669,7 +699,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "published": "10-22 16:41",
       "published_iso": "2026-10-22T07:41:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "NVDA",
@@ -772,6 +802,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "Amkor Technology 주가, Nvidia 첨단 패키징 확장 소식에 8% 급등 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QUzNZN0dsbVdsdmJrWEdVOV9DOVNDTUlXNUVKWmprM21GNmtKZWRTTy1nWlV0c3ExbllLLUhsRktDUk1BSXFDVnZIalJWNE1nVGxWb3g3ejR3QTRFcnkwTk54d243bHpJSnlWY3hFeWY?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-21 20:28",
+      "published_iso": "2026-10-21T11:28:00+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
       "title": "[美특징주]'29일 실적 발표' 샌디스크, 개장 전 반등…\"낸드 가격 견조\" - 이데일리",
@@ -799,7 +839,7 @@
       "source": "대한경제",
       "published": "10-21 16:19",
       "published_iso": "2026-10-21T07:19:03+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "458730",
@@ -809,7 +849,7 @@
       "source": "매일경제 마켓",
       "published": "10-21 16:18",
       "published_iso": "2026-10-21T07:18:42+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "TSLA",
@@ -819,7 +859,7 @@
       "source": "TradingKey",
       "published": "10-21 16:00",
       "published_iso": "2026-10-21T07:00:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "379800",
@@ -922,13 +962,13 @@
       "age": "6일 전"
     },
     {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "Walmart and Costco Just Gained 11% in a Month: Take Profits, or Buy More? - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONEczZmZQa1dnZWYydU5yQzVveHJzcWFBUGZPWHNEcXV0aWhNeWNjZDBKX3FuREZVZGI5RGdDYVI1Z29JZEpQbUpGMFVhWVloTWtWUUxWbGFYbnFRbnAyTGFfR3BtaVhjRVl0WVV4Rk9GeUhyMm5McG1fZDhjbEhFQ3o3SjIzM0hDZjNOaGMwczVDZ01nT2hxcE5yUzhYbDg?oc=5",
-      "source": "TIKR.com",
-      "published": "10-20 19:18",
-      "published_iso": "2026-10-20T10:18:45+00:00",
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "[단신]삼성운용, ‘KODEX 미국배당다우존스액티브’ 상장 外｜퍼가기 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc05oYXNjay1OMTVQWllkVjNrZ1NaSWljRWNBaWExaFBudlIxODhqOFpRampTWENxWlpGUnhnZVJ0M1NjbW14N24wM084TVlFTE9iVXI1WTNzTk1jSFZSQVg5WEl5akhsNUZpcnN3YnBqZk96MjVvU0xzUzR5Rk1vbg?oc=5",
+      "source": "동아일보",
+      "published": "10-20 18:45",
+      "published_iso": "2026-10-20T09:45:14+00:00",
       "age": "6일 전"
     },
     {
@@ -959,46 +999,6 @@
       "source": "Calgary Roughnecks",
       "published": "10-20 17:33",
       "published_iso": "2026-10-20T08:33:30+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "JP모건, 4년 만에 인텔(INTC) 비관론 철회...비중축소→중립 전환 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55WmJQSVVwRlBheERnT2Q5M2diYUxBSUtTNmhzc1QwZGx0UUU5eXNMMlZCY1luY2dXNG9UdlE2OWZBZ2FZZzdVa0Nn?oc=5",
-      "source": "코인리더스",
-      "published": "10-20 16:35",
-      "published_iso": "2026-10-20T07:35:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "458730",
-      "name": "TIGER 미국배당다우존스",
-      "title": "[신상 ETF] 셋과 셋은 오르고 내리고, 하나는 ‘보합’ - 뉴스웰",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kSU5HS1AzbVJLWGlWanpmTFFHaVFkeDBuem03TmlQellrd3JqWnNUMEZoYVIxSzZobGdrRWtvMTd3M19pclA2a3pfdzB0TzRjdnVHS0VNekg3ZDdxZXpnd1J1aHZlOUZ0RURxcA?oc=5",
-      "source": "뉴스웰",
-      "published": "10-20 16:00",
-      "published_iso": "2026-10-20T07:00:12+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
-      "title": "Intel Just Dropped 15% in a Month: KeyBanc Sees 68% Upside From Here - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUm5IN2hGR1pPXzN3aHgzWnoxZk1iZVNkd3RYNXJ3d1BqbUZQeDFENXd4N2xyZTNzT25vb19VOV9rMGRiMzNNbmJLSmp2Rm1CVlVkXzY5aWFpQ2NrSGdzS2xwbGIzYnEyMjh4ME0yS3gxaEwzTmlzR0JGejN4LV9LbHlPMVhCODh2MjZwRXk3MGJlOVVtWGNWZW5n?oc=5",
-      "source": "TIKR.com",
-      "published": "10-20 16:00",
-      "published_iso": "2026-10-20T07:00:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "[이슈] \"배당 함정 피하고 성장 기회 더한다\"…삼성운용 '미국배당다우존스액티브' 출시 - 팍스경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14ZlI5WGxwRTVKMFN5UFQ5aUdpb1RXNHFOQTJOUjQ5a1FkV19hWFAzQmlYTDJjeTQ5SU90UUNHQ0pLelFxQUlVdnBuTVAyWXZ1Nm16YWJKeWJVRjdfQjlIdmNaR2JYckk?oc=5",
-      "source": "팍스경제TV",
-      "published": "10-20 15:49",
-      "published_iso": "2026-10-20T06:49:30+00:00",
       "age": "6일 전"
     }
   ]
