@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 00:47 KST",
+  "updated_at": "2026-10-28 01:49 KST",
   "items": [
     {
       "ticker": "SNDK",
@@ -9,7 +9,17 @@
       "source": "TradingKey",
       "published": "10-28 00:16",
       "published_iso": "2026-10-27T15:16:18+00:00",
-      "age": "30분 전"
+      "age": "1시간 전"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "AMD|Advanced Micro Devices Inc|가격:560.510|Chg%:+29.230 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fSVBiQ0xPN0Vhek9iSE1zM2RERmZ3NXVHWFJTMXgxMWtoRXpmeE9SUkotSHlzVl9oYnJDcVhpamNJaE1faVBOZS1URTJpbWN2Z2lnUzdPTHp6Rkll?oc=5",
+      "source": "TradingKey",
+      "published": "10-28 00:08",
+      "published_iso": "2026-10-27T15:08:14+00:00",
+      "age": "1시간 전"
     },
     {
       "ticker": "AVGO",
@@ -19,16 +29,6 @@
       "source": "BeInCrypto",
       "published": "10-27 23:51",
       "published_iso": "2026-10-27T14:51:40+00:00",
-      "age": "55분 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "AMD|Advanced Micro Devices Inc|가격:551.310|Chg%:+20.030 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fSVBiQ0xPN0Vhek9iSE1zM2RERmZ3NXVHWFJTMXgxMWtoRXpmeE9SUkotSHlzVl9oYnJDcVhpamNJaE1faVBOZS1URTJpbWN2Z2lnUzdPTHp6Rkll?oc=5",
-      "source": "TradingKey",
-      "published": "10-27 23:41",
-      "published_iso": "2026-10-27T14:41:04+00:00",
       "age": "1시간 전"
     },
     {
@@ -39,7 +39,7 @@
       "source": "TradingKey",
       "published": "10-27 22:48",
       "published_iso": "2026-10-27T13:48:14+00:00",
-      "age": "1시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "AMD",
@@ -49,17 +49,7 @@
       "source": "TradingKey",
       "published": "10-27 22:48",
       "published_iso": "2026-10-27T13:48:10+00:00",
-      "age": "1시간 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "엔비디아, 메타, 마이크로소프트, GM - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oZ0xsd252RUtEcXRvQ3lhMm11Q3FGMVZmQUFMU2RnaGtSS21PQUVnRkZjTmdsdnZLZ3d2QkxaSktfMXQ1dERBYmltdGo1SXJUUk1WRWc1bWc3VGo4d2JjU3pUa0Nlc1FCMWFjSVlOVUZNRWs?oc=5",
-      "source": "마켓인",
-      "published": "10-27 20:30",
-      "published_iso": "2026-10-27T11:30:14+00:00",
-      "age": "4시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "AVGO",
@@ -69,7 +59,7 @@
       "source": "이데일리",
       "published": "10-27 19:35",
       "published_iso": "2026-10-27T10:35:18+00:00",
-      "age": "5시간 전"
+      "age": "6시간 전"
     },
     {
       "ticker": "SCHD",
@@ -79,7 +69,7 @@
       "source": "뉴스핌",
       "published": "10-27 16:08",
       "published_iso": "2026-10-27T07:08:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "COST",
@@ -89,7 +79,7 @@
       "source": "매일경제",
       "published": "10-27 15:55",
       "published_iso": "2026-10-27T06:55:34+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "TSLA",
@@ -99,17 +89,17 @@
       "source": "Mitrade",
       "published": "10-27 14:27",
       "published_iso": "2026-10-27T05:27:54+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
-      "title": "10월 ISA 리밸런싱 2개 종목 전량 매도 - 브런치",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBYbFhlTEk0bDV6T3d6a1dzRlRwMEVyYTl2YUVUdnFOZHROeXp5Znp3SmpyajBTclJLUnl3dFU1WmRLMDZ6?oc=5",
-      "source": "브런치",
-      "published": "10-27 12:31",
-      "published_iso": "2026-10-27T03:31:26+00:00",
-      "age": "12시간 전"
+      "title": "＂계좌 열어보느니 묵혀두고 관망＂…투자자들 달려간 곳 - 한국경제TV",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NMnRUbl9ELVZmNDVEUTdma3JvYWpvSEtzVFNYcG9lWi1LbW1zSnRzRjlKOXpDVjl6TTFUTm5tRFFVbk5NRmJLSEZNa2twTHd4aUJYSVdtSUlFZGJhcmxQX05PV1pQWmViQmNreE9CamRSaHc?oc=5",
+      "source": "한국경제TV",
+      "published": "10-27 10:42",
+      "published_iso": "2026-10-27T01:42:00+00:00",
+      "age": "15시간 전"
     },
     {
       "ticker": "458730",
@@ -119,7 +109,7 @@
       "source": "연합뉴스",
       "published": "10-27 10:22",
       "published_iso": "2026-10-27T01:22:44+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "CAT",
@@ -129,7 +119,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "published": "10-27 08:45",
       "published_iso": "2026-10-26T23:45:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "005930",
@@ -139,7 +129,7 @@
       "source": "천지일보",
       "published": "10-27 07:00",
       "published_iso": "2026-10-26T22:00:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "GOOG",
@@ -149,7 +139,7 @@
       "source": "TIKR.com",
       "published": "10-27 03:18",
       "published_iso": "2026-10-26T18:18:39+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "GOOG",
@@ -159,7 +149,7 @@
       "source": "TradingKey",
       "published": "10-27 01:24",
       "published_iso": "2026-10-26T16:24:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "GEV",
@@ -169,7 +159,7 @@
       "source": "TradingKey",
       "published": "10-27 01:16",
       "published_iso": "2026-10-26T16:16:06+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "INTC",
@@ -204,8 +194,8 @@
     {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
-      "title": "샌디스크 SNDK 주가: 실적 3일 전 1,238달러 - FinanceFeeds",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVUGpwT0pxZkl2WEl2N1dhaU5RVzY1Z0FpYk9VdGQzdEtOMmVZNGNrZDYzTC1rLTFlSDVfY19BM1VOalpYblJtc2FWZkZwekMzZ2ZvN3FqbDJsaXNZYWg1aWRZU29jUDhXQ09kNHFOVGdfWmRTUVhReHBmOA?oc=5",
+      "title": "샌디스크 주가 10월 29일 실적 전 $1,238: 웨스턴 디지털 $4.64 상회 후 Bull $1,400 Bear $1,090 - FinanceFeeds",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CMTJiNlRJM0V2ZklRY1E0SzctajNZRFlVTVNEQ3Jtb3FPcmpnVy1zbXRVV0ZvbkpjaUJpeUVqbWFNTVdyZmM5SHYzSmxsN0dSU2Mya0REZWVWYTB1SGpMdFdkclVXbk95TzB0TmRQRmhhcjhJRHRpaWtKdw?oc=5",
       "source": "FinanceFeeds",
       "published": "10-26 17:13",
       "published_iso": "2026-10-26T08:13:35+00:00",
@@ -562,6 +552,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "반도체냐 소프트웨어냐…AI ETF 선택법 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5BcGdKQ3RyRjY5c09ZNVFCeXJOSVladzVCX2lNb2pQVGgtYzV6TU1iLVJxTDFGVFlKclIyemNJNjdCLWtJZWc?oc=5",
+      "source": "매일경제",
+      "published": "10-23 14:06",
+      "published_iso": "2026-10-23T05:06:57+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "테슬라(TSLA.N) 3분기 수익성 개선..내년부터 신사업 모멘텀 반영 전망 By 알파경제 alphabiz - Investing.com 한국어",
@@ -812,6 +812,16 @@
       "age": "6일 전"
     },
     {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "Amkor Technology 주가, Nvidia 첨단 패키징 확장 소식에 8% 급등 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QUzNZN0dsbVdsdmJrWEdVOV9DOVNDTUlXNUVKWmprM21GNmtKZWRTTy1nWlV0c3ExbllLLUhsRktDUk1BSXFDVnZIalJWNE1nVGxWb3g3ejR3QTRFcnkwTk54d243bHpJSnlWY3hFeWY?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-21 20:28",
+      "published_iso": "2026-10-21T11:28:00+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
       "title": "Mizuho, 실적 발표 앞둔 SanDisk 투자의견·목표주가 유지 - Investing.com 한국어",
@@ -919,16 +929,6 @@
       "source": "지디넷코리아",
       "published": "10-21 10:05",
       "published_iso": "2026-10-21T01:05:53+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "삼성운용, ‘KODEX 전고체배터리ESS TOP2플러스’ 순자산 2000억 돌파 - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iM0VURS00czRpR1FqV2ZpdjA5NFN4c3BTSWNtNFRNLUhQZ1FQRXo5c1VGTkJ6WE5RZG1iMklFYzBndWN1OXloOHo5VnVVYXBES1HSAVNBVV95cUxPT05BakdkRlEydFl1VE9Qd0FfNllXWU1jeVFmZnY3M3F1NDIzOGxJVnNndkdUZ1RVbmp1Z1BEYXJncVRVNFBmeUZZc0g0UVlzRGdiOA?oc=5",
-      "source": "서울경제",
-      "published": "10-21 08:56",
-      "published_iso": "2026-10-20T23:56:14+00:00",
       "age": "6일 전"
     },
     {
