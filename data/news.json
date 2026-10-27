@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-28 02:46 KST",
+  "updated_at": "2026-10-28 03:44 KST",
   "items": [
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "Taiwan Semiconductor Manufacturing Co Ltd (TSM) 주식 움직였습니다 상승 3.04%에 10월27일: 핵심 원인 공개 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaG9XYjV4ZWVJb1U5ZDF6Y1VpWXBPTlBob003dDlLaUJKLTd3cUp5X2d5TzAxUDFLeFBCSE9SbzNGNFE3SDcwOXlYbEZ3a3pzOFVtLTFSMFJOSkJ4aGtvNW92OWVYaVNGODdOV2hIVXQ3Sldxc0VjWXI0bFZEb1NKWjNfRDE0bXV3cS1qQmhR?oc=5",
+      "source": "TradingKey",
+      "published": "10-28 03:16",
+      "published_iso": "2026-10-27T18:16:28+00:00",
+      "age": "27분 전"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "브로드컴(AVGO), 앤트로픽 AI 컴퓨팅 확장 담당?...프리마켓서 급등 - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDU2dpTGtlUHNHZHFpdnRxS2h0VXFDb20wRV9TZ0h1VHNNd2M2ZldzbGJvMzU0aW10R3VaNjNuQ2JKNG5YdjZhOVV3?oc=5",
+      "source": "코인리더스",
+      "published": "10-28 03:00",
+      "published_iso": "2026-10-27T18:00:00+00:00",
+      "age": "44분 전"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "Advanced Micro Devices Rises on Expanded Meta Artificial Intelligence Ties : 기업주식정보 : JKN - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05QzJoUlA2REFsSG9Dc2VmWHowa09EZ29WRS1GMjd2Z2hYblFNMDBmREZxRmYzdzJ0TkZEcFZmU2t4di1UNUE4Z2xOTlFrOFlyakZIOGd0UnNkZEZwNXJVRE9R?oc=5",
+      "source": "재경일보",
+      "published": "10-28 00:24",
+      "published_iso": "2026-10-27T15:24:00+00:00",
+      "age": "3시간 전"
+    },
     {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
@@ -9,7 +39,17 @@
       "source": "TradingKey",
       "published": "10-28 00:16",
       "published_iso": "2026-10-27T15:16:18+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "짐 크레이머, 엔비디아 브로드컴-앤트로픽 딜 비판 받을 이유 - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51eXlRVl9xV3ppTkUzSEo4c3NOc250eFQtVDNka0Y5cmhWemhRZkh3M2FQZFlQaUtlY0ZkNmZiUjltelZScGhPSWRhd3FJcVZXbWY5M3dZZkNQTG9rc0d4dC1KSkF0MzJoM0xTcmxFUFpNUQ?oc=5",
+      "source": "BeInCrypto",
+      "published": "10-27 23:51",
+      "published_iso": "2026-10-27T14:51:40+00:00",
+      "age": "3시간 전"
     },
     {
       "ticker": "INTC",
@@ -19,7 +59,7 @@
       "source": "TradingKey",
       "published": "10-27 22:48",
       "published_iso": "2026-10-27T13:48:14+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "AMD",
@@ -29,17 +69,7 @@
       "source": "TradingKey",
       "published": "10-27 22:48",
       "published_iso": "2026-10-27T13:48:10+00:00",
-      "age": "3시간 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "[美특징주]브로드컴, 개장 전 강세…앤트로픽 630억달러 AI 자금조달 지원 - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONUF1TjE2WEFOMTctUGFHSEx5UVdsMWxYanRyYVZmN0VKak9tbnI3dUsyUHhHa1ZOcGxGeVNoS1FlaTVZdnBQNmwxUGdfRGNPLVgwLTgteTJlQlRFN0F3bGwxZVRVTGZvVloxRkpFQzNpNHFOb1NXS1dSSEYzWUJyYw?oc=5",
-      "source": "이데일리",
-      "published": "10-27 19:35",
-      "published_iso": "2026-10-27T10:35:18+00:00",
-      "age": "7시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "SCHD",
@@ -49,7 +79,7 @@
       "source": "뉴스핌",
       "published": "10-27 16:08",
       "published_iso": "2026-10-27T07:08:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "COST",
@@ -59,7 +89,7 @@
       "source": "매일경제",
       "published": "10-27 15:55",
       "published_iso": "2026-10-27T06:55:34+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "458730",
@@ -69,7 +99,7 @@
       "source": "한국경제TV",
       "published": "10-27 10:42",
       "published_iso": "2026-10-27T01:42:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "458730",
@@ -79,7 +109,7 @@
       "source": "연합뉴스",
       "published": "10-27 10:22",
       "published_iso": "2026-10-27T01:22:44+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "CAT",
@@ -99,7 +129,7 @@
       "source": "천지일보",
       "published": "10-27 07:00",
       "published_iso": "2026-10-26T22:00:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "GOOG",
@@ -109,7 +139,7 @@
       "source": "TIKR.com",
       "published": "10-27 03:18",
       "published_iso": "2026-10-26T18:18:39+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "GOOG",
@@ -235,7 +265,7 @@
       "ticker": "000660",
       "name": "SK하이닉스",
       "title": "SK하이닉스, 여의도 IFC몰서 기업광고 '초심' 전시회 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZVHNxdjNjcTNfWHJHRzFsVEx0YzZnQ2w5X3AzRGxTb2lBdDRxQmZfMU05TTB6Q2hTUnV4bkZVS1ZXWmduNHp6LUVyWGEzdjlMNm8tT3NLTjFtUms3dWdWNdIBYEFVX3lxTE9ZVHNxdjNjcTNfWHJHRzFsVEx0YzZnQ2w5X3AzRGxTb2lBdDRxQmZfMU05TTB6Q2hTUnV4bkZVS1ZXWmduNHp6LUVyWGEzdjlMNm8tT3NLTjFtUms3dWdWNQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kSW9IVEJIRFc0YkZwT1k5MFkwd2RKUUk0am9LZzZuZUUzSHJab0tUMFRxdi12a21iN0lELUNEclpVYlpDSDVuVVNlVW0xbTBJSnR1dHpYX0tiVEnSAWBBVV95cUxPWVRzcXYzY3EzX1hyR0cxbFRMdGM2Z0NsOV9wM0RsU29pQXQ0cUJmXzFNOU0wekNoU1J1eG5GVUtWV1pnbjR6ei1FclhhM3Y5TDZvLU9zS04xbVJrN3VnVjU?oc=5",
       "source": "연합뉴스",
       "published": "10-26 14:55",
       "published_iso": "2026-10-26T05:55:04+00:00",
@@ -269,16 +299,6 @@
       "source": "머니투데이",
       "published": "10-26 12:35",
       "published_iso": "2026-10-26T03:35:00+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "NVIDIA Cosmos, 월드 모델을 학습·평가·배포하는 새 도구를 열다 - NVIDIA",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRUsxeGhoVkNKNzJSeXVDVFZyeFJBRjZwSXgtTUtkRDhKNlNyZ1MxSVBvS3lsd05ROWJIcnRDeFVHSWVTbnBjcFBVQUQxeDI2RDlkb00xeHJuQ2ItZXFoZi1oekhzR2NwanBianh3WHE1VVgxd1FmVkczeERTQUV2RURNdUJHZw?oc=5",
-      "source": "NVIDIA",
-      "published": "10-26 12:16",
-      "published_iso": "2026-10-26T03:16:49+00:00",
       "age": "1일 전"
     },
     {
@@ -319,7 +339,7 @@
       "source": "머니투데이",
       "published": "10-26 03:30",
       "published_iso": "2026-10-25T18:30:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "458730",
@@ -492,6 +512,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "SK Hynix의 Solidigm IPO 철회, 마이크론 테크놀로지·샌디스크에 호재 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tT2U3RkM3Y3B4Q25TM3FDLUpJT3VldUF2Vlg5SFkwMEdvdEJXWkxVRVpyTEpTNlU3M2dPQ3lGSTd5U3ZkbUR2cEVTUG51cGtzU0FjMW04bFJkMl91cnIyaXNJa2dRLU5sMnd1SFVXV3A?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-24 00:43",
+      "published_iso": "2026-10-23T15:43:00+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "COST",
       "name": "Costco Wholesale Corporation",
       "title": "코스트코 홀세일(COST), 투자자들이 지금 다시 보는 이유는? - Simply Wall Street",
@@ -536,16 +566,6 @@
       "name": "Sandisk Corporation",
       "title": "샌디스크(SNDK), 투자자들이 다시 주목하는 이유는 무엇일까? - Simply Wall Street",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNME1LenFfemhodkdTRDVadjZpc3NnMnJvMDN3WHNnS2FxU0RFc2lqY0ZBYzFlbFJDM3UtemRNc1d3enAxSUZDSENGWHFUdXRHQUZ3ZEUzLU1BYjlIQ2RGNDhUVmVaM2hUbU9TbXpQaEc3dXVUMkdTRi1aME5qRXlySjd1bDByY2ViN1AxdWtkNW8yR2I3X2FhdWZmMVJUb3JReFhwZV9xTlpBeF9LSmdITE1vTGRnYm1lcTFNa202Rngxd9IBjgFBVV95cUxObElwcEExWTRtVUtLSUYxUEdzSVhMRTk0cGZFMk1lbFF1elI3ZEVwZzVXRDc1Y3k2S3FqNVhCN2lJcW1yeU1OT0x3NzZNdlZTWkZxdHRlOFJqZzBEZ2lYc2MySjhzQnNSdnc2d1JMUjZqWVYwR1lLcmJ3UTctZ0RnaUJPWjJpLXR6MHE2cXNR?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-23 16:00",
-      "published_iso": "2026-10-23T07:00:00+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "브로드컴 주가보다 먼저 볼 AI 수혜 블루칩 3선 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWZlSUdmWFhLa0ZxNXZpYlRmTko1SXVvRnRFUzFLc2hJeG1WRHhRTnVENGdGY2kydFc4ZktsWVIwWEt1WGJUbm9SNHVkYUlVWE5TcEhpaGpMeDVTaFFtMG9vcmZORGNYYUIwMWNPalN4Q2h2T2J6RHhPMUJzZWFUN0gzejAteXd0SkhSSl92QWhRTldYV2xz0gGcAUFVX3lxTFBOWTZsVUhHOXlqd3YzczZYbk9YTEo5NVFMT3pkWHZjOW15WklsOGVINkRTbUdUQ3Q5d1FqaV9kZkNLRGNoSFBFcmQwQ3dsTDlXZHVRQ21vVXZZTDFmcGtqM1pSZkVneTFhVURQZmlzNFJLWmZQWEZESHNZdHFhXzE5Z2xwVDdLSTljYVpkRVZfd3RhRUg2aXRudEdrRQ?oc=5",
       "source": "Simply Wall Street",
       "published": "10-23 16:00",
       "published_iso": "2026-10-23T07:00:00+00:00",
@@ -609,7 +629,7 @@
       "source": "TIKR.com",
       "published": "10-23 03:33",
       "published_iso": "2026-10-22T18:33:45+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "GOOG",
@@ -619,7 +639,7 @@
       "source": "TradingKey",
       "published": "10-23 03:16",
       "published_iso": "2026-10-22T18:16:32+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "AVGO",
@@ -659,26 +679,6 @@
       "source": "TradingKey",
       "published": "10-22 23:16",
       "published_iso": "2026-10-22T14:16:15+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "Advanced Micro Devices Inc (AMD) 주식 시작했습니다 하락 5.34%에 10월22일: 어떤 신호인가요? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUzMwb1MwdHVXMkNKeW54OUJXUVYwbjJ4VV9XNDAwWGVKNy1Ldm5kOUtXZmNNcGNTQlpUXzNUT1BBeFNQV1hXdm8zdlZNTmEwMDhhOTN0MEJEMlA3RllfaVRBTFhGaTBFZlAwT2FkUV9sRlFSUmdMT050bkpJMGJSQmJfMTI3YjN3UDgza29n?oc=5",
-      "source": "TradingKey",
-      "published": "10-22 22:48",
-      "published_iso": "2026-10-22T13:48:23+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "SK Hynix, ADR 유동주식 확대 시 나스닥 100 편입 가능 – 골드만삭스 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qcDdxNHN2MHJTNElVR00yNk1fNUt5SEY0ZWhFR2l6WE9uMl8yWFdlQ19MVExmS1FHN1VlUkwyNDFYakhKMVhWSXdySWRKWGg2bG5haDJHeDR6OTJ6MDl1bjM4WnAxM3JFNC10ZXJHOE0?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-22 21:13",
-      "published_iso": "2026-10-22T12:13:00+00:00",
       "age": "5일 전"
     },
     {
@@ -729,6 +729,16 @@
       "source": "코인리더스",
       "published": "10-22 14:15",
       "published_iso": "2026-10-22T05:15:00+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "Broadcom’s AI Revenue Is Set to Quadruple. Why Is the Stock Well Off Its High? - TOP1markets",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYm44Tjk2Skl6Vmdyc0ZTYXhTcVU2MWNJVXV4RV9rLU41N3BuS0ZWLUxqOE12b3VpblRBSHk1QUpKLVFWTHZjYkg1MVN5Ylh2am52Yl8xSElsRVZrdzdrOXJ0Q0t2Tjd6cDRzTGdoeDZGamgxMWdIc1JNWEh5MGtob05Zb1RoMG53MXhKQjVnbkExQQ?oc=5",
+      "source": "TOP1markets",
+      "published": "10-22 13:26",
+      "published_iso": "2026-10-22T04:26:22+00:00",
       "age": "5일 전"
     },
     {
@@ -812,13 +822,13 @@
       "age": "6일 전"
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "브로드컴, 비대면 카드 결제 사기 방지 기능 출시 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NRlV4bEkwMVlscXlwQmd1My1pN245cU1uenU0cUlhUnBLeHFsY01lUF9QRHFmTm1YUUxyVWZPT1VtYkh4V2lEQi1QY3VWdWh0OGJ2dWQxZEVwQm9jQ25ORUxtUzlqMHVXTnh3Vnd6QXM?oc=5",
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "Amkor Technology 주가, Nvidia 첨단 패키징 확장 소식에 8% 급등 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QUzNZN0dsbVdsdmJrWEdVOV9DOVNDTUlXNUVKWmprM21GNmtKZWRTTy1nWlV0c3ExbllLLUhsRktDUk1BSXFDVnZIalJWNE1nVGxWb3g3ejR3QTRFcnkwTk54d243bHpJSnlWY3hFeWY?oc=5",
       "source": "Investing.com 한국어",
-      "published": "10-21 22:13",
-      "published_iso": "2026-10-21T13:13:00+00:00",
+      "published": "10-21 20:28",
+      "published_iso": "2026-10-21T11:28:00+00:00",
       "age": "6일 전"
     },
     {
