@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 10:56 KST",
+  "updated_at": "2026-10-28 11:47 KST",
   "items": [
     {
       "ticker": "379800",
@@ -9,7 +9,7 @@
       "source": "파이낸셜신문",
       "published": "10-28 10:46",
       "published_iso": "2026-10-28T01:46:21+00:00",
-      "age": "9분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "379810",
@@ -19,7 +19,7 @@
       "source": "열린뉴스통신",
       "published": "10-28 10:46",
       "published_iso": "2026-10-28T01:46:00+00:00",
-      "age": "10분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "379800",
@@ -29,7 +29,7 @@
       "source": "뉴스핌",
       "published": "10-28 10:35",
       "published_iso": "2026-10-28T01:35:00+00:00",
-      "age": "21분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "379810",
@@ -39,7 +39,7 @@
       "source": "뉴스핌",
       "published": "10-28 10:35",
       "published_iso": "2026-10-28T01:35:00+00:00",
-      "age": "21분 전"
+      "age": "1시간 전"
     },
     {
       "ticker": "379810",
@@ -59,7 +59,7 @@
       "source": "팝콘뉴스",
       "published": "10-28 09:46",
       "published_iso": "2026-10-28T00:46:33+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "379810",
@@ -69,7 +69,7 @@
       "source": "팝콘뉴스",
       "published": "10-28 09:46",
       "published_iso": "2026-10-28T00:46:33+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "000660",
@@ -79,7 +79,7 @@
       "source": "경향신문",
       "published": "10-28 09:43",
       "published_iso": "2026-10-28T00:43:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "NVDA",
@@ -89,16 +89,16 @@
       "source": "Investing.com 한국어",
       "published": "10-28 09:14",
       "published_iso": "2026-10-28T00:14:00+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
-      "title": "월가 \"앤트로픽 IPO 최대 수혜주는 브로드컴\" - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuRVNBVkY0eDFMQmcyT3MwTW9TY2hKNTItM0JzNXI2c085U3pJNFN1SGtDVFhPWUF4c0YxVm1DVTR2Y0ViMzlUcmpsZ2pOT3hpMWZnYVBrbF85RWVybWNQWUZzWmtOd0hjSE1DSTc4QmZoUQ?oc=5",
-      "source": "KB Think",
-      "published": "10-28 08:51",
-      "published_iso": "2026-10-27T23:51:43+00:00",
+      "title": "월가 \"앤트로픽 IPO 최대 수혜주는 브로드컴\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WSWpQMkRzVDhZUWYzblk2QXVjdE12a0MwN3RQZ1hOZ3ZzX2hQdjJaQTJkbUw5dW4wTGotRURJRmdMckl0OS11dE91RHQxbWJKZ2JJZGxTOVZESXhzVzFZX2pKMEVudG5rTUJRbWMyLWdVMUJo0gF0QVVfeXFMTlZJalAyRHNUOFlRZjNuWTZBdWN0TXZrQzA3dFBnWE5ndnNfaFB2MlpBMmRtTDl1bjBMai1FRElGZ0xySXQ5LXV0T3VEdDFtYkpnYklkbFM5VkRJeHNXMVlfakowRW50bmtNQlFtYzItZ1UxQmg?oc=5",
+      "source": "연합인포맥스",
+      "published": "10-28 08:58",
+      "published_iso": "2026-10-27T23:58:56+00:00",
       "age": "2시간 전"
     },
     {
@@ -109,7 +109,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-28 08:30",
       "published_iso": "2026-10-27T23:30:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "NVDA",
@@ -119,7 +119,7 @@
       "source": "코인리더스",
       "published": "10-28 08:30",
       "published_iso": "2026-10-27T23:30:00+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "AVGO",
@@ -129,7 +129,7 @@
       "source": "알파경제",
       "published": "10-28 07:43",
       "published_iso": "2026-10-27T22:43:59+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "JEPI",
@@ -159,7 +159,7 @@
       "source": "알파경제",
       "published": "10-28 06:00",
       "published_iso": "2026-10-27T21:00:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "TSM",
@@ -169,7 +169,7 @@
       "source": "TradingKey",
       "published": "10-28 03:16",
       "published_iso": "2026-10-27T18:16:28+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "AVGO",
@@ -179,7 +179,7 @@
       "source": "코인리더스",
       "published": "10-28 03:00",
       "published_iso": "2026-10-27T18:00:00+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "AMD",
@@ -189,7 +189,7 @@
       "source": "재경일보",
       "published": "10-28 00:24",
       "published_iso": "2026-10-27T15:24:00+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "SNDK",
@@ -199,7 +199,7 @@
       "source": "TradingKey",
       "published": "10-28 00:16",
       "published_iso": "2026-10-27T15:16:18+00:00",
-      "age": "10시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "INTC",
@@ -239,7 +239,7 @@
       "source": "뉴스핌",
       "published": "10-27 16:08",
       "published_iso": "2026-10-27T07:08:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "COST",
@@ -712,16 +712,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "다우 선물, 기술주 차익 매물 폭탄에 멈칫...알파벳 차익 실현 속 '쉬어가기' - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BUHoxcExjUmJxNW5ILUtVQVhOMUdFM0pQTzRRN2hCWk1BTlotWGh6TWxoR0hNb0lyY1ZmcDBfbk1iaTlhbFJaWnpn?oc=5",
-      "source": "코인리더스",
-      "published": "10-23 09:30",
-      "published_iso": "2026-10-23T00:30:00+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "SCHD",
       "name": "Schwab U.S. Dividend Equity ETF",
       "title": "[금리 리셋] ⑨ '금리가 올라도 배당은 자란다' 배당 컷 해법은 - ㊦ - 뉴스핌",
@@ -802,6 +792,16 @@
       "age": "5일 전"
     },
     {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "Caterpillar Just Dropped 10% in a Month. Is It Time to Sell, or Load Up? - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUF9CMHVnUmt3clNGYmpZZkFyR3U0TXU1UkZrLUpKRHdZMTZmbzZNdThkdnNsUmVqLVphTlRRYVVGYVBxM1diT0VlOHB6RkRNQndzT0JhMGhSdzJ4WUdDTDl0Y1ctZ2sySFdTd0RrYk1falB4RjJhWUNkU3NEYXlodGoySGRfSHN4NkcxVVE5d0NBWVFaRUx3MmljR3JsQQ?oc=5",
+      "source": "TIKR.com",
+      "published": "10-22 16:00",
+      "published_iso": "2026-10-22T07:00:00+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "title": "NVIDIA Corp (NVDA) 주식 움직였습니다 하락 3.95%에 10월22일: 핵심 원인 공개 - TradingKey",
@@ -829,7 +829,7 @@
       "source": "블로그",
       "published": "10-22 11:31",
       "published_iso": "2026-10-22T02:31:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "005930",
@@ -839,7 +839,7 @@
       "source": "경향신문",
       "published": "10-22 11:04",
       "published_iso": "2026-10-22T02:04:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "005380",
@@ -915,7 +915,7 @@
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "고금리 장기화에 힘 빠진 금값…연중 최저치 경신 - 대한경제",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9id0pvbUtSMGpxeVFZSWhkNUxEbEZ2cjlCMElrcXd2Y05acXBKNGxxWUhoV3lRS0pqZjNrbFVxRldkN1BYbHJRRmR1aFdydzFST3p3WTJxbXhlanNST1dydHVoQ3dpbnBmNi14dTJ1amNqTU9pYkE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vZ05WTWFXY0hTdHlDRXNzek1STUxFcnVzUzJKTjNvclVwdDZFM3NSVWh1ZVA3R3RVUkNRM2h3N09fLW1uR2h1TEVoc0pFUlkwTWNTdGZKdDExV0V2cW1lNVU2NzJ2YXBYekxkRTBGeklUYTQ?oc=5",
       "source": "대한경제",
       "published": "10-21 16:19",
       "published_iso": "2026-10-21T07:19:03+00:00",
@@ -954,11 +954,11 @@
     {
       "ticker": "487230",
       "name": "KODEX 미국AI전력핵심인프라",
-      "title": "삼성자산운용, AI 전력 인프라·전고체배터리 성장성 주목…KODEX ETF 2376억 원 돌파 - 이코노미사이언스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FZ1dBTkF1YWxURElGRV9VRTg3YVlIczNxN01RYno3dDd2c201bVdNeTdBYS1OR1NYNlk0VHZQOHVSUWpUQXd6OFdqR2JXcUgwYmlCZU1uZjNaTnFTNVduYXl0ckhSeExKS2JXRFp3Yw?oc=5",
-      "source": "이코노미사이언스",
-      "published": "10-21 14:44",
-      "published_iso": "2026-10-21T05:44:48+00:00",
+      "title": "삼성자산운용, ‘KODEX 전고체배터리ESS TOP2플러스’ ETF…순자산 2000억원 돌파 - PRESS9",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91dkNUZ283TnR1UzFVUHRyT2l6R3RWV1czeVJIUUtHcXhmc3pWVmdLZ25raUtyM2dweTJrNVNRc0FpbDVVOHNWOGNhaVZYaDVqY2kwT0VwTnZmaF9zOGVydnZZTEEyUQ?oc=5",
+      "source": "PRESS9",
+      "published": "10-21 14:58",
+      "published_iso": "2026-10-21T05:58:18+00:00",
       "age": "6일 전"
     },
     {
