@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 23:57 KST",
+  "updated_at": "2026-10-30 00:55 KST",
   "items": [
     {
       "ticker": "GOOG",
@@ -9,7 +9,7 @@
       "source": "TradingKey",
       "published": "10-29 22:48",
       "published_iso": "2026-10-29T13:48:18+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "GOOG",
@@ -19,7 +19,7 @@
       "source": "TradingKey",
       "published": "10-29 22:48",
       "published_iso": "2026-10-29T13:48:10+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "GEV",
@@ -29,17 +29,7 @@
       "source": "Investing.com 한국어",
       "published": "10-29 20:03",
       "published_iso": "2026-10-29T11:03:00+00:00",
-      "age": "3시간 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "720억 달러 규모의 수주 잔고를 고려할 때, 캐터필러(CAT)의 주가는 적정 수준인가? - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3g3ZVR4bUtzWnNCQXlqWWw5dkJEem9pNmpUd1JKWnJ5OHZrcklXcnpOSjlCZnk1Wl9xWnBqV0xEMC1HcEsyTF9WVTRZbjBraFkyMTNLMkc4eTRkTU9rdndPOTlLekJvZWpIUHBXa05pNDRXMEZKekE3c0padTVfa0ZoOUVWNDR4cFRBeW53aG5fT3lCdXfSAZsBQVVfeXFMTlNCUVl2enFwOU5pa05TVWY5RU1YTUV5RVhkSlY0M2tuOWxJQ2stSGM5Rk5XeElCNUs0dEFRQTdOc25jS2h6bXNJLW9kRW5zWDFLRnFxWnhMNVR4c1FETkJaSl8tTTBDakRGblpLb1ZsSUVkblljOUF6UW9CeWg0NURRR0d1OU1WV0FCY3VLS2IwMEFLb2NDNjNmUDA?oc=5",
-      "source": "Simply Wall St",
-      "published": "10-29 18:39",
-      "published_iso": "2026-10-29T09:39:55+00:00",
-      "age": "5시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "TSM",
@@ -49,16 +39,6 @@
       "source": "매일경제",
       "published": "10-29 17:07",
       "published_iso": "2026-10-29T08:07:36+00:00",
-      "age": "6시간 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "[ETF 시황] 삼성전자 낙폭에 인버스 8%대↑…은행·금융株 '상승' - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4VHFiV0NUXzMwalRXc3BOSFNDZGxLMHo1Z3lmVk9PNmQxa1hiQVBrMTJWTmR4aE5LN0M3TklkVFFQWHBlQXBvZklrZVUyWGFpYkJ4bXE1cS1qZFJy?oc=5",
-      "source": "뉴스핌",
-      "published": "10-29 16:08",
-      "published_iso": "2026-10-29T07:08:00+00:00",
       "age": "7시간 전"
     },
     {
@@ -69,7 +49,7 @@
       "source": "비즈니스포스트",
       "published": "10-29 15:44",
       "published_iso": "2026-10-29T06:44:04+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "487230",
@@ -79,7 +59,7 @@
       "source": "글로벌이코노믹",
       "published": "10-29 15:27",
       "published_iso": "2026-10-29T06:27:09+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "458730",
@@ -89,7 +69,7 @@
       "source": "KPI뉴스",
       "published": "10-29 14:41",
       "published_iso": "2026-10-29T05:41:46+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "458730",
@@ -99,7 +79,7 @@
       "source": "뉴스핌",
       "published": "10-29 14:19",
       "published_iso": "2026-10-29T05:19:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "490490",
@@ -109,7 +89,7 @@
       "source": "알파경제",
       "published": "10-29 12:25",
       "published_iso": "2026-10-29T03:25:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "490490",
@@ -119,7 +99,7 @@
       "source": "비즈니스플러스",
       "published": "10-29 11:25",
       "published_iso": "2026-10-29T02:25:05+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "379780",
@@ -129,7 +109,7 @@
       "source": "메트로신문",
       "published": "10-29 11:09",
       "published_iso": "2026-10-29T02:09:57+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "005930",
@@ -139,7 +119,7 @@
       "source": "경향신문",
       "published": "10-29 10:30",
       "published_iso": "2026-10-29T01:30:00+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "0072R0",
@@ -149,7 +129,7 @@
       "source": "신아일보",
       "published": "10-29 10:23",
       "published_iso": "2026-10-29T01:23:50+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "005930",
@@ -159,7 +139,7 @@
       "source": "포쓰저널",
       "published": "10-29 10:14",
       "published_iso": "2026-10-29T01:14:23+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "ZETA",
@@ -169,7 +149,7 @@
       "source": "쿠키뉴스",
       "published": "10-29 10:12",
       "published_iso": "2026-10-29T01:12:20+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "490490",
@@ -179,7 +159,7 @@
       "source": "아시아경제",
       "published": "10-29 09:54",
       "published_iso": "2026-10-29T00:54:38+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "490490",
@@ -189,17 +169,7 @@
       "source": "뉴스핌",
       "published": "10-29 09:46",
       "published_iso": "2026-10-29T00:46:00+00:00",
-      "age": "14시간 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "IBM·인텔(INTC)·오라클(ORCL), OKX 토큰화 거부...빅테크들 줄줄이 반대 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vS0xuUlpVdHlnT19YeUl4ek50NlVPZGNFNE44WU4xSUVqUmZITVI1OFpUemZQcEo1LW1OaGlUd0lvd1FIcGdEbFNR?oc=5",
-      "source": "코인리더스",
-      "published": "10-29 09:30",
-      "published_iso": "2026-10-29T00:30:00+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "INTC",
@@ -209,7 +179,7 @@
       "source": "코인리더스",
       "published": "10-29 09:30",
       "published_iso": "2026-10-29T00:30:00+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "458730",
@@ -219,7 +189,7 @@
       "source": "연합뉴스",
       "published": "10-29 09:18",
       "published_iso": "2026-10-29T00:18:36+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "005380",
@@ -229,7 +199,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-29 09:00",
       "published_iso": "2026-10-29T00:00:00+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "GOOG",
@@ -239,7 +209,7 @@
       "source": "FinanceFeeds",
       "published": "10-29 08:40",
       "published_iso": "2026-10-28T23:40:29+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "SNDK",
@@ -502,6 +472,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "엔비디아(NVDA.O), 메타(META.O)에 4조원 투자…AI 에이전트 '뮤즈' 협력 강화 - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ic29vcjJRRW82VW14S2ttSlpvVUhUYXNobDRXN0pDSnBYVzdFWUxERnVPWmhXRXNsWi1wd2pZR1dqeUd3LUMySTItTDlCZzE2azRlZnJRcmRpWngwbk56WDVpaW1FUVJ2b0RWTXF3?oc=5",
+      "source": "알파경제",
+      "published": "10-28 07:40",
+      "published_iso": "2026-10-27T22:40:19+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "JEPI",
       "name": "JPMorgan Equity Premium Income ETF",
       "title": "커버드콜ETF인데 '액티브'라고?…상품 줄줄이 나오는 이유 - 아시아경제",
@@ -569,7 +549,7 @@
       "source": "재경일보",
       "published": "10-28 00:24",
       "published_iso": "2026-10-27T15:24:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "SNDK",
@@ -579,7 +559,7 @@
       "source": "TradingKey",
       "published": "10-28 00:16",
       "published_iso": "2026-10-27T15:16:18+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "INTC",
@@ -662,6 +642,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "'역대 최대 IPO' 앤트로픽 상장 신청...주목할 ETF는 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zWXgtc2NWaDllSjlacXZPQVJKRVE3bUpxd00tUElOa0hLN1ljRWlaOVRjcWlPYXNSZVZWUnJWQzRGMENyelpEampTaVphaVp6X1JESzI0MXNUZG1Nc3hxREhOTkJaWkIz0gFuQVVfeXFMTzV2Tzc5c2ZjYlZGVVZjUnZhV3V4MVhxZVhxMmExQ2NlNFp2OUpKc19famVlMHo4QTVRV3IyRVJ1bC1rUTlBVmxhOHB6RmNycE12OHI4OHVDQ2F3MzJ0YjZiang4NV93ZGxraW5pNWc?oc=5",
+      "source": "머니투데이",
+      "published": "10-27 15:07",
+      "published_iso": "2026-10-27T06:07:55+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "글로벌 인프라와 중장비의 제왕 - 캐터필러(CAT) - 네이버 프리미엄콘텐츠",
@@ -719,7 +709,7 @@
       "source": "TradingKey",
       "published": "10-27 00:16",
       "published_iso": "2026-10-26T15:16:18+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "INTC",
@@ -812,6 +802,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "SK하이닉스, ‘초심 Crafted by SK hynix’ 전시 개최… 관람객과 함께 반도체 위에 초심을 새기다 – SK hynix Newsroom - SK hynix",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHeGU0NmVLUzM0TEswVVdzMVQyZEctNzFMZWN4TUxEaXlnd3BQLXY2elBoNXV0LTFtdElNaE8yNVh0V1NOUFdObnExN01Uc0V2Uk9aNGFacFIxeVhlUmN3eDcyWUtOWGtF?oc=5",
+      "source": "SK hynix",
+      "published": "10-26 14:24",
+      "published_iso": "2026-10-26T05:24:07+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
       "title": "\"반도체주 이젠 오르겠지\"…손실 커지는데 또 3배 레버리지 베팅[서학픽] - 머니투데이 - 머니투데이",
@@ -892,6 +892,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "투자자들은 캐터필러(CAT)의 AI 데이터센터 전력 수요에 어떻게 반응하고 있는가 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXRPRVVnMlA3X2dWVHJ5NFczQi10VWxoR0g5S0psaWFaTDA0UUpGRkdWMEtCT2FydC1HbGJKTl9MSDdsOUpOSXB0Tk5Obmh0bGxhYTVDNWhoYWhlTHN6eU5xMDNSY1FKNkFyVjBGUEdKSGdfZjFQUEYzSlFTNjVrTFliaEpNQmsyYk9yeEM2V1NJOHNXUmfSAZsBQVVfeXFMUFltNEdfRTRFaXZqeV94TWQ2d0V3OWJ0ZVhSbGxrZm10YnJzTTNaejNEZV9ibU0wSmdlb1NlQUU2Vm40dDdBVEJ4UGVwTVdYLXVfSW92VzNjeVMwLW90SlQ1MFNfRVhJQmJXTFY4X1p3Ty1pQTAwUW1vZWRXdExTY3h0eWx1bjhZRGlWVWR4VEh6VGRaY0xza1dnRFU?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-25 05:42",
+      "published_iso": "2026-10-24T20:42:28+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
       "title": "제타 글로벌, 디지털 오디언스 인수 종결…매도 주주 보통주 40만 6871주 재매각 등록 - 데이터투자",
@@ -899,16 +909,6 @@
       "source": "데이터투자",
       "published": "10-24 06:08",
       "published_iso": "2026-10-23T21:08:45+00:00",
-      "age": "5일 전"
-    },
-    {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "SK Hynix의 Solidigm IPO 철회, 마이크론 테크놀로지·샌디스크에 호재 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tT2U3RkM3Y3B4Q25TM3FDLUpJT3VldUF2Vlg5SFkwMEdvdEJXWkxVRVpyTEpTNlU3M2dPQ3lGSTd5U3ZkbUR2cEVTUG51cGtzU0FjMW04bFJkMl91cnIyaXNJa2dRLU5sMnd1SFVXV3A?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-24 00:43",
-      "published_iso": "2026-10-23T15:43:00+00:00",
       "age": "5일 전"
     },
     {
@@ -982,6 +982,16 @@
       "age": "6일 전"
     },
     {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "다우 선물, 기술주 차익 매물 폭탄에 멈칫...알파벳 차익 실현 속 '쉬어가기' - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BUHoxcExjUmJxNW5ILUtVQVhOMUdFM0pQTzRRN2hCWk1BTlotWGh6TWxoR0hNb0lyY1ZmcDBfbk1iaTlhbFJaWnpn?oc=5",
+      "source": "코인리더스",
+      "published": "10-23 09:30",
+      "published_iso": "2026-10-23T00:30:00+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "SCHD",
       "name": "Schwab U.S. Dividend Equity ETF",
       "title": "[금리 리셋] ⑨ '금리가 올라도 배당은 자란다' 배당 컷 해법은 - ㊦ - 뉴스핌",
@@ -989,16 +999,6 @@
       "source": "뉴스핌",
       "published": "10-23 08:01",
       "published_iso": "2026-10-22T23:01:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "솔리다임 IPO 검토를 중단합니다 장기 성장과 주주가치 제고 노력은 이어갑니다 - SK hynix",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMZW9fZDVjQkxvZmpDMWNBSjBEdUgwelNGYUpmbzk2TE05WnlaMXh1QWEzWjB1VmoybG9wMkJaTUliM1QtdkRHZ2E3UQ?oc=5",
-      "source": "SK hynix",
-      "published": "10-23 07:33",
-      "published_iso": "2026-10-22T22:33:41+00:00",
       "age": "6일 전"
     }
   ]
