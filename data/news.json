@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 04:51 KST",
+  "updated_at": "2026-10-30 05:44 KST",
   "items": [
     {
       "ticker": "GOOG",
@@ -8,8 +8,8 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TcEN0ak9sc1RjVkNiSjBWU0hoc1BnWnF4Y3dfb0xPZjJnM09vV09waDJWX1Nsdk5HeDhGOENyaC1qbkxtQUpXTTlvVFpvVHVDUGFmRjAxUHMydzVSamwtQ3ZkMUhBQXpNczZ6akRuU0ltamJLamRFOWZEd1hhZw?oc=5",
       "source": "BeInCrypto",
       "published": "10-30 02:54",
-      "published_iso": "2026-10-29T17:54:40+00:00",
-      "age": "1시간 전"
+      "published_iso": "2026-10-29T17:54:08+00:00",
+      "age": "2시간 전"
     },
     {
       "ticker": "GOOG",
@@ -19,7 +19,7 @@
       "source": "FinanceFeeds",
       "published": "10-30 00:43",
       "published_iso": "2026-10-29T15:43:53+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "GOOG",
@@ -49,7 +49,7 @@
       "source": "경향신문",
       "published": "10-29 21:52",
       "published_iso": "2026-10-29T12:52:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "GEV",
@@ -59,17 +59,7 @@
       "source": "Investing.com 한국어",
       "published": "10-29 20:03",
       "published_iso": "2026-10-29T11:03:00+00:00",
-      "age": "8시간 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "720억 달러 규모의 수주 잔고를 고려할 때, 캐터필러(CAT)의 주가는 적정 수준인가? - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0JRWXZ6cXA5TmlrTlNVZjlFTVhNRXlFWGRKVjQza245bElDay1IYzlGTld4SUI1SzR0QVFBN05zbmNLaHptc0ktb2RFbnNYMUtGcXFaeEw1VHhzUUROQlpKXy1NMENqREZuWktvVmxJRWRuWWM5QXpRb0J5aDQ1RFFHR3U5TVZXQUJjdUtLYjAwQUtvY0M2M2ZQMNIBmwFBVV95cUxOU0JRWXZ6cXA5TmlrTlNVZjlFTVhNRXlFWGRKVjQza245bElDay1IYzlGTld4SUI1SzR0QVFBN05zbmNLaHptc0ktb2RFbnNYMUtGcXFaeEw1VHhzUUROQlpKXy1NMENqREZuWktvVmxJRWRuWWM5QXpRb0J5aDQ1RFFHR3U5TVZXQUJjdUtLYjAwQUtvY0M2M2ZQMA?oc=5",
-      "source": "Simply Wall St",
-      "published": "10-29 18:39",
-      "published_iso": "2026-10-29T09:39:57+00:00",
-      "age": "10시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "TSM",
@@ -79,7 +69,7 @@
       "source": "매일경제",
       "published": "10-29 17:07",
       "published_iso": "2026-10-29T08:07:36+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "ZETA",
@@ -99,7 +89,7 @@
       "source": "비즈니스포스트",
       "published": "10-29 15:44",
       "published_iso": "2026-10-29T06:44:04+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "487230",
@@ -109,7 +99,7 @@
       "source": "글로벌이코노믹",
       "published": "10-29 15:27",
       "published_iso": "2026-10-29T06:27:09+00:00",
-      "age": "13시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "458730",
@@ -119,7 +109,7 @@
       "source": "KPI뉴스",
       "published": "10-29 14:41",
       "published_iso": "2026-10-29T05:41:46+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "458730",
@@ -129,7 +119,7 @@
       "source": "뉴스핌",
       "published": "10-29 14:19",
       "published_iso": "2026-10-29T05:19:00+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "INTC",
@@ -139,7 +129,7 @@
       "source": "KB Think",
       "published": "10-29 13:36",
       "published_iso": "2026-10-29T04:36:27+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "490490",
@@ -149,7 +139,7 @@
       "source": "알파경제",
       "published": "10-29 12:25",
       "published_iso": "2026-10-29T03:25:00+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "379780",
@@ -159,7 +149,7 @@
       "source": "메트로신문",
       "published": "10-29 11:09",
       "published_iso": "2026-10-29T02:09:57+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "0072R0",
@@ -169,7 +159,7 @@
       "source": "신아일보",
       "published": "10-29 10:23",
       "published_iso": "2026-10-29T01:23:50+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "005930",
@@ -179,7 +169,7 @@
       "source": "포쓰저널",
       "published": "10-29 10:14",
       "published_iso": "2026-10-29T01:14:23+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "ZETA",
@@ -189,7 +179,7 @@
       "source": "쿠키뉴스",
       "published": "10-29 10:12",
       "published_iso": "2026-10-29T01:12:20+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "490490",
@@ -199,7 +189,7 @@
       "source": "아시아경제",
       "published": "10-29 09:54",
       "published_iso": "2026-10-29T00:54:38+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "490490",
@@ -212,26 +202,6 @@
       "age": "19시간 전"
     },
     {
-      "ticker": "458730",
-      "name": "TIGER 미국배당다우존스",
-      "title": "미래에셋 ‘TIGER 미국S&P500 ETF’, 연초 이후 개인 순매수 5조원 돌파…국내 상장 ETF 중 최초 - 조세플러스",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVSk9Tc2dGWUpobEEwNjl2TjduTC1MSTJIUzNqMWFWWWFzbEk5bE9yNGJTYWlJY005bTlOZ0tpbllnelZDR2RuTWo5RXF4TUFjbDV30gFTQVVfeXFMUFVKT1NzZ0ZZSmhsQTA2OXZON25MLUxJMkhTM2oxYVZZYXNsSTlsT3I0YlNhaUljTTltOU5nS2luWWd6VkNHZG5NajlFcXhNQWNsNXc?oc=5",
-      "source": "조세플러스",
-      "published": "10-29 09:43",
-      "published_iso": "2026-10-29T00:43:07+00:00",
-      "age": "19시간 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "IBM·인텔(INTC)·오라클(ORCL), OKX 토큰화 거부...빅테크들 줄줄이 반대 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vS0xuUlpVdHlnT19YeUl4ek50NlVPZGNFNE44WU4xSUVqUmZITVI1OFpUemZQcEo1LW1OaGlUd0lvd1FIcGdEbFNR?oc=5",
-      "source": "코인리더스",
-      "published": "10-29 09:30",
-      "published_iso": "2026-10-29T00:30:00+00:00",
-      "age": "19시간 전"
-    },
-    {
       "ticker": "INTC",
       "name": "Intel Corporation",
       "title": "IBM·인텔(INTC)·오라클(ORCL), OKX 토큰화 거부...빅테크들 줄줄이 반대 - 코인리더스",
@@ -239,7 +209,17 @@
       "source": "코인리더스",
       "published": "10-29 09:30",
       "published_iso": "2026-10-29T00:30:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
+    },
+    {
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
+      "title": "미래운용 \"TIGER 미국S&P500, 올해 개인 순매수 5조원 넘어\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MSUtpUWhqTjViTmNxU0NDZmk2T3QtY1pyNi1KVEo0d2M2ZlJzcDdZMmlXOFN6Uk50WUdkUlE1YzZGSFdvNTBPYTBqTWFTdTN1R3h3VE5MNi0wUmvSAWBBVV95cUxOZWVBZ3lEWkU3VXIyUGdFMFNKaFZUN0l6eGY2TFJkRS15dUo3TzU4aEZxQUlyc2NjRjNkMTI1NE02TW1IdHFIenhRVnlRWVZILUVZUlpjUEJBZXBxcnpQRFo?oc=5",
+      "source": "연합뉴스",
+      "published": "10-29 09:18",
+      "published_iso": "2026-10-29T00:18:36+00:00",
+      "age": "20시간 전"
     },
     {
       "ticker": "005380",
@@ -249,7 +229,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-29 09:00",
       "published_iso": "2026-10-29T00:00:00+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "SNDK",
@@ -359,6 +339,16 @@
       "source": "매일일보",
       "published": "10-28 13:44",
       "published_iso": "2026-10-28T04:44:13+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "엔비디아·AMD, 메타에 40억달러 투자…AI 동맹 강화 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vdjBuR19rXzY2ZXBKS2V1WXYwMWNRMGQ4VHlwVkF4N0lmcUpoREtHX3ZXZ3ZYVTU2STQ2NDEzSG5PaER1anJhUnNfbGVVZw?oc=5",
+      "source": "매일경제",
+      "published": "10-28 13:07",
+      "published_iso": "2026-10-28T04:07:50+00:00",
       "age": "1일 전"
     },
     {
@@ -742,6 +732,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "368590",
+      "name": "RISE 미국나스닥100",
+      "title": "다우존스 선물, 중동 긴장 완화·연준 금리 동결 전망에 상승 - www.tmgm.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZUE3elRGNW1fNWFDbVRPOFN3U0hxU0VMRXN4Y1FnZDZ3N0pSemtRVmlUamROQm1rY3FyOGlKbU85anBtU3hYcEc4UlN4QVdkNnR3THdZV1lzcUFCZ190TkFJM2I4alRFU1VIcm5oTlFrZmdJc3BUN3J6YXVlRUFsUDRydDlhUXJmaUt0aWZWc0p4bVctYVpSbkIyRVBtajQyTVJMdDllS3Zna3liNFZza2EySjN6Y29GaXFzeDJDazhwRk5EcEpubzlCSUdUdExNRDJvVW13?oc=5",
+      "source": "www.tmgm.com",
+      "published": "10-26 19:57",
+      "published_iso": "2026-10-26T10:57:57+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
       "title": "샌디스크 주가 10월 29일 실적 전 $1,238: 웨스턴 디지털 $4.64 상회 후 Bull $1,400 Bear $1,090 - FinanceFeeds",
@@ -812,16 +812,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "SK하이닉스, ‘초심 Crafted by SK hynix’ 전시 개최… 관람객과 함께 반도체 위에 초심을 새기다 – SK hynix Newsroom - SK hynix",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHeGU0NmVLUzM0TEswVVdzMVQyZEctNzFMZWN4TUxEaXlnd3BQLXY2elBoNXV0LTFtdElNaE8yNVh0V1NOUFdObnExN01Uc0V2Uk9aNGFacFIxeVhlUmN3eDcyWUtOWGtF?oc=5",
-      "source": "SK hynix",
-      "published": "10-26 14:24",
-      "published_iso": "2026-10-26T05:24:07+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
       "title": "\"반도체주 이젠 오르겠지\"…손실 커지는데 또 3배 레버리지 베팅[서학픽] - 머니투데이 - 머니투데이",
@@ -840,16 +830,6 @@
       "published": "10-26 09:54",
       "published_iso": "2026-10-26T00:54:00+00:00",
       "age": "3일 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "왜 모두가 어드밴스드 마이크로 디바이시스(AMD)를 다시 주목하고 있을까? - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0t4OUtIQVRMMmFKYnRaa3ZOendxY0xqMUVtX1lSZE5pZ0VlNFNRajdrRmhEaXBrUUc0S2I5S054dllic0ZyZTdXZFVsMW1Lem04Q0p6VWdmUFJ5cUlmWi1QQkJxNS1RVDlNRVd0bWpJcTlLZFBhZU8wTUtEeVY0NEx6ZU1RZGdjUEViSTRZZDVGbW1vNV9kWjdpLVR1NkFUTnBiOEFTdE_SAa4BQVVfeXFMTXc1MFpYbjdwTFNMOVBjSW5Wa2dtSnp1Ql82VVNSalBxTGdxRkJ1czBvMU5FMnFJZm8xVUVNMURsMTJ4UzJGYmJzX3ktTG9BT0tBelZma2pOb2tuOFdoTWw4aEgzTGE3NXRuUk10RUlFWnpaaGJMUFVhNlF2NDkyVmd3eVVaUWhmWDNFcTlwdDhEdERaWVQyaF92NUp3ZXhSVG51TTkzVmtjNG9HOHd3?oc=5",
-      "source": "Simply Wall St",
-      "published": "10-26 03:52",
-      "published_iso": "2026-10-25T18:52:34+00:00",
-      "age": "4일 전"
     },
     {
       "ticker": "489250",
@@ -912,6 +892,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "투자자들은 캐터필러(CAT)의 AI 데이터센터 전력 수요에 어떻게 반응하고 있는가 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXRPRVVnMlA3X2dWVHJ5NFczQi10VWxoR0g5S0psaWFaTDA0UUpGRkdWMEtCT2FydC1HbGJKTl9MSDdsOUpOSXB0Tk5Obmh0bGxhYTVDNWhoYWhlTHN6eU5xMDNSY1FKNkFyVjBGUEdKSGdfZjFQUEYzSlFTNjVrTFliaEpNQmsyYk9yeEM2V1NJOHNXUmfSAZsBQVVfeXFMUFltNEdfRTRFaXZqeV94TWQ2d0V3OWJ0ZVhSbGxrZm10YnJzTTNaejNEZV9ibU0wSmdlb1NlQUU2Vm40dDdBVEJ4UGVwTVdYLXVfSW92VzNjeVMwLW90SlQ1MFNfRVhJQmJXTFY4X1p3Ty1pQTAwUW1vZWRXdExTY3h0eWx1bjhZRGlWVWR4VEh6VGRaY0xza1dnRFU?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-25 05:42",
+      "published_iso": "2026-10-24T20:42:28+00:00",
+      "age": "5일 전"
+    },
+    {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
       "title": "제타 글로벌, 디지털 오디언스 인수 종결…매도 주주 보통주 40만 6871주 재매각 등록 - 데이터투자",
@@ -929,6 +919,16 @@
       "source": "TradingKey",
       "published": "10-24 02:16",
       "published_iso": "2026-10-23T17:16:03+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "SK Hynix의 Solidigm IPO 철회, 마이크론 테크놀로지·샌디스크에 호재 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tT2U3RkM3Y3B4Q25TM3FDLUpJT3VldUF2Vlg5SFkwMEdvdEJXWkxVRVpyTEpTNlU3M2dPQ3lGSTd5U3ZkbUR2cEVTUG51cGtzU0FjMW04bFJkMl91cnIyaXNJa2dRLU5sMnd1SFVXV3A?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-24 00:43",
+      "published_iso": "2026-10-23T15:43:00+00:00",
       "age": "6일 전"
     },
     {
@@ -992,13 +992,13 @@
       "age": "6일 전"
     },
     {
-      "ticker": "SCHD",
-      "name": "Schwab U.S. Dividend Equity ETF",
-      "title": "[금리 리셋] ⑨ '금리가 올라도 배당은 자란다' 배당 컷 해법은 - ㊦ - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zeW1mNDc0YThsNGc0S2dmRklpV2xQcEdUZldUUTloVXZaalRpSUxRVURXQkdzVmZZN2paWGl2MFhwdmU4a2FxMS1lNGhRcWhqTDZqN0ZWbkRCeG9Z?oc=5",
-      "source": "뉴스핌",
-      "published": "10-23 08:01",
-      "published_iso": "2026-10-22T23:01:00+00:00",
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "다우 선물, 기술주 차익 매물 폭탄에 멈칫...알파벳 차익 실현 속 '쉬어가기' - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BUHoxcExjUmJxNW5ILUtVQVhOMUdFM0pQTzRRN2hCWk1BTlotWGh6TWxoR0hNb0lyY1ZmcDBfbk1iaTlhbFJaWnpn?oc=5",
+      "source": "코인리더스",
+      "published": "10-23 09:30",
+      "published_iso": "2026-10-23T00:30:00+00:00",
       "age": "6일 전"
     }
   ]
