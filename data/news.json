@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-30 02:50 KST",
+  "updated_at": "2026-10-30 03:51 KST",
   "items": [
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "구글 주가, 22년 만 최악 폭락…무슨 일? - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TcEN0ak9sc1RjVkNiSjBWU0hoc1BnWnF4Y3dfb0xPZjJnM09vV09waDJWX1Nsdk5HeDhGOENyaC1qbkxtQUpXTTlvVFpvVHVDUGFmRjAxUHMydzVSamwtQ3ZkMUhBQXpNczZ6akRuU0ltamJLamRFOWZEd1hhZw?oc=5",
+      "source": "BeInCrypto",
+      "published": "10-30 02:54",
+      "published_iso": "2026-10-29T17:54:40+00:00",
+      "age": "56분 전"
+    },
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
@@ -9,7 +19,7 @@
       "source": "TradingKey",
       "published": "10-29 22:48",
       "published_iso": "2026-10-29T13:48:18+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "GOOG",
@@ -19,7 +29,7 @@
       "source": "TradingKey",
       "published": "10-29 22:48",
       "published_iso": "2026-10-29T13:48:10+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "005930",
@@ -29,7 +39,7 @@
       "source": "경향신문",
       "published": "10-29 21:52",
       "published_iso": "2026-10-29T12:52:00+00:00",
-      "age": "4시간 전"
+      "age": "5시간 전"
     },
     {
       "ticker": "GEV",
@@ -39,7 +49,7 @@
       "source": "Investing.com 한국어",
       "published": "10-29 18:13",
       "published_iso": "2026-10-29T09:13:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "TSM",
@@ -49,7 +59,7 @@
       "source": "매일경제",
       "published": "10-29 17:07",
       "published_iso": "2026-10-29T08:07:36+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "ZETA",
@@ -59,7 +69,7 @@
       "source": "TradingKey",
       "published": "10-29 16:50",
       "published_iso": "2026-10-29T07:50:39+00:00",
-      "age": "9시간 전"
+      "age": "11시간 전"
     },
     {
       "ticker": "0072R0",
@@ -69,7 +79,7 @@
       "source": "비즈니스포스트",
       "published": "10-29 15:44",
       "published_iso": "2026-10-29T06:44:04+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "487230",
@@ -79,7 +89,7 @@
       "source": "글로벌이코노믹",
       "published": "10-29 15:27",
       "published_iso": "2026-10-29T06:27:09+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "458730",
@@ -89,7 +99,7 @@
       "source": "KPI뉴스",
       "published": "10-29 14:41",
       "published_iso": "2026-10-29T05:41:46+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "458730",
@@ -99,7 +109,7 @@
       "source": "뉴스핌",
       "published": "10-29 14:19",
       "published_iso": "2026-10-29T05:19:00+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "490490",
@@ -109,7 +119,7 @@
       "source": "알파경제",
       "published": "10-29 12:25",
       "published_iso": "2026-10-29T03:25:00+00:00",
-      "age": "14시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "379780",
@@ -119,7 +129,7 @@
       "source": "메트로신문",
       "published": "10-29 11:09",
       "published_iso": "2026-10-29T02:09:57+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
     },
     {
       "ticker": "0072R0",
@@ -129,7 +139,7 @@
       "source": "신아일보",
       "published": "10-29 10:23",
       "published_iso": "2026-10-29T01:23:50+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "005930",
@@ -139,7 +149,7 @@
       "source": "포쓰저널",
       "published": "10-29 10:14",
       "published_iso": "2026-10-29T01:14:23+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "ZETA",
@@ -149,7 +159,7 @@
       "source": "쿠키뉴스",
       "published": "10-29 10:12",
       "published_iso": "2026-10-29T01:12:20+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "490490",
@@ -159,7 +169,7 @@
       "source": "아시아경제",
       "published": "10-29 09:54",
       "published_iso": "2026-10-29T00:54:38+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "490490",
@@ -169,7 +179,17 @@
       "source": "뉴스핌",
       "published": "10-29 09:46",
       "published_iso": "2026-10-29T00:46:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
+    },
+    {
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
+      "title": "미래에셋 ‘TIGER 미국S&P500 ETF’, 연초 이후 개인 순매수 5조원 돌파…국내 상장 ETF 중 최초 - 조세플러스",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVSk9Tc2dGWUpobEEwNjl2TjduTC1MSTJIUzNqMWFWWWFzbEk5bE9yNGJTYWlJY005bTlOZ0tpbllnelZDR2RuTWo5RXF4TUFjbDV30gFTQVVfeXFMUFVKT1NzZ0ZZSmhsQTA2OXZON25MLUxJMkhTM2oxYVZZYXNsSTlsT3I0YlNhaUljTTltOU5nS2luWWd6VkNHZG5NajlFcXhNQWNsNXc?oc=5",
+      "source": "조세플러스",
+      "published": "10-29 09:43",
+      "published_iso": "2026-10-29T00:43:07+00:00",
+      "age": "18시간 전"
     },
     {
       "ticker": "INTC",
@@ -179,17 +199,7 @@
       "source": "코인리더스",
       "published": "10-29 09:30",
       "published_iso": "2026-10-29T00:30:00+00:00",
-      "age": "17시간 전"
-    },
-    {
-      "ticker": "458730",
-      "name": "TIGER 미국배당다우존스",
-      "title": "미래운용 \"TIGER 미국S&P500, 올해 개인 순매수 5조원 넘어\" - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MSUtpUWhqTjViTmNxU0NDZmk2T3QtY1pyNi1KVEo0d2M2ZlJzcDdZMmlXOFN6Uk50WUdkUlE1YzZGSFdvNTBPYTBqTWFTdTN1R3h3VE5MNi0wUmvSAWBBVV95cUxOZWVBZ3lEWkU3VXIyUGdFMFNKaFZUN0l6eGY2TFJkRS15dUo3TzU4aEZxQUlyc2NjRjNkMTI1NE02TW1IdHFIenhRVnlRWVZILUVZUlpjUEJBZXBxcnpQRFo?oc=5",
-      "source": "연합뉴스",
-      "published": "10-29 09:18",
-      "published_iso": "2026-10-29T00:18:36+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "005380",
@@ -199,7 +209,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-29 09:00",
       "published_iso": "2026-10-29T00:00:00+00:00",
-      "age": "17시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "GOOG",
@@ -209,7 +219,7 @@
       "source": "FinanceFeeds",
       "published": "10-29 08:40",
       "published_iso": "2026-10-28T23:40:29+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "SNDK",
@@ -402,16 +412,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "월가 \"앤트로픽 IPO 최대 수혜주는 브로드컴\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WSWpQMkRzVDhZUWYzblk2QXVjdE12a0MwN3RQZ1hOZ3ZzX2hQdjJaQTJkbUw5dW4wTGotRURJRmdMckl0OS11dE91RHQxbWJKZ2JJZGxTOVZESXhzVzFZX2pKMEVudG5rTUJRbWMyLWdVMUJo0gF0QVVfeXFMTlZJalAyRHNUOFlRZjNuWTZBdWN0TXZrQzA3dFBnWE5ndnNfaFB2MlpBMmRtTDl1bjBMai1FRElGZ0xySXQ5LXV0T3VEdDFtYkpnYklkbFM5VkRJeHNXMVlfakowRW50bmtNQlFtYzItZ1UxQmg?oc=5",
-      "source": "연합인포맥스",
-      "published": "10-28 08:58",
-      "published_iso": "2026-10-27T23:58:56+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "005380",
       "name": "현대자동차",
       "title": "현대차그룹, 수소 상용 모빌리티 경쟁력 알린다 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
@@ -519,7 +519,7 @@
       "source": "TradingKey",
       "published": "10-28 03:16",
       "published_iso": "2026-10-27T18:16:28+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "AVGO",
@@ -529,7 +529,7 @@
       "source": "코인리더스",
       "published": "10-28 03:00",
       "published_iso": "2026-10-27T18:00:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "AMD",
@@ -549,6 +549,16 @@
       "source": "TradingKey",
       "published": "10-28 00:16",
       "published_iso": "2026-10-27T15:16:18+00:00",
+      "age": "2일 전"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "짐 크레이머, 엔비디아 브로드컴-앤트로픽 딜 비판 받을 이유 - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51eXlRVl9xV3ppTkUzSEo4c3NOc250eFQtVDNka0Y5cmhWemhRZkh3M2FQZFlQaUtlY0ZkNmZiUjltelZScGhPSWRhd3FJcVZXbWY5M3dZZkNQTG9rc0d4dC1KSkF0MzJoM0xTcmxFUFpNUQ?oc=5",
+      "source": "BeInCrypto",
+      "published": "10-27 23:51",
+      "published_iso": "2026-10-27T14:51:40+00:00",
       "age": "2일 전"
     },
     {
@@ -672,16 +682,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "Google Cloud Has “a Meaningful Shot” at Lapping Microsoft, and Nobody Is Pricing It - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc202OTJuYUZBc21PdVZOcEotWWxtUkFuR1YxR21xLWNuQUNHeTRPNG1Qckg5MV9LZE5xWWg1ZEhNZHhpMmdYbUFyckw4MDhWU0M5QWJiX1RKcW1YU3ZkX2JlNFFad2tYQlY5WFFyM3JqMWdpSlhjRl9lLWZ6YlN5WjY2X2VVajdTd1JDMGc4VTltZkljbFVzeTRpRkhMZ1pubDdiSjcxM2RZNzJOeTdV?oc=5",
-      "source": "TIKR.com",
-      "published": "10-27 03:18",
-      "published_iso": "2026-10-26T18:18:39+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
       "title": "Advanced Micro Devices Inc (AMD) 주식 움직였습니다 상승 3.03%에 10월26일: 핵심 원인 공개 - TradingKey",
@@ -689,7 +689,7 @@
       "source": "TradingKey",
       "published": "10-27 03:16",
       "published_iso": "2026-10-26T18:16:19+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "GEV",
@@ -729,16 +729,6 @@
       "source": "조선일보",
       "published": "10-26 21:43",
       "published_iso": "2026-10-26T12:43:28+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "368590",
-      "name": "RISE 미국나스닥100",
-      "title": "다우존스 선물, 중동 긴장 완화·연준 금리 동결 전망에 상승 - www.tmgm.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZUE3elRGNW1fNWFDbVRPOFN3U0hxU0VMRXN4Y1FnZDZ3N0pSemtRVmlUamROQm1rY3FyOGlKbU85anBtU3hYcEc4UlN4QVdkNnR3THdZV1lzcUFCZ190TkFJM2I4alRFU1VIcm5oTlFrZmdJc3BUN3J6YXVlRUFsUDRydDlhUXJmaUt0aWZWc0p4bVctYVpSbkIyRVBtajQyTVJMdDllS3Zna3liNFZza2EySjN6Y29GaXFzeDJDazhwRk5EcEpubzlCSUdUdExNRDJvVW13?oc=5",
-      "source": "www.tmgm.com",
-      "published": "10-26 19:57",
-      "published_iso": "2026-10-26T10:57:57+00:00",
       "age": "3일 전"
     },
     {
@@ -999,6 +989,16 @@
       "source": "코인리더스",
       "published": "10-23 09:30",
       "published_iso": "2026-10-23T00:30:00+00:00",
+      "age": "6일 전"
+    },
+    {
+      "ticker": "SCHD",
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "title": "[금리 리셋] ⑨ '금리가 올라도 배당은 자란다' 배당 컷 해법은 - ㊦ - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zeW1mNDc0YThsNGc0S2dmRklpV2xQcEdUZldUUTloVXZaalRpSUxRVURXQkdzVmZZN2paWGl2MFhwdmU4a2FxMS1lNGhRcWhqTDZqN0ZWbkRCeG9Z?oc=5",
+      "source": "뉴스핌",
+      "published": "10-23 08:01",
+      "published_iso": "2026-10-22T23:01:00+00:00",
       "age": "6일 전"
     }
   ]
