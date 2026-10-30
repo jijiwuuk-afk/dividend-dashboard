@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-30 23:57 KST",
+  "updated_at": "2026-10-31 00:52 KST",
   "items": [
+    {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "3분기 실적 발표 앞두고 주목할 AdTech 종목 – B Riley - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04cURVOF9VUU5TYVF3NEc1OElvUGxUbkhHanVtU0thUERwX3VfYUREemptMHAtMnBqb3pwMWJXWUpPYXJuejF1VE5zczFMazRhS25pQVlRN3cxcVdVYkZnNU1wZjc2eUk5aFQ3ak13bEE?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-31 00:23",
+      "published_iso": "2026-10-30T15:23:00+00:00",
+      "age": "29분 전"
+    },
     {
       "ticker": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
@@ -9,7 +19,7 @@
       "source": "TradingKey",
       "published": "10-30 22:48",
       "published_iso": "2026-10-30T13:48:24+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "NVDA",
@@ -19,27 +29,17 @@
       "source": "TradingKey",
       "published": "10-30 22:48",
       "published_iso": "2026-10-30T13:48:23+00:00",
-      "age": "1시간 전"
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "코스트코 홀세일(COST) 회원 건강보험과 실시간 베네핏 결제 도입 눈길 - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUNXcm05eUxCa21oRHJrMTZudXVadmhiNVNlbzNPaTZjRVY2WTV6NHYxYU1MTnpuQlBWNVp3aGdFLTVMZlVtcWV3VGU4d1R5dGxfLUlOemVRVFdQbnNJdmN4WmJDTVFJYWh1cl9HYzdlcEhiMVlPN3JiSlpQWW5ST1poUEgzSi16WTV0VERYWmNXTmp5RHpXSlJCZUlCOThFdW9fWGdicDQ2ZG1U0gGsAUFVX3lxTE1JQ1dybTl5TEJrbWhEcmsxNm51dVp2aGI1U2VvM09pNmNFVjZZNXo0djFhTUxOem5CUFY1WndoZ0UtNUxmVW1xZXdUZTh3VHl0bF8tSU56ZVFUV1Buc0l2Y3haYkNNUUlhaHVyX0djN2VwSGIxWU83cmJKWlBZblJPWmhQSDNKLXpZNXRURFhaY1dOanlEeldKUkJlSUI5OEV1b19YZ2JwNDZkbVQ?oc=5",
-      "source": "Simply Wall St",
-      "published": "10-30 20:36",
-      "published_iso": "2026-10-30T11:36:54+00:00",
-      "age": "3시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
-      "title": "미즈호, 마진 전망 반영해 SanDisk 목표주가 하향 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NSDVxNmotcENKbERfS19uMS1TX0FDTXNfSUFiaFZLMkdPZUplS3hzOUJ5cVdtajRrempYa0NleHZfMk16cW1nRlRYQlFwZ2tHUWs5WmEwZjBMRC1GakF6emJfaTJDa2x2VFdSdXlaSk8zaFJT?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-30 20:25",
-      "published_iso": "2026-10-30T11:25:00+00:00",
-      "age": "3시간 전"
+      "title": "[실적리뷰]샌디스크, 호실적보다 성장 둔화…마진 정점 우려도 '부담' - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORHNETnpuR1ZzYy1laDhLMGtoVjlDaTVsWmdaMDl2dGZ3VXhmVndDeXJYYjhuRzROdHpwcXdkUlY1Zm9VQ0otdUtMY2xleGV6cW5maldmTUwxOG5XRlhVSHljM3VINlBsQ2FROGI1WU5wNGVoT01fMGRzbGlvWEtCMw?oc=5",
+      "source": "이데일리",
+      "published": "10-30 19:56",
+      "published_iso": "2026-10-30T10:56:16+00:00",
+      "age": "4시간 전"
     },
     {
       "ticker": "COST",
@@ -49,7 +49,7 @@
       "source": "인사이트코리아",
       "published": "10-30 17:12",
       "published_iso": "2026-10-30T08:12:02+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "379780",
@@ -59,7 +59,7 @@
       "source": "뉴스톱",
       "published": "10-30 16:17",
       "published_iso": "2026-10-30T07:17:26+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "368590",
@@ -69,7 +69,7 @@
       "source": "뉴스톱",
       "published": "10-30 16:17",
       "published_iso": "2026-10-30T07:17:26+00:00",
-      "age": "7시간 전"
+      "age": "8시간 전"
     },
     {
       "ticker": "490490",
@@ -79,7 +79,7 @@
       "source": "비즈월드",
       "published": "10-30 11:37",
       "published_iso": "2026-10-30T02:37:00+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "ZETA",
@@ -89,7 +89,7 @@
       "source": "전자신문",
       "published": "10-30 11:06",
       "published_iso": "2026-10-30T02:06:41+00:00",
-      "age": "12시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "005380",
@@ -99,7 +99,17 @@
       "source": "Hyundai Motor Group",
       "published": "10-30 08:30",
       "published_iso": "2026-10-29T23:30:00+00:00",
-      "age": "15시간 전"
+      "age": "16시간 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "SanDisk, 1분기 예상 웃돌고 전망 상향…8대 1 주식분할 발표 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LYUo0eEowdnJsanlXNGhuZ0loclRDU1BhZ2pKTkJLdW5aZS1RNnZUakM1d21YNTVjZDk0Mmd0V0xSdnBfeE5GdjlBMXZkcDFTNHBKT2Y0Qy1zQlVFaFdoNE13QUY?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-30 05:13",
+      "published_iso": "2026-10-29T20:13:00+00:00",
+      "age": "19시간 전"
     },
     {
       "ticker": "GOOG",
@@ -110,16 +120,6 @@
       "published": "10-30 02:54",
       "published_iso": "2026-10-29T17:54:08+00:00",
       "age": "21시간 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "SanDisk Corporation (SNDK) 주식 움직였습니다 하락 3.05%에 10월29일: 전체 분석 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYjduRXdMZjFRUEZiNHdTTFNESm1aMG05Y3JJZUpIRFdUMkZBS1FoNldLSDNMR3RYX18tbEVDQ3hweThfb1h5ZlhVOHlGbGF0dE9NQlV5ZkpLaHhBckp1R2xDSkZJSHRzNmlZQm0zd3g0ZGR2WGdzOXZiTEc4Wl9QakpkZUQ0ajM1Qzl0VXQ2RQ?oc=5",
-      "source": "TradingKey",
-      "published": "10-30 01:16",
-      "published_iso": "2026-10-29T16:16:03+00:00",
-      "age": "22시간 전"
     },
     {
       "ticker": "CAT",
@@ -342,6 +342,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFVhSVVVZ1Z6UnRNMEY5SFo5WkRXdllsNExEbk4xN1AtTGVlbk1HV0FsNjdqNTNadkM3elFtUjJQeS1tUTR2T2lZUi1NMFVvc3hJV01aSVFqLXV1NXg3cXpIN1UzZ0JQM1pqbjNKaEdINUNIVU5tdkRWaUVPbEpUbVJhanhDUlp4MDEyN2RFODVNdDQ?oc=5",
+      "source": "TIKR.com",
+      "published": "10-29 06:33",
+      "published_iso": "2026-10-28T21:33:45+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
       "title": "Advanced Micro Devices Inc (AMD) 주식 마감했습니다 상승 3.24%에 10월28일: 투자자가 알아야 할 정보 - TradingKey",
@@ -350,16 +360,6 @@
       "published": "10-29 05:16",
       "published_iso": "2026-10-28T20:16:19+00:00",
       "age": "1일 전"
-    },
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "오늘 가장 활발한 주식: 미국 시장 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1o5TGdxbXhad0tfR3RGejExVEVLbUlpYnJkbXRWZTN5UlhUd0pQRUJlTTdtLW5Ic19raVMxbW1QMlNGU0M4LWUtYU5EYlQta2tLTVpVVUFPSG52TEVmRFl1b3FxVXkwTndnellFSFQyTnpUaUZJcmtBY0xKZEV0VWN5d1AyQWFZUHl1VQ?oc=5",
-      "source": "TradingKey",
-      "published": "10-28 23:10",
-      "published_iso": "2026-10-28T14:10:25+00:00",
-      "age": "2일 전"
     },
     {
       "ticker": "SNDK",
@@ -444,7 +444,7 @@
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
-      "title": "GOOGL|Alphabet Inc Class A|가격:280.000|Chg%:-3.820 - TradingKey",
+      "title": "GOOGL|Alphabet Inc Class A|가격:282.620|Chg%:-1.200 - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OVMxWGwxYl81M0J0S0c5bjBaOUpzalIxSXV1MXNsSHV5Mnh0Z1lldUNrVFFONFZkc1EybzAxT05XRzJ3RndOOUFQdjJfRjFzMWVUNDV6QlVySWhTYW5r?oc=5",
       "source": "TradingKey",
       "published": "10-28 16:00",
@@ -522,6 +522,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "아시아 증시 상승…SK Hynix 호실적에 AI주 강세, 연준 결정 주시 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pZC0zVHJheU1ZcU01ZDZhRmxnQUJUcUNhNGkxN0R3ekw0ME5JVURwZ19TWklxZzZmN0R6OU9QaUhkZXZqRjA0ajNReWEtd2tBN01nZ01BNTlSOGFSall6WElTWWYydzl0STEtdC1hdFU?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-28 12:18",
+      "published_iso": "2026-10-28T03:18:00+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
       "title": "삼성자산운용, KODEX 미국S&P500 ETF 분배금 117원 지급 - 파이낸셜신문",
@@ -549,16 +559,6 @@
       "source": "Investing.com 한국어",
       "published": "10-28 09:14",
       "published_iso": "2026-10-28T00:14:00+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "월가 \"앤트로픽 IPO 최대 수혜주는 브로드컴\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WSWpQMkRzVDhZUWYzblk2QXVjdE12a0MwN3RQZ1hOZ3ZzX2hQdjJaQTJkbUw5dW4wTGotRURJRmdMckl0OS11dE91RHQxbWJKZ2JJZGxTOVZESXhzVzFZX2pKMEVudG5rTUJRbWMyLWdVMUJo0gF0QVVfeXFMTlZJalAyRHNUOFlRZjNuWTZBdWN0TXZrQzA3dFBnWE5ndnNfaFB2MlpBMmRtTDl1bjBMai1FRElGZ0xySXQ5LXV0T3VEdDFtYkpnYklkbFM5VkRJeHNXMVlfakowRW50bmtNQlFtYzItZ1UxQmg?oc=5",
-      "source": "연합인포맥스",
-      "published": "10-28 08:58",
-      "published_iso": "2026-10-27T23:58:56+00:00",
       "age": "2일 전"
     },
     {
@@ -669,7 +669,17 @@
       "source": "재경일보",
       "published": "10-28 00:24",
       "published_iso": "2026-10-27T15:24:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "짐 크레이머, 엔비디아 브로드컴-앤트로픽 딜 비판 받을 이유 - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51eXlRVl9xV3ppTkUzSEo4c3NOc250eFQtVDNka0Y5cmhWemhRZkh3M2FQZFlQaUtlY0ZkNmZiUjltelZScGhPSWRhd3FJcVZXbWY5M3dZZkNQTG9rc0d4dC1KSkF0MzJoM0xTcmxFUFpNUQ?oc=5",
+      "source": "BeInCrypto",
+      "published": "10-27 23:51",
+      "published_iso": "2026-10-27T14:51:40+00:00",
+      "age": "3일 전"
     },
     {
       "ticker": "INTC",
@@ -792,16 +802,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "GEV",
-      "name": "GE Vernova Inc.",
-      "title": "Ge Vernova Inc (GEV) 주식 움직였습니다 상승 4.79%에 10월26일: 변동을 뒷받침하는 사실 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDYwa0gwaGVTZ1hnekNLdkk4OFRYSDJwaFZEaUM0VGlfY09LeEZjS1RpaEdvWnpvVzU2WE1WaVZRVDRZWlJLeXNfVjdJdDc5dEVxaHNlTFJZQm5GakhqSTBMQzlxcnpETV95aEVwUEEtaXBwN09MS0RSY1J1N2VGTzhfSGZaSzd3TjBCeWFB?oc=5",
-      "source": "TradingKey",
-      "published": "10-27 01:16",
-      "published_iso": "2026-10-26T16:16:06+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "INTC",
       "name": "Intel Corporation",
       "title": "Intel Corp (INTC) 주식 움직였습니다 상승 3.74%에 10월26일: 변동을 뒷받침하는 사실 - TradingKey",
@@ -809,7 +809,7 @@
       "source": "TradingKey",
       "published": "10-27 00:16",
       "published_iso": "2026-10-26T15:16:18+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "INTC",
@@ -819,6 +819,16 @@
       "source": "Simply Wall Street",
       "published": "10-26 23:13",
       "published_iso": "2026-10-26T14:13:50+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "코스트코(COST)의 AI 제품 확대가 투자 전망을 어떻게 바꿨는가 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOODFXOXNMWkgyaFRIRmxDMU15LXF1eS1RdXIwMHBTbEhHUW8xT013VTZxSEM1MllCRWM3X3VYLTl1UGx0M3RTMVhSb3h2VF9ldkpOSHcwZm9wcG8zcXZnamI5czJ1VXpsbkVfcnJ6bndRMkxPRlVCY2lINmdub3RvSGJaT1FDX045cXFLVGJmV1lCazQ4N2hvdEJLVjBoQlhKWENJX1NDY9IBrAFBVV95cUxNZVl5V2lWN3J4eGVUYmlXSzZpeDhCRnlCT0RMUnJjbkFmcEdvTTZLc2NjQXVnMDFNSEFFWlJSQ1JXcDJtQ2xhRDE1ejVZalozbUMwT2dvUmFhVUZ3T1lweUJPaEZCUExSNUY2VTFuNS12VmU4aUtXdjJRUm5oY09WX2VfQkJwR1otaEtvQnZxVmFicE9nR3M0QS1fMllyeDVnVmNwM0wzUGQyZnI0?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-26 21:55",
+      "published_iso": "2026-10-26T12:55:59+00:00",
       "age": "4일 전"
     },
     {
@@ -879,6 +889,16 @@
       "source": "비즈니스포스트",
       "published": "10-26 16:47",
       "published_iso": "2026-10-26T07:47:39+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova Inc.",
+      "title": "Ge Vernova Inc (GEV) 주식 움직였습니다 상승 4.79%에 10월26일: 변동을 뒷받침하는 사실 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDYwa0gwaGVTZ1hnekNLdkk4OFRYSDJwaFZEaUM0VGlfY09LeEZjS1RpaEdvWnpvVzU2WE1WaVZRVDRZWlJLeXNfVjdJdDc5dEVxaHNlTFJZQm5GakhqSTBMQzlxcnpETV95aEVwUEEtaXBwN09MS0RSY1J1N2VGTzhfSGZaSzd3TjBCeWFB?oc=5",
+      "source": "TradingKey",
+      "published": "10-26 16:16",
+      "published_iso": "2026-10-26T07:16:00+00:00",
       "age": "4일 전"
     },
     {
@@ -980,26 +1000,6 @@
       "published": "10-25 06:00",
       "published_iso": "2026-10-24T21:00:00+00:00",
       "age": "5일 전"
-    },
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "제타 글로벌, 디지털 오디언스 인수 종결…매도 주주 보통주 40만 6871주 재매각 등록 - 데이터투자",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ON0JCYkt1UGd3aU5JM0ZLSzlBYUVRMm8zYmxOaG5hTUtUZldnMjJWYjI1U09nWDU5cFJfYWdwaENjMzd3UnB3SXFyNlpicFllS0N0bFBwRVpDNFFkdDlyaHpQQWNabU1aWEdRV2RvNkhnOFE?oc=5",
-      "source": "데이터투자",
-      "published": "10-24 06:08",
-      "published_iso": "2026-10-23T21:08:45+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "487230",
-      "name": "KODEX 미국AI전력핵심인프라",
-      "title": "틱톡 미국 법인 AI 확대로 컴퓨팅 인프라 확대, 2030년대 초 4GW 목표 : 국제 - 재경일보",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zOXptYXgxVm83VEZmVG00MzlkYXRzaFdNZFFnbVZCUEI2WXJNMXNGemg3aEoyTUtOUlo1TU9SeGswOEt5MXFYcU10bw?oc=5",
-      "source": "재경일보",
-      "published": "10-24 03:18",
-      "published_iso": "2026-10-23T18:18:00+00:00",
-      "age": "6일 전"
     }
   ]
 }
