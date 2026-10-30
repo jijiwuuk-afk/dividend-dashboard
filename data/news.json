@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-30 17:54 KST",
+  "updated_at": "2026-10-30 18:52 KST",
   "items": [
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "정태영 현대카드 대표, 코스트코·애플페이 등 ‘Lock-in’ 전략 통했다 - 인사이트코리아",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MSjJKN2syZV9pS1ViQ19EcnhnR3VBb09WQTBMc2pJZF9jcjJWakstMUQ0Nzk4eXZKbFFraEQzTm5IWEVHSFNPV19iVWN2UHFWSmR3c1otaGhXdnlISHdCR09QeGNpSmIyNl9kT0ZUUkxsRGdybVQw0gF3QVVfeXFMTUxKMko3azJlX2lLVWJDX0RyeGdHdUFvT1ZBMExzaklkX2NyMlZqSy0xRDQ3OTh5dkpsUWtoRDNObkhYRUdIU09XX2JVY3ZQcVZKZHdzWi1oaFd2eUhId0JHT1B4Y2lKYjI2X2RPRlRSTGxEZ3JtVDA?oc=5",
+      "source": "인사이트코리아",
+      "published": "10-30 17:12",
+      "published_iso": "2026-10-30T08:12:02+00:00",
+      "age": "1시간 전"
+    },
     {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
@@ -9,7 +19,7 @@
       "source": "뉴스톱",
       "published": "10-30 16:17",
       "published_iso": "2026-10-30T07:17:26+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "368590",
@@ -19,7 +29,7 @@
       "source": "뉴스톱",
       "published": "10-30 16:17",
       "published_iso": "2026-10-30T07:17:26+00:00",
-      "age": "1시간 전"
+      "age": "2시간 전"
     },
     {
       "ticker": "490490",
@@ -29,7 +39,7 @@
       "source": "비즈월드",
       "published": "10-30 11:37",
       "published_iso": "2026-10-30T02:37:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "ZETA",
@@ -39,7 +49,7 @@
       "source": "전자신문",
       "published": "10-30 11:06",
       "published_iso": "2026-10-30T02:06:41+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "005380",
@@ -49,7 +59,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-30 08:30",
       "published_iso": "2026-10-29T23:30:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "005380",
@@ -59,7 +69,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-30 08:30",
       "published_iso": "2026-10-29T23:30:00+00:00",
-      "age": "9시간 전"
+      "age": "10시간 전"
     },
     {
       "ticker": "SNDK",
@@ -69,7 +79,7 @@
       "source": "Investing.com 한국어",
       "published": "10-30 06:43",
       "published_iso": "2026-10-29T21:43:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "GOOG",
@@ -89,7 +99,7 @@
       "source": "TradingKey",
       "published": "10-30 01:16",
       "published_iso": "2026-10-29T16:16:03+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "GOOG",
@@ -99,7 +109,7 @@
       "source": "TradingKey",
       "published": "10-29 22:48",
       "published_iso": "2026-10-29T13:48:10+00:00",
-      "age": "19시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "005930",
@@ -109,7 +119,7 @@
       "source": "경향신문",
       "published": "10-29 21:52",
       "published_iso": "2026-10-29T12:52:00+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "GEV",
@@ -119,7 +129,7 @@
       "source": "Investing.com 한국어",
       "published": "10-29 20:03",
       "published_iso": "2026-10-29T11:03:00+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "CAT",
@@ -129,7 +139,7 @@
       "source": "Simply Wall St",
       "published": "10-29 18:39",
       "published_iso": "2026-10-29T09:39:57+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "TSM",
@@ -312,6 +322,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "구글 주가 예측: AI 지출, $360.67 강세, $256.83 약세 - FinanceFeeds",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PRWZqdzc2ZTNnZ3RfUERyNEg1X3htc2U3N08wUU15MURaV1B6TmMzdXNQZXRoWHFpbW1yNlNNU181dkY4ZDJyVkhnNlotckItd0JCczV3Sk9sZ000ZkY2WlVWV0IzUnY2bDVDRFhKRGIwZ2hhbHd4aExaSXI0dw?oc=5",
+      "source": "FinanceFeeds",
+      "published": "10-29 08:40",
+      "published_iso": "2026-10-28T23:40:29+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "title": "오픈AI까지 '구글(GOOGL.O) TPU' 활용 추진…엔비디아(NVDA.O) 의존도 낮춘다 - 알파경제",
@@ -379,7 +399,7 @@
       "source": "위키리크스한국",
       "published": "10-28 18:13",
       "published_iso": "2026-10-28T09:13:52+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "489250",
@@ -389,7 +409,7 @@
       "source": "그린포스트코리아",
       "published": "10-28 18:07",
       "published_iso": "2026-10-28T09:07:29+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "379810",
@@ -502,6 +522,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "아시아 증시 상승…SK Hynix 호실적에 AI주 강세, 연준 결정 주시 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pZC0zVHJheU1ZcU01ZDZhRmxnQUJUcUNhNGkxN0R3ekw0ME5JVURwZ19TWklxZzZmN0R6OU9QaUhkZXZqRjA0ajNReWEtd2tBN01nZ01BNTlSOGFSall6WElTWWYydzl0STEtdC1hdFU?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-28 12:18",
+      "published_iso": "2026-10-28T03:18:00+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "379800",
       "name": "KODEX 미국S&P500",
       "title": "삼성자산운용, KODEX 미국S&P500 ETF 분배금 117원 지급 - 파이낸셜신문",
@@ -529,16 +559,6 @@
       "source": "Investing.com 한국어",
       "published": "10-28 09:14",
       "published_iso": "2026-10-28T00:14:00+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "월가 \"앤트로픽 IPO 최대 수혜주는 브로드컴\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WSWpQMkRzVDhZUWYzblk2QXVjdE12a0MwN3RQZ1hOZ3ZzX2hQdjJaQTJkbUw5dW4wTGotRURJRmdMckl0OS11dE91RHQxbWJKZ2JJZGxTOVZESXhzVzFZX2pKMEVudG5rTUJRbWMyLWdVMUJo0gF0QVVfeXFMTlZJalAyRHNUOFlRZjNuWTZBdWN0TXZrQzA3dFBnWE5ndnNfaFB2MlpBMmRtTDl1bjBMai1FRElGZ0xySXQ5LXV0T3VEdDFtYkpnYklkbFM5VkRJeHNXMVlfakowRW50bmtNQlFtYzItZ1UxQmg?oc=5",
-      "source": "연합인포맥스",
-      "published": "10-28 08:58",
-      "published_iso": "2026-10-27T23:58:56+00:00",
       "age": "2일 전"
     },
     {
@@ -642,6 +662,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "짐 크레이머, 엔비디아 브로드컴-앤트로픽 딜 비판 받을 이유 - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51eXlRVl9xV3ppTkUzSEo4c3NOc250eFQtVDNka0Y5cmhWemhRZkh3M2FQZFlQaUtlY0ZkNmZiUjltelZScGhPSWRhd3FJcVZXbWY5M3dZZkNQTG9rc0d4dC1KSkF0MzJoM0xTcmxFUFpNUQ?oc=5",
+      "source": "BeInCrypto",
+      "published": "10-27 23:51",
+      "published_iso": "2026-10-27T14:51:40+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "INTC",
       "name": "Intel Corporation",
       "title": "인텔(INTC) 주가 전망 — 목표가 80달러와 200달러, 그 간극은 파운드리 성공 확률이다 - Mitrade",
@@ -689,7 +719,7 @@
       "source": "www.mobiinside.co.kr",
       "published": "10-27 17:54",
       "published_iso": "2026-10-27T08:54:51+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "TSLA",
@@ -749,16 +779,6 @@
       "source": "천지일보",
       "published": "10-27 07:00",
       "published_iso": "2026-10-26T22:00:00+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "Google Cloud Has “a Meaningful Shot” at Lapping Microsoft, and Nobody Is Pricing It - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc202OTJuYUZBc21PdVZOcEotWWxtUkFuR1YxR21xLWNuQUNHeTRPNG1Qckg5MV9LZE5xWWg1ZEhNZHhpMmdYbUFyckw4MDhWU0M5QWJiX1RKcW1YU3ZkX2JlNFFad2tYQlY5WFFyM3JqMWdpSlhjRl9lLWZ6YlN5WjY2X2VVajdTd1JDMGc4VTltZkljbFVzeTRpRkhMZ1pubDdiSjcxM2RZNzJOeTdV?oc=5",
-      "source": "TIKR.com",
-      "published": "10-27 03:18",
-      "published_iso": "2026-10-26T18:18:39+00:00",
       "age": "3일 전"
     },
     {
@@ -952,16 +972,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "코스트코, 도서 코너 없어지나 — The Korea Times Daily - The Korea Times Daily",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JZzFqc1RtUF9pZVp4YUQzbEYyTTZhZ2dTSXA4UktPdC1GVEdVZHVINXB2a1FYSnRUdzlEcUJiN2NTOEZmZjEyY19ZTF90c0VwOE9MMQ?oc=5",
-      "source": "The Korea Times Daily",
-      "published": "10-25 08:41",
-      "published_iso": "2026-10-24T23:41:36+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "QQQM",
       "name": "Invesco NASDAQ 100 ETF",
       "title": "\"美 반도체 상승에 크게 건다\"…서학개미, 3배 '속슬'에 35억달러 순매수 - 뉴시스",
@@ -989,16 +999,6 @@
       "source": "재경일보",
       "published": "10-24 03:18",
       "published_iso": "2026-10-23T18:18:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "SK Hynix의 Solidigm IPO 철회, 마이크론 테크놀로지·샌디스크에 호재 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tT2U3RkM3Y3B4Q25TM3FDLUpJT3VldUF2Vlg5SFkwMEdvdEJXWkxVRVpyTEpTNlU3M2dPQ3lGSTd5U3ZkbUR2cEVTUG51cGtzU0FjMW04bFJkMl91cnIyaXNJa2dRLU5sMnd1SFVXV3A?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-24 00:43",
-      "published_iso": "2026-10-23T15:43:00+00:00",
       "age": "6일 전"
     }
   ]
