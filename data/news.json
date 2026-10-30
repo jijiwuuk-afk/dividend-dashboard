@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 14:45 KST",
+  "updated_at": "2026-10-30 15:54 KST",
   "items": [
     {
       "ticker": "490490",
@@ -9,7 +9,7 @@
       "source": "비즈월드",
       "published": "10-30 11:37",
       "published_iso": "2026-10-30T02:37:00+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "ZETA",
@@ -19,7 +19,7 @@
       "source": "전자신문",
       "published": "10-30 11:06",
       "published_iso": "2026-10-30T02:06:41+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "005380",
@@ -29,7 +29,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-30 08:30",
       "published_iso": "2026-10-29T23:30:00+00:00",
-      "age": "6시간 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "SNDK",
@@ -39,7 +39,7 @@
       "source": "Investing.com 한국어",
       "published": "10-30 06:43",
       "published_iso": "2026-10-29T21:43:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "GOOG",
@@ -49,7 +49,7 @@
       "source": "BeInCrypto",
       "published": "10-30 02:54",
       "published_iso": "2026-10-29T17:54:08+00:00",
-      "age": "11시간 전"
+      "age": "13시간 전"
     },
     {
       "ticker": "GOOG",
@@ -59,7 +59,7 @@
       "source": "TradingKey",
       "published": "10-29 22:48",
       "published_iso": "2026-10-29T13:48:18+00:00",
-      "age": "15시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "GOOG",
@@ -69,7 +69,7 @@
       "source": "TradingKey",
       "published": "10-29 22:48",
       "published_iso": "2026-10-29T13:48:10+00:00",
-      "age": "15시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "005930",
@@ -79,7 +79,7 @@
       "source": "경향신문",
       "published": "10-29 21:52",
       "published_iso": "2026-10-29T12:52:00+00:00",
-      "age": "16시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "GEV",
@@ -89,7 +89,7 @@
       "source": "Investing.com 한국어",
       "published": "10-29 20:03",
       "published_iso": "2026-10-29T11:03:00+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "CAT",
@@ -99,7 +99,7 @@
       "source": "Simply Wall St",
       "published": "10-29 18:39",
       "published_iso": "2026-10-29T09:39:57+00:00",
-      "age": "20시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "TSM",
@@ -109,7 +109,7 @@
       "source": "매일경제",
       "published": "10-29 17:07",
       "published_iso": "2026-10-29T08:07:36+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "487230",
@@ -119,7 +119,7 @@
       "source": "뉴스핌",
       "published": "10-29 16:08",
       "published_iso": "2026-10-29T07:08:00+00:00",
-      "age": "22시간 전"
+      "age": "23시간 전"
     },
     {
       "ticker": "0072R0",
@@ -129,7 +129,7 @@
       "source": "비즈니스포스트",
       "published": "10-29 15:44",
       "published_iso": "2026-10-29T06:44:04+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "487230",
@@ -139,7 +139,7 @@
       "source": "글로벌이코노믹",
       "published": "10-29 15:27",
       "published_iso": "2026-10-29T06:27:09+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "458730",
@@ -219,6 +219,16 @@
       "source": "쿠키뉴스",
       "published": "10-29 10:12",
       "published_iso": "2026-10-29T01:12:20+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "GraniteShares 2x Short SK Hynix Daily ETF Tokenized bStocks (SKDDB) 가격, 차트, 시가총액 | 코인마켓캡 - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZk1vRzR0R19heWV6OFRZQjlXeHlTOEdDejRJbk5hUlRaQ0Y3ZDIyVFNOSEt2VEtwWC1fZ3ljTlBWWDBQWThKSUpiOEZxTEVLSUxRMGprRmEzZ2N1bDE2T0dMTGNiTlJ6WUxrTEEwal9ZQVlSQXlOdlVhdXJKVXJFQklJeVkxWU12OTNBTngxaXoyNklPN1MyQklrejRYRWE4N3c?oc=5",
+      "source": "CoinMarketCap",
+      "published": "10-29 09:58",
+      "published_iso": "2026-10-29T00:58:57+00:00",
       "age": "1일 전"
     },
     {
@@ -502,6 +512,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "월가 \"앤트로픽 IPO 최대 수혜주는 브로드컴\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WSWpQMkRzVDhZUWYzblk2QXVjdE12a0MwN3RQZ1hOZ3ZzX2hQdjJaQTJkbUw5dW4wTGotRURJRmdMckl0OS11dE91RHQxbWJKZ2JJZGxTOVZESXhzVzFZX2pKMEVudG5rTUJRbWMyLWdVMUJo0gF0QVVfeXFMTlZJalAyRHNUOFlRZjNuWTZBdWN0TXZrQzA3dFBnWE5ndnNfaFB2MlpBMmRtTDl1bjBMai1FRElGZ0xySXQ5LXV0T3VEdDFtYkpnYklkbFM5VkRJeHNXMVlfakowRW50bmtNQlFtYzItZ1UxQmg?oc=5",
+      "source": "연합인포맥스",
+      "published": "10-28 08:58",
+      "published_iso": "2026-10-27T23:58:56+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "005380",
       "name": "현대자동차",
       "title": "현대차그룹, 수소 상용 모빌리티 경쟁력 알린다 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
@@ -609,16 +629,6 @@
       "source": "재경일보",
       "published": "10-28 00:24",
       "published_iso": "2026-10-27T15:24:00+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "짐 크레이머, 엔비디아 브로드컴-앤트로픽 딜 비판 받을 이유 - BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51eXlRVl9xV3ppTkUzSEo4c3NOc250eFQtVDNka0Y5cmhWemhRZkh3M2FQZFlQaUtlY0ZkNmZiUjltelZScGhPSWRhd3FJcVZXbWY5M3dZZkNQTG9rc0d4dC1KSkF0MzJoM0xTcmxFUFpNUQ?oc=5",
-      "source": "BeInCrypto",
-      "published": "10-27 23:51",
-      "published_iso": "2026-10-27T14:51:40+00:00",
       "age": "2일 전"
     },
     {
@@ -762,6 +772,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "코스트코(COST)의 AI 제품 확대가 투자 전망을 어떻게 바꿨는가 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZVl5V2lWN3J4eGVUYmlXSzZpeDhCRnlCT0RMUnJjbkFmcEdvTTZLc2NjQXVnMDFNSEFFWlJSQ1JXcDJtQ2xhRDE1ejVZalozbUMwT2dvUmFhVUZ3T1lweUJPaEZCUExSNUY2VTFuNS12VmU4aUtXdjJRUm5oY09WX2VfQkJwR1otaEtvQnZxVmFicE9nR3M0QS1fMllyeDVnVmNwM0wzUGQyZnI00gGsAUFVX3lxTE1lWXlXaVY3cnh4ZVRiaVdLNml4OEJGeUJPRExScmNuQWZwR29NNktzY2NBdWcwMU1IQUVaUlJDUldwMm1DbGFEMTV6NVlqWjNtQzBPZ29SYWFVRndPWXB5Qk9oRkJQTFI1RjZVMW41LXZWZThpS1d2MlFSbmhjT1ZfZV9CQnBHWi1oS29CdnFWYWJwT2dHczRBLV8yWXJ4NWdWY3AzTDNQZDJmcjQ?oc=5",
+      "source": "Simply Wall Street",
+      "published": "10-26 22:32",
+      "published_iso": "2026-10-26T13:32:44+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
       "title": "美 시장 상황 따라 투자 종목 수시로 조정… ETF 신규 상장 - 조선일보",
@@ -832,16 +852,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "SK하이닉스, 여의도 IFC몰서 기업광고 '초심' 전시회 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kSW9IVEJIRFc0YkZwT1k5MFkwd2RKUUk0am9LZzZuZUUzSHJab0tUMFRxdi12a21iN0lELUNEclpVYlpDSDVuVVNlVW0xbTBJSnR1dHpYX0tiVEnSAWBBVV95cUxPWVRzcXYzY3EzX1hyR0cxbFRMdGM2Z0NsOV9wM0RsU29pQXQ0cUJmXzFNOU0wekNoU1J1eG5GVUtWV1pnbjR6ei1FclhhM3Y5TDZvLU9zS04xbVJrN3VnVjU?oc=5",
-      "source": "연합뉴스",
-      "published": "10-26 14:55",
-      "published_iso": "2026-10-26T05:55:04+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "주식 피해 갔더니 금·엔화도 손실…안전자산은 어디에 - 메트로신문",
@@ -904,12 +914,12 @@
     {
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
-      "title": "GE Vernova(GEV) 계약 수주 이후 AI 전력 내러티브 속 저평가 시선은 유효할까 - Simply Wall Street",
+      "title": "GE Vernova(GEV) 계약 수주 이후 AI 전력 내러티브 속 저평가 시선은 유효할까 - Simply Wall St",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSUdiSEZNLW1Fc0NVZERsNFMtNlZ2MHctcDFYWHR0MzFpazFXNDBtWGJwcG5EampFWEkzUWJERXluM3VBMDJyaHM4dzgzb18weUwyTGpnX0JISzhad2ZHSk83c3dnbjRuYjZLV0EyR08yUmVMM2VIM184ODNFdER0RUtabzlqSnVON2xBRmQ1MlRhZS160gGaAUFVX3lxTE0wVmt5UlBERkZuMS1CZ0FQUXprNGVzSG5ib2hNNDVDeklkYnFzMVNiSkttb290OWc4R2J3RVoySFo5MThEWUVhdUs2bTg4Z2ZfLXFQenVvSTNENHJnLWxVb05kdUs5QmY2d2xHTjluZHp6dlJnN3NrSUppMWtZN2YwcjNfajFCWUx4d0hTelRudXY4dHphaTJPQnc?oc=5",
-      "source": "Simply Wall Street",
+      "source": "Simply Wall St",
       "published": "10-25 15:37",
       "published_iso": "2026-10-25T06:37:46+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "379780",
@@ -989,16 +999,6 @@
       "source": "매일경제",
       "published": "10-23 16:05",
       "published_iso": "2026-10-23T07:05:09+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "샌디스크(SNDK), 투자자들이 다시 주목하는 이유는 무엇일까? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWoxazR2X1F0aXRqNS1yQ1dMNV9zT2xDQmdBQ0JUai1IVncyeXlkMVh6YzJyVG9MZTBCZUs0TE9EblJBTkZoMXRGYURiTXdUUjVhZWZOYXVGX0l5TjdRQ0tncVNsYVRmdWQ2VDNfdmpRRUc5TTFJN0p5UVZ0RDdSZzREekpoV0RF0gGOAUFVX3lxTE5sSXBwQTFZNG1VS0tJRjFQR3NJWExFOTRwZkUyTWVsUXV6UjdkRXBnNVdENzVjeTZLcWo1WEI3aUlxbXJ5TU5PTHc3Nk12VlNaRnF0dGU4UmpnMERnaVhzYzJKOHNCc1J2dzZ3UkxSNmpZVjBHWUtyYndRNy1nRGdpQk9aMmktdHowcTZxc1E?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-23 16:00",
-      "published_iso": "2026-10-23T07:00:00+00:00",
       "age": "6일 전"
     }
   ]
