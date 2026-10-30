@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-30 19:48 KST",
+  "updated_at": "2026-10-30 20:41 KST",
   "items": [
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "BofA, 밸류에이션 부담에 SanDisk 목표주가 2,000달러로 하향 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lRGx2ODBQRnFSWjhWcTBwbDFkdWFxQ2xQX0NUTUd6VkdLUERKNDNCZHVfRmtqX1ZhdXdLY3Q4OGtnLVhSVmRLUFdhc3V5MVF0alZEQ0doYkJ1RmdQQnlCX1Y2QW9vdU5ScVVxZ3VCZnVqanVW?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-30 19:25",
+      "published_iso": "2026-10-30T10:25:00+00:00",
+      "age": "1시간 전"
+    },
     {
       "ticker": "COST",
       "name": "Costco Wholesale Corporation",
@@ -9,7 +19,7 @@
       "source": "인사이트코리아",
       "published": "10-30 17:12",
       "published_iso": "2026-10-30T08:12:02+00:00",
-      "age": "2시간 전"
+      "age": "3시간 전"
     },
     {
       "ticker": "379780",
@@ -19,7 +29,7 @@
       "source": "뉴스톱",
       "published": "10-30 16:17",
       "published_iso": "2026-10-30T07:17:26+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "368590",
@@ -29,7 +39,7 @@
       "source": "뉴스톱",
       "published": "10-30 16:17",
       "published_iso": "2026-10-30T07:17:26+00:00",
-      "age": "3시간 전"
+      "age": "4시간 전"
     },
     {
       "ticker": "490490",
@@ -39,7 +49,7 @@
       "source": "비즈월드",
       "published": "10-30 11:37",
       "published_iso": "2026-10-30T02:37:00+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "ZETA",
@@ -49,7 +59,7 @@
       "source": "전자신문",
       "published": "10-30 11:06",
       "published_iso": "2026-10-30T02:06:41+00:00",
-      "age": "8시간 전"
+      "age": "9시간 전"
     },
     {
       "ticker": "005380",
@@ -59,7 +69,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-30 08:30",
       "published_iso": "2026-10-29T23:30:00+00:00",
-      "age": "11시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "005380",
@@ -69,17 +79,7 @@
       "source": "Hyundai Motor Group",
       "published": "10-30 08:30",
       "published_iso": "2026-10-29T23:30:00+00:00",
-      "age": "11시간 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "Canaccord “Sandisk, 데이터센터 급성장에 호실적” - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FSmpKMDVqV1lrUDNPdUdzam0xci1CNnExU19FQnpMV0N0U1Vselc0YWNwVFlTVnBCYjFTVkVIUDRCYzhfN3RmNjNJcExOWk5PelNFTktkYW5LTm1RUHd6NFd2S3Nhb0JEd0djeUpmM21VQ2RG?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-30 06:43",
-      "published_iso": "2026-10-29T21:43:00+00:00",
-      "age": "13시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "GOOG",
@@ -89,7 +89,7 @@
       "source": "BeInCrypto",
       "published": "10-30 02:54",
       "published_iso": "2026-10-29T17:54:08+00:00",
-      "age": "16시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "SNDK",
@@ -99,7 +99,7 @@
       "source": "TradingKey",
       "published": "10-30 01:16",
       "published_iso": "2026-10-29T16:16:03+00:00",
-      "age": "18시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "GOOG",
@@ -119,7 +119,7 @@
       "source": "경향신문",
       "published": "10-29 21:52",
       "published_iso": "2026-10-29T12:52:00+00:00",
-      "age": "21시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "GEV",
@@ -129,7 +129,7 @@
       "source": "Investing.com 한국어",
       "published": "10-29 20:03",
       "published_iso": "2026-10-29T11:03:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "CAT",
@@ -319,16 +319,6 @@
       "source": "Hyundai Motor Group",
       "published": "10-29 09:00",
       "published_iso": "2026-10-29T00:00:00+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "구글 주가 예측: AI 지출, $360.67 강세, $256.83 약세 - FinanceFeeds",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PRWZqdzc2ZTNnZ3RfUERyNEg1X3htc2U3N08wUU15MURaV1B6TmMzdXNQZXRoWHFpbW1yNlNNU181dkY4ZDJyVkhnNlotckItd0JCczV3Sk9sZ000ZkY2WlVWV0IzUnY2bDVDRFhKRGIwZ2hhbHd4aExaSXI0dw?oc=5",
-      "source": "FinanceFeeds",
-      "published": "10-29 08:40",
-      "published_iso": "2026-10-28T23:40:29+00:00",
       "age": "1일 전"
     },
     {
@@ -772,6 +762,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "Google Cloud Has “a Meaningful Shot” at Lapping Microsoft, and Nobody Is Pricing It - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc202OTJuYUZBc21PdVZOcEotWWxtUkFuR1YxR21xLWNuQUNHeTRPNG1Qckg5MV9LZE5xWWg1ZEhNZHhpMmdYbUFyckw4MDhWU0M5QWJiX1RKcW1YU3ZkX2JlNFFad2tYQlY5WFFyM3JqMWdpSlhjRl9lLWZ6YlN5WjY2X2VVajdTd1JDMGc4VTltZkljbFVzeTRpRkhMZ1pubDdiSjcxM2RZNzJOeTdV?oc=5",
+      "source": "TIKR.com",
+      "published": "10-27 03:18",
+      "published_iso": "2026-10-26T18:18:39+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
       "title": "Advanced Micro Devices Inc (AMD) 주식 움직였습니다 상승 3.03%에 10월26일: 핵심 원인 공개 - TradingKey",
@@ -805,10 +805,10 @@
       "ticker": "COST",
       "name": "Costco Wholesale Corporation",
       "title": "코스트코(COST)의 AI 제품 확대가 투자 전망을 어떻게 바꿨는가 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZVl5V2lWN3J4eGVUYmlXSzZpeDhCRnlCT0RMUnJjbkFmcEdvTTZLc2NjQXVnMDFNSEFFWlJSQ1JXcDJtQ2xhRDE1ejVZalozbUMwT2dvUmFhVUZ3T1lweUJPaEZCUExSNUY2VTFuNS12VmU4aUtXdjJRUm5oY09WX2VfQkJwR1otaEtvQnZxVmFicE9nR3M0QS1fMllyeDVnVmNwM0wzUGQyZnI00gGsAUFVX3lxTE1lWXlXaVY3cnh4ZVRiaVdLNml4OEJGeUJPRExScmNuQWZwR29NNktzY2NBdWcwMU1IQUVaUlJDUldwMm1DbGFEMTV6NVlqWjNtQzBPZ29SYWFVRndPWXB5Qk9oRkJQTFI1RjZVMW41LXZWZThpS1d2MlFSbmhjT1ZfZV9CQnBHWi1oS29CdnFWYWJwT2dHczRBLV8yWXJ4NWdWY3AzTDNQZDJmcjQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOODFXOXNMWkgyaFRIRmxDMU15LXF1eS1RdXIwMHBTbEhHUW8xT013VTZxSEM1MllCRWM3X3VYLTl1UGx0M3RTMVhSb3h2VF9ldkpOSHcwZm9wcG8zcXZnamI5czJ1VXpsbkVfcnJ6bndRMkxPRlVCY2lINmdub3RvSGJaT1FDX045cXFLVGJmV1lCazQ4N2hvdEJLVjBoQlhKWENJX1NDY9IBrAFBVV95cUxNZVl5V2lWN3J4eGVUYmlXSzZpeDhCRnlCT0RMUnJjbkFmcEdvTTZLc2NjQXVnMDFNSEFFWlJSQ1JXcDJtQ2xhRDE1ejVZalozbUMwT2dvUmFhVUZ3T1lweUJPaEZCUExSNUY2VTFuNS12VmU4aUtXdjJRUm5oY09WX2VfQkJwR1otaEtvQnZxVmFicE9nR3M0QS1fMllyeDVnVmNwM0wzUGQyZnI0?oc=5",
       "source": "Simply Wall Street",
-      "published": "10-26 22:32",
-      "published_iso": "2026-10-26T13:32:44+00:00",
+      "published": "10-26 21:55",
+      "published_iso": "2026-10-26T12:55:59+00:00",
       "age": "3일 전"
     },
     {
