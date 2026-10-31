@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 00:16 KST",
+  "updated_at": "2026-11-01 04:54 KST",
   "items": [
     {
       "ticker": "487230",
@@ -9,7 +9,7 @@
       "source": "아시아경제",
       "published": "10-31 16:51",
       "published_iso": "2026-10-31T07:51:00+00:00",
-      "age": "7시간 전"
+      "age": "12시간 전"
     },
     {
       "ticker": "368590",
@@ -19,7 +19,17 @@
       "source": "한국경제",
       "published": "10-31 15:00",
       "published_iso": "2026-10-31T06:00:03+00:00",
-      "age": "9시간 전"
+      "age": "13시간 전"
+    },
+    {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "코스피 힘 못 쓰는데 2.8조 몰렸다…개미들 꽂힌 '이 상품' [이수의 ETF줌인] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56TUFETkRiS2M5UGEtempTQ1B0ZmhqaDNjM0owVS1ycFo2RjRmVjQ3MHJyR2lKUjM5V0RQOWNvM3lPQmFwc1BoTGFOZjZ6SXJVN0l4N2N1NVlWZw?oc=5",
+      "source": "한국경제",
+      "published": "10-31 15:00",
+      "published_iso": "2026-10-31T06:00:03+00:00",
+      "age": "13시간 전"
     },
     {
       "ticker": "005930",
@@ -29,7 +39,7 @@
       "source": "포쓰저널",
       "published": "10-31 14:11",
       "published_iso": "2026-10-31T05:11:09+00:00",
-      "age": "10시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "379810",
@@ -39,7 +49,7 @@
       "source": "신아일보",
       "published": "10-31 14:00",
       "published_iso": "2026-10-31T05:00:00+00:00",
-      "age": "10시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "ZETA",
@@ -49,7 +59,7 @@
       "source": "Sheep Esports",
       "published": "10-31 09:40",
       "published_iso": "2026-10-31T00:40:00+00:00",
-      "age": "14시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "GOOG",
@@ -59,7 +69,7 @@
       "source": "Investing.com 한국어",
       "published": "10-31 08:36",
       "published_iso": "2026-10-30T23:36:00+00:00",
-      "age": "15시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "TSM",
@@ -69,7 +79,7 @@
       "source": "재경일보",
       "published": "10-31 07:15",
       "published_iso": "2026-10-30T22:15:00+00:00",
-      "age": "17시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "CAT",
@@ -79,7 +89,7 @@
       "source": "TradingKey",
       "published": "10-31 03:17",
       "published_iso": "2026-10-30T18:17:17+00:00",
-      "age": "20시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "ZETA",
@@ -89,7 +99,7 @@
       "source": "Investing.com 한국어",
       "published": "10-31 00:23",
       "published_iso": "2026-10-30T15:23:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "490490",
@@ -149,6 +159,16 @@
       "source": "Simply Wall St",
       "published": "10-30 20:36",
       "published_iso": "2026-10-30T11:36:54+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "BofA, 밸류에이션 부담에 SanDisk 목표주가 2,000달러로 하향 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lRGx2ODBQRnFSWjhWcTBwbDFkdWFxQ2xQX0NUTUd6VkdLUERKNDNCZHVfRmtqX1ZhdXdLY3Q4OGtnLVhSVmRLUFdhc3V5MVF0alZEQ0doYkJ1RmdQQnlCX1Y2QW9vdU5ScVVxZ3VCZnVqanVW?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-30 19:25",
+      "published_iso": "2026-10-30T10:25:00+00:00",
       "age": "1일 전"
     },
     {
@@ -232,16 +252,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "Canaccord “Sandisk, 데이터센터 급성장에 호실적” - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FSmpKMDVqV1lrUDNPdUdzam0xci1CNnExU19FQnpMV0N0U1Vselc0YWNwVFlTVnBCYjFTVkVIUDRCYzhfN3RmNjNJcExOWk5PelNFTktkYW5LTm1RUHd6NFd2S3Nhb0JEd0djeUpmM21VQ2RG?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-30 06:43",
-      "published_iso": "2026-10-29T21:43:00+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "Caterpillar Inc (CAT) 주식 움직였습니다 하락 8.36%에 10월29일: 전체 분석 - TradingKey",
@@ -259,16 +269,6 @@
       "source": "TradingKey",
       "published": "10-29 22:48",
       "published_iso": "2026-10-29T13:48:10+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "005930",
-      "name": "삼성전자",
-      "title": "99% of operating profit from semiconductors… ‘Record-breaking results’ Samsung Electronics “30 trillion won cash dividend” - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CX1pDQzFZdnJoanBYMVA2aUd1WEFsYUJlZ3JlRWJPbVpReVQ4cnhaUXB5WEtFaVdmZnNab0lEdlRoOGRtQS1xWEFDMDByVUtZY3I5NUNaSE9sdldZVkE?oc=5",
-      "source": "경향신문",
-      "published": "10-29 21:52",
-      "published_iso": "2026-10-29T12:52:00+00:00",
       "age": "2일 전"
     },
     {
@@ -372,6 +372,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "Samsung Electronics Q3 operating profit at 107.4405 trillion won… 106 trillion won from semiconductors alone - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yaWdMaDBwLXM3cGw0ZTVRWXBkcmthMWZhUjBzUUEySXM3cHVSMDVTY1IzMTUxc1hkLWtreE5RZFNUdC1vc09BenpUcWtYdVVBcXJCNWlYRzZESWw1RGc?oc=5",
+      "source": "경향신문",
+      "published": "10-29 10:30",
+      "published_iso": "2026-10-29T01:30:00+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "금은 담고 보관은 맡긴다…미래에셋운용 'TIGER KRX금현물 ETF' 주목 - 신아일보",
@@ -459,16 +469,6 @@
       "source": "위키리크스한국",
       "published": "10-28 18:13",
       "published_iso": "2026-10-28T09:13:52+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "삼성자산운용, 美 대표지수 ETF 20조 육박··· 해외 투자 '대세' 굳힌다 - 그린포스트코리아",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoVzN3YXlRNnFNQUJlU2pFNkw4LThSQlROSjNpZVVCdGo0eW9RdTdXeWRKbElwaEExWFdWV1ZkVndIMDFfME5HWHFLMTZPNG5QQTFUN0h6aHhMQWx3M2hMd0N3VmNad21kcl9SVUg2UzNQcURTWEHSAXpBVV95cUxNMVJzNHd0WHB4RW8zd1JtNTFILTFrSnFWMG9VVUNFSHY0NWcxLXpXd1FtWkhyYk5IS2d0UmdGWURXSDIzVXN1U1V4YzB4SVhJbUxTZ1pON3pLWkowOFVNblh4RlY4Z21WUkdRTUJ1clhITzRicnVNbmNwZw?oc=5",
-      "source": "그린포스트코리아",
-      "published": "10-28 18:07",
-      "published_iso": "2026-10-28T09:07:29+00:00",
       "age": "3일 전"
     },
     {
@@ -602,6 +602,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "엔비디아(NVDA.N) 메타 유상증자에 참여.. 핵심 고객 자금조달 By 알파경제 alphabiz - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UZHJoS0FFb19IOURxTGZxSVZhRU0xSU1aTWpNZGRCSDJtQTlwdWhnakJadmxzM3NKUzl1S0xDWlJqcXpOYzc1MEYxTXdTc2I3dlZ6UWM3QVdQV1lwRnZkdWQ0cnJQUWZGYXBOOWtoVng?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-28 09:14",
+      "published_iso": "2026-10-28T00:14:00+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "000660",
       "name": "SK하이닉스",
       "title": "2026년 3분기 컨퍼런스 콜 접속 안내 - SK hynix",
@@ -652,16 +662,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "엔비디아(NVDA.O), 메타(META.O)에 4조원 투자…AI 에이전트 '뮤즈' 협력 강화 - 알파경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ic29vcjJRRW82VW14S2ttSlpvVUhUYXNobDRXN0pDSnBYVzdFWUxERnVPWmhXRXNsWi1wd2pZR1dqeUd3LUMySTItTDlCZzE2azRlZnJRcmRpWngwbk56WDVpaW1FUVJ2b0RWTXF3?oc=5",
-      "source": "알파경제",
-      "published": "10-28 07:40",
-      "published_iso": "2026-10-27T22:40:19+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "JEPI",
       "name": "JPMorgan Equity Premium Income ETF",
       "title": "커버드콜ETF인데 '액티브'라고?…상품 줄줄이 나오는 이유 - 아시아경제",
@@ -699,7 +699,7 @@
       "source": "TradingKey",
       "published": "10-28 03:16",
       "published_iso": "2026-10-27T18:16:28+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "AVGO",
@@ -709,7 +709,7 @@
       "source": "코인리더스",
       "published": "10-28 03:00",
       "published_iso": "2026-10-27T18:00:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "AMD",
@@ -719,7 +719,7 @@
       "source": "재경일보",
       "published": "10-28 00:24",
       "published_iso": "2026-10-27T15:24:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "INTC",
@@ -859,7 +859,7 @@
       "source": "TradingKey",
       "published": "10-27 03:16",
       "published_iso": "2026-10-26T18:16:19+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "489250",
