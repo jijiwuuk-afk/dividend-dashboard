@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 17:21 KST",
+  "updated_at": "2026-11-01 00:16 KST",
   "items": [
     {
       "ticker": "487230",
@@ -9,7 +9,7 @@
       "source": "아시아경제",
       "published": "10-31 16:51",
       "published_iso": "2026-10-31T07:51:00+00:00",
-      "age": "30분 전"
+      "age": "7시간 전"
     },
     {
       "ticker": "368590",
@@ -19,7 +19,17 @@
       "source": "한국경제",
       "published": "10-31 15:00",
       "published_iso": "2026-10-31T06:00:03+00:00",
-      "age": "2시간 전"
+      "age": "9시간 전"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "Samsung Electronics’ Stock Plummets Despite Record-Breaking Earnings—Could It Be Due to Lee Jae-yong’s Gift Tax? - 포쓰저널",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVVnlnLTkycDJiY0RSV0xycUNOUjhaWVFXTmh4VkxSVUtsQmlkMno0WGJabnNJajVEYUMwNHk5REp3ekx6YTlTTndOcUdkSVFCV3l1OGNRMmtsWTFuVDM1TlZjZFk?oc=5",
+      "source": "포쓰저널",
+      "published": "10-31 14:11",
+      "published_iso": "2026-10-31T05:11:09+00:00",
+      "age": "10시간 전"
     },
     {
       "ticker": "379810",
@@ -29,7 +39,17 @@
       "source": "신아일보",
       "published": "10-31 14:00",
       "published_iso": "2026-10-31T05:00:00+00:00",
-      "age": "3시간 전"
+      "age": "10시간 전"
+    },
+    {
+      "ticker": "ZETA",
+      "name": "Zeta Global Holdings Corp. Class A",
+      "title": "Sources: ZETA DIVISION signs KEN for 2027 VCT season - Sheep Esports",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV2FIeG9PVzUzNTNLVm9hdUNuQzE2ZS1jNV81cm0yRWJMSWtudkhjbE5UM3MxNExHc2VVWm1qOWw4d0ZwUVRPMGp3NWlnTjNOVWVuT0JNakFpVklFSVhqRVNUdnZDd0xaeU5TMXZBejFJUl9LMV84dUg5VEtKUGR4aGh4bHU2dGIxMlJwc3JMS1RRdnZyS2xObkczMA?oc=5",
+      "source": "Sheep Esports",
+      "published": "10-31 09:40",
+      "published_iso": "2026-10-31T00:40:00+00:00",
+      "age": "14시간 전"
     },
     {
       "ticker": "GOOG",
@@ -39,7 +59,7 @@
       "source": "Investing.com 한국어",
       "published": "10-31 08:36",
       "published_iso": "2026-10-30T23:36:00+00:00",
-      "age": "8시간 전"
+      "age": "15시간 전"
     },
     {
       "ticker": "TSM",
@@ -49,7 +69,7 @@
       "source": "재경일보",
       "published": "10-31 07:15",
       "published_iso": "2026-10-30T22:15:00+00:00",
-      "age": "10시간 전"
+      "age": "17시간 전"
     },
     {
       "ticker": "CAT",
@@ -59,7 +79,7 @@
       "source": "TradingKey",
       "published": "10-31 03:17",
       "published_iso": "2026-10-30T18:17:17+00:00",
-      "age": "14시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "ZETA",
@@ -69,7 +89,17 @@
       "source": "Investing.com 한국어",
       "published": "10-31 00:23",
       "published_iso": "2026-10-30T15:23:00+00:00",
-      "age": "16시간 전"
+      "age": "23시간 전"
+    },
+    {
+      "ticker": "490490",
+      "name": "SOL 미국배당미국채혼합50",
+      "title": "'SOL 미국배당다우존스(H)', 국내 상장 미국배당주식형 ETF 수익률1위 - 글로벌뉴스통신GNA",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rekRWdlpDMm1XM1l1OTNfS3B0M1drczVieFZMeEtvS2JJSmQtdVRDTmIzNUVubnVJMTRhMVpzT2hxTi0zX3cyenNfT1NWaXM5OVJyRlFnQmJQYl9vMEZ5MzNDVzVpamNkTWV4TnJGa2dPekFJ?oc=5",
+      "source": "글로벌뉴스통신GNA",
+      "published": "10-30 23:44",
+      "published_iso": "2026-10-30T14:44:45+00:00",
+      "age": "1일 전"
     },
     {
       "ticker": "AMD",
@@ -79,7 +109,17 @@
       "source": "TradingKey",
       "published": "10-30 23:16",
       "published_iso": "2026-10-30T14:16:29+00:00",
-      "age": "18시간 전"
+      "age": "1일 전"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "title": "SK Hynix defies AI peak fears - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6VVlUTFQ0YVM4S1JHdkNSdFl1X0NkRzcxeWk0VU1lLVhheWhQakZqYWhad3BvX1Nwa0FKaFh6eElQVFJLWFN6Vzk4U2dwMXZhZmJlQ084QzEySUk?oc=5",
+      "source": "KBS 뉴스",
+      "published": "10-30 23:15",
+      "published_iso": "2026-10-30T14:15:00+00:00",
+      "age": "1일 전"
     },
     {
       "ticker": "TSM",
@@ -89,7 +129,7 @@
       "source": "TradingKey",
       "published": "10-30 22:48",
       "published_iso": "2026-10-30T13:48:24+00:00",
-      "age": "18시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "NVDA",
@@ -99,7 +139,7 @@
       "source": "TradingKey",
       "published": "10-30 22:48",
       "published_iso": "2026-10-30T13:48:23+00:00",
-      "age": "18시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "COST",
@@ -109,7 +149,7 @@
       "source": "Simply Wall St",
       "published": "10-30 20:36",
       "published_iso": "2026-10-30T11:36:54+00:00",
-      "age": "20시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "COST",
@@ -202,16 +242,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "GEV",
-      "name": "GE Vernova Inc.",
-      "title": "Ge Vernova Inc (GEV) 주식 움직였습니다 상승 3.02%에 10월29일: 핵심 원인 공개 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmh4a09lY1Qzc1RlVzNOeWFfWlZWbk1IdHJVYWpsMExURThuZWtOWTlMNFQ2RURfZEZkd29DTjdxbXU2VEdTUlU2TXJLOFJ1RTA2RzBteW5UNEgzaXlCY2RRamdPOFhHMFJMX3V5cFpEUm5Kd09YZG1DNXcyQUJFb0oyMGUtVFgtYXdDXzJ3?oc=5",
-      "source": "TradingKey",
-      "published": "10-30 01:16",
-      "published_iso": "2026-10-29T16:16:10+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "Caterpillar Inc (CAT) 주식 움직였습니다 하락 8.36%에 10월29일: 전체 분석 - TradingKey",
@@ -219,7 +249,7 @@
       "source": "TradingKey",
       "published": "10-29 23:16",
       "published_iso": "2026-10-29T14:16:11+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "GOOG",
@@ -229,7 +259,7 @@
       "source": "TradingKey",
       "published": "10-29 22:48",
       "published_iso": "2026-10-29T13:48:10+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "005930",
@@ -239,7 +269,17 @@
       "source": "경향신문",
       "published": "10-29 21:52",
       "published_iso": "2026-10-29T12:52:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "720억 달러 규모의 수주 잔고를 고려할 때, 캐터필러(CAT)의 주가는 적정 수준인가? - Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0JRWXZ6cXA5TmlrTlNVZjlFTVhNRXlFWGRKVjQza245bElDay1IYzlGTld4SUI1SzR0QVFBN05zbmNLaHptc0ktb2RFbnNYMUtGcXFaeEw1VHhzUUROQlpKXy1NMENqREZuWktvVmxJRWRuWWM5QXpRb0J5aDQ1RFFHR3U5TVZXQUJjdUtLYjAwQUtvY0M2M2ZQMNIBmwFBVV95cUxOU0JRWXZ6cXA5TmlrTlNVZjlFTVhNRXlFWGRKVjQza245bElDay1IYzlGTld4SUI1SzR0QVFBN05zbmNLaHptc0ktb2RFbnNYMUtGcXFaeEw1VHhzUUROQlpKXy1NMENqREZuWktvVmxJRWRuWWM5QXpRb0J5aDQ1RFFHR3U5TVZXQUJjdUtLYjAwQUtvY0M2M2ZQMA?oc=5",
+      "source": "Simply Wall St",
+      "published": "10-29 18:39",
+      "published_iso": "2026-10-29T09:39:57+00:00",
+      "age": "2일 전"
     },
     {
       "ticker": "GEV",
@@ -249,7 +289,7 @@
       "source": "Investing.com 한국어",
       "published": "10-29 18:13",
       "published_iso": "2026-10-29T09:13:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "TSM",
@@ -342,16 +382,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "005930",
-      "name": "삼성전자",
-      "title": "Samsung Electronics Announces 110 Trillion Won Shareholder Return Plan; Up to 75 Trillion Won Allocated for Additional Dividends and Share Buybacks/Cancellations - 포쓰저널",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lY1o2RGQzLU1YS0tvZi16RTN2SUxiQW1peXdrbmxKZmNMbURNeGlMVmgzYmhOSTJ2djNfbWNoT0RTbzhxTXRwbUJ3S1dmSDV5MnFLYk5VRlRJVWVjT2JmWjY4Yjc?oc=5",
-      "source": "포쓰저널",
-      "published": "10-29 10:14",
-      "published_iso": "2026-10-29T01:14:23+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
       "title": "‘매출 10배·화물 2위’…외형 키운 에어제타, 통합 출범 1년 성적표는 - 쿠키뉴스",
@@ -359,16 +389,6 @@
       "source": "쿠키뉴스",
       "published": "10-29 10:12",
       "published_iso": "2026-10-29T01:12:20+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "490490",
-      "name": "SOL 미국배당미국채혼합50",
-      "title": "신한운용, 'SOL 미국배당다우존스(H)' 미국배당주 ETF 중 수익률 1위 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zdjNpQW16ZVdiQ05LM2dBWVhtRE5IbHM3eTE3U2NxUS1WRWVSc2VvX0hMYjhqLVFweEtHZEg1ZkdXRXcwS2g2X3lEZ2pFc2Nsb24wWVR5WnA1aE1neGRyZQ?oc=5",
-      "source": "아시아경제",
-      "published": "10-29 09:54",
-      "published_iso": "2026-10-29T00:54:38+00:00",
       "age": "2일 전"
     },
     {
@@ -392,16 +412,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "IBM·인텔(INTC)·오라클(ORCL), OKX 토큰화 거부...빅테크들 줄줄이 반대 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vS0xuUlpVdHlnT19YeUl4ek50NlVPZGNFNE44WU4xSUVqUmZITVI1OFpUemZQcEo1LW1OaGlUd0lvd1FIcGdEbFNR?oc=5",
-      "source": "코인리더스",
-      "published": "10-29 09:30",
-      "published_iso": "2026-10-29T00:30:00+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "INTC",
       "name": "Intel Corporation",
       "title": "IBM·인텔(INTC)·오라클(ORCL), OKX 토큰화 거부...빅테크들 줄줄이 반대 - 코인리더스",
@@ -422,26 +432,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "Advanced Micro Devices Inc (AMD) 주식 마감했습니다 상승 3.24%에 10월28일: 투자자가 알아야 할 정보 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSjBnTnl6VlgtZG9FQVZ4b0ZTTWxCLWxpQjdPNUxsam5MM0VqMlM1ZFE3MVUydW0zX0NZblUtcnRZZk1XNUlsRi1nMlFtVTJzRFdVanIzaW9DYVEtaG9zYkVKa2dPQzk5OTUxeWVQeElfaENxXzlkMWVSM29qdTkydFJaekMwUFFDT3QwQWl3?oc=5",
-      "source": "TradingKey",
-      "published": "10-29 05:16",
-      "published_iso": "2026-10-28T20:16:19+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "오늘 가장 활발한 주식: 미국 시장 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1o5TGdxbXhad0tfR3RGejExVEVLbUlpYnJkbXRWZTN5UlhUd0pQRUJlTTdtLW5Ic19raVMxbW1QMlNGU0M4LWUtYU5EYlQta2tLTVpVVUFPSG52TEVmRFl1b3FxVXkwTndnellFSFQyTnpUaUZJcmtBY0xKZEV0VWN5d1AyQWFZUHl1VQ?oc=5",
-      "source": "TradingKey",
-      "published": "10-28 23:10",
-      "published_iso": "2026-10-28T14:10:25+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "SNDK",
       "name": "Sandisk Corporation",
       "title": "SanDisk Corporation (SNDK) 주식 시작했습니다 상승 5.05%에 10월28일: 어떤 신호인가요? - TradingKey",
@@ -449,17 +439,17 @@
       "source": "TradingKey",
       "published": "10-28 22:48",
       "published_iso": "2026-10-28T13:48:08+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "title": "Lynx, SK Hynix 실적이 반도체 장비주 관심 재점화할 것 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aY0dYTW9HTmtINUpwdkZvWTV5QlNCMVFpMTZhdDRpTThXSUo5QzhEQUZESHJqaDdSR20zLU0tam5WeUREYmFtYXZXNUlpM19WSmp5YXFTVTk0ZTcybTMxQkFncElpR0M4RmFUaEZzSk4?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-28 21:22",
-      "published_iso": "2026-10-28T12:22:00+00:00",
-      "age": "2일 전"
+      "ticker": "GEV",
+      "name": "GE Vernova Inc.",
+      "title": "Ge Vernova Inc (GEV) 주식 시작했습니다 하락 5.59%에 10월28일: 투자자가 알아야 할 정보 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX29ucVpaX2xnNkliZ3FGOEphNGpBTmJZZVFrQ3JsUVBtcEZWYWhJNmpmVHRWTWZsQXAxcW1ORkU5YXV5c08tRzdwVzJvb0ZUTVFFcWRFa2h2SHY4dy0yb01weG5TLThydlRqdU9tWXVxR2MtOFpfa1BRZm5OREVaTWIzb2RjQU9PMElQTWhR?oc=5",
+      "source": "TradingKey",
+      "published": "10-28 22:47",
+      "published_iso": "2026-10-28T13:47:57+00:00",
+      "age": "3일 전"
     },
     {
       "ticker": "368590",
@@ -469,7 +459,7 @@
       "source": "위키리크스한국",
       "published": "10-28 18:13",
       "published_iso": "2026-10-28T09:13:52+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "489250",
@@ -479,7 +469,7 @@
       "source": "그린포스트코리아",
       "published": "10-28 18:07",
       "published_iso": "2026-10-28T09:07:29+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "379810",
@@ -612,16 +602,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "엔비디아(NVDA.N) 메타 유상증자에 참여.. 핵심 고객 자금조달 By 알파경제 alphabiz - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UZHJoS0FFb19IOURxTGZxSVZhRU0xSU1aTWpNZGRCSDJtQTlwdWhnakJadmxzM3NKUzl1S0xDWlJqcXpOYzc1MEYxTXdTc2I3dlZ6UWM3QVdQV1lwRnZkdWQ0cnJQUWZGYXBOOWtoVng?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "10-28 09:14",
-      "published_iso": "2026-10-28T00:14:00+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "000660",
       "name": "SK하이닉스",
       "title": "2026년 3분기 컨퍼런스 콜 접속 안내 - SK hynix",
@@ -669,6 +649,16 @@
       "source": "알파경제",
       "published": "10-28 07:43",
       "published_iso": "2026-10-27T22:43:59+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "엔비디아(NVDA.O), 메타(META.O)에 4조원 투자…AI 에이전트 '뮤즈' 협력 강화 - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ic29vcjJRRW82VW14S2ttSlpvVUhUYXNobDRXN0pDSnBYVzdFWUxERnVPWmhXRXNsWi1wd2pZR1dqeUd3LUMySTItTDlCZzE2azRlZnJRcmRpWngwbk56WDVpaW1FUVJ2b0RWTXF3?oc=5",
+      "source": "알파경제",
+      "published": "10-28 07:40",
+      "published_iso": "2026-10-27T22:40:19+00:00",
       "age": "3일 전"
     },
     {
@@ -739,7 +729,7 @@
       "source": "Mitrade",
       "published": "10-27 22:56",
       "published_iso": "2026-10-27T13:56:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "INTC",
@@ -749,7 +739,7 @@
       "source": "TradingKey",
       "published": "10-27 22:48",
       "published_iso": "2026-10-27T13:48:14+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "TSLA",
@@ -759,7 +749,7 @@
       "source": "TradingKey",
       "published": "10-27 22:48",
       "published_iso": "2026-10-27T13:48:07+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "AVGO",
@@ -769,7 +759,7 @@
       "source": "TradingKey",
       "published": "10-27 22:48",
       "published_iso": "2026-10-27T13:48:02+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "458730",
@@ -779,7 +769,7 @@
       "source": "경향신문",
       "published": "10-27 22:32",
       "published_iso": "2026-10-27T13:32:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "TSLA",
@@ -822,6 +812,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "487230",
+      "name": "KODEX 미국AI전력핵심인프라",
+      "title": "'역대 최대 IPO' 앤트로픽 상장 신청...주목할 ETF는 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zWXgtc2NWaDllSjlacXZPQVJKRVE3bUpxd00tUElOa0hLN1ljRWlaOVRjcWlPYXNSZVZWUnJWQzRGMENyelpEampTaVphaVp6X1JESzI0MXNUZG1Nc3hxREhOTkJaWkIz0gFuQVVfeXFMTzV2Tzc5c2ZjYlZGVVZjUnZhV3V4MVhxZVhxMmExQ2NlNFp2OUpKc19famVlMHo4QTVRV3IyRVJ1bC1rUTlBVmxhOHB6RmNycE12OHI4OHVDQ2F3MzJ0YjZiang4NV93ZGxraW5pNWc?oc=5",
+      "source": "머니투데이",
+      "published": "10-27 15:07",
+      "published_iso": "2026-10-27T06:07:55+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "title": "글로벌 인프라와 중장비의 제왕 - 캐터필러(CAT) - 네이버 프리미엄콘텐츠",
@@ -852,6 +852,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "Advanced Micro Devices Inc (AMD) 주식 움직였습니다 상승 3.03%에 10월26일: 핵심 원인 공개 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbFJ6VjZMdzV5NWU4QmFmR045YTBLd3c5am91dmVObXZSOHZHSFNHU3VaSUNmS1hzd1dXVHlERzdhM0pmQVp6ajc3anRTYUNJRFVFN0k4aXN5ZHA2QjcwUlZlQVBpaTdaQkxvRGpDb2VHemdrdUtwbXVxMFJpVTRoTkh5UUdpR1llNXFfWFlB?oc=5",
+      "source": "TradingKey",
+      "published": "10-27 03:16",
+      "published_iso": "2026-10-26T18:16:19+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
       "title": "美 시장 상황 따라 투자 종목 수시로 조정… ETF 신규 상장 - 조선일보",
@@ -859,7 +869,7 @@
       "source": "조선일보",
       "published": "10-26 21:43",
       "published_iso": "2026-10-26T12:43:28+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "SNDK",
@@ -959,7 +969,7 @@
       "source": "세계일보",
       "published": "10-25 19:10",
       "published_iso": "2026-10-25T10:10:18+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "NVDA",
@@ -989,16 +999,6 @@
       "source": "Simply Wall St",
       "published": "10-25 15:37",
       "published_iso": "2026-10-25T06:37:46+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "'배당 관심 높아지는데…' 분배금이 2배 높은 S&P500 ETF - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aN2YtcW91c1NHSkJDM2VIN1o3cWZmMFQ2bjhsMHdyTmxzTThGUWM0dC1FQlFzaVhTbnliQ3NGNFdvYWVxcm5sOXZobzEyMURyb0dONzVVdVRnc2t6a3VvTVRaUG14a3Ns0gFuQVVfeXFMUFRlWTN3RGdFMUlETzFUT3ZWNnhGM1pKaFV6Wkk0TXJiZlViSVFVX3NYRlZBWDhQZlgxak5seWZBLXJSN3hHdWxydnFDaEljT1BKOWFJSU5wLVlIZkhBNFF5T0ljbVFIQ1dzeUl3WXc?oc=5",
-      "source": "머니투데이",
-      "published": "10-25 14:36",
-      "published_iso": "2026-10-25T05:36:13+00:00",
       "age": "6일 전"
     }
   ]
