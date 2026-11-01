@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 14:52 KST",
+  "updated_at": "2026-11-01 22:12 KST",
   "items": [
     {
       "ticker": "COST",
@@ -9,7 +9,7 @@
       "source": "TIKR.com",
       "published": "11-01 03:56",
       "published_iso": "2026-10-31T18:56:15+00:00",
-      "age": "10시간 전"
+      "age": "18시간 전"
     },
     {
       "ticker": "ZETA",
@@ -19,7 +19,7 @@
       "source": "국민기자뉴스",
       "published": "11-01 03:00",
       "published_iso": "2026-10-31T18:00:00+00:00",
-      "age": "11시간 전"
+      "age": "19시간 전"
     },
     {
       "ticker": "487230",
@@ -29,7 +29,7 @@
       "source": "아시아경제",
       "published": "10-31 16:51",
       "published_iso": "2026-10-31T07:51:00+00:00",
-      "age": "22시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "368590",
@@ -39,7 +39,7 @@
       "source": "블루밍비트",
       "published": "10-31 15:15",
       "published_iso": "2026-10-31T06:15:21+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "489250",
@@ -49,7 +49,7 @@
       "source": "한국경제",
       "published": "10-31 15:00",
       "published_iso": "2026-10-31T06:00:03+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "005930",
@@ -102,6 +102,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "인텔 주가 30% 이상 하락, 55년 역사상 최악의 하루 기록 경신 - FinanceFeeds",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42M0Y4WU1wQXdqSXRsbTZUUUhzZ2dvbkx2REpfcGdxSlJUWmRsM1NTdW52cHFrQXZUWGFsQ0xXdkFYbXo2TXlwb3dzLVZkODkwZzFiTHozQzB6dm95OWI3aU0tcVBsU2FuWHZmbkVQM3dDUmhmSnc?oc=5",
+      "source": "FinanceFeeds",
+      "published": "10-31 02:19",
+      "published_iso": "2026-10-30T17:19:04+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A",
       "title": "3분기 실적 발표 앞두고 주목할 AdTech 종목 – B Riley - Investing.com 한국어",
@@ -142,6 +152,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "브로드컴 (AVGO) 주식 시작했습니다 하락 5.16%에 10월30일: 변동 원인 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcGs0RW5sZEYyUWxrRzRFTVY1NDlNRE8yM1lHcnMzVnpfYmFRczhrQktEVVU3WEUwS1owSjZzOXY2WElRS3k2cGYzTFN0RG9uZE8yNHFSV1E2Vy1ENkViV0JuNnhpY0Jsa0ZFZVpzSUN6LUUtUGtOWFVXRzc2cldNRkh2MVBRV0xkYk1EaHFGSQ?oc=5",
+      "source": "TradingKey",
+      "published": "10-30 22:48",
+      "published_iso": "2026-10-30T13:48:25+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
       "title": "Taiwan Semiconductor Manufacturing Co Ltd (TSM) 주식 시작했습니다 하락 3.67%에 10월30일: 변동 원인 - TradingKey",
@@ -169,7 +189,7 @@
       "source": "Simply Wall St",
       "published": "10-30 20:36",
       "published_iso": "2026-10-30T11:36:54+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "SNDK",
@@ -179,7 +199,17 @@
       "source": "Investing.com 한국어",
       "published": "10-30 20:25",
       "published_iso": "2026-10-30T11:25:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "4분기 전망 부진이 인텔(INTC) 주식 투자 타당성에 변화를 가져올 수도 있다 - Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2lNMzZ1RDlIOENCZnJLWkU5ZndON1BDM1pBTm44c1pUNjRKNHZXTlhYdUp6YThxcVFLTGFOY0hKckdCcS03YlVOSF9YOVg5b1RQeVhhVEdvOFJWM0h1N3NIekN1TUhSdndpci1sOEcySGxHTkRaRmJCZ3V4NUFKR09ScGdHWjJob2Y4RHQtdHhFX2o0TEYydNIBmAFBVV95cUxOV2lNMzZ1RDlIOENCZnJLWkU5ZndON1BDM1pBTm44c1pUNjRKNHZXTlhYdUp6YThxcVFLTGFOY0hKckdCcS03YlVOSF9YOVg5b1RQeVhhVEdvOFJWM0h1N3NIekN1TUhSdndpci1sOEcySGxHTkRaRmJCZ3V4NUFKR09ScGdHWjJob2Y4RHQtdHhFX2o0TEYydA?oc=5",
+      "source": "Simply Wall St",
+      "published": "10-30 18:50",
+      "published_iso": "2026-10-30T09:50:24+00:00",
+      "age": "2일 전"
     },
     {
       "ticker": "COST",
@@ -189,7 +219,17 @@
       "source": "인사이트코리아",
       "published": "10-30 17:12",
       "published_iso": "2026-10-30T08:12:02+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
+    },
+    {
+      "ticker": "458730",
+      "name": "TIGER 미국배당다우존스",
+      "title": "미국 배당주에 커버드콜 더했다…정기 현금 수요 공략 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fcTNwZmdCVXpMbGNkVXZ1OWExTEl5UzZJeXhnUjZpMHpNeS1WUGNEQXFUS0R3XzNMajYxTlFhQ1luUnNvdlhqRnlja0RmQXpxV3F1U1RB?oc=5",
+      "source": "매일경제",
+      "published": "10-30 16:50",
+      "published_iso": "2026-10-30T07:50:16+00:00",
+      "age": "2일 전"
     },
     {
       "ticker": "379780",
@@ -199,7 +239,7 @@
       "source": "뉴스톱",
       "published": "10-30 16:17",
       "published_iso": "2026-10-30T07:17:26+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "368590",
@@ -209,7 +249,7 @@
       "source": "뉴스톱",
       "published": "10-30 16:17",
       "published_iso": "2026-10-30T07:17:26+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "490490",
@@ -264,16 +304,6 @@
     {
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
-      "title": "Ge Vernova Inc (GEV) 주식 움직였습니다 상승 3.02%에 10월29일: 핵심 원인 공개 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmh4a09lY1Qzc1RlVzNOeWFfWlZWbk1IdHJVYWpsMExURThuZWtOWTlMNFQ2RURfZEZkd29DTjdxbXU2VEdTUlU2TXJLOFJ1RTA2RzBteW5UNEgzaXlCY2RRamdPOFhHMFJMX3V5cFpEUm5Kd09YZG1DNXcyQUJFb0oyMGUtVFgtYXdDXzJ3?oc=5",
-      "source": "TradingKey",
-      "published": "10-30 01:16",
-      "published_iso": "2026-10-29T16:16:10+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "GEV",
-      "name": "GE Vernova Inc.",
       "title": "BMO, 밸류에이션 고려해 GE Vernova 목표주가 $1,200로 하향 - Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94UUZpbHFqRTJXS1RodUtfaHBxS1BXbkdBWW43YXZwR3dhV0RKLUlCQVFYaWxLVGZmdlo3UmNza2ZURW85M3REOEZORm1BZ0kxUlVQSjhHNml0OVFvVF9yOGdJTHlvUVJKMk5tQlItVEYwX3c4?oc=5",
       "source": "Investing.com 한국어",
@@ -302,6 +332,26 @@
       "age": "2일 전"
     },
     {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "720억 달러 규모의 수주 잔고를 고려할 때, 캐터필러(CAT)의 주가는 적정 수준인가? - Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0JRWXZ6cXA5TmlrTlNVZjlFTVhNRXlFWGRKVjQza245bElDay1IYzlGTld4SUI1SzR0QVFBN05zbmNLaHptc0ktb2RFbnNYMUtGcXFaeEw1VHhzUUROQlpKXy1NMENqREZuWktvVmxJRWRuWWM5QXpRb0J5aDQ1RFFHR3U5TVZXQUJjdUtLYjAwQUtvY0M2M2ZQMNIBmwFBVV95cUxOU0JRWXZ6cXA5TmlrTlNVZjlFTVhNRXlFWGRKVjQza245bElDay1IYzlGTld4SUI1SzR0QVFBN05zbmNLaHptc0ktb2RFbnNYMUtGcXFaeEw1VHhzUUROQlpKXy1NMENqREZuWktvVmxJRWRuWWM5QXpRb0J5aDQ1RFFHR3U5TVZXQUJjdUtLYjAwQUtvY0M2M2ZQMA?oc=5",
+      "source": "Simply Wall St",
+      "published": "10-29 18:39",
+      "published_iso": "2026-10-29T09:39:57+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova Inc.",
+      "title": "TD Cowen, 수주 우려에 GE Vernova 목표주가 1,125달러로 하향 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9McFJ5UHBJSTBVdlJtMjBJOElYaXdSYmxnSnNaRXIwU1dQRWlUQU9wWXdXUFYydGVrQlFwbXpkenItV2k5QkVwckxHNEIzTWVsWUVkZE8xSkFBRVU5TjlWWlVDbTVHUUZsdzFwRUZobWNaZWpK?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "10-29 18:13",
+      "published_iso": "2026-10-29T09:13:00+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
       "title": "고려아연, 세계 최대 파운드리 TSMC에 반도체 소재 공급 추진 - 매일경제",
@@ -309,7 +359,7 @@
       "source": "매일경제",
       "published": "10-29 17:07",
       "published_iso": "2026-10-29T08:07:36+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "487230",
@@ -319,7 +369,7 @@
       "source": "뉴스핌",
       "published": "10-29 16:08",
       "published_iso": "2026-10-29T07:08:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "0072R0",
@@ -329,7 +379,7 @@
       "source": "비즈니스포스트",
       "published": "10-29 15:44",
       "published_iso": "2026-10-29T06:44:04+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "487230",
@@ -339,7 +389,7 @@
       "source": "글로벌이코노믹",
       "published": "10-29 15:27",
       "published_iso": "2026-10-29T06:27:09+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "458730",
@@ -422,36 +472,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "458730",
-      "name": "TIGER 미국배당다우존스",
-      "title": "미래에셋 ‘TIGER 미국S&P500 ETF’, 연초 이후 개인 순매수 5조원 돌파…국내 상장 ETF 중 최초 - 조세플러스",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVSk9Tc2dGWUpobEEwNjl2TjduTC1MSTJIUzNqMWFWWWFzbEk5bE9yNGJTYWlJY005bTlOZ0tpbllnelZDR2RuTWo5RXF4TUFjbDV30gFTQVVfeXFMUFVKT1NzZ0ZZSmhsQTA2OXZON25MLUxJMkhTM2oxYVZZYXNsSTlsT3I0YlNhaUljTTltOU5nS2luWWd6VkNHZG5NajlFcXhNQWNsNXc?oc=5",
-      "source": "조세플러스",
-      "published": "10-29 09:43",
-      "published_iso": "2026-10-29T00:43:07+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "IBM·인텔(INTC)·오라클(ORCL), OKX 토큰화 거부...빅테크들 줄줄이 반대 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vS0xuUlpVdHlnT19YeUl4ek50NlVPZGNFNE44WU4xSUVqUmZITVI1OFpUemZQcEo1LW1OaGlUd0lvd1FIcGdEbFNR?oc=5",
-      "source": "코인리더스",
-      "published": "10-29 09:30",
-      "published_iso": "2026-10-29T00:30:00+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "IBM·인텔(INTC)·오라클(ORCL), OKX 토큰화 거부...빅테크들 줄줄이 반대 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vS0xuUlpVdHlnT19YeUl4ek50NlVPZGNFNE44WU4xSUVqUmZITVI1OFpUemZQcEo1LW1OaGlUd0lvd1FIcGdEbFNR?oc=5",
-      "source": "코인리더스",
-      "published": "10-29 09:30",
-      "published_iso": "2026-10-29T00:30:00+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "005380",
       "name": "현대자동차",
       "title": "보이지 않는 문제를 해결하는 기술, 현대자동차 하이테크랩이 직접 만든다 | 저널 | 현대자동차그룹 - Hyundai Motor Group",
@@ -459,6 +479,16 @@
       "source": "Hyundai Motor Group",
       "published": "10-29 09:00",
       "published_iso": "2026-10-29T00:00:00+00:00",
+      "age": "3일 전"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "title": "수익을 위한 고배당 수익률 주식 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQUhXT0VJUHRSamhETTAwUmx0VGtFVE1FaVV3ejU5RGdkdWNGTTRtczUxRHVoS1NVLU5yQXRrUGV1eUZyMjdNazk3R040TkVzZzB1ZU9sTXNvcUd3bWJmbExvRzI2WlZ5NFdYTWtBMEd1aENVV1B5MVhrSDFKOFloTXNEUXRHT1JiRzNCOUZR?oc=5",
+      "source": "TradingKey",
+      "published": "10-29 05:59",
+      "published_iso": "2026-10-28T20:59:30+00:00",
       "age": "3일 전"
     },
     {
@@ -472,6 +502,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "GEV",
+      "name": "GE Vernova Inc.",
+      "title": "Ge Vernova Inc (GEV) 주식 시작했습니다 하락 5.59%에 10월28일: 투자자가 알아야 할 정보 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX29ucVpaX2xnNkliZ3FGOEphNGpBTmJZZVFrQ3JsUVBtcEZWYWhJNmpmVHRWTWZsQXAxcW1ORkU5YXV5c08tRzdwVzJvb0ZUTVFFcWRFa2h2SHY4dy0yb01weG5TLThydlRqdU9tWXVxR2MtOFpfa1BRZm5OREVaTWIzb2RjQU9PMElQTWhR?oc=5",
+      "source": "TradingKey",
+      "published": "10-28 22:47",
+      "published_iso": "2026-10-28T13:47:57+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
       "title": "[운용 NOW] KB자산운용·한화자산운용·하나자산운용·이지스자산운용 - 위키리크스한국",
@@ -479,7 +519,7 @@
       "source": "위키리크스한국",
       "published": "10-28 18:13",
       "published_iso": "2026-10-28T09:13:52+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "379810",
@@ -489,7 +529,7 @@
       "source": "팍스경제TV",
       "published": "10-28 16:33",
       "published_iso": "2026-10-28T07:33:56+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "GOOG",
@@ -499,7 +539,7 @@
       "source": "TradingKey",
       "published": "10-28 16:00",
       "published_iso": "2026-10-28T07:00:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "379800",
@@ -539,6 +579,16 @@
       "source": "매일경제",
       "published": "10-28 13:07",
       "published_iso": "2026-10-28T04:07:50+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대자동차, 글로벌 브랜드 가치 250억 달러 달성 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVUY0aXdwQzFxUkdSV0xmTUFVQmxxTEJXRk9WOUpTTVVBMkNxMEo5MF9tQ193VldwcU80di03c2pDT0YweG9waHJLeGFDM1FTblBabksxcEZZQ0pEb1lLZ1BZMEpSTUhXajBBX1NvY2J2cjlyV3J1UTZOZjIyZlVUdVloTi1Ca3VwQVoxb252cWdWdUh0YnY3ZA?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "10-28 13:00",
+      "published_iso": "2026-10-28T04:00:00+00:00",
       "age": "4일 전"
     },
     {
@@ -632,16 +682,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "현대차그룹, 수소 상용 모빌리티 경쟁력 알린다 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdEZkQlM1b1Fva2R4YkZSbDB4MjNpZHZGeFdzQkpHSW00OWQ0aEZ6cWpQdGhkNzI5YjJFSl9XVnZoYVV6dlhKY3JXVFBzMElaTHIxcHgxYUlOU0hfOWN0aHhKMkppV2hOeGYwLTJ5T0pnVE9RRm50ZjJ3MG12Ym9zSnQ0STJlVlhKcEtSVU1OZGVCQnRTREptT2hBN2dlMmJqcElMaV9EdEd2UQ?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "10-28 08:30",
-      "published_iso": "2026-10-27T23:30:00+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "title": "엔비디아(NVDA)·메타(META), 뮤즈 AI 에이전트 협력 확대 - 코인리더스",
@@ -669,6 +709,16 @@
       "source": "알파경제",
       "published": "10-28 07:43",
       "published_iso": "2026-10-27T22:43:59+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "엔비디아(NVDA.O), 메타(META.O)에 4조원 투자…AI 에이전트 '뮤즈' 협력 강화 - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ic29vcjJRRW82VW14S2ttSlpvVUhUYXNobDRXN0pDSnBYVzdFWUxERnVPWmhXRXNsWi1wd2pZR1dqeUd3LUMySTItTDlCZzE2azRlZnJRcmRpWngwbk56WDVpaW1FUVJ2b0RWTXF3?oc=5",
+      "source": "알파경제",
+      "published": "10-28 07:40",
+      "published_iso": "2026-10-27T22:40:19+00:00",
       "age": "4일 전"
     },
     {
@@ -762,16 +812,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "브로드컴 (AVGO) 주식 시작했습니다 상승 4.83%에 10월27일: 핵심 원인 공개 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORm51aEFHY3VlVFByZGNwRGVJR29IRkJOSTIxR0I3QTR2MlZzTkYxRkt6Y1hOakc1N2NXWkNDSU5GQVFrRVdWVkcwUXZxcUVBVF9XaEZ6azQ1MTdMTEdnbHVqSHJKbTlXczRMQjZIenNSTlVQY0FDbE9MRXlNMHRNeTZRS3NxOW04alFsQ2NZcw?oc=5",
-      "source": "TradingKey",
-      "published": "10-27 22:48",
-      "published_iso": "2026-10-27T13:48:02+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
       "title": "[특집]미래에셋자산운용, 널뛰기 증시 대안 ‘TIGER 미국배당다우존스ETF’ 주목 - 경향신문",
@@ -789,7 +829,7 @@
       "source": "인포스탁데일리",
       "published": "10-27 17:15",
       "published_iso": "2026-10-27T08:15:56+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "SCHD",
@@ -799,7 +839,7 @@
       "source": "뉴스핌",
       "published": "10-27 16:08",
       "published_iso": "2026-10-27T07:08:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "GOOG",
@@ -809,7 +849,7 @@
       "source": "Mitrade",
       "published": "10-27 16:00",
       "published_iso": "2026-10-27T07:00:00+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "TSLA",
@@ -852,16 +892,6 @@
       "age": "5일 전"
     },
     {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "title": "코스트코(COST)의 AI 제품 확대가 투자 전망을 어떻게 바꿨는가 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOODFXOXNMWkgyaFRIRmxDMU15LXF1eS1RdXIwMHBTbEhHUW8xT013VTZxSEM1MllCRWM3X3VYLTl1UGx0M3RTMVhSb3h2VF9ldkpOSHcwZm9wcG8zcXZnamI5czJ1VXpsbkVfcnJ6bndRMkxPRlVCY2lINmdub3RvSGJaT1FDX045cXFLVGJmV1lCazQ4N2hvdEJLVjBoQlhKWENJX1NDY9IBrAFBVV95cUxNZVl5V2lWN3J4eGVUYmlXSzZpeDhCRnlCT0RMUnJjbkFmcEdvTTZLc2NjQXVnMDFNSEFFWlJSQ1JXcDJtQ2xhRDE1ejVZalozbUMwT2dvUmFhVUZ3T1lweUJPaEZCUExSNUY2VTFuNS12VmU4aUtXdjJRUm5oY09WX2VfQkJwR1otaEtvQnZxVmFicE9nR3M0QS1fMllyeDVnVmNwM0wzUGQyZnI0?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-26 21:55",
-      "published_iso": "2026-10-26T12:55:59+00:00",
-      "age": "5일 전"
-    },
-    {
       "ticker": "489250",
       "name": "KODEX 미국배당다우존스",
       "title": "美 시장 상황 따라 투자 종목 수시로 조정… ETF 신규 상장 - 조선일보",
@@ -869,7 +899,7 @@
       "source": "조선일보",
       "published": "10-26 21:43",
       "published_iso": "2026-10-26T12:43:28+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "SNDK",
@@ -879,7 +909,7 @@
       "source": "FinanceFeeds",
       "published": "10-26 17:13",
       "published_iso": "2026-10-26T08:13:35+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "322410",
@@ -889,7 +919,7 @@
       "source": "매일경제",
       "published": "10-26 17:08",
       "published_iso": "2026-10-26T08:08:52+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "QQQM",
@@ -899,7 +929,7 @@
       "source": "재경일보",
       "published": "10-26 16:51",
       "published_iso": "2026-10-26T07:51:20+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "0072R0",
@@ -909,7 +939,7 @@
       "source": "비즈니스포스트",
       "published": "10-26 16:47",
       "published_iso": "2026-10-26T07:47:39+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "GEV",
@@ -919,7 +949,7 @@
       "source": "TradingKey",
       "published": "10-26 16:16",
       "published_iso": "2026-10-26T07:16:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "TSLA",
@@ -929,7 +959,17 @@
       "source": "Mitrade",
       "published": "10-26 16:00",
       "published_iso": "2026-10-26T07:00:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
+    },
+    {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "\"격주분배금으로 현금흐름 설계\" 삼성운용 'KODEX 커버드콜 ETF 2종' 개인순매수 4조 돌파 - https://www.catchnews.kr/",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QRUJJOG1vc1FXODRlTGN3aWMwZlRqQ3VQbzN1bWlGMnlyd0hxdFlfeEhDNnB1Smh3UVNneDQxQlBfV1k3T1VqUldaMXFTaHh2Znp1MWhrbVVGTkhoLVl1YlBwTWNWdU1WdEt3?oc=5",
+      "source": "https://www.catchnews.kr/",
+      "published": "10-26 14:54",
+      "published_iso": "2026-10-26T05:54:00+00:00",
+      "age": "6일 전"
     },
     {
       "ticker": "0072R0",
@@ -959,46 +999,6 @@
       "source": "스마트투데이",
       "published": "10-26 09:54",
       "published_iso": "2026-10-26T00:54:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "국장 약세에 美로 쏠린 눈 \"분배율 살피세요\" - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHZW45Q1phOUc1UDRXeERvb0FmNktRWl9TYTlLYkdNdi1uVnBLdDRWRzBybGRKSFQwTWJFTUlaUTNjekpRM2g1N3RDcXF5RmZGbzRac3BHdmljUmwwLWJSMUwxc1g5Q1dp0gFuQVVfeXFMTkZIRjFVQklCZVJNdFdURE5RWm1WR1djZE1YV0EwVU9hVkRsbE1DX0dhb2FNX0tMa3prcm5PNmtwX2l0YUZaal85a0Y1ODhLWmVwQkZ4M1VNcC1uR2FldG43clRvSHdaZ2V4U2o0bUE?oc=5",
-      "source": "머니투데이",
-      "published": "10-26 03:30",
-      "published_iso": "2026-10-25T18:30:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "[재테크 특집] 美 배당주 투자 ‘KODEX 액티브 ETF’ 상장 - 세계일보",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RS01YcFhTWGI5eEdKdzQtSUFta2dMNWN6R0ZORXhCbWFFZmg2c2l0aTlQbThoT1A5MG5vVUI4Nmhjd0cwYTZ2Mi1IUXlyUGF2bXdIR3lRQkjSAVRBVV95cUxQcEowNzE0YXVkZnUxN1JMZVFOeTFZbS1SbWs0RjdoRFlhWFkxMFpvSDlPRFRpOFBBbDhHdmd2SHU2ak9iWmJlVHNydXNad1FPZUVLX3k?oc=5",
-      "source": "세계일보",
-      "published": "10-25 19:10",
-      "published_iso": "2026-10-25T10:10:18+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "엔비디아(NVDA) 주가 전망 2026 하반기: 평균 목표가 326달러, 조정 국면의 선택 - Mitrade",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNEpBRExFbHJicmhHMjdfMGlaVmNpU0gwVThIYkFjZFhIMFYxd29VQzBLQlNyYjhyWVJkNWh1MVZxai0tR3pRcDZleVVQSlpiSGF0TEFzaURJaS1nQ3lyVWlVdHBuN1VMc0xLVnpPYTlGcnMyaHdDd0I3aTNzSWh0YjhBOW9iQQ?oc=5",
-      "source": "Mitrade",
-      "published": "10-25 16:00",
-      "published_iso": "2026-10-25T07:00:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "인텔(INTC) 83% 저평가 가능성 AI와 파운드리 기대가 키운 밸류에이션 논쟁 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM2hoZ0daVEM3WFhKQkJwdVFCT1dHemktRjRmQUlPM0Q2aGFGY0ZzMEduVlktMWVOazVhNDJjbDBZSUsxbnVCQjFhQ0M1YkNpVDcxc0N6bk5sazRQZHZPclNOTzl6YlY0WkVmM2hMcjB3V1o2X0UxU1c4eFF4dk9RSUtGdEVrbXhmaE03WFU2RElnQVXSAZgBQVVfeXFMTURrc3FXZ2VVdkpmdlp6VTlQNFV6SjZXSWlmVko2TmpTaWdMWEFZMXlsdDhLUWVMdGVkUVNtZUlxVkx3LTEyUUZRb1J1Z2w0YWkwMVRkbFlQMld6NERIU1BhMEpEX1U5YWNhVEdxMDN3a0JRODRYN3E5NDloLV9fbVkwTVdidGRGTnRoc1JNTkpGVlRnZG11NW0?oc=5",
-      "source": "Simply Wall Street",
-      "published": "10-25 16:00",
-      "published_iso": "2026-10-25T07:00:00+00:00",
       "age": "6일 전"
     }
   ]
