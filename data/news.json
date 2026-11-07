@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 16:02 KST",
+  "updated_at": "2026-11-07 22:55 KST",
   "items": [
     {
       "ticker": "379810",
@@ -9,7 +9,7 @@
       "source": "신아일보",
       "published": "11-07 08:00",
       "published_iso": "2026-11-06T23:00:00+00:00",
-      "age": "8시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "TSM",
@@ -19,17 +19,17 @@
       "source": "재경일보",
       "published": "11-07 06:33",
       "published_iso": "2026-11-06T21:33:00+00:00",
-      "age": "9시간 전"
+      "age": "16시간 전"
     },
     {
-      "ticker": "INTC",
-      "name": "Intel Corporation",
-      "title": "Intel Corp (INTC) 주식 움직였습니다 상승 5.73%에 11월6일: 변동 원인 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQXzFhcFBBdlBVV2ZCNktlNzNNT1g3SG9heFVzbWhEMFF2MnRSWmNMR25tN1c2dkctUDNrQWJJcjByeGxRRVVxaVpZcW1SY2RoRkM1TnZaVXdBdUFCdmlGbzJFVHFEdGJPcjM1REVKbEh3QmFDQ09lVGRaa2dybTMxTzUyNHdKc3Fsb0xMRzZHcw?oc=5",
-      "source": "TradingKey",
-      "published": "11-07 01:18",
-      "published_iso": "2026-11-06T16:18:18+00:00",
-      "age": "14시간 전"
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "Anthropic’s “Down Quarter” Highlights Broadcom’s $161 Billion Risk - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPam5kaUZzOXRFYV92YzEyaExPcGZmakc4c0o1RldIZURFOTRvT0N2WUMtU2VQTkcwMmJFdUZwSXlJTjBwbTEyVGp0bFZzYVJIeXo5aF9jb3Q1eUp3SDdfOFlXMURGMVhUUkI1eTBQRllOSXdNR1hidDJGV1FHUmE2aGhCcFROSmRrM3V2Z0FqQ0FSZHNMUkE?oc=5",
+      "source": "TIKR.com",
+      "published": "11-07 06:02",
+      "published_iso": "2026-11-06T21:02:43+00:00",
+      "age": "16시간 전"
     },
     {
       "ticker": "SNDK",
@@ -39,7 +39,7 @@
       "source": "Investing.com 한국어",
       "published": "11-07 00:17",
       "published_iso": "2026-11-06T15:17:00+00:00",
-      "age": "15시간 전"
+      "age": "22시간 전"
     },
     {
       "ticker": "TSM",
@@ -49,7 +49,17 @@
       "source": "TradingKey",
       "published": "11-06 23:49",
       "published_iso": "2026-11-06T14:49:42+00:00",
-      "age": "16시간 전"
+      "age": "23시간 전"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "title": "브로드컴 (AVGO) 주식 시작했습니다 상승 4.58%에 11월6일: 변동 원인 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUkJVQ2lrb2ZFaTZUVDl1Y2prMWxyWVptWE13MUpJTThoWEktdVBtWHprcFU3NjNpMWxhVTdYd2U2eTBtQ1dSVHJRdzktVEtZRzljdExhZ3NBbUtua2Fwby16UXpCc2ViczBMQk8wSnk1TENrNEx1VVRfN05TNmxicXlOZWpZZjlTM0ZxaThwOA?oc=5",
+      "source": "TradingKey",
+      "published": "11-06 23:49",
+      "published_iso": "2026-11-06T14:49:32+00:00",
+      "age": "23시간 전"
     },
     {
       "ticker": "TSLA",
@@ -59,26 +69,6 @@
       "source": "매일경제",
       "published": "11-06 20:39",
       "published_iso": "2026-11-06T11:39:57+00:00",
-      "age": "19시간 전"
-    },
-    {
-      "ticker": "005380",
-      "name": "현대자동차",
-      "title": "현대차 정몽구 재단, 말레이시아서 ‘2026 한-동남아 전략정책 포럼’ 개최 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb05sWmRBUUYxQlpYOFhfWE9jSVlnTDBiUDVsTTVWYWthQVppNWFNaExlVUx1TXU3UWp1S01zNjdPcm91N282YUZ4UUVaTmV1NEVVeS1RVEE5dkdTc1dpdWVwRWZUZ2p6LVZKMGhXa3JuTmRONWFLcE53c1VJblk5RUpzT0NTVE5CVFYwSnh3QWRJMHQtc2ZxNVVPbFFEOThGUllsTEMtU1ZtRk9wakZhd1QtNWxlUGlGUlhTLUZB?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "11-06 15:30",
-      "published_iso": "2026-11-06T06:30:00+00:00",
-      "age": "1일 전"
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "title": "브로드컴 (AVGO) 주식 시작했습니다 상승 4.58%에 11월6일: 변동 원인 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUkJVQ2lrb2ZFaTZUVDl1Y2prMWxyWVptWE13MUpJTThoWEktdVBtWHprcFU3NjNpMWxhVTdYd2U2eTBtQ1dSVHJRdzktVEtZRzljdExhZ3NBbUtua2Fwby16UXpCc2ViczBMQk8wSnk1TENrNEx1VVRfN05TNmxicXlOZWpZZjlTM0ZxaThwOA?oc=5",
-      "source": "TradingKey",
-      "published": "11-06 14:49",
-      "published_iso": "2026-11-06T05:49:00+00:00",
       "age": "1일 전"
     },
     {
@@ -142,6 +132,16 @@
       "age": "1일 전"
     },
     {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "알파벳, 60억 유로 규모 선순위 채권 공모 발행 종결 - 데이터투자",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Eei0tbjk1SGxuaHg3YVY0NnNRcWY0Y2xVTE5jUEMxaW5vZEFjb2xDZzdwaldZSzJweDRfOGNkajVXNjk4NWdCVmN4Njhma1V3NlNyUkNWZURXcW0zYmZ1M0R2ZjZ3cTJlTkxPV0JDa1VCMnM?oc=5",
+      "source": "데이터투자",
+      "published": "11-06 06:44",
+      "published_iso": "2026-11-05T21:44:25+00:00",
+      "age": "1일 전"
+    },
+    {
       "ticker": "379780",
       "name": "RISE 미국S&P500",
       "title": "KB자산운용 'RISE 미국고배당다우존스TOP10', 상장 후 수익률 17.10% - 비즈월드",
@@ -189,6 +189,16 @@
       "source": "TradingKey",
       "published": "11-06 04:17",
       "published_iso": "2026-11-05T19:17:27+00:00",
+      "age": "1일 전"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "title": "Intel Corp (INTC) 주식 움직였습니다 하락 6.30%에 11월5일: 투자자가 알아야 할 정보 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXBZWmhRRGViV3ZtX1BkUzhVYkVWbVdoLTcyV1M0eWVabmNyV0s3VHZYLWMtMFdyb1ZBWFc4UG4tSXBKOVUtUTRoWFBwb0hNUmJGZ01Zam5ONHEwSTBRUWo5UUVRQkhlSVU1VmxSUHNRS1VZUTgzNjg3UEQyQk9FRFdXeW9GLWw3OC1sVUdJVQ?oc=5",
+      "source": "TradingKey",
+      "published": "11-06 02:17",
+      "published_iso": "2026-11-05T17:17:54+00:00",
       "age": "1일 전"
     },
     {
@@ -242,16 +252,6 @@
       "age": "1일 전"
     },
     {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "알파벳 주가 전망: 단기 매수세가 강해지며 상승세 지속 - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSkpIcEFxQ29uY0x2T3lGc2VqaElPWFBDdmZ5VkFGNDJpVFo5ZnJoVzFMWXhrRUxCSHNxeDAyN2pYRmd3TlRNYUxiZ252dXJmVVR6QmE2aTdlZTlTOUM5VHV5OERYLTRXZTBsRWZRX3g0MDJOeXRRMWQ4cUtMenhBV3pLaUtzY0pfb2tXaG4xczJ0MlVnVEtj?oc=5",
-      "source": "Traders Union",
-      "published": "11-05 23:23",
-      "published_iso": "2026-11-05T14:23:18+00:00",
-      "age": "1일 전"
-    },
-    {
       "ticker": "COST",
       "name": "Costco Wholesale Corporation",
       "title": "Truist, 코스트코 투자의견 ‘보유’ 유지…견조한 고객 방문 주목 - Investing.com 한국어",
@@ -269,7 +269,7 @@
       "source": "LiteFinance",
       "published": "11-05 18:10",
       "published_iso": "2026-11-05T09:10:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "368590",
@@ -279,7 +279,7 @@
       "source": "서울경제",
       "published": "11-05 18:06",
       "published_iso": "2026-11-05T09:06:47+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "379780",
@@ -289,7 +289,7 @@
       "source": "위키리크스한국",
       "published": "11-05 18:04",
       "published_iso": "2026-11-05T09:04:44+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "SNDK",
@@ -299,7 +299,7 @@
       "source": "BeInCrypto",
       "published": "11-05 17:00",
       "published_iso": "2026-11-05T08:00:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "000660",
@@ -362,6 +362,16 @@
       "age": "2일 전"
     },
     {
+      "ticker": "005380",
+      "name": "현대자동차",
+      "title": "현대차그룹, ‘FISITA 월드 모빌리티 서밋’에서 AI·전동화로 여는 미래 모빌리티 기술 방향 제시 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHdyTG1NZDhSZElGbEwzNmVuTFhzY09ucDEwYmFiemVXVHY0aVVnVVU2X0RkWTlsakNhT3pDbEZFdGh5UXQ3WllRcERzMXR4NVhGaUMzVnV1WmxJUHZjZzItbkFZZGdGd2RDTDM2MFdnaVltTmF0d0ZQbUhkYW5Xa0FIOWxFaWJ6SENhVElyNnN5SVhwSXlMeEZpbUdXcllSTVpDWjFoZFc1a2hRTFE?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "11-05 08:30",
+      "published_iso": "2026-11-04T23:30:00+00:00",
+      "age": "2일 전"
+    },
+    {
       "ticker": "000660",
       "name": "SK하이닉스",
       "title": "Samsung Electronics and SK hynix HBM Reportedly Diverted to China Through Smuggling Networks - 알파경제",
@@ -369,16 +379,6 @@
       "source": "알파경제",
       "published": "11-05 06:00",
       "published_iso": "2026-11-04T21:00:00+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "마이크로소프트, 6만 명 희망퇴직 제안 일주일 만에 구글도 글로벌 구조조정 - Cryptopolitan",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SWmZZMlM0amxkVzRLOTk2aHlpdm80UTMyV2lnR0I3Zzg3blRZZzNTZE5jMm9lLXNMNm5TcERLaGxLQzRDMkU5TDYyYmhqbDk1RkJ4Sm43Y1JyMGRSdlVGdVR3amhXRmVLRXZ6MDN1LVhwQVBmLVduWFlEYw?oc=5",
-      "source": "Cryptopolitan",
-      "published": "11-05 05:15",
-      "published_iso": "2026-11-04T20:15:16+00:00",
       "age": "2일 전"
     },
     {
@@ -429,7 +429,7 @@
       "source": "Investing.com 한국어",
       "published": "11-04 20:23",
       "published_iso": "2026-11-04T11:23:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "AMD",
@@ -439,7 +439,7 @@
       "source": "테크수다",
       "published": "11-04 19:27",
       "published_iso": "2026-11-04T10:27:47+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "TSLA",
@@ -449,7 +449,7 @@
       "source": "연합인포맥스",
       "published": "11-04 18:36",
       "published_iso": "2026-11-04T09:36:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "487230",
@@ -459,7 +459,7 @@
       "source": "그린포스트코리아",
       "published": "11-04 18:11",
       "published_iso": "2026-11-04T09:11:33+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "379780",
@@ -469,7 +469,7 @@
       "source": "KBC광주방송",
       "published": "11-04 16:27",
       "published_iso": "2026-11-04T07:27:06+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "0072R0",
@@ -492,6 +492,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
+      "title": "삼성자산운용 KODEX 미국S&P500 ETF, 분배금 117원 지급 - 초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpN1ExZTFRTmM1SXBDVTB0emlzdUtUS0xyamtKcS1hRk1VSFZURnFQbXpjT1o3WVdMUndXbHhSVWdKQTdkSVB2MnAxOG9tT055OGdQaWtTellWNVcyd09LNUNsQUhKTzlGWUV4ZUlFWG_SAXNBVV95cUxPbkNSZXJtY2p6WTF6ZkdZdG9CV18tSEY4ZWtzU0M1bjduUWxEdDJoQTFfVXN3cUlUajVlMk83cy0xSXZ2WTVlLVhETk1VbThCanhKbmw1aDlnQzR4MzB2U0UtdGxDTVlvQWY4cmdRQ1U5TkF3?oc=5",
+      "source": "초이스경제",
+      "published": "11-04 10:52",
+      "published_iso": "2026-11-04T01:52:41+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "금값 30% 급락하자 다시 ‘사자’…금 ETF 담는 개미들 [코주부] - 서울경제",
@@ -509,16 +519,6 @@
       "source": "강원도민일보",
       "published": "11-04 10:06",
       "published_iso": "2026-11-04T01:06:06+00:00",
-      "age": "3일 전"
-    },
-    {
-      "ticker": "005930",
-      "name": "삼성전자",
-      "title": "Samsung Electronics Plans to Exit 8-Inch Foundry Production by End-2030, Pressuring Korean Fabless Firms - 인사이트코리아",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXZlVELWdGckJ5OFdITGRJSHJRbnh3a0pHeE1pR3BNZXN6dnhaOUdkRFdkdzBqVHFobGdTZWJyb1UyZGRXZnFsQ183a0pjZ1hNX0FabWYtOEZ4b2tNU1ZWQ2Joa1lHcUU5UC1JUk1mdE85Qms?oc=5",
-      "source": "인사이트코리아",
-      "published": "11-04 10:00",
-      "published_iso": "2026-11-04T01:00:00+00:00",
       "age": "3일 전"
     },
     {
@@ -582,8 +582,8 @@
       "age": "3일 전"
     },
     {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
+      "ticker": "379810",
+      "name": "KODEX 미국나스닥100",
       "title": "삼성운용, KODEX 미국S&P500·나스닥100 분배금 지급 - 뉴시스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MYVF1NlNDci14aVFfdEFJaGF2NVUyLTNrVFRpU1JjeDFYX2N6eFZJOVVpOEJqclh6NHBoU0NoWDFuLUIwUmgtWTR1TFFnb3ZUcTlzLVI5NFNVMUJxU3JMaNIBeEFVX3lxTE55ejhkSUx6bVdLT3JHRGdBV2RhdVFPSEdWQ3lxekJFdFFFbzlyNXZIeUpNS0xIZlZmcy1sS1pVTFZZZWF0VUpLYmRub3Y3eFpVUkxHWnNtUEFGNGpsZk5VcWU3MnRTWDdJb1hpZ19HbkJWeVdTbHZCaQ?oc=5",
       "source": "뉴시스",
@@ -592,13 +592,13 @@
       "age": "3일 전"
     },
     {
-      "ticker": "379810",
-      "name": "KODEX 미국나스닥100",
-      "title": "삼성운용, KODEX 미국S&P500·나스닥100 분배금 지급 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MYVF1NlNDci14aVFfdEFJaGF2NVUyLTNrVFRpU1JjeDFYX2N6eFZJOVVpOEJqclh6NHBoU0NoWDFuLUIwUmgtWTR1TFFnb3ZUcTlzLVI5NFNVMUJxU3JMaNIBeEFVX3lxTE55ejhkSUx6bVdLT3JHRGdBV2RhdVFPSEdWQ3lxekJFdFFFbzlyNXZIeUpNS0xIZlZmcy1sS1pVTFZZZWF0VUpLYmRub3Y3eFpVUkxHWnNtUEFGNGpsZk5VcWU3MnRTWDdJb1hpZ19HbkJWeVdTbHZCaQ?oc=5",
-      "source": "뉴시스",
-      "published": "11-04 09:39",
-      "published_iso": "2026-11-04T00:39:08+00:00",
+      "ticker": "GEV",
+      "name": "GE Vernova Inc.",
+      "title": "왜 GE 버노바(GEV)는 이번 인수로 전력망 사업 판도를 바꾸려 할까? - Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXVvZkQybG9PelZlcWtfZHY3ZVNyd0k0bWJuT0lqeUZZZ1ZJZlpCNmxJUU81bzMzbDI5ZkZZWjFIdkd5VVZwc1RuQzR5ejJ1dkplWTZhWmpGSldIaENDZ2otd0wtd3BNOUNhV29XUUFlSG9Rek5pUzVzMlc1aVVJMk9sTHVRQzV2eklHNDBxa0RJY0lhbHczeXRB0gGaAUFVX3lxTE1ZdW9mRDJsb096VmVxa19kdjdlU3J3STRtYm5PSWp5RllnVklmWkI2bElRTzVvMzNsMjlmRllaMUh2R3lVVnBzVG5DNHl6MnV2SmVZNmFaakZKV0hoQ0Nnai13TC13cE05Q2FXb1dRQWVIb1F6TmlTNXMyVzVpVUkyT2xMdVFDNXZ6SUc0MHFrREljSWFsdzN5dEE?oc=5",
+      "source": "Simply Wall St",
+      "published": "11-04 07:50",
+      "published_iso": "2026-11-03T22:50:37+00:00",
       "age": "3일 전"
     },
     {
@@ -619,7 +619,7 @@
       "source": "인포스탁데일리",
       "published": "11-03 17:18",
       "published_iso": "2026-11-03T08:18:32+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "005930",
@@ -629,7 +629,7 @@
       "source": "스포츠경향",
       "published": "11-03 16:22",
       "published_iso": "2026-11-03T07:22:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "458730",
@@ -742,16 +742,6 @@
       "age": "4일 전"
     },
     {
-      "ticker": "GEV",
-      "name": "GE Vernova Inc.",
-      "title": "GE Vernova Lost 13% in a Month. BMO Sees 39% Upside From Here - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1gzVlRLcFA2TUtWSDhOWk12ZDNTOW9zZmxFMnNlNEVDWXNvcW85dUtiVEo2NVBIS1dDRFFqOE44OExJSlBUYWJkdTVZTHJ5Vm9OYklRWVVhclhuNjVJcXRmUmViWXZKVzBMRWpIUC1OZS1SbHQ0Z1pyVXZnYlRwSTVwWlBiQmhTZGc5ZnFmXy0?oc=5",
-      "source": "TIKR.com",
-      "published": "11-02 17:00",
-      "published_iso": "2026-11-02T08:00:00+00:00",
-      "age": "4일 전"
-    },
-    {
       "ticker": "458730",
       "name": "TIGER 미국배당다우존스",
       "title": "나스닥 ETF 6% 빠질 때 美배당 ETF 7%↑…개미 833억 순매수 - 아시아투데이",
@@ -759,7 +749,7 @@
       "source": "아시아투데이",
       "published": "11-02 16:33",
       "published_iso": "2026-11-02T07:33:11+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "489250",
@@ -769,16 +759,6 @@
       "source": "아시아투데이",
       "published": "11-02 16:33",
       "published_iso": "2026-11-02T07:33:11+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "SCHD",
-      "name": "Schwab U.S. Dividend Equity ETF",
-      "title": "한투운용 ‘한국판 SCHD’ 순자산 1조원⋯개인 매수세 지속 - 서플 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBaFJQQjZvQ095VjVyWlVqNXpkS3pWZzdTREgxNG5hZ2xmNDhsU2RvZUtXQ3Q0WlhGZm9qVjlRY1o0dU5wVUtuRlBKNndXV05reXpKWjYyRVk0ekdm?oc=5",
-      "source": "서플 뉴스",
-      "published": "11-02 15:15",
-      "published_iso": "2026-11-02T06:15:00+00:00",
       "age": "5일 전"
     },
     {
@@ -829,6 +809,16 @@
       "source": "AI 매터스",
       "published": "11-02 09:46",
       "published_iso": "2026-11-02T00:46:00+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "SCHD",
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "title": "한투운용 ACE 미국배당다우존스 ETF 순자산액 1조원 - SBS Biz",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QQ2RoellldjZETS10cEhkdTZyNG4xb055Mk9wUFpFQV9KLWNZa28wS01QWUVTSDhxUnNPTnRBN3Z1VGdtV3pzV0ZNYjg0TTNmUmlvNjJyc2HSAVhBVV95cUxOUENkaHpZZXY2RE0tdHBIZHU2cjRuMW9OeTJPcFBaRUFfSi1jWWtvMEtNUFlFU0g4cVJzT050QTd2dVRnbVd6c1dGTWI4NE0zZlJpbzYycnNh?oc=5",
+      "source": "SBS Biz",
+      "published": "11-02 09:39",
+      "published_iso": "2026-11-02T00:39:00+00:00",
       "age": "5일 전"
     },
     {
@@ -899,6 +889,16 @@
       "source": "코인리더스",
       "published": "11-02 02:00",
       "published_iso": "2026-11-01T17:00:00+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "title": "Samsung Electronics to Acquire 10.16% Stake in TCL CSOT from Samsung Display for KRW 1.27 Trillion - 메디컬투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WWE5HV2t1S1ZLcUdjcjhXV1NNRi1RU2RwSlp2MXpuM042S2NlbC0tSmcxRmgxVzM1UDVfVUNORTlkU1dNdkswSnNoZDRmeGNNS3EzRkpfem90S2dGbDNZUHg0TmZhel9EWjF2WQ?oc=5",
+      "source": "메디컬투데이",
+      "published": "11-01 23:07",
+      "published_iso": "2026-11-01T14:07:11+00:00",
       "age": "5일 전"
     },
     {
