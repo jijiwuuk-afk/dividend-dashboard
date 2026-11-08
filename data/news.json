@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-11-08 07:40 KST",
+  "updated_at": "2026-11-08 11:22 KST",
   "items": [
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "주간 전망: ECB 금리 결정 임박; 알파벳(GOOGL), 테슬라(TSLA), 인텔(INTC) 실적 발표; 글로벌 PMI 예비치 발표 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMDhobDJ3Um1yVHIyVzl5TEYyTnR2X25wdFVmR3RJQ0xkOXZLUjZEbWRLMlNOeEZSSEV6aXNnQzdkWEhrX01WQl9SX2tYQmR5SFZKZlJLR1V6QlNaVERybUd6U09GRTdhek9KOGJjdVRJXzkwWllCZHlJMDA4Z0FTdzRJVzNadFRCWTA3YXctajFqMm9uMlhBaGpubDBsVDN2TXVYVkdPcXRBMDM5RS0wSWZFdUMxTUVFcHZNcWM0bVNVNDQyb1pMa1NvV0x0RVZs?oc=5",
-      "source": "TradingKey",
-      "published": "11-07 22:13",
-      "published_iso": "2026-11-07T13:13:16+00:00",
-      "age": "9시간 전"
-    },
     {
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
@@ -19,7 +9,7 @@
       "source": "Simply Wall St",
       "published": "11-07 13:34",
       "published_iso": "2026-11-07T04:34:57+00:00",
-      "age": "18시간 전"
+      "age": "21시간 전"
     },
     {
       "ticker": "379810",
@@ -29,7 +19,7 @@
       "source": "신아일보",
       "published": "11-07 08:00",
       "published_iso": "2026-11-06T23:00:00+00:00",
-      "age": "23시간 전"
+      "age": "1일 전"
     },
     {
       "ticker": "TSM",
@@ -45,7 +35,7 @@
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
       "title": "Anthropic’s “Down Quarter” Highlights Broadcom’s $161 Billion Risk - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPam5kaUZzOXRFYV92YzEyaExPcGZmakc4c0o1RldIZURFOTRvT0N2WUMtU2VQTkcwMmJFdUZwSXlJTjBwbTEyVGp0bFZzYVJIeXo5aF9jb3Q1eUp3SDdfOFlXMURGMVhUUkI1eTBQRllOSXdNR1hidDJGV1FHUmE2aGhCcFROSmRrM3V2Z0FqQ0FSZHNMUkE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnB0ZFQyeEw4ejhPUmU3TTd2Vm44ZkJCbG9IaFMtbGIzcEJZb3pGU0NYbFVBUG9WVXV5OVQ1ZUF1TkRjZXhtTG1TSzI0a3BwSUVnamo3bjlxNGstUkp5a2dkcktINXB4NWlYb2lyWl9sV3Mxc3JVZGxEVk5TUDZvWlU4WE82R1ZVUTVJRzREVmxnUExM?oc=5",
       "source": "TIKR.com",
       "published": "11-07 06:02",
       "published_iso": "2026-11-06T21:02:43+00:00",
@@ -129,7 +119,7 @@
       "source": "SK hynix",
       "published": "11-06 09:59",
       "published_iso": "2026-11-06T00:59:04+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "005380",
@@ -139,7 +129,7 @@
       "source": "Hyundai Motor Group",
       "published": "11-06 08:30",
       "published_iso": "2026-11-05T23:30:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "GOOG",
@@ -285,7 +275,7 @@
       "ticker": "368590",
       "name": "RISE 미국나스닥100",
       "title": "17조 넘긴 채권혼합 ETF…운용사 신상품 경쟁 가열 - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxc2N1REdPTFpNVW1UT25oQ0tXVXd3eWZVRzNnYllJdjBZazBNaG1Uckc5Skt6Y2pUUE1WeFNaRzVUZDBPeXVJZGI2b1RLS1pRNnE00gFTQVVfeXFMUHFzY3VER09MWk1VbVRPbmhDS1dVd3d5ZlVHM2diWUl2MFlrME1obVRyRzlKS3pjalRQTVZ4U1pHNVRkME95dUlkYjZvVEtLWlE2cTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sUmMyNGZLRGtEanlTQ1ljZzUxNW5VMHItQmhaQndUZTA3RDdaUmtsNGNablFaZDhzbWFfc3NjOVRYUGdkRDgtYXo2WVdwVmFTVWfSAVNBVV95cUxQcXNjdURHT0xaTVVtVE9uaENLV1V3d3lmVUczZ2JZSXYwWWswTWhtVHJHOUpLemNqVFBNVnhTWkc1VGQwT3l1SWRiNm9US0taUTZxNA?oc=5",
       "source": "서울경제",
       "published": "11-05 18:06",
       "published_iso": "2026-11-05T09:06:47+00:00",
@@ -339,17 +329,7 @@
       "source": "매일일보",
       "published": "11-05 10:32",
       "published_iso": "2026-11-05T01:32:47+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "제타체인, 솔라나 이전 추진…AI 플랫폼 제타랩스 출시 - 블록미디어",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jZHFuemc3QmhFLVVzVTZXdmduSlFvbXAtM09scGFDWkdmS1FZOFZicmpEX0Y5aVUxRHV0VVpIM0RUci1HaDc5cVlzZFVRbGE3WnhaMkctU0k?oc=5",
-      "source": "블록미디어",
-      "published": "11-05 10:05",
-      "published_iso": "2026-11-05T01:05:30+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "489250",
@@ -359,7 +339,7 @@
       "source": "뉴스핌",
       "published": "11-05 10:05",
       "published_iso": "2026-11-05T01:05:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "489250",
@@ -369,7 +349,7 @@
       "source": "아시아경제",
       "published": "11-05 09:13",
       "published_iso": "2026-11-05T00:13:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "CAT",
@@ -379,27 +359,17 @@
       "source": "알파경제",
       "published": "11-05 08:45",
       "published_iso": "2026-11-04T23:45:46+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "005380",
       "name": "현대자동차",
-      "title": "현대차·기아, 차량용 반도체 개발 프로세스 ISO 국제표준 인증 획득 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWRhRGVVd3lJejhzZjUxM2NVaFZuWUMtRnNhcmgxdS14Ny1WZC05WV9acXpnS2w2M3FlRTVGNFhVVTZRQnVULWctS3FnZHZid1puay16T0pVQlJMS0dBY1B4bGx6QmxfSnZISzBodVM5SEs4NkItc1c0dFJsbHozUWVjR01XSm5LQ21CMzJDV21TMjVoeWx4WFZiY1k?oc=5",
+      "title": "현대차그룹, ‘FISITA 월드 모빌리티 서밋’에서 AI·전동화로 여는 미래 모빌리티 기술 방향 제시 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHdyTG1NZDhSZElGbEwzNmVuTFhzY09ucDEwYmFiemVXVHY0aVVnVVU2X0RkWTlsakNhT3pDbEZFdGh5UXQ3WllRcERzMXR4NVhGaUMzVnV1WmxJUHZjZzItbkFZZGdGd2RDTDM2MFdnaVltTmF0d0ZQbUhkYW5Xa0FIOWxFaWJ6SENhVElyNnN5SVhwSXlMeEZpbUdXcllSTVpDWjFoZFc1a2hRTFE?oc=5",
       "source": "Hyundai Motor Group",
       "published": "11-05 08:30",
       "published_iso": "2026-11-04T23:30:00+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "title": "600만개 주문했는데 고작 1%…中 빅테크, 엔비디아(NVDA.O) 칩 품귀 - 알파경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrNGstTkpfY0J5bTBfM2IwQ3Exc0cxaG51ektaSk1UM2dFZ0N2NmJXUXVPcVJfazN0aWJYanJfOGt6enNIMmZZY2pvekZMNXMxV3Foc0ZiQzRrd2h2bWdsVXZPdmlqQzJDdXIxVlRB?oc=5",
-      "source": "알파경제",
-      "published": "11-05 07:54",
-      "published_iso": "2026-11-04T22:54:02+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "000660",
@@ -462,6 +432,16 @@
       "age": "3일 전"
     },
     {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "AMD, 퓨리오사AI·망고부스트와 개방형 이기종 AI 인프라 손잡았다…CPU·GPU·NPU·DPU 결합 모색 - 테크수다",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcm5UV3lycEVUX0dYLXR3a3dmU0k0TDVwWUVBUXEzQS1YMWI3WlpkSDBjb0FYWUFPbi1XX3BRR0hIbmR1NUdaZ0NyWXExS3JNNTBGaS1tMWFLTm9vRWJLNFJid2M5cG1KWXlyYWF4Z2RxRVU3cUxlTS1BU1pqajc0cnBzONIBiAFBVV95cUxQaW4wYUQwRU81RWNYU1hfdGV4ZkZEeDgzWUhsSXo5TEZSTDBLYll0dlhiYklyWDFvOFVDNExYcnBDZnJFSjJ2aERSeHYtWTluWEg4QWhjdGFWZlZWMW0wa0pka3FzQkNxYV9hd0prc3VqLUVQQzcyZklieHZYUW5jQl9BNnpDcVNK?oc=5",
+      "source": "테크수다",
+      "published": "11-04 19:27",
+      "published_iso": "2026-11-04T10:27:47+00:00",
+      "age": "3일 전"
+    },
+    {
       "ticker": "487230",
       "name": "KODEX 미국AI전력핵심인프라",
       "title": "\"데이터센터엔 전력이 필수\"··· AI 전력 인프라 ETF, 7일 만에 14% 급등 - 그린포스트코리아",
@@ -482,16 +462,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "AMD, 데이터센터 매출 97%↑ 사상 최대 실적…4분기 170억달러 전망에 시간외 7%↑ - 더페어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtWXJYV0tRTC1pRUc2VUdGU2Z4OUNUN3RXdmc5MEN2YTBubTlzdTRFOVFMNU11dTFqbGF1VTFNTXhhS1FCUkFsd01kV2Z5WjVPWHdZdnlsNzlFVlNuZHNCS3FMQmYyTHR5THFFLW1vdjjSAXRBVV95cUxOVnVvby1iNEdnQVZiVjdTR0xUdUxBQXFaRkR0a1gyZHA3YThqWEM0bDlVVm5IQVpYZzRCOUNycHJaR1RDakd6dk04N2dqNnFVY3dKVXYwdmJBbnNXV09BdXo0dl9yYlJPSDVNVGxzY2g4cWI2Mw?oc=5",
-      "source": "더페어",
-      "published": "11-04 12:49",
-      "published_iso": "2026-11-04T03:49:56+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "0072R0",
       "name": "TIGER KRX금현물",
       "title": "금값 떨어질 때가 기회?…개미들, 금 ETF 매수 - 연합뉴스TV",
@@ -509,7 +479,7 @@
       "source": "인포스탁데일리",
       "published": "11-04 10:57",
       "published_iso": "2026-11-04T01:57:14+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "379800",
@@ -519,7 +489,7 @@
       "source": "초이스경제",
       "published": "11-04 10:52",
       "published_iso": "2026-11-04T01:52:41+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "0072R0",
@@ -529,7 +499,7 @@
       "source": "서울경제",
       "published": "11-04 10:40",
       "published_iso": "2026-11-04T01:40:29+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "0072R0",
@@ -539,7 +509,7 @@
       "source": "강원도민일보",
       "published": "11-04 10:06",
       "published_iso": "2026-11-04T01:06:06+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "379800",
@@ -549,7 +519,7 @@
       "source": "매일일보",
       "published": "11-04 09:59",
       "published_iso": "2026-11-04T00:59:24+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "379810",
@@ -559,7 +529,7 @@
       "source": "매일일보",
       "published": "11-04 09:59",
       "published_iso": "2026-11-04T00:59:24+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "379800",
@@ -569,7 +539,7 @@
       "source": "뉴스톱",
       "published": "11-04 09:57",
       "published_iso": "2026-11-04T00:57:55+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "379800",
@@ -579,7 +549,7 @@
       "source": "연합뉴스",
       "published": "11-04 09:47",
       "published_iso": "2026-11-04T00:47:08+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "379810",
@@ -589,7 +559,7 @@
       "source": "연합뉴스",
       "published": "11-04 09:47",
       "published_iso": "2026-11-04T00:47:08+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "0072R0",
@@ -599,7 +569,7 @@
       "source": "연합뉴스",
       "published": "11-04 09:42",
       "published_iso": "2026-11-04T00:42:17+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "379810",
@@ -609,7 +579,7 @@
       "source": "뉴시스",
       "published": "11-04 09:39",
       "published_iso": "2026-11-04T00:39:08+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "GEV",
@@ -622,6 +592,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "Alphabet Eyes a Role in Trump’s Golden Dome After Its Worst Month Ever - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWENwOEtORDA0d2Vwbk9SOGRqWlEwaGRYbVV6cmpvcUxGb01lMXg4T1RxR0g3SG1NSHA5aTBDYTMzaE5NaDNWQ3VoMVo3MTdycnJIZEFUMHJ6b3pTZmpPRF9zbElNZGZUUk1IbnpxMUZTSXdKT29OZktCTTkxT1lMbFFOLS1xUUxpVG82QjA4Z2psM05nakNJalRTQm1PWUE?oc=5",
+      "source": "TIKR.com",
+      "published": "11-03 19:22",
+      "published_iso": "2026-11-03T10:22:46+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "INTC",
       "name": "Intel Corporation",
       "title": "인텔(INTC), 서버 CPU 성장성 유효… 현금흐름 부담은 지속 - 인포스탁데일리",
@@ -629,16 +609,6 @@
       "source": "인포스탁데일리",
       "published": "11-03 17:18",
       "published_iso": "2026-11-03T08:18:32+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "AMD|Advanced Micro Devices Inc|가격:449.040|Chg%:+44.640 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fSVBiQ0xPN0Vhek9iSE1zM2RERmZ3NXVHWFJTMXgxMWtoRXpmeE9SUkotSHlzVl9oYnJDcVhpamNJaE1faVBOZS1URTJpbWN2Z2lnUzdPTHp6Rkll?oc=5",
-      "source": "TradingKey",
-      "published": "11-03 17:00",
-      "published_iso": "2026-11-03T08:00:00+00:00",
       "age": "4일 전"
     },
     {
@@ -679,7 +649,7 @@
       "source": "www.newsq.co.kr",
       "published": "11-03 08:44",
       "published_iso": "2026-11-02T23:44:59+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "005380",
@@ -689,16 +659,6 @@
       "source": "Hyundai Motor Group",
       "published": "11-03 08:30",
       "published_iso": "2026-11-02T23:30:00+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "SCHD",
-      "name": "Schwab U.S. Dividend Equity ETF",
-      "title": "한투운용 'ACE 미국배당다우존스', 순자산 1조원 넘어 - 비즈월드",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MRXltRVBfMVhjdmFFS0FLV3BsTXh3bzFBczZIc3E1eWFfaF9tVlJQWjF3aUxjdDF1N0liX2JKVGYtVmVlTV9oVXR1NHRzdklQaEtZaFE0d0ZRTVFKUGNDU0FONzEwdm9fU3c?oc=5",
-      "source": "비즈월드",
-      "published": "11-03 07:32",
-      "published_iso": "2026-11-02T22:32:00+00:00",
       "age": "5일 전"
     },
     {
@@ -729,6 +689,16 @@
       "source": "Simply Wall St",
       "published": "11-03 03:59",
       "published_iso": "2026-11-02T18:59:39+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "Advanced Micro Devices Inc (AMD) 주식 움직였습니다 하락 3.00%에 11월2일: 변동을 뒷받침하는 사실 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaUlvWVJwQWYtcmRIN2ZXSFlCNEdiaW8xLTRhSmNaRTZ1OGVwMkV6cmJPd3NYd3dJSUlfRVZwcEZ2S3J6RGhCVUJlV1BRZFJmdVhGRFFBUDNSdlhkN3hRc2dPakVlbHF6MFRBZFZfdk4zZ3h6b1RoVDkxWDg1MkNoZUFrVk44TlZ3LWc2QW9R?oc=5",
+      "source": "TradingKey",
+      "published": "11-03 02:16",
+      "published_iso": "2026-11-02T17:16:40+00:00",
       "age": "5일 전"
     },
     {
@@ -829,7 +799,7 @@
       "source": "코인리더스",
       "published": "11-02 11:10",
       "published_iso": "2026-11-02T02:10:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "QQQM",
@@ -839,7 +809,7 @@
       "source": "머니투데이",
       "published": "11-02 10:39",
       "published_iso": "2026-11-02T01:39:49+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "AVGO",
@@ -849,7 +819,17 @@
       "source": "AI 매터스",
       "published": "11-02 09:46",
       "published_iso": "2026-11-02T00:46:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
+    },
+    {
+      "ticker": "SCHD",
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "title": "배당주 선호에 '한국판 SCHD' 몸집 1조…개인 순매수도 1000억 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVmlHLXpyX081aVZIOXlqdHdGMHJNZXJKTGpWQ0owaTk5ZFZwUEo4WjNfUWxxWnJzZ3BSN2hITXV4YVQwX3J6YTdyXzdOU2pFVkpxVjNqNk9pQQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "11-02 09:06",
+      "published_iso": "2026-11-02T00:06:05+00:00",
+      "age": "6일 전"
     },
     {
       "ticker": "SCHD",
@@ -859,7 +839,7 @@
       "source": "매일경제 마켓",
       "published": "11-02 08:59",
       "published_iso": "2026-11-01T23:59:51+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "SCHD",
@@ -869,7 +849,7 @@
       "source": "이투데이",
       "published": "11-02 08:42",
       "published_iso": "2026-11-01T23:42:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "005380",
@@ -879,7 +859,7 @@
       "source": "Hyundai Motor Group",
       "published": "11-02 08:30",
       "published_iso": "2026-11-01T23:30:00+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "INTC",
@@ -889,7 +869,17 @@
       "source": "알파경제",
       "published": "11-02 08:24",
       "published_iso": "2026-11-01T23:24:25+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "title": "애플(AAPL.O), 엔비디아(NVDA.O) 제치고 시총 1위 탈환...AI 투자 아끼고 역주행 - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XUnI0M1JPNFppbGpRd0lKSXI4VjVMZW9IZGJDM2oyS3JFUmN4NWFwc2tHbGxwdUdfM2oySGFBTG4wOFNrN0hCSlJLQjAyTjdCZ21BT1ZTYzE1ZXBTTFExNUhVMGFNanFVNzdfczV3?oc=5",
+      "source": "알파경제",
+      "published": "11-02 07:44",
+      "published_iso": "2026-11-01T22:44:13+00:00",
+      "age": "6일 전"
     },
     {
       "ticker": "368590",
@@ -929,16 +919,6 @@
       "source": "Simply Wall St",
       "published": "11-01 16:00",
       "published_iso": "2026-11-01T07:00:00+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "ZETA",
-      "name": "Zeta Global Holdings Corp. Class A",
-      "title": "재미도 데이터로 증명한다, 스캐터랩 제타는 어떻게 주간 사용시간 20시간을 만들었을까? - 오픈애즈",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wT1NEamlrWTlhR2NnWDduM3pGbVpKRXRkbTNoQ1o4Z2ZOV05aM25YNks2U3BCQWI3Zy0yZHhHS1h1UDNTSHlqTHpOakQwOXk0WGg5YjAyUmt2cEJ3ME1UNXRXbHRReGFlOEdFaVFn?oc=5",
-      "source": "오픈애즈",
-      "published": "11-01 07:50",
-      "published_iso": "2026-10-31T22:50:00+00:00",
       "age": "6일 전"
     }
   ]
