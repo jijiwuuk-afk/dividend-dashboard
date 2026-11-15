@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 01:59 KST",
+  "updated_at": "2026-11-16 06:42 KST",
   "items": [
     {
       "ticker": "QQQM",
@@ -9,7 +9,17 @@
       "source": "위키트리",
       "published": "11-15 18:36",
       "published_iso": "2026-11-15T09:36:00+00:00",
-      "age": "7시간 전"
+      "age": "12시간 전"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "실적 호조와 AI 제품 출시로 AMD 주가에 다시 주목 쏠려 - Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFdvSm1YQWJxLXk3YXg3d3l0VURHOTEtWTdSd1ROQXVVdGQ3bjlBcEpUcnBEZkpaTzFGeXpqOW9oeW91WWFOMjk4aEFDVjNsNE8tRERSM3hpVFJEZmRUdjJsS3JEcWVRLXhINWxCWXI5bXhkRnhlSnFlRnBpenduMlRQR0NXaWVRclpRdzJBR2wtd2FVRno0UXV0VzNsV2hsWXozZDBJZnNTbUowZ2fSAa4BQVVfeXFMUEhXb0ptWEFicS15N2F4N3d5dFVERzkxLVk3UndUTkF1VXRkN245QXBKVHJwRGZKWk8xRnl6ajlvaHlvdVlhTjI5OGhBQ1YzbDRPLUREUjN4aVRSRGZkVHYybEtyRHFlUS14SDVsQllyOW14ZEZ4ZUpxZUZwaXp3bjJUUEdDV2llUXJaUXcyQUdsLXdhVUZ6NFF1dFczbFdobFl6M2QwSWZzU21KMGdn?oc=5",
+      "source": "Simply Wall St",
+      "published": "11-15 17:30",
+      "published_iso": "2026-11-15T08:30:09+00:00",
+      "age": "13시간 전"
     },
     {
       "ticker": "005930",
@@ -19,7 +29,7 @@
       "source": "데일리시큐",
       "published": "11-15 16:02",
       "published_iso": "2026-11-15T07:02:03+00:00",
-      "age": "9시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "368590",
@@ -29,7 +39,7 @@
       "source": "매일경제 마켓",
       "published": "11-15 15:52",
       "published_iso": "2026-11-15T06:52:55+00:00",
-      "age": "10시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "487230",
@@ -39,7 +49,7 @@
       "source": "매일경제 마켓",
       "published": "11-15 15:52",
       "published_iso": "2026-11-15T06:52:55+00:00",
-      "age": "10시간 전"
+      "age": "14시간 전"
     },
     {
       "ticker": "379800",
@@ -49,7 +59,7 @@
       "source": "한국경제",
       "published": "11-15 10:13",
       "published_iso": "2026-11-15T01:13:03+00:00",
-      "age": "15시간 전"
+      "age": "20시간 전"
     },
     {
       "ticker": "TSM",
@@ -59,7 +69,17 @@
       "source": "TIKR.com",
       "published": "11-15 08:21",
       "published_iso": "2026-11-14T23:21:27+00:00",
-      "age": "17시간 전"
+      "age": "22시간 전"
+    },
+    {
+      "ticker": "379800",
+      "name": "KODEX 미국S&P500",
+      "title": "[ETF머니플로우-11월2주] KODEX 코스닥150 순매수 1위…KODEX 머니마켓액티브 9계단↑ - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RMWVfZjdsZDlxLU9ud0RFbnhOYVJDYkJHMmVwVXhrYW9tbmJ5b0VYQ3cyTTJNWlZ6ZlpFdzhzTkJ1M1N0U3QwYUxDTkJoY25qZGZiYVltOFY1cHVmMDh0QmVIRzlZaUxjaTd3c1JJYWw?oc=5",
+      "source": "신아일보",
+      "published": "11-14 08:00",
+      "published_iso": "2026-11-13T23:00:00+00:00",
+      "age": "1일 전"
     },
     {
       "ticker": "490490",
@@ -69,7 +89,7 @@
       "source": "라이센스뉴스",
       "published": "11-14 06:05",
       "published_iso": "2026-11-13T21:05:00+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "000660",
@@ -79,7 +99,7 @@
       "source": "SK hynix",
       "published": "11-14 04:19",
       "published_iso": "2026-11-13T19:19:36+00:00",
-      "age": "1일 전"
+      "age": "2일 전"
     },
     {
       "ticker": "NVDA",
@@ -99,16 +119,6 @@
       "source": "TradingKey",
       "published": "11-13 23:49",
       "published_iso": "2026-11-13T14:49:02+00:00",
-      "age": "2일 전"
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "title": "스페이스X(SPCX)·테슬라(TSLA), 합병 속도전...12월 발표설 솔솔 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBEZEJndk9xSl9FdnhTaDdwbURCZmFvTFZRZmFjR0VpblRyS01lUDhhTlZDelRMUUVURS1Ib1Z6WHF2Yk5lbnA3UFhB?oc=5",
-      "source": "코인리더스",
-      "published": "11-13 20:00",
-      "published_iso": "2026-11-13T11:00:00+00:00",
       "age": "2일 전"
     },
     {
@@ -152,16 +162,6 @@
       "age": "2일 전"
     },
     {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc. Class C",
-      "title": "구글의 AI 투자 충격: 알파벳, 3분기 실적 부진으로 500천억 달러 이상 손실 예상 - Brave New Coin",
-      "link": "https://news.google.com/rss/articles/CBMijARBVV95cUxPVHlCcU8wQ2FUbVNXMjQ0MkQwcnpuenhqd3hReTljMXp1Q1lVdUNJQTJmS0Mwb3ZoSTU4ZDJLNlZYcE1OMW44SmlGMkhzZnp2WXhvR1BrU2IxSVF0ajlSZ1VCUEFJUndNbjRRRmM2X0JwMThhQXZlaWY0UFhxYVBFT1c2UjhyZjZ6TDlqdGhCYU1pLXA2Xzk0TGI5d1Q4VnRxYllPbkJlRmQ3R0JwYm9GNUZ3ZzJ4OUI2andsbzZ3SWpneHQwb0U2WDFtaXQxRnBMdExYak5TLUVEQy0taWZKTGpEMnIxR2VuOEtlVHFfLWNiYVEtZXE0ZUtSMjhkOEtJWERYVncybElPa2NSSHRyVGlQaVJNaUdlc0luRXJ3MmJKanRmUmdBYnZyMEZwUklieTRCN3B4WDg4RC1OYVV1T2FMSG4zNnc0Z08zeHNCZzh1X3U2b2I2SFBZTDAydzc0dENDUjVJM0VKbjExRWN6RTlldkdtSVF2aHNMVjVsS2FUUzh0dm9tMDF6dUx2UEphbEZBYnZQamxsRkVuQWRNamdqSE5uekhrSXR5cXQxcWlabGNmbjhGTFpRLUZ1VE1OSFhHQkNvd0RkYXJnOXd1VTBUazNUWTEtMXZhdFhXWVh1S2pfemdqdFl2emdHd2JHLWo4dmZYWFVDdy1EQjhUamo2LWN2OFJXbXlHZQ?oc=5",
-      "source": "Brave New Coin",
-      "published": "11-13 07:09",
-      "published_iso": "2026-11-12T22:09:29+00:00",
-      "age": "2일 전"
-    },
-    {
       "ticker": "INTC",
       "name": "Intel Corporation",
       "title": "인텔, RadixArk와 협력해 SGLang 최적화: INTC, $64.04 돌파할 수 있을까? - Traders Union",
@@ -169,7 +169,7 @@
       "source": "Traders Union",
       "published": "11-13 06:05",
       "published_iso": "2026-11-12T21:05:29+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "CAT",
@@ -179,7 +179,7 @@
       "source": "Simply Wall St",
       "published": "11-13 05:23",
       "published_iso": "2026-11-12T20:23:54+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "SNDK",
@@ -189,7 +189,7 @@
       "source": "TradingKey",
       "published": "11-13 02:17",
       "published_iso": "2026-11-12T17:17:08+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "INTC",
@@ -199,7 +199,7 @@
       "source": "CoinGlass",
       "published": "11-13 02:07",
       "published_iso": "2026-11-12T17:07:00+00:00",
-      "age": "2일 전"
+      "age": "3일 전"
     },
     {
       "ticker": "GEV",
@@ -322,16 +322,6 @@
       "age": "3일 전"
     },
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "반도체 지출 우려 완화에 강세 보인 어드밴스드 마이크로 디바이스 : 기업주식정보 - 재경일보",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBOExPRGJ6Y2p2SUxoeDM2TWtkbnh2bnBmbVpJd014NUFtZGxkT0NkMzJ4NzBqX1JXbXBjTjB3UzdFcXVvQWFoYjZ0SQ?oc=5",
-      "source": "재경일보",
-      "published": "11-12 06:26",
-      "published_iso": "2026-11-11T21:26:00+00:00",
-      "age": "3일 전"
-    },
-    {
       "ticker": "000660",
       "name": "SK하이닉스",
       "title": "Samsung Electronics and SK hynix Face Uncertainty Over U.S. Chip Equipment Bill - 알파경제",
@@ -339,7 +329,7 @@
       "source": "알파경제",
       "published": "11-12 06:00",
       "published_iso": "2026-11-11T21:00:00+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "SNDK",
@@ -349,7 +339,7 @@
       "source": "TradingKey",
       "published": "11-12 03:17",
       "published_iso": "2026-11-11T18:17:35+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "CAT",
@@ -359,7 +349,7 @@
       "source": "TradingKey",
       "published": "11-12 02:17",
       "published_iso": "2026-11-11T17:17:10+00:00",
-      "age": "3일 전"
+      "age": "4일 전"
     },
     {
       "ticker": "ZETA",
@@ -392,6 +382,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "title": "Advanced Micro Devices Inc (AMD) 주식 움직였습니다 상승 4.07%에 11월11일: 전체 분석 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR3NNNzNxaFF1VnQtM3Z1bmM5SGd0bG9zUjF5Qms2eW9FSm9vYThXMlVVb0ZkNm1TWDFGUUl4b2dHc0drd3BZNVVTZzhPZWY3ZUpMTldxZWgyMTRuV2VWRzRXXzU5NmRaTFhmbU02bkliN2IwdXEzSjdIa0VRMXJaRzJFQUdJXzk5RW5kYmJR?oc=5",
+      "source": "TradingKey",
+      "published": "11-12 00:17",
+      "published_iso": "2026-11-11T15:17:23+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
       "title": "Taiwan Semiconductor Manufacturing Co Ltd (TSM) 주식 시작했습니다 상승 3.15%에 11월11일: 변동을 뒷받침하는 사실 - TradingKey",
@@ -409,6 +409,16 @@
       "source": "Simply Wall St",
       "published": "11-11 21:20",
       "published_iso": "2026-11-11T12:20:20+00:00",
+      "age": "4일 전"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "title": "Leopold Aschenbrenner Bought Sandisk Before It Fell 63%. Is He Wrong, or Early? - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd1pLY1YwX1o1a2xCT2FfN1ZXN19Hc2QzZXl2bmJyU1FkT0gwR1ZKSnYtWUlwRTVRWXhoRDJESjhTUnlmRktZcWlTVk9RQTFYWkU5ZGszd0JTamJ1aklIZl9ObWFla3RrRU52bXA5MFZaRnZzdGJtOHFDYU1GaXFiYy0yY0h4MVUxSUM4MWZiZ3VGTjZ6NXhCRXJCVFhwTnpGb3Z4S2hpZw?oc=5",
+      "source": "TIKR.com",
+      "published": "11-11 19:52",
+      "published_iso": "2026-11-11T10:52:30+00:00",
       "age": "4일 전"
     },
     {
@@ -472,6 +482,16 @@
       "age": "4일 전"
     },
     {
+      "ticker": "489250",
+      "name": "KODEX 미국배당다우존스",
+      "title": "[표] 한투운용, ACE 월중 배당 ETF 11월 분배금 내역 - 스마트투데이",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ga3oxNU50c1k1bzhpZG9mYkdDc3ctSURtSUFYN1ZuRGsxNy02SkFxTFpIN2R1ZDZOQkJMb1hhNnBVWXpXOE9uc29Hb1VaMHZreWE1a0VPWWpqdGl4LU5v?oc=5",
+      "source": "스마트투데이",
+      "published": "11-11 10:34",
+      "published_iso": "2026-11-11T01:34:00+00:00",
+      "age": "4일 전"
+    },
+    {
       "ticker": "005380",
       "name": "현대자동차",
       "title": "현대자동차그룹, 2027 충청 유니버시아드대회 후원 협약 체결 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
@@ -479,26 +499,6 @@
       "source": "Hyundai Motor Group",
       "published": "11-11 10:30",
       "published_iso": "2026-11-11T01:30:00+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "379780",
-      "name": "RISE 미국S&P500",
-      "title": "[표] KB운용, RISE 월중 배당 ETF 11월 분배금 내역 - 스마트투데이",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43RmJNVkxMUVNMWnlEb3ZxcHhPYVJubk5UQVhTVkpDYUVDa0UwaFZ2M0pmckdqaE0xNERtVGo4aWdlWndYZmF1dTFKR1FDX1NHTnNxMldXQlZHQVdTbkRZ?oc=5",
-      "source": "스마트투데이",
-      "published": "11-11 10:27",
-      "published_iso": "2026-11-11T01:27:00+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "489250",
-      "name": "KODEX 미국배당다우존스",
-      "title": "[표] 삼성운용, KODEX 월중 배당 ETF 11월 분배금 내역 - 스마트투데이",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kOENRcE16ZWxHMkRRcTJTeG8yb2dKcEdEODBaZVlWMjAxYlY0eGVVbGdGQV9WVHZPaHdfblR1TEFSZm5ZUU1LeTBGNEtJRmJtX3BaRmxzV0c1blY2SGM0?oc=5",
-      "source": "스마트투데이",
-      "published": "11-11 09:16",
-      "published_iso": "2026-11-11T00:16:00+00:00",
       "age": "4일 전"
     },
     {
@@ -519,17 +519,7 @@
       "source": "알파경제",
       "published": "11-11 06:00",
       "published_iso": "2026-11-10T21:00:00+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar Inc.",
-      "title": "Caterpillar Is the Quiet Winner in Anthropic’s IPO: a $3.4 Billion Generator Order - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQjloT1hRc0FqLXM3S1NnN0dxZ05sa0ZaODkwaG90Z1d1NC1UNk9MOUQwVEluSEVnVHowc2lYZGNHeGY4SVJhWFlEck9ZT21RRkkwekpEV1BUOHNHSW4tWkNNWTNDNWI4TEFDek1wSFRqQU4wMVFJeDg4bXlFc1I0VUZJVDk1QVZHSWtvdnZQMkpEbV90YTlQRU9EdFB0S1hVN19VV0F1c1lrbkJN?oc=5",
-      "source": "TIKR.com",
-      "published": "11-11 02:05",
-      "published_iso": "2026-11-10T17:05:10+00:00",
-      "age": "4일 전"
+      "age": "5일 전"
     },
     {
       "ticker": "NVDA",
@@ -539,16 +529,6 @@
       "source": "코인리더스",
       "published": "11-11 02:00",
       "published_iso": "2026-11-10T17:00:00+00:00",
-      "age": "4일 전"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "title": "Advanced Micro Devices Inc (AMD) 주식 움직였습니다 상승 5.58%에 11월10일: 전체 분석 - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRkMycG8zdlktOTB5SzB2MUhlQzZWN3NBMVJnMnBNb2xDNUd0c3Z6V1h0c2VpdUhmcHhjMHBfeS10NzhjOHhpWjJIWnZKbjViUWxCMTVxNERXSWxrVUFnTnlUN2VwcUNZekdFaFNDQkM5TFFENDU1U0NNTURxQkJ1UkpPZm5PWktSZWRrZC13?oc=5",
-      "source": "TradingKey",
-      "published": "11-11 00:17",
-      "published_iso": "2026-11-10T15:17:31+00:00",
       "age": "5일 전"
     },
     {
@@ -559,6 +539,16 @@
       "source": "TradingKey",
       "published": "11-10 23:48",
       "published_iso": "2026-11-10T14:48:56+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "title": "알파벳, TPU 8tx 및 TPU 8i Max 출시: GOOGL 상승세 이어갈까? - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0x2OE05dmRUTWpfZEo4aG14dzdIeVgzYWRRellhdVB1ZTY3VTZEcmNKTkxUY2dfYU1YV084MS11VlY1VEVwM1dXSzgwY3NCMWxleFRrbkRoUHhpNi01dDRha0xaX3ZzV2lOd05qdFlhNzliNGdwQ2lWMWRMX1ZWZUdTLXNVNE9SLWtaRG5pQQ?oc=5",
+      "source": "Traders Union",
+      "published": "11-10 23:24",
+      "published_iso": "2026-11-10T14:24:05+00:00",
       "age": "5일 전"
     },
     {
@@ -589,6 +579,26 @@
       "source": "더퍼블릭",
       "published": "11-10 16:03",
       "published_iso": "2026-11-10T07:03:43+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "title": "테슬라(TSLA) 사이버트럭 생산 중단...머스크 \"수익성 문제 아니다\" - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94am1fRzQ0Y01MX3lyVm9HMHZ1UVg2NW1rWmtFajJwNzAyUWgwMFhJV0swbU1zaXBrVW0yTUpkS2ZZXzA5SUdoY053?oc=5",
+      "source": "코인리더스",
+      "published": "11-10 15:50",
+      "published_iso": "2026-11-10T06:50:00+00:00",
+      "age": "5일 전"
+    },
+    {
+      "ticker": "379780",
+      "name": "RISE 미국S&P500",
+      "title": "한국투자신탁운용, 장기투자 전략 앞세워 ETF 3위 탈환…배재규 '5연임' 청신호 - 비욘드포스트",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aSzZNanZQc2JYcUttd2Z6b3dNd0U1OFIyT2MtS0x0WFp2bkRoNkJwLXY5OEp5eV90ZkVjcmNKNTVKdS1nTjRIcWpwVG9ZeTl2MUNJQmh4anhUcVQ2UW9HQU9KVkhlSGtlOElYNEtSaFlrRjhhb3h4RzljSVo?oc=5",
+      "source": "비욘드포스트",
+      "published": "11-10 15:22",
+      "published_iso": "2026-11-10T06:22:22+00:00",
       "age": "5일 전"
     },
     {
@@ -669,7 +679,7 @@
       "source": "TradingKey",
       "published": "11-10 06:17",
       "published_iso": "2026-11-09T21:17:59+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "COST",
@@ -679,7 +689,7 @@
       "source": "TradingKey",
       "published": "11-10 03:17",
       "published_iso": "2026-11-09T18:17:57+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "INTC",
@@ -689,7 +699,7 @@
       "source": "TradingKey",
       "published": "11-10 02:17",
       "published_iso": "2026-11-09T17:17:45+00:00",
-      "age": "5일 전"
+      "age": "6일 전"
     },
     {
       "ticker": "005930",
@@ -762,13 +772,13 @@
       "age": "6일 전"
     },
     {
-      "ticker": "379800",
-      "name": "KODEX 미국S&P500",
-      "title": "삼성자산운용 'KODEX 미국나스닥100미국채혼합50' 신규 상장 - 마일드경제",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FVEppVUlCV3NhdUh0RjUyOENuWnRfaUkyNDlPZmVVUG1SaFMtem82Tkt3TVV2bXpjSG52UnhUN2tqUm5USExmclJJeG9VV1NHaktRckxDWDJHZjBuY1YxMnl6MzlFM19oTE80?oc=5",
-      "source": "마일드경제",
-      "published": "11-09 21:46",
-      "published_iso": "2026-11-09T12:46:53+00:00",
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
+      "title": "TSMC 10월 매출 사상 최고치 기록, AI 칩 수요 강세 지속에 59.7% 급증 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQXpvZXZkcWE4Tm81d1NmaFR3ZUFMNEwyNy0tUEk5TDRJYlhFOXdSaDZOUGloV2xVaHZLTmJISWpTenhtb0VMeHpwSE83RVdZTm1jcnNBTjF5SHg5Z2tiTHZDRDR6eVVTaGt5TEVCc3RXVVpjUXRRVVpxSkk0TV9CYUQwLTR0WkhPdG44NWg2WkxpZUEzeGVqRzlrWXpkdEtJQVFTVVR5d1I5TjV3R0VOTjBWeWpQZHVORllRNWtfMWllOGFoZ3BEVUpIdUd3bXExZ1E?oc=5",
+      "source": "TradingKey",
+      "published": "11-09 22:10",
+      "published_iso": "2026-11-09T13:10:00+00:00",
       "age": "6일 전"
     },
     {
@@ -849,16 +859,6 @@
       "source": "대한경제",
       "published": "11-09 14:41",
       "published_iso": "2026-11-09T05:41:31+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR",
-      "title": "TSMC, 메모리 시장 진출설에 선 긋기…“파운드리 집중” - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HRmRtb25HVjUxX1pnTEdQTEV5ZVJUcFlXbVR2S2RBTlhIbVBxQjF1Vmw3TTFuUU5pSGFkTUl4N3hJS0tXUldNTWE3cE1tOXlueUFZUEFR?oc=5",
-      "source": "매일경제",
-      "published": "11-09 14:39",
-      "published_iso": "2026-11-09T05:39:29+00:00",
       "age": "6일 전"
     },
     {
@@ -962,6 +962,16 @@
       "age": "6일 전"
     },
     {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "title": "혜인, 데이터센터 비상발전기 수주 '1000억' 육박…\"캐터필라 엔진 독점적 지위 주목\" - 프라임경제",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uLWN6MlFZaDZrNVYtOC1SMWF5bWlWd0MzcUV0R3c0cGJHV1pmRTY4LTNWdzZPX0RPV1lNYTZsRHV1MGU1bTd3cHB0d3RuQUVhcVZLdjBwV3phRF9pUXRHRjhCcw?oc=5",
+      "source": "프라임경제",
+      "published": "11-09 08:00",
+      "published_iso": "2026-11-08T23:00:59+00:00",
+      "age": "6일 전"
+    },
+    {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "title": "테슬라(TSLA.O) 사이버트럭, 출시 4년 만에 단종된다…로봇·자율주행 사업에 집중 - 알파경제",
@@ -969,16 +979,6 @@
       "source": "알파경제",
       "published": "11-09 07:36",
       "published_iso": "2026-11-08T22:36:51+00:00",
-      "age": "6일 전"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk Corporation",
-      "title": "S&P 500, 55분 만에 2.2조 달러 증발...비트코인(BTC)도 바닥 신호? - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WRzgtZ2xjOFV4UkJNNVY2LWdQaDcyZDRYU3V5OC1hemlTa2NhNXFqTDJaRFlFbmxPdmtITkd6ZWswSlpUeFVQZEZR?oc=5",
-      "source": "코인리더스",
-      "published": "11-09 04:00",
-      "published_iso": "2026-11-08T19:00:00+00:00",
       "age": "6일 전"
     }
   ]
